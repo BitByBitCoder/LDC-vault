@@ -24,10 +24,10 @@
 
 ## Parliament — Full Structure
 
-| House           | Elected | Nominated | Total | Min Age      | Term        |
-| --------------- | ------- | --------- | ----- | ------------ | ----------- |
-| **Lok Sabha**   | 543     | 2         | 545   | **25 years** | **5 years** |
-| **Rajya Sabha** | 238     | 12        | 250   | **30 years** | **6 years** |
+| House           | Elected | Nominated | Total | Min Age      | Term                                                                                                                                                                                                                                     |
+| --------------- | ------- | --------- | ----- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lok Sabha**   | 543     | 2         | 545   | **25 years** | **5 years**                                                                                                                                                                                                                              |
+| **Rajya Sabha** | 238     | 12        | 250   | **30 years** | \|**House**\|**Elected**\|**Nominated**\|**Total**\|**Min Age**\|**Term**\|<br>\|---\|---\|---\|---\|---\|---\|<br>\|**Lok Sabha**\|543\|**0**\|**543**\|25 years\|5 years\|<br>\|**Rajya Sabha**\|238\|12\|**250**\|30 years\|6 years\| |
 
 > 💡 Rajya Sabha members retire every **2 years in 1/3 rotation**
 > 💡 Rajya Sabha nominates **12 members** (art/literature/science/social service)
