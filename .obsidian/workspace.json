@@ -11,14 +11,12 @@
             "id": "7840e59cb36a266e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "General Knowledge/Indian_Polity_Constitution/19 constitution part.md",
-                "mode": "source",
-                "source": false
+                "file": "Indian constitution Parts.png"
               },
-              "icon": "lucide-file",
-              "title": "19 constitution part"
+              "icon": "lucide-image",
+              "title": "Indian constitution Parts"
             }
           }
         ]
@@ -193,11 +191,11 @@
   },
   "active": "7840e59cb36a266e",
   "lastOpenFiles": [
+    "General Knowledge/Indian_Polity_Constitution/19 constitution part.md",
     "Indian constitution Parts.png",
     "General Knowledge/Indian_Polity_Constitution/18 — UPSC & Constitutional Bodies.md",
     "Indian constitution Parts 1.png",
     "General Knowledge/Indian_Polity_Constitution/04 — President & Vice President.md",
-    "General Knowledge/Indian_Polity_Constitution/19 constitution part.md",
     "General Knowledge/Indian_Polity_Constitution/19 constitution part.md.md",
     "Indian constitution Parts 2.png",
     "General Knowledge/subject.md",
