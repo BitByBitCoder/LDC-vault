@@ -68,6 +68,15 @@
 |**Who presides over a Joint Sitting?**|Speaker of the Lok Sabha|The Speaker presides over the joint sitting of both Houses (**Art 118**).|
 |**First Speaker**|G.V. Mavalankar|Often called the "Father of the Lok Sabha" (**1952–1956**).|
 |**Current Speaker**|Om Birla|Serving since 2019 (re-elected).|
+
+### **Key Constitutional Positions**
+
+|**Position**|**Who Elects Them?**|**Removal Process**|**Term**|**Power / Role**|
+|---|---|---|---|---|
+|**President**|Elected members of Parliament & State Legislative Assemblies (Electoral College)|Impeachment by 2/3 majority of Parliament (for violation of Constitution)|5 Years|Head of State; Commander-in-Chief; gives final assent to bills.|
+|**Vice President**|Members of both Houses of Parliament|Effective majority in Rajya Sabha + simple majority in Lok Sabha|5 Years|Ex-officio Chairman of Rajya Sabha; acts as President if office is vacant.|
+|**LS Speaker**|Members of Lok Sabha (by simple majority)|Resolution by effective majority of Lok Sabha|5 Years|Presides over House; certifies Money Bills; casting vote in tie.|
+|**Deputy Speaker**|Members of Lok Sabha (by simple majority)|Resolution by effective majority of Lok Sabha|5 Years|
 ## Exam Traps ⚠️
 > Rajya Sabha Chairman = **Vice President** (NOT President)
 > Money Bill = **Lok Sabha only** (Rajya Sabha can only suggest, not reject)
