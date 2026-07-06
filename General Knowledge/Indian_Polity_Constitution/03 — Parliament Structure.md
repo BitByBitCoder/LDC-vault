@@ -5,22 +5,22 @@
 
 ## Questions From Your Papers
 
-| Question | Answer |
-|----------|--------|
-| Parliament consists of | President + Lok Sabha + Rajya Sabha |
-| Which house can be dissolved | **Lok Sabha only** |
-| Which house is permanent (never dissolved) | **Rajya Sabha** |
-| Speaker's vote in deadlock | **Casting Vote** |
-| Who presides over Rajya Sabha | **Vice President (ex-officio Chairman)** |
-| Who presides over Lok Sabha | **Speaker** |
-| Money Bill can originate in | **Lok Sabha only** |
-| Money Bill certified by | **Speaker of Lok Sabha** |
-| Joint sitting of Parliament presided by | **Speaker of Lok Sabha** |
-| Who summons Parliament session | **President** |
-| Who prorogues Parliament | **President** |
-| Max gap between two Parliament sessions | **6 months** |
-| Budget presented by | **Finance Minister** |
-| Budget presented in | **Lok Sabha** |
+| Question                                   | Answer                                   |
+| ------------------------------------------ | ---------------------------------------- |
+| Parliament consists of                     | President + Lok Sabha + Rajya Sabha      |
+| Which house can be dissolved               | **Lok Sabha only**                       |
+| Which house is permanent (never dissolved) | **Rajya Sabha**                          |
+| Speaker's vote in deadlock                 | **Casting Vote**                         |
+| Who presides over Rajya Sabha              | **Vice President (ex-officio Chairman)** |
+| Who presides over Lok Sabha                | **Speaker**                              |
+| Money Bill can originate in                | **Lok Sabha only**                       |
+| Money Bill certified by                    | **Speaker of Lok Sabha**                 |
+| Joint sitting of Parliament presided by    | **Speaker of Lok Sabha**                 |
+| Who summons Parliament session             | **President**                            |
+| Who prorogues Parliament                   | **President**                            |
+| Max gap between two Parliament sessions    | **6 months**                             |
+| Budget presented by                        | **Finance Minister**                     |
+| Budget presented in                        | **Lok Sabha**                            |
 
 ## Parliament — Full Structure
 
