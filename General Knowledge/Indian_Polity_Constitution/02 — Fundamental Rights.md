@@ -46,15 +46,7 @@
 |             |                                                                                                                                 |
 explain more
 
-| **Article**     | **High-Yield Exam Keyword**      | **Why it Matters**                                                                       |
-| --------------- | -------------------------------- | ---------------------------------------------------------------------------------------- |
-| **Article 14**  | Equal Protection of Laws         | Applies to everyone (citizens + foreigners).                                             |
-| **Article 19**  | 6 Democratic Freedoms            | Suspended automatically during War/External Emergency.                                   |
-| **Article 20**  | Protection in Conviction         | **Cannot** be suspended during any Emergency.                                            |
-| **Article 21**  | Right to Life & Personal Liberty | **Cannot** be suspended during any Emergency. Includes right to privacy, clean air, etc. |
-| **Article 21A** | Right to Education               | Added by **86th Amendment Act, 2002**. Free & compulsory for ages 6–14.                  |
-| **Article 22**  | Protection against Arrest        | Must see a magistrate within 24 hours of arrest.                                         |
-| **Article 32**  | Constitutional Remedies          | **"Heart and Soul"** — allows the Supreme Court to issue 5 types of Writs.               |
+
 ## What is NOT a Fundamental Right ⚠️
 
 | Right | Status |
