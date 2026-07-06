@@ -11,14 +11,12 @@
             "id": "7840e59cb36a266e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "General Knowledge/Indian_Polity_Constitution/Indian Constitution parts.md",
-                "mode": "source",
-                "source": false
+                "file": "Indian constitution Parts.png"
               },
-              "icon": "lucide-file",
-              "title": "Indian Constitution parts"
+              "icon": "lucide-image",
+              "title": "Indian constitution Parts"
             }
           }
         ]
@@ -193,10 +191,11 @@
   },
   "active": "7840e59cb36a266e",
   "lastOpenFiles": [
+    "General Knowledge/Indian_Polity_Constitution/Indian Constitution parts.md",
+    "Indian constitution Parts 1.png",
     "Indian constitution Parts.png",
     "General Knowledge/Indian_Polity_Constitution/18 — UPSC & Constitutional Bodies.md",
     "General Knowledge/Indian_Polity_Constitution/17 — Election Commission & Voting.md",
-    "General Knowledge/Indian_Polity_Constitution/Indian Constitution parts.md",
     "computer/virtual_address.jpg",
     "General Knowledge/Indian_Polity_Constitution/🏛️ Indian Polity & Constitution — INDEX.md",
     "General Knowledge/Ind.md",
