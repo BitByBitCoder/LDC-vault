@@ -11,10 +11,14 @@
             "id": "22b71dd0e6300154",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "General Knowledge/Indian_Polity_Constitution/14 — Borrowed Features (Source Countries).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "14 — Borrowed Features (Source Countries)"
             }
           }
         ]
@@ -189,6 +193,8 @@
   },
   "active": "22b71dd0e6300154",
   "lastOpenFiles": [
+    "General Knowledge/Indian_Polity_Constitution/13 — Emergency Provisions.md",
+    "computer/Performance.md",
     "General Knowledge/Indian_Polity_Constitution/08 — Judiciary.md",
     "General Knowledge/Indian_Polity_Constitution/07 — Articles Quick Reference.md",
     "General Knowledge/Indian_Polity_Constitution/06 — Constitutional Amendments.md",
@@ -209,13 +215,11 @@
     "General Knowledge/Indian_Polity_Constitution/16 — Citizenship.md",
     "General Knowledge/Indian_Polity_Constitution/15 — Directive Principles & Duties.md",
     "General Knowledge/Indian_Polity_Constitution/14 — Borrowed Features (Source Countries).md",
-    "General Knowledge/Indian_Polity_Constitution/13 — Emergency Provisions.md",
     "General Knowledge/Indian_Polity_Constitution/17 — Election Commission & Voting.md",
     "General Knowledge/Indian_Polity_Constitution/18 — UPSC & Constitutional Bodies.md",
     "General Knowledge/Indian_Polity_Constitution/19 constitution part.md",
     "obsidian setup.md",
     "General Knowledge/Indian_Polity_Constitution/Indian constitution Parts.png",
-    "General Knowledge/09 — National Symbols & Firsts.md",
     "Screenshot 2026-07-02 at 12.12.16 AM.png",
     "General Knowledge/Indian constitution Parts.png",
     "Indian constitution Parts 1.png",
