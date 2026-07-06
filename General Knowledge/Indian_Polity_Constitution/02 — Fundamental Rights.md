@@ -39,6 +39,7 @@
 | Article 21A | Right to Education (6–14 years)                                                                                    |
 | Article 32  | Right to Constitutional Remedies                                                                                   |
 |             |                                                                                                                    |
+|             |                                                                                                                    |
 explain more
 
 | **Article**     | **High-Yield Exam Keyword**      | **Why it Matters**                                                                       |
