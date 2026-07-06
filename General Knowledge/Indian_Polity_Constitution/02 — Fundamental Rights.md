@@ -18,14 +18,16 @@
 
 ## All 6 Fundamental Rights
 
-| **Fundamental Right**                   | **Article Bracket** | **Core Concept to Remember**                                               |
-| --------------------------------------- | ------------------- | -------------------------------------------------------------------------- |
-| **1. Right to Equality**                | Articles 14–18      | Rule of law; includes Article 14 (available to foreigners).                |
-| **2. Right to Freedom**                 | Articles 19–22      | Personal liberties; includes Protection of Life (Art 21).                  |
-| **3. Right against Exploitation**       | Articles 23–24      | Anti-trafficking (23) and Child Labor ban (24).                            |
-| **4. Right to Freedom of Religion**     | Articles 25–28      | Freedom of conscience and free practice of religion.                       |
-| **5. Cultural & Educational Rights**    | Articles 29–30      | Protection of script, culture, and educational choices for **Minorities**. |
-| **6. Right to Constitutional Remedies** | Article 32          | **"Heart and Soul"**; allows SC to issue writs to protect rights.          |
+## Part III: Fundamental Rights Categories (Mizo Hrilhfiahna)
+
+|**Fundamental Right**|**Article Bracket**|**Core Concept (English)**|**Mizo Hrilhfiahna Tawi Fiah**|
+|---|---|---|---|
+|**1. Right to Equality**|**Articles 14–18**|Rule of law; includes Article 14 (available to foreigners).|**Intluktlânna Dikna:** Dan hmaah thlei bik awm lo, mi zawng zawng kan intluktlân vek a ni. Hnam dang (foreigners) tan pawh hman theih a ni.|
+|**2. Right to Freedom**|**Articles 19–22**|Personal liberties; includes Protection of Life (Art 21).|**Zalenna Dikna:** Thutak sawi zalenna, chet velna, leh nunna leh zalenna humhalhna (Art 21) te a chhum hmawm.|
+|**3. Right against Exploitation**|**Articles 23–24**|Anti-trafficking (23) and Child Labor ban (24).|**Hnehchhiat Laka Himna:** Mihring hralh chhawng thin (trafficking) venna leh kum 14 hnuailam hnathawk tura eizawnna hmun hlauhawma chhawr khapna.|
+|**4. Right to Freedom of Religion**|**Articles 25–28**|Freedom of conscience and free practice of religion.|**Sakhaw Zalenna:** Biak duh sakhaw thlan zalenna leh mahni sakhaw zirtirna vawn leh zirtir zalenna.|
+|**5. Cultural & Educational Rights**|**Articles 29–30**|Protection of script, culture, and educational choices for Minorities.|**Hnam Tlemte Hnamzia leh Zirna Chanvo:** Hnam tlemte (minorities) ten an tawng, an ziak, leh an hnamzia an vawn nun nan leh zirna in dinna tura dikna an neih.|
+|**6. Right to Constitutional Remedies**|**Article 32**|"Heart and Soul"; allows SC to issue writs to protect rights.|**Dân Rorêlna Zualko Theihna:** Kan dikna chanvo (FR) laksak kan nih uma Supreme Court thlenga Writ hmanga zualko theihna ("Heart and Soul").|
 
 ## Key Articles in Fundamental Rights
 
