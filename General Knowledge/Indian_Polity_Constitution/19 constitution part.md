@@ -1,1 +1,1 @@
-![](Indian%20constitution%20Parts.png)
+![](Indian%20constitution%20Parts.png)![](Screenshot%202026-07-02%20at%2012.12.16%20AM.png)
