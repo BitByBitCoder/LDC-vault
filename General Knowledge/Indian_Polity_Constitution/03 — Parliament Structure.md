@@ -73,3 +73,33 @@
 > Money Bill = **Lok Sabha only** (Rajya Sabha can only suggest, not reject)
 > Joint sitting presided by = **Speaker of Lok Sabha** (NOT Vice President)
 > Rajya Sabha **never dissolved** — Lok Sabha dissolved after 5 years or by President
+
+
+
+Based on the tables you just shared, the LDC exam pattern for Indian Polity is crystal clear. The examiners are not testing deep legal theories; they are testing **Authority, Exceptions, and Numbers**.
+
+Here is the exact pattern they use:
+
+1. **"Who has the power?"** (Who appoints, who presides, who certifies?)
+    
+2. **"What is the limit?"** (Minimum ages, maximum time gaps, fractions like 1/3rd or 2/3rd).
+    
+3. **"Where did it come from?"** (Sources of the constitution, important amendments).
+    
+
+Using this exact formula, here are the **next highest-yield predicted questions** you must know, complete with Mizo memory hooks!
+
+## Predicted High-Yield LDC Questions (Based on Exam Pattern)
+
+|**Expected LDC Question**|**Direct Answer**|**Mizo Hint & Pattern Logic**|
+|---|---|---|
+|**Who administers the oath to the President of India?**|Chief Justice of India (CJI)|_President chhia chhamtirtu._ (Pattern: Authority/Oath)|
+|**What is the minimum age to become the President/Governor?**|35 Years|_Kum 35 tlin a ngai._ (Pattern: Age Limits. _Note: Lok Sabha = 25, Rajya Sabha = 30_)|
+|**Which Constitutional Amendment is called the "Mini Constitution"?**|42nd Amendment Act (1976)|_Constitution siamthat nasat ber tum._ (Pattern: VVIP Amendments)|
+|**Voting age was reduced from 21 to 18 years by which amendment?**|61st Amendment Act (1989)|_Vote thlak theih kum tihhniamna._ (Pattern: Numbers & Amendments)|
+|**The concept of Fundamental Rights was borrowed from which country?**|USA (United States)|_Kan dikna bulpui lakluhna ram._ (Pattern: Borrowed Features)|
+|**The concept of DPSP (Directive Principles) was borrowed from?**|Ireland|_DPSP = Ireland._ (Pattern: Borrowed Features - extremely repeated!)|
+|**Who appoints the Chief Election Commissioner of India?**|The President|_Election lam hotu lian ber ruattu._ (Pattern: Appointment Authority)|
+|**Who is the ex-officio Chairman of NITI Aayog?**|The Prime Minister|_NITI Aayog hotu chu PM a ni thin._ (Pattern: Ex-officio roles)|
+|**How many schedules are there in the Indian Constitution?**|12 Schedules|_A tirah 8 a awm a, tunah 12 a awm tawh._ (Pattern: Core Numbers)|
+|**Under which Article can the President declare a National Emergency?**|Article 352|_Ram pum buaina (War) thlenga hman tur._ (Pattern: Emergency Powers)|
