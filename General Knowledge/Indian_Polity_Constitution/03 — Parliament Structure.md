@@ -35,18 +35,18 @@
 
 ## State-wise Rajya Sabha Seats (Important)
 
-| State | Rajya Sabha Seats |
-|-------|-----------------|
-| Uttar Pradesh | 31 (highest) |
-| Maharashtra | 19 |
-| Tamil Nadu | 18 |
-| Mizoram | **1** |
+| State         | Rajya Sabha Seats |
+| ------------- | ----------------- |
+| Uttar Pradesh | 31 (highest)      |
+| Maharashtra   | 19                |
+| Tamil Nadu    | 18                |
+| Mizoram       | **1**             |
 
 ## Quorum
 
-| House | Quorum |
-|-------|--------|
-| Lok Sabha | 1/10th of total members = 55 |
+| House       | Quorum                       |
+| ----------- | ---------------------------- |
+| Lok Sabha   | 1/10th of total members = 55 |
 | Rajya Sabha | 1/10th of total members = 25 |
 
 ## Types of Bills
