@@ -1,0 +1,1 @@
+1. If the 9-digit number 7x79251y8 is divisible by 36, What is the value of (10x2-3y2) for the largest possible value of y?

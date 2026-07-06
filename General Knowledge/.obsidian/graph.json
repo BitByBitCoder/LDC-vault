@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Mizo  ",
+      "color": {
+        "a": 1,
+        "rgb": 3901727
+      }
+    },
+    {
+      "query": "path:Indian_Polity_Constitution  ",
+      "color": {
+        "a": 1,
+        "rgb": 14392090
+      }
+    },
+    {
+      "query": "path:Modern_Indian_History  ",
+      "color": {
+        "a": 1,
+        "rgb": 3064544
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.3709481197554677,
+  "close": true
+}

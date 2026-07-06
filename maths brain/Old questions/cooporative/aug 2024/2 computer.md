@@ -1,0 +1,34 @@
+OFFICE OF THE REGISTRAR
+COOPERATIVE SOCIETIES
+WRITTEN EXAMINATION
+FOR THE POST OF
+LDC (PE)
+PAPER - II:
+COMPUTER
+KNOWLEDGE
+CODENO:
+(For official use)
+Signature of Invigilator
+PART
+COMPUTER
+MARKS
+OBTAINED
+KNOWLEDGE
+MARKS TABULATION
+(50x2= 100 marks)
+Signature of Examiner_
+OFFICE OF THE REGISTRAR
+COOPERATIVE SOCIETIES
+WRITTEN EXAMINATION
+FOR THE POST OF
+LDC (PE)
+PAPER - II:
+COMPUTER
+KNOWLEDGE
+ROLL NO.:
+(To be filled in by candidate)
+CODE NO:_
+(For official use)
+Signature of Candidate
+Signature of Invigilator
+Scanned with CamScanner

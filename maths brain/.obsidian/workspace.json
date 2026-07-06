@@ -1,0 +1,272 @@
+{
+  "main": {
+    "id": "c545cec4901d0412",
+    "type": "split",
+    "children": [
+      {
+        "id": "b37f3010d75e2b07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7851767ea7466b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Profit and loss/darama filter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "darama filter"
+            }
+          },
+          {
+            "id": "cf0f9316cf908299",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Profit and loss/conversion shortcut.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conversion shortcut"
+            }
+          },
+          {
+            "id": "0ccd0aca58e476f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Profit and loss/darama question.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "darama question"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c3bf1e5abd5d60f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bcaf9a688158ce3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a36bafd7affcc9a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "29666851f36bd2cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "271ac4d9e864538c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d1baa241d5ad06e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "89f2befd394bd821",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17e271635fcaf06e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "3b8a592e2cf904e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "569fa764b105a86e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "158537e6cc8e669d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "bb5b8cf0b86483c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "0497eaec0c816969",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "0ccd0aca58e476f7",
+  "lastOpenFiles": [
+    "Profit and loss/darama filter.md",
+    "Profit and loss/darama question.md",
+    "Profit and loss/Profit and loss.md",
+    "Profit and loss/hriat ve ah.md",
+    "radmap/new roadmap.md",
+    "Profit and loss/Screenshot 2026-06-30 at 8.17.21 PM.png",
+    "Profit and loss/conversion shortcut.md",
+    "Profit and loss/formula.md",
+    "Screenshot 2026-07-02 at 8.12.32 PM.png",
+    "ChatGPT Image Jun 30, 2026, 07_31_55 PM 1.png",
+    "Screenshot 2026-07-02 at 1.29.09 PM 1.png",
+    "Screenshot 2026-07-02 at 2.00.10 PM.png",
+    "Screenshot 2026-07-02 at 12.12.16 AM.png",
+    "Screenshot 2026-07-02 at 12.50.50 AM 1.png",
+    "Screenshot 2026-07-02 at 1.29.09 PM.png",
+    "radmap/roadmap2.md",
+    "percentages/darama/darama filter.md",
+    "percentages/darama/formulas.md",
+    "Screenshot 2026-07-02 at 12.50.50 AM.png",
+    "Screenshot 2026-07-02 at 12.10.10 AM.png",
+    "percentages/darama/darama a question zawng2.md",
+    "algebra/algebric identities/Algebraic Identities.md",
+    "percentages/darama",
+    "percentages/A is a % of B.md",
+    "average/Formula.md",
+    "Profit and loss",
+    "average/concept and question dharama.md",
+    "Untitled.canvas",
+    "z/study1.md",
+    "z",
+    "Old questions/all question in one go.md",
+    "SI & CI/compound interest.md",
+    "SI & CI/simple Interest.md",
+    "radmap",
+    "Old questions/health and family warefare/2023/1 english.md",
+    "Old questions/health and family warefare/2023/2.md",
+    "Old questions/cooporative/nov 2024/1 gk english.md",
+    "Old questions/health and family warefare/2023",
+    "Old questions/health and family warefare",
+    "Old questions/question neih ho.md",
+    "Old questions/cooporative/jan 2026/2 computer and maths.md",
+    "Old questions/cooporative/jan 2026/1 gk english.md",
+    "Old questions/cooporative/jan 2026",
+    "Old questions/cooporative/nov 2024",
+    "Old questions/cooporative/aug 2024",
+    "Old questions/taxation dep/April 2026/PAPER II QUESTIONS WITH ANSWERS IN BOLD.pdf"
+  ]
+}

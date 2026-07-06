@@ -1,0 +1,1 @@
+![](v4-460px-Understand-Algebra-Step-2-Version-3.jpg)
