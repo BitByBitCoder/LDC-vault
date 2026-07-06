@@ -5,22 +5,22 @@
 
 ## Questions From Your Papers
 
-| Question                                   | Answer                                   |
-| ------------------------------------------ | ---------------------------------------- |
-| Parliament consists of                     | President + Lok Sabha + Rajya Sabha      |
-| Which house can be dissolved               | **Lok Sabha only**                       |
-| Which house is permanent (never dissolved) | **Rajya Sabha**                          |
-| Speaker's vote in deadlock                 | **Casting Vote**                         |
-| Who presides over Rajya Sabha              | **Vice President (ex-officio Chairman)** |
-| Who presides over Lok Sabha                | **Speaker**                              |
-| Money Bill can originate in                | **Lok Sabha only**                       |
-| Money Bill certified by                    | **Speaker of Lok Sabha**                 |
-| Joint sitting of Parliament presided by    | **Speaker of Lok Sabha**                 |
-| Who summons Parliament session             | **President**                            |
-| Who prorogues Parliament                   | **President**                            |
-| Max gap between two Parliament sessions    | **6 months**                             |
-| Budget presented by                        | **Finance Minister**                     |
-| Budget presented in                        | **Lok Sabha**                            |
+| **Question / Concept**            | **Correct Answer**                  | **Article Reference** | **Mizo Hrilhfiahna                                                                    |
+| --------------------------------- | ----------------------------------- | --------------------- | ------------------------------------------------------------------------------------- |
+| **Parliament consists of**        | President + Lok Sabha + Rajya Sabha | **Article 79**        | Parliament pumpui chu heng pathum te hi an ni.                                        |
+| **Which house can be dissolved**  | Lok Sabha only                      | **Article 85**        | Lok Sabha chauh hi thiah (dissolve) theih a ni.                                       |
+| **Which house is permanent**      | Rajya Sabha                         | **Article 83**        | Rajya Sabha hi thiah ve theih loh, inkhawm nghet (permanent house) a ni.              |
+| **Speaker's vote in deadlock**    | Casting Vote                        | **Article 100**       | Vote a inzat chiah chiah (tie) changa thutlukna siam tura Speaker vote thlak theihna. |
+| **Who presides over Rajya Sabha** | Vice President (ex-officio)         | **Article 89**        | Rajya Sabha inkhawm kaihruaitu (Chairman) chu Vice President a ni.                    |
+| **Who presides over Lok Sabha**   | Speaker                             | **Article 93**        | Lok Sabha inkhawm kaihruaitu.                                                         |
+| **Money Bill can originate in**   | Lok Sabha only                      | **Article 109**       | Pawisa chungchang (Money Bill) chu Lok Sabha-ah chauh thehluh hmasak theih a ni.      |
+| **Money Bill certified by**       | Speaker of Lok Sabha                | **Article 110**       | Bill thehluh chu 'Money Bill' a ni ngei em tih nemnghettu.                            |
+| **Joint sitting presided by**     | Speaker of Lok Sabha                | **Article 118**       | Rajya Sabha leh Lok Sabha an inkhawm fin (Joint sitting) changa kaihruaitu.           |
+| **Who summons Parliament**        | President                           | **Article 85**        | Parliament inkhawm tur ko khawmtu (summon).                                           |
+| **Who prorogues Parliament**      | President                           | **Article 85**        | Parliament session ti-tawptu (prorogue).                                              |
+| **Max gap between sessions**      | 6 months                            | **Article 85**        | Parliament session vawi hnih inkarah thla 6 aia rei a awm tur a ni lo.                |
+| **Budget presented by**           | Finance Minister                    | **Article 112**       | Kum khat atana sorkar sum hman dan tur (Annual Financial Statement) pharhtu.          |
+| **Budget presented in**           | Lok Sabha                           | _(Convention)_        | Budget hi Lok Sabha-ah pharh hmasak ber a ni thin                                     |
 
 ## Parliament — Full Structure
 
