@@ -51,22 +51,22 @@
 
 ## Types of Bills
 
-| Bill Type                       | Key Rule                                   |
-| ------------------------------- | ------------------------------------------ |
-| **Money Bill**                  | Only in Lok Sabha — certified by Speaker   |
-| **Ordinary Bill**               | Either house — joint sitting if deadlock   |
-| **Constitution Amendment Bill** | Special majority in both houses separately |
-| **Financial Bill**              | Lok Sabha only                             |
+|**Bill Type**|**Your Rule**|**Is it True?**|**The Technical Correction / Nuance**|
+|---|---|---|---|
+|**Money Bill**|Only in Lok Sabha — certified by Speaker|**YES (100% True)**|Governed by **Article 110**. It requires the prior recommendation of the President and cannot be rejected or amended by the Rajya Sabha.|
+|**Ordinary Bill**|Either house — joint sitting if deadlock|**YES (100% True)**|Governed by **Articles 107 & 108**. If a deadlock lasts for 6 months, the President can summon a Joint Sitting presided over by the Lok Sabha Speaker.|
+|**Constitution Amendment Bill**|Special majority in both houses separately|**YES (100% True)**|Governed by **Article 368**. Crucial exam point: **There is absolutely NO provision for a Joint Sitting** if a deadlock happens over this bill. It must pass both houses individually.|
+|**Financial Bill**|Lok Sabha only|**PARTIALLY TRUE** _(The Trap)_|**It depends entirely on the Type of Financial Bill.**|
 
 ## Speaker of Lok Sabha
 
-| Question | Answer |
-|----------|--------|
-| Speaker elected by | Members of Lok Sabha |
-| Speaker's casting vote | Used when votes are equal |
+| Question                     | Answer                        |
+| ---------------------------- | ----------------------------- |
+| Speaker elected by           | Members of Lok Sabha          |
+| Speaker's casting vote       | Used when votes are equal     |
 | Speaker during joint sitting | Speaker of Lok Sabha presides |
-| First Speaker of Lok Sabha | G.V. Mavalankar |
-| Current Speaker | Om Birla |
+| First Speaker of Lok Sabha   | G.V. Mavalankar               |
+| Current Speaker              | Om Birla                      |
 
 ## Exam Traps ⚠️
 > Rajya Sabha Chairman = **Vice President** (NOT President)
