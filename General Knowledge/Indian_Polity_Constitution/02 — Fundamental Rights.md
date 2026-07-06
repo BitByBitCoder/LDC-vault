@@ -34,7 +34,7 @@
 | **Article.**    | **What it says (Exact Definition)**                                                                    | **Mizo Zirlai Kutchhuak (Core Concept)**                                                               |
 | --------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
 | **Article 14**  | **Equality before law** and equal protection of the laws.                                              | Dan hmaah mi zawng zawng kan intluktlân a ngai.                                                        |
-| **Article 19**  | Protection of certain rights regarding **freedom of speech** etc, expression, assembly, and movement.  | Zalenna bulpui—tlawmngai taka thurual khawm leh duh dana chet zalenna.                                 |
+| **Article 19**  | Protection of certain rights regarding **freedom of speech**, expression, assembly, and movement.      | Zalenna bulpui—tlawmngai taka thurual khawm leh duh dana chet zalenna.                                 |
 | **Article 20**  | **Protection in respect of conviction for offences**. _(Cannot be suspended in Emergency)_             | **Thil tih sual a fair taka hma lak.** Emergency hun pawha thiah theih loh.                            |
 | **Article 21**  | **Protection of life and personal liberty**. _(Cannot be suspended in Emergency)_                      | Nung dama awm leh zalenna dikna. Emergency hun pawha thiah theih loh.                                  |
 | **Article 21A** | **Right to education** (Free and compulsory education for children aged 6 to 14 years).                | Kum 6-14 inkar naupangten a thlawna lehkha zir an dikna a ni.                                          |
@@ -46,7 +46,19 @@
 |             |                                                                                                                                 |
 explain more
 
+## Part III: High-Yield Article Keywords (Mizo Hrilhfiahna)
 
+|**Article**|**High-Yield Exam Keyword**|**Why it Matters (English)**|**Mizo Exam Pointers (Hriat tur pawimawh)**|
+|---|---|---|---|
+|**Article 14**|Equal Protection of Laws|Applies to everyone (citizens + foreigners).|Dan hmaah mi zawng zawng thuhmun; **India khua leh tui leh hnam dang (foreigners) tan pawh** a hman theih vek.|
+|**Article 19**|6 Democratic Freedoms|Suspended automatically during War/External Emergency.|Zalenna panga (6) min pe. Ram pawn ralkap laka **Emergency a awm chuan he Article hi chu amaha thiah (automatically suspended)** a ni thin.|
+|**Article 20**|Protection in Conviction|Cannot be suspended during any Emergency.|Thil tih sual thara hremna laka himna. **Emergency eng rendering-ah pawh thiah (suspend) theih miah loh** zinga mi a ni.|
+|**Article 21**|Right to Life & Personal Liberty|Cannot be suspended during any Emergency. Includes right to privacy, clean air, etc.|Nunna leh zalenna chanvo. **Emergency-ah pawh thiah theih miah loh**. Right to privacy leh boruak thianglim dawn te pawh he mi hnuai hian a awm vek.|
+|**Article 21A**|Right to Education|Added by 86th Amendment Act, 2002. Free & compulsory for ages 6–14.|**86th Amendment Act, 2002** hmanga belh a ni. Kum 6-14 inkar naupang lehkha zirna thlawna pekna.|
+|**Article 22**|Protection against Arrest|Must see a magistrate within 24 hours of arrest.|Police-in mi an man chuan **reilote (24 hours) chhungin Magistrate hmaah** an hruai ngei ngei tur a ni.|
+|**Article 32**|Constitutional Remedies|"Heart and Soul" — allows the Supreme Court to issue 5 types of Writs.|**"Heart and Soul"** an tih kha a ni. Kan dikna chanvo (FR) humhalh turin Supreme Court-in **Writ chi 5** a chhuah thei.|
+
+> 💡 **Exam Tips:** Article 20 leh 21 hi Emergency-ah pawh chuh (suspend) theih a ni lo tih hi **44th Amendment Act, 1978** hmanga siam mechanical safeguard a ni a, exam-ah an zawt ngun bik khawp mai!
 ## What is NOT a Fundamental Right ⚠️
 
 | Right | Status |
