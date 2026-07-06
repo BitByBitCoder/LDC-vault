@@ -29,7 +29,7 @@
 
 ## Key Articles in Fundamental Rights
 
-| **Article**     | **What it says (Exact Definition)**                                                                    | **Mizo Zirlai Kutchhuak (Core Concept)**                                                               |
+| **Article.**    | **What it says (Exact Definition)**                                                                    | **Mizo Zirlai Kutchhuak (Core Concept)**                                                               |
 | --------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
 | **Article 14**  | **Equality before law** and equal protection of the laws.                                              | Dan hmaah mi zawng zawng kan intluktlân a ngai.                                                        |
 | **Article 19**  | Protection of certain rights regarding **freedom of speech**, expression, assembly, and movement.      | Zalenna bulpui—tlawmngai taka thurual khawm leh duh dana chet zalenna.                                 |
