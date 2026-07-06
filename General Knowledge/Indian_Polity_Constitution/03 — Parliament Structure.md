@@ -51,12 +51,12 @@
 
 ## Types of Bills
 
-| Bill Type | Key Rule |
-|-----------|---------|
-| **Money Bill** | Only in Lok Sabha — certified by Speaker |
-| **Ordinary Bill** | Either house — joint sitting if deadlock |
+| Bill Type                       | Key Rule                                   |
+| ------------------------------- | ------------------------------------------ |
+| **Money Bill**                  | Only in Lok Sabha — certified by Speaker   |
+| **Ordinary Bill**               | Either house — joint sitting if deadlock   |
 | **Constitution Amendment Bill** | Special majority in both houses separately |
-| **Financial Bill** | Lok Sabha only |
+| **Financial Bill**              | Lok Sabha only                             |
 
 ## Speaker of Lok Sabha
 
