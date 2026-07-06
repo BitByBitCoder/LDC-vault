@@ -11,12 +11,14 @@
             "id": "7840e59cb36a266e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "computer/virtual_address.jpg"
+                "file": "General Knowledge/Indian_Polity_Constitution/Indian Constitution parts.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "virtual_address"
+              "icon": "lucide-file",
+              "title": "Indian Constitution parts"
             }
           }
         ]
@@ -189,11 +191,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fae9520d72428e28",
+  "active": "7840e59cb36a266e",
   "lastOpenFiles": [
+    "Indian constitution Parts.png",
     "computer/virtual_address.jpg",
     "General Knowledge/Indian_Polity_Constitution/Indian Constitution parts.md",
-    "Indian constitution Parts.png",
     "General Knowledge/Indian_Polity_Constitution/🏛️ Indian Polity & Constitution — INDEX.md",
     "General Knowledge/Ind.md",
     "General Knowledge/Indian_Polity_Constitution/02 — Fundamental Rights.md",
