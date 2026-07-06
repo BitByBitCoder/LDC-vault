@@ -35,8 +35,8 @@
 | Article 19  | Freedom of Speech, Assembly, Movement                                                                              |
 | Article 20  | Protection against arbitrary conviction (thil tih sual a fair taka hma lak) — **cannot be suspended in Emergency** |
 | Article 21  | Right to Life and Personal Liberty — **cannot be suspended in Emergency**                                          |
-| Article 21A | Right to Education (6–14 years)                                                                                    |
 | Article 22  | Protection against arbitrary arrest                                                                                |
+| Article 21A | Right to Education (6–14 years)                                                                                    |
 | Article 32  | Right to Constitutional Remedies                                                                                   |
 |             |                                                                                                                    |
 explain more
