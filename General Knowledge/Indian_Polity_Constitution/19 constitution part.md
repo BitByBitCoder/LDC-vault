@@ -1,0 +1,1 @@
+![](Indian%20constitution%20Parts%202.png)
