@@ -11,10 +11,14 @@
             "id": "22b71dd0e6300154",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "General Knowledge/Indian_Polity_Constitution/03 — Parliament Structure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03 — Parliament Structure"
             }
           }
         ]
