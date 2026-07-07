@@ -30,14 +30,14 @@
 
 ## President — Powers & Facts
 
-| Question | Answer |
-|----------|--------|
-| Pardoning power of President | Article 72 |
+| Question                        | Answer                                              |
+| ------------------------------- | --------------------------------------------------- |
+| Pardoning power of President    | Article 72                                          |
 | Who can seek President's pardon | Anyone convicted by court martial or death sentence |
-| Ordinance power — Article | **Article 123** |
-| First President of India | Dr. Rajendra Prasad |
-| First woman President | Pratibha Patil |
-| Current President | Droupadi Murmu (first tribal woman President) |
+| Ordinance power — Article       | **Article 123**                                     |
+| First President of India        | Dr. Rajendra Prasad                                 |
+| First woman President           | Pratibha Patil                                      |
+| Current President               | Droupadi Murmu (first tribal woman President)       |
 
 ## Vice President — Key Facts
 
