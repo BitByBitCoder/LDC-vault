@@ -72,6 +72,7 @@
 
 ### **Key Constitutional Positions**
 
+
 | **Position**       | **Who Elects Them?**                                                             | **Removal Process**                                                       | **Term** | **Power / Role**                                                           |
 | ------------------ | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------- | -------------------------------------------------------------------------- |
 | **President**      | Elected members of Parliament & State Legislative Assemblies (Electoral College) | Impeachment by 2/3 majority of Parliament (for violation of Constitution) | 5 Years  | Head of State; Commander-in-Chief; gives final assent to bills.            |
