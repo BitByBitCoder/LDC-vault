@@ -43,10 +43,10 @@
 
 ## Preamble Changes
 
-| Original (1950)               | After 42nd Amendment (1976)                         |
-| ----------------------------- | --------------------------------------------------- |
-| Sovereign Democratic Republic | Sovereign **Socialist Secular** Democratic Republic |
-| Unity of the Nation           | Unity **and Integrity** of the Nation               |
+| **Original (1950)**               | **After 42nd Amendment (1976)**                     | **Mizo Hrilhfiahna / Hriat tur pawimawh**                                                                                     |
+| --------------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| **Sovereign Democratic Republic** | **Sovereign Socialist Secular Democratic Republic** | Preamble bul ințannaah khan **"Socialist"** leh **"Secular"** (Sakhaw thlei bik nei lo) tih thumal pahnih hi belh luh a ni.   |
+| **Unity of the Nation**           | **Unity and Integrity of the Nation**               | Ram pum inpumkhatna tarlanna laiah khan **"Integrity"** (phel hrang rual loh/tluantling nihna) tih thumal belh a ni leh bawk. |
 
 ## Exam Traps ⚠️
 > 42nd Amendment = **"Mini Constitution"** — most comprehensive
