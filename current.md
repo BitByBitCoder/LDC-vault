@@ -1,2 +1,3 @@
 gk mizo -done
-gk polity -
+gk polity -hight -done
+gk geo-
