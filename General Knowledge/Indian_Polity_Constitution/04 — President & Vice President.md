@@ -41,13 +41,13 @@
 
 ## Vice President — Key Facts
 
-| Question | Answer |
-|----------|--------|
-| Ex-officio Chairman of Rajya Sabha | **Vice President** |
-| First VP of India | Dr. S. Radhakrishnan |
-| Current VP | Jagdeep Dhankhar |
-| VP acts as President when | President dies / resigns / impeached / absent |
-| Who becomes President if VP also unavailable | **Chief Justice of India** |
+| Question                                     | Answer                                        |
+| -------------------------------------------- | --------------------------------------------- |
+| Ex-officio Chairman of Rajya Sabha           | **Vice President**                            |
+| First VP of India                            | Dr. S. Radhakrishnan                          |
+| Current VP                                   | Jagdeep Dhankhar                              |
+| VP acts as President when                    | President dies / resigns / impeached / absent |
+| Who becomes President if VP also unavailable | **Chief Justice of India**                    |
 
 ## Qualification — President
 
