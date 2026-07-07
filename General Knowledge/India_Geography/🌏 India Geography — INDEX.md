@@ -6,14 +6,14 @@
 
 ## 📊 Overview
 
-| Metric | Value |
-|--------|-------|
-| Total Geography questions in papers | 61 |
-| Pure physical geography | ~25 Qs |
-| States & superlatives | ~15 Qs |
-| Climate, crops, soil | ~10 Qs |
-| World geography | ~11 Qs |
-| Controllable with byhart | ~75% |
+| Metric                              | Value  |
+| ----------------------------------- | ------ |
+| Total Geography questions in papers | 61     |
+| Pure physical geography             | ~25 Qs |
+| States & superlatives               | ~15 Qs |
+| Climate, crops, soil                | ~10 Qs |
+| World geography                     | ~11 Qs |
+| Controllable with byhart            | ~75%   |
 
 ---
 
