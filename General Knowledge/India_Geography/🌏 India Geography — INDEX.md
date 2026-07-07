@@ -59,22 +59,22 @@
 
 ## 🚨 Common Exam Traps
 
-|**Topic / Question**|**The Trap (Sual palh awm miah loh tur)**|**Correct Answer**|**Mizo Hrilhfiahna / Hriat tur**|
-|---|---|---|---|
-|**Largest coastline**|Maharashtra / Tamil Nadu|**Gujarat**|Tamil Nadu emaw thliarkawl dang an ni lo, Gujarat tuipui kam hi a sei ber (1,214.7 km).|
-|**Longest river in India**|Brahmaputra / Indus|**Ganga**|Indus leh Brahmaputra hi sei zawk mah se, India ram chhunga dung sei ber chu Ganga (2,525 km) a ni.|
-|**Largest brackish water lake**|Dal / Wular|**Chilika (Odisha)**|Dal leh Wular te chu tui thianghlim (Freshwater) dil an ni thung.|
-|**Highest salinity lake**|Chilika|**Sambhar (Rajasthan)**|Chilika hi tui al deuh (brackish) dil lian ber a ni a, Sambhar erawh tui thur/alna ber (highly saline) a ni.|
-|**Largest mountain range (length)**|Himalayas|**Andes (South America)**|**Khawvel huap:** Andes hi a thui ber ($7,000\text{ km}$). Himalayas hi chu a **sang ber** (highest) a ni thung.|
-|**Ghats meet at**|Annamalai / Palani|**Nilgiri Hills**|Western Ghats leh Eastern Ghats inlaichinna hmun pui a ni.|
-|**India's only active volcano**|Lakshadweep|**Barren Island (Andaman)**|Lakshadweep hi coral island a ni a, tlanghalh nung a awm lo.|
-|**Smallest UT**|Chandigarh|**Lakshadweep**|Bial te ber a ni ($32\text{ sq km}$ chauh).|
-|**Highest population density**|China / India|**Bangladesh**|Ram lian deuh thlan chhuah bik zingah chuan Bangladesh-ah hian mihring an inbeng hup hneh ber.|
-|**Narmada drains into**|Bay of Bengal|**Arabian Sea**|Central India luite hi chhak lamah (Bay of Bengal) an luang tlangpui a, Narmada leh Tapi erawh thlang lamah (Arabian Sea) an luang thung.|
-|**Sutlej river origin**|India|**Tibet**|Indus leh Brahmaputra ang chiahin Sutlej lui hi India ram pawn (Tibet) ațanga lo luang chhuak a ni.|
-|**Forest cover largest state**|Arunachal Pradesh|**Madhya Pradesh (By Area)**|**Bial zau zawngah:** MP a hmasa ber. **Percentage-ah:** Mizoram a hmasa ber thung.|
-|**Kuno National Park state**|Gujarat / Rajasthan|**Madhya Pradesh**|Africa ațanga **Cheetah** rawn lak luh dahn hmun, exam-a zawh lar em em kha a ni.|
-|**Majuli Island — known for**|Largest saltwater lake|**Largest inhabited river island**|Khawvela lui chhunga thliarkawl (island) mihring chenna lian ber a ni.|
+| **Topic / Question**                | **The Trap (Sual palh awm miah loh tur)** | **Correct Answer**                 | **Mizo Hrilhfiahna / Hriat tur**                                                                                                          |
+| ----------------------------------- | ----------------------------------------- | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| **Largest coastline**               | Maharashtra / Tamil Nadu                  | **Gujarat**                        | Tamil Nadu emaw thliarkawl dang an ni lo, Gujarat tuipui kam hi a sei ber (1,214.7 km).                                                   |
+| **Longest river in India**          | Brahmaputra / Indus                       | **Ganga**                          | Indus leh Brahmaputra hi sei zawk mah se, India ram chhunga dung sei ber chu Ganga (2,525 km) a ni.                                       |
+| **Largest brackish water lake**     | Dal / Wular                               | **Chilika (Odisha)**               | Dal leh Wular te chu tui thianghlim (Freshwater) dil an ni thung.                                                                         |
+| **Highest salinity lake**           | Chilika                                   | **Sambhar (Rajasthan)**            | Chilika hi tui al deuh (brackish) dil lian ber a ni a, Sambhar erawh tui thur/alna ber (highly saline) a ni.                              |
+| **Largest mountain range (length)** | Himalayas                                 | **Andes (South America)**          | **Khawvel huap:** Andes hi a thui ber ($7,000\text{ km}$). Himalayas hi chu a **sang ber** (highest) a ni thung.                          |
+| **Ghats meet at**                   | Annamalai / Palani                        | **Nilgiri Hills**                  | Western Ghats leh Eastern Ghats inlaichinna hmun pui a ni.                                                                                |
+| **India's only active volcano**     | Lakshadweep                               | **Barren Island (Andaman)**        | Lakshadweep hi coral island a ni a, tlanghalh nung a awm lo.                                                                              |
+| **Smallest UT**                     | Chandigarh                                | **Lakshadweep**                    | Bial te ber a ni ($32\text{ sq km}$ chauh).                                                                                               |
+| **Highest population density**      | China / India                             | **Bangladesh**                     | Ram lian deuh thlan chhuah bik zingah chuan Bangladesh-ah hian mihring an inbeng hup hneh ber.                                            |
+| **Narmada drains into**             | Bay of Bengal                             | **Arabian Sea**                    | Central India luite hi chhak lamah (Bay of Bengal) an luang tlangpui a, Narmada leh Tapi erawh thlang lamah (Arabian Sea) an luang thung. |
+| **Sutlej river origin**             | India                                     | **Tibet**                          | Indus leh Brahmaputra ang chiahin Sutlej lui hi India ram pawn (Tibet) ațanga lo luang chhuak a ni.                                       |
+| **Forest cover largest state**      | Arunachal Pradesh                         | **Madhya Pradesh (By Area)**       | **Bial zau zawngah:** MP a hmasa ber. **Percentage-ah:** Mizoram a hmasa ber thung.                                                       |
+| **Kuno National Park state**        | Gujarat / Rajasthan                       | **Madhya Pradesh**                 | Africa ațanga **Cheetah** rawn lak luh dahn hmun, exam-a zawh lar em em kha a ni.                                                         |
+| **Majuli Island — known for**       | Largest saltwater lake                    | **Largest inhabited river island** | Khawvela lui chhunga thliarkawl (island) mihring chenna lian ber a ni.                                                                    |
 |**NE state bordering only 1 state**|Tripura|**Sikkim & Meghalaya**|Sikkim hian **West Bengal** chauh a ri a, Meghalaya hian **Assam** chauh a ri ve bawk.|
 ---
 
