@@ -41,13 +41,14 @@
 
 ## Vice President — Key Facts
 
-| Question                                     | Answer                                        |
-| -------------------------------------------- | --------------------------------------------- |
-| Ex-officio Chairman of Rajya Sabha           | **Vice President**                            |
-| First VP of India                            | Dr. S. Radhakrishnan                          |
-| Current VP                                   | Jagdeep Dhankhar                              |
-| VP acts as President when                    | President dies / resigns / impeached / absent |
-| Who becomes President if VP also unavailable | **Chief Justice of India**                    |
+
+|**Question / Topic**|**Answer**|**Mizo Hrilhfiahna / Hriat tur pawimawh**|
+|---|---|---|
+|**Ex-officio Chairman of Rajya Sabha**|Vice President|Vice President a nih rual hian eng thlang nawn ngai miah lovin Rajya Sabha kaihruaitu (Chairman) a ni nghal (Ex-officio) tlat a ni.|
+|**First VP of India**|Dr. S. Radhakrishnan|India ram Vice President hmasa ber a ni.|
+|**Current VP**|Jagdeep Dhankhar|Tun dinhmuna India ram Vice President lai a ni.|
+|**VP acts as President when**|President dies / resigns / impeached / absent|President a boral, a bân, paih thlak a nih, emaw damlohna vanga a hna a thawh theih loh thut chuan Vice President-in a ai a awh rih ang.|
+|**Who becomes President if VP also unavailable**|Chief Justice of India (CJI)|President leh Vice President an awm loh ve ve chuan, Supreme Court Hotu Ber (CJI)-in President hna a thawk rih ang (History-ah hian Justice M. Hidayatullah khan a lo thawk tawh).|
 
 ## Qualification — President
 
