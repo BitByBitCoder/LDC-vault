@@ -5,24 +5,24 @@
 
 ## Questions From Your Papers
 
-| Question | Answer |
-|----------|--------|
-| President resigns to | **Vice President** |
-| PM resigns to | **President** |
-| Supreme Commander of Armed Forces | **President** |
-| President elected by | Elected members of both houses + elected members of State Legislative Assemblies |
-| Vice President elected by | Members of **both houses of Parliament** (elected + nominated) |
-| President impeached by | **Parliament** (special majority) |
-| Who administers oath to President | **Chief Justice of India** |
-| Who administers oath to PM | **President** |
-| Who administers oath to Governor | **Chief Justice of respective High Court** |
-| Minimum age — President | **35 years** |
-| Minimum age — Vice President | **35 years** |
-| President's term | **5 years** |
-| Vice President's term | **5 years** |
-| President's Rule — Article | **Article 356** |
-| National Emergency — Article | **Article 352** |
-| Financial Emergency — Article | **Article 360** |
+| Question                          | Answer                                                                           |
+| --------------------------------- | -------------------------------------------------------------------------------- |
+| President resigns to              | **Vice President**                                                               |
+| PM resigns to                     | **President**                                                                    |
+| Supreme Commander of Armed Forces | **President**                                                                    |
+| President elected by              | Elected members of both houses + elected members of State Legislative Assemblies |
+| Vice President elected by         | Members of **both houses of Parliament** (elected + nominated)                   |
+| President impeached by            | **Parliament** (special majority)                                                |
+| Who administers oath to President | **Chief Justice of India**                                                       |
+| Who administers oath to PM        | **President**                                                                    |
+| Who administers oath to Governor  | **Chief Justice of respective High Court**                                       |
+| Minimum age — President           | **35 years**                                                                     |
+| Minimum age — Vice President      | **35 years**                                                                     |
+| President's term                  | **5 years**                                                                      |
+| Vice President's term             | **5 years**                                                                      |
+| President's Rule — Article        | **Article 356**                                                                  |
+| National Emergency — Article      | **Article 352**                                                                  |
+| Financial Emergency — Article     | **Article 360**                                                                  |
 
 ## President — Powers & Facts
 
