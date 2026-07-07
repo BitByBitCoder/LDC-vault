@@ -84,18 +84,18 @@ LDC exam-ah hian i list-a la tel lo, zawh fo thin **Article pawimawh em em 5** k
 
 ## Parts of Constitution
 
-| Part         | Articles | Content                                  |
-| ------------ | -------- | ---------------------------------------- |
-| Part I       | 1–4      | Union and its territory                  |
-| Part II      | 5–11     | Citizenship                              |
-| **Part III** | 12–35    | **Fundamental Rights**                   |
-| **Part IV**  | 36–51    | **Directive Principles of State Policy** |
-| **Part IVA** | 51A      | **Fundamental Duties**                   |
-| Part V       | 52–151   | The Union (President, Parliament, SC)    |
-| Part VI      | 152–237  | The States                               |
-| Part XI      | 245–255  | Relations between Union & States         |
-| Part XVIII   | 352–360  | **Emergency Provisions**                 |
-| Part XX      | 368      | **Amendment of Constitution**            |
+|**Part**|**Articles**|**Content**|**Mizo Hrilhfiahna / Hriat tur pawimawh**|
+|---|---|---|---|
+|**Part I**|1–4|Union and its territory|India ram huam chin leh state hrang hrangte din leh siam rem dan.|
+|**Part II**|5–11|Citizenship|India khua leh tui (Citizenship) nihna chanvo leh hmuh dan chungchang.|
+|**Part III**|12–35|Fundamental Rights|Khua leh tui kan nih anga kan dikna chanvo bulpui zalenna ram laka kan neih.|
+|**Part IV**|36–51|Directive Principles (DPSP)|Sorkar hmasawnna hna leh dan a siam laia kaihhruaina thurawn (Guidelines).|
+|**Part IVA**|51A|Fundamental Duties|Ram tana khua leh tui kan mawhphurhna leh tihtur hrang hrang 11.|
+|**Part V**|52–151|The Union|Central sorkar hmunpui (President, PM, Parliament, leh Supreme Court).|
+|**Part VI**|152–237|The States|State sorkar kalphung (Governor, CM, Assembly, leh High Court).|
+|**Part XI**|**245–263**|Relations between Union & States|Central sorkar leh State sorkar inlaichinna leh thuneihna insem dan.|
+|**Part XVIII**|352–360|Emergency Provisions|Emergency (National, President's Rule, Financial) puan leh hman dan.|
+|**Part XX**|368|Amendment of Constitution|Danpui siamțhatna (Amendment) hna kalpui dan leh a phung chiah.|
 
 ## Exam Traps ⚠️
 > Article 21 = Right to Life — people confuse this with Article 19
