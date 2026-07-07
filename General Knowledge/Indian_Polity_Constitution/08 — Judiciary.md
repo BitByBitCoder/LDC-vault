@@ -18,17 +18,23 @@
 |**Current CJI**|**Justice Surya Kant**|Tun dinhmuna India ram Chief Justice lai (53-na) a ni a, February 2027 thleng a chelh ang.|
 |**SC judges can be removed by**|Impeachment by Parliament|Judge-te hi awlsam taka bân ngawt theih an ni lo va, Parliament House pahnihin thutlukna (Impeachment) an siam hnuah chauh President-in a paih thla thei.|
 |**Judicial review power**|Article 13|Sorkar dan siam thar a dik em tih court-in a lo ennatsak (review) theihna dan tlungphum pakhat a ni.|
+#### Shortest & Longest Serving CJI (A rei ber leh tawi ber)
 
+Exam-ah hian he thupui bik hi an zawt duh thut thin:
+
+- **Longest serving CJI:** **Y.V. Chandrachud** (Kum 7 leh ni 139 ngawt a chelh).
+    
+- **Shortest serving CJI:** **Kamal Narain Singh** (Ni 17 chauh a chelh hman).
 ## Supreme Court — Structure
 
-| Question | Answer |
-|----------|--------|
-| Location | New Delhi |
-| Total judges including CJI | **34** (CJI + 33) |
-| Minimum judges for Constitution bench | **5** |
-| SC can issue writs under | Article 32 |
-| SC has original jurisdiction in | Disputes between Centre and States |
-| SC advisory jurisdiction | Article 143 — President seeks SC opinion |
+| Question                              | Answer                                   |
+| ------------------------------------- | ---------------------------------------- |
+| Location                              | New Delhi                                |
+| Total judges including CJI            | **34** (CJI + 33)                        |
+| Minimum judges for Constitution bench | **5**                                    |
+| SC can issue writs under              | Article 32                               |
+| SC has original jurisdiction in       | Disputes between Centre and States       |
+| SC advisory jurisdiction              | Article 143 — President seeks SC opinion |
 
 ## High Courts
 
