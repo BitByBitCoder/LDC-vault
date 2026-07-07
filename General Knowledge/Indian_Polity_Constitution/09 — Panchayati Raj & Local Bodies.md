@@ -5,18 +5,18 @@
 
 ## Questions From Your Papers
 
-| Question | Answer |
-|----------|--------|
-| Panchayati Raj — Amendment | **73rd Amendment (1992)** |
-| Urban Local Bodies — Amendment | **74th Amendment (1992)** |
-| Panchayati Raj — Schedule | **11th Schedule** |
-| Urban Local Bodies — Schedule | **12th Schedule** |
-| Panchayati Raj opposed by | **B.R. Ambedkar** |
+| Question                                | Answer                                 |
+| --------------------------------------- | -------------------------------------- |
+| Panchayati Raj — Amendment              | **73rd Amendment (1992)**              |
+| Urban Local Bodies — Amendment          | **74th Amendment (1992)**              |
+| Panchayati Raj — Schedule               | **11th Schedule**                      |
+| Urban Local Bodies — Schedule           | **12th Schedule**                      |
+| Panchayati Raj opposed by               | **B.R. Ambedkar**                      |
 | Panchayati Raj supported/recommended by | **Balwant Rai Mehta Committee (1957)** |
-| First state to implement Panchayati Raj | **Rajasthan (2 Oct 1959)** |
-| Panchayati Raj Article | **Article 243** |
-| Municipalities Article | **Article 243P** |
-| Reservation in Panchayat for women | **Not less than 1/3rd** |
+| First state to implement Panchayati Raj | **Rajasthan (2 Oct 1959)**             |
+| Panchayati Raj Article                  | **Article 243**                        |
+| Municipalities Article                  | **Article 243P**                       |
+| Reservation in Panchayat for women      | **Not less than 1/3rd**                |
 
 ## 3-Tier Panchayati Raj Structure
 
