@@ -24,31 +24,31 @@
 
 ## Complete Borrowed Features Table
 
-| Feature | Borrowed From | Key Feature |
-|---------|--------------|-------------|
-| **Fundamental Rights** | 🇺🇸 USA | Bill of Rights |
-| **Judicial Review** | 🇺🇸 USA | SC can strike down laws |
-| **Preamble** | 🇺🇸 USA | "We the People" concept |
-| **Independence of Judiciary** | 🇺🇸 USA | — |
-| **Parliamentary system** | 🇬🇧 UK (Britain) | Westminster model |
-| **Single Citizenship** | 🇬🇧 UK (Britain) | — |
-| **Rule of Law** | 🇬🇧 UK (Britain) | — |
-| **Writs** | 🇬🇧 UK (Britain) | Habeas Corpus etc. |
-| **Bicameral Parliament** | 🇬🇧 UK (Britain) | — |
-| **Federal system** | 🇨🇦 Canada | Strong Centre |
-| **Residuary powers to Centre** | 🇨🇦 Canada | — |
-| **Directive Principles** | 🇮🇪 Ireland | — |
-| **Method of nomination to RS** | 🇮🇪 Ireland | — |
-| **Emergency provisions** | 🇩🇪 Germany (Weimar) | — |
-| **Suspension of FR in Emergency** | 🇩🇪 Germany (Weimar) | — |
-| **Fundamental Duties** | 🇷🇺 USSR (Russia) | — |
-| **Five Year Planning** | 🇷🇺 USSR (Russia) | — |
-| **Concurrent List** | 🇦🇺 Australia | — |
-| **Freedom of trade** | 🇦🇺 Australia | — |
-| **Amendment procedure** | 🇿🇦 South Africa | — |
-| **Election of President** | 🇫🇷 France | — |
-| **Liberty, Equality, Fraternity** | 🇫🇷 France | French Revolution |
-| **Republic** | 🇫🇷 France | — |
+| Feature                           | Borrowed From         | Key Feature             |
+| --------------------------------- | --------------------- | ----------------------- |
+| **Fundamental Rights**            | 🇺🇸 USA              | Bill of Rights          |
+| **Judicial Review**               | 🇺🇸 USA              | SC can strike down laws |
+| **Preamble**                      | 🇺🇸 USA              | "We the People" concept |
+| **Independence of Judiciary**     | 🇺🇸 USA              | —                       |
+| **Parliamentary system**          | 🇬🇧 UK (Britain)     | Westminster model       |
+| **Single Citizenship**            | 🇬🇧 UK (Britain)     | —                       |
+| **Rule of Law**                   | 🇬🇧 UK (Britain)     | —                       |
+| **Writs**                         | 🇬🇧 UK (Britain)     | Habeas Corpus etc.      |
+| **Bicameral Parliament**          | 🇬🇧 UK (Britain)     | —                       |
+| **Federal system**                | 🇨🇦 Canada           | Strong Centre           |
+| **Residuary powers to Centre**    | 🇨🇦 Canada           | —                       |
+| **Directive Principles**          | 🇮🇪 Ireland          | —                       |
+| **Method of nomination to RS**    | 🇮🇪 Ireland          | —                       |
+| **Emergency provisions**          | 🇩🇪 Germany (Weimar) | —                       |
+| **Suspension of FR in Emergency** | 🇩🇪 Germany (Weimar) | —                       |
+| **Fundamental Duties**            | 🇷🇺 USSR (Russia)    | —                       |
+| **Five Year Planning**            | 🇷🇺 USSR (Russia)    | —                       |
+| **Concurrent List**               | 🇦🇺 Australia        | —                       |
+| **Freedom of trade**              | 🇦🇺 Australia        | —                       |
+| **Amendment procedure**           | 🇿🇦 South Africa     | —                       |
+| **Election of President**         | 🇫🇷 France           | —                       |
+| **Liberty, Equality, Fraternity** | 🇫🇷 France           | French Revolution       |
+| **Republic**                      | 🇫🇷 France           | —                       |
 
 ## Quick Memory Trick
 
