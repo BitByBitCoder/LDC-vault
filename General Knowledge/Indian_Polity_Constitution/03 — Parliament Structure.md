@@ -51,12 +51,12 @@
 
 ## Types of Bills
 
-| **Bill Type**                   | **Your Rule**                              | **Is it True?**                 | **The Technical Correction / Nuance**                                                                                                                                                  |
-| ------------------------------- | ------------------------------------------ | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Money Bill**                  | Only in Lok Sabha — certified by Speaker   | **YES (100% True)**             | Governed by **Article 110**. It requires the prior recommendation of the President and cannot be rejected or amended by the Rajya Sabha.                                               |
-| **Ordinary Bill**               | Either house — joint sitting if deadlock   | **YES (100% True)**             | Governed by **Articles 107 & 108**. If a deadlock lasts for 6 months, the President can summon a Joint Sitting presided over by the Lok Sabha Speaker.                                 |
-| **Constitution Amendment Bill** | Special majority in both houses separately | **YES (100% True)**             | Governed by **Article 368**. Crucial exam point: **There is absolutely NO provision for a Joint Sitting** if a deadlock happens over this bill. It must pass both houses individually. |
-| **Financial Bill**              | Lok Sabha only                             | **PARTIALLY TRUE** _(The Trap)_ | **It depends entirely on the Type of Financial Bill.**                                                                                                                                 |
+|**Bill Type**|**Your Rule**|**Is it True?**|**Technical Correction (English)**|**Mizo Hrilhfiahna**|
+|---|---|---|---|---|
+|**Money Bill**|Only in Lok Sabha; certified by Speaker.|**YES** (100% True)|Article 110. Needs President's prior recommendation; Rajya Sabha cannot reject or amend it.|Article 110-na. President remtihnain Lok Sabha-ah chauh pharh theih. Rajya Sabha-in an siamtha (amend) in an hnawl (reject) thei lo.|
+|**Ordinary Bill**|Either house; joint sitting if deadlock.|**YES** (100% True)|Articles 107 & 108. President summons a Joint Sitting after a 6-month deadlock.|Article 107 leh 108-na. House pahnih inkarah thla 6 chhung inrem lohna a awm chuan President-in Joint Sitting a ko thei.|
+|**Constitution Amendment Bill**|Special majority in both houses separately.|**YES** (100% True)|Article 368. NO provision for a Joint Sitting; must pass both houses individually.|Article 368-na. He bill atan hian Joint Sitting koh theih a ni lo; House pahnihah a hranga pass ngei ngei a ngai.|
+|**Financial Bill**|Lok Sabha only.|**PARTIALLY TRUE** (The Trap)|It depends entirely on the Type of Financial Bill (Type I vs. Type II).|A bum theihna lai tak a ni. Financial Bill Type I nge Type II a nihah a innghat thui hle.|
 
 ## Speaker of Lok Sabha
 
