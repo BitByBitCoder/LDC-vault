@@ -43,10 +43,10 @@
 
 ## Preamble Changes
 
-| Original (1950) | After 42nd Amendment (1976) |
-|-----------------|----------------------------|
+| Original (1950)               | After 42nd Amendment (1976)                         |
+| ----------------------------- | --------------------------------------------------- |
 | Sovereign Democratic Republic | Sovereign **Socialist Secular** Democratic Republic |
-| Unity of the Nation | Unity **and Integrity** of the Nation |
+| Unity of the Nation           | Unity **and Integrity** of the Nation               |
 
 ## Exam Traps ⚠️
 > 42nd Amendment = **"Mini Constitution"** — most comprehensive
@@ -54,3 +54,18 @@
 > Voting age changed by **61st Amendment** — NOT 44th or 42nd
 > 73rd = Panchayat (rural), 74th = Municipalities (urban) — don't mix these
 > Right to Property removed = **44th Amendment** — NOT 42nd
+
+
+extra
+### Missing Key Amendments for LDC Exam
+
+| **Amendment** | **Year** | **What it did (English)**                                          | **Mizo Hrilhfiahna / Hriat tur pawimawh**                                                                                                         |
+| ------------- | -------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **21st**      | 1967     | Added **Sindhi** as the 15th language in the 8th Schedule.         | _8th Schedule_ (Tawng pawm hrang hrang)-ah Sindhi tawng a vawi khatna atan a belh luhna a ni.                                                     |
+| **36th**      | 1975     | Made **Sikkim** a full-fledged 22nd state of India.                | Sikkim kha India ram state puitling (State 22-na) anga pawm a nihna dan pawimawh tak a ni.                                                        |
+| **69th**      | 1991     | Designated Delhi as **National Capital Territory (NCT)**.          | Delhi kha _National Capital Territory_ (NCT) atan a siam a, Legislative Assembly leh Council of Ministers a pe bawk.                              |
+| **71st**      | 1992     | Added **Konkani, Manipuri, and Nepali** to the 8th Schedule.       | Tawng dang pathum 8th Schedule-ah a belh leh (A kutzungpui formula chu: **KMN**).                                                                 |
+| **92nd**      | 2003     | Added **Bodo, Dogri, Maithili, and Santhali** to the 8th Schedule. | He amendment hnu hian India ram tawng pawm zat hi 22-ah a tling ta chiah a ni (Formula: **BDMS**).                                                |
+| **100th**     | 2015     | Land Boundary Agreement (LBA) between India and Bangladesh.        | India leh Bangladesh inkar ramri chingfelna a ni a, ram pahnih inkarah bial tlem (enclaves) inthlengna a thleng.                                  |
+| **105th**     | 2021     | Restored State governments' power to identify OBCs.                | Supreme Court thutlukna pakhat laka hnehna a ni a, State sorkarte puala mahni biala OBC lo thlan/hriat chhuah leh theihna thuneihna a pe let leh. |
+| **106th**     | 2023     | **Women's Reservation Act** (_Nari Shakti Vandan Adhiniyam_).      | Tun hnaia exam thila pawimawh ber pakhat a ni. Lok Sabha leh State Assemblies-ah hmeichhiate tan **33% (1/3rd)** seat zuah (reserve) a ni ta.     |
