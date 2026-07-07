@@ -32,50 +32,50 @@
 
 ## ⚡ Flash Facts — Memorize First
 
-| Question                           | Answer                                                   |
-| ---------------------------------- | -------------------------------------------------------- |
-| Longest river in India             | **Ganga**                                                |
-| Largest state by area              | **Rajasthan**                                            |
-| Smallest state by area             | **Goa**                                                  |
-| Largest coastline state            | **Gujarat**                                              |
-| Largest brackish water lake        | **Chilika Lake (Odisha)**                                |
-| Highest lake salinity              | **Sambhar Lake (Rajasthan)**                             |
-| Highest peak Peninsular India      | **Anaimudi (Kerala) — 2,695m**                           |
-| Highest motorable pass             | **Umling La (Ladakh)**                                   |
-| Smallest UT                        | **Lakshadweep**                                          |
-| India's only active volcano        | **Barren Island (Andaman)**                              |
-| Western + Eastern Ghats meet       | **Nilgiri Hills**                                        |
-| Palk Strait — between              | **India and Sri Lanka**                                  |
-| Tropic of Cancer — 8 states        | **Gujarat, Rajasthan, MP, CG, JH, WB, Tripura, Mizoram** |
-| State with largest forest cover    | **Madhya Pradesh**                                       |
-| World's deepest lake               | **Lake Baikal (Russia)**                                 |
-| Highest quality coal               | **Anthracite**                                           |
-| Latitude expressed relative to     | **Equator**                                              |
-| Scotland of the East               | **Shillong**                                             |
-| Largest river island in world      | **Majuli Island (Assam)**                                |
-| Country highest population density | **Bangladesh**                                           |
+| **Question / Topic**                   | **Answer**                     | **Mizo Hrilhfiahna / Hriat tur pawimawh**                                                                                                                                     |
+| -------------------------------------- | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Longest river in India**             | Ganga                          | India rama lui sei ber (2,525 km). India dâwn lova sei ber erawh Brahmaputra leh Indus an ni thung.                                                                           |
+| **Largest state by area**              | Rajasthan                      | India ram state zingah bial (area) zau ber a ni.                                                                                                                              |
+| **Smallest state by area**             | Goa                            | India ram state zinga bial te ber a ni.                                                                                                                                       |
+| **Largest coastline state**            | Gujarat                        | Tuipui kam (coastline) dung sei ber nei state a ni (1,214.7 km).                                                                                                              |
+| **Largest brackish water lake**        | Chilika Lake (Odisha)          | India rama tui al deuh (brackish water/lagoon) dil lian ber a ni.                                                                                                             |
+| **Highest lake salinity**              | Sambhar Lake (Rajasthan)       | India rama tui alna ber dil (inland salt lake) a ni.                                                                                                                          |
+| **Highest peak Peninsular India**      | Anaimudi (Kerala) — 2,695m     | India chhim lam (Peninsular India) vawr sang ber a ni.                                                                                                                        |
+| **Highest motorable pass**             | Umling La (Ladakh)             | Motor luh theihna khawvela tlangpui kawng sang ber (19,024 ft). Khardung La a ni tawh lo.                                                                                     |
+| **Smallest UT**                        | Lakshadweep                    | Union Territory zinga bial te ber (32 sq km chauhva zau).                                                                                                                     |
+| **India's only active volcano**        | Barren Island (Andaman)        | India rama tlanghalh (volcano) nung lai awm chhun a ni.                                                                                                                       |
+| **Western + Eastern Ghats meet**       | Nilgiri Hills                  | India chhak lam leh thlang lam tlangrualte inkhawmna/intawhna hmun.                                                                                                           |
+| **Palk Strait — between**              | India and Sri Lanka            | India leh Sri Lanka inkara tuipui muat tawi (strait) awm kha a ni.                                                                                                            |
+| **Tropic of Cancer — 8 states**        | GJ, RJ, MP, CG, JH, WB, TR, MZ | India ram laili dawt vaktu (23.5° N latitude). **Mizoram a kaltlang ngei** tih hriat tur (Thenzawl hnaiah khian a sign board pawh a awm).                                     |
+| **State with largest forest cover**    | **Madhya Pradesh (By Area)**   | ⚠️ **Exam Trap:** Bial zau zawng (Area)-ah chuan MP a lian ber. Mahse, _Percentage_ (A ram huan laka ngaw hmun zat)-ah chuan **Mizoram** a hmasa ber thung (~84.5%).          |
+| **World's deepest lake**               | Lake Baikal (Russia)           | Khawvela dil thuk ber leh tui thianghlim tamna ber a ni.                                                                                                                      |
+| **Highest quality coal**               | Anthracite                     | Meihawl țha ber, carbon tamna ber leh meikhu chhuah tlem ber a ni.                                                                                                            |
+| **Latitude expressed relative to**     | Equator                        | Latitude tlawn hi Equator (0°) ațanga chhiar chhoh leh chhuan thlak a ni.                                                                                                     |
+| **Scotland of the East**               | Shillong                       | Visual landscape a an em avanga British hotuten he hming hi an lo pek a ni.                                                                                                   |
+| **Largest river island in world**      | Majuli Island (Assam)          | Brahmaputra luia awm, khawvela lui chhunga thliarkawl (river island) lian ber.                                                                                                |
+| **Country highest population density** | **Monaco / Singapore**         | ⚠️ **Exam Trap:** Khawvel huap phei chuan micro-states (Monaco/Singapore) an sang ber. Mahse, ram lian pui zinga population density sang ber erawh **Bangladesh** a ni thung. |
 
 ---
 
 ## 🚨 Common Exam Traps
 
-| Trap | Wrong | Correct |
-|------|-------|---------|
-| Largest coastline | Maharashtra / Tamil Nadu | **Gujarat** |
-| Longest river India | Brahmaputra / Indus | **Ganga** |
-| Largest brackish water lake | Dal / Wular | **Chilika (Odisha)** |
-| Highest salinity lake | Chilika | **Sambhar (Rajasthan)** |
-| Largest mountain range (length) | Himalayas | **Andes** (Himalayas = highest) |
-| Ghats meet at | Annamalai / Palani | **Nilgiri Hills** |
-| India's only active volcano | Lakshadweep | **Barren Island, Andaman** |
-| Smallest UT | Chandigarh | **Lakshadweep** |
-| Highest population density country | China / India | **Bangladesh** |
-| Narmada drains into | Bay of Bengal | **Arabian Sea** |
-| Sutlej river origin | India | **Tibet** (Trans-Himalayan) |
-| Forest cover largest state | Arunachal Pradesh | **Madhya Pradesh** |
-| Kuno National Park state | Gujarat / Rajasthan | **Madhya Pradesh** |
-| Majuli Island — known for | Largest saltwater lake | **Largest inhabited river island** |
-| NE state bordering only 1 state | Tripura / Meghalaya | **Sikkim** (borders West Bengal only) |
+| Trap                               | Wrong                    | Correct                               |
+| ---------------------------------- | ------------------------ | ------------------------------------- |
+| Largest coastline                  | Maharashtra / Tamil Nadu | **Gujarat**                           |
+| Longest river India                | Brahmaputra / Indus      | **Ganga**                             |
+| Largest brackish water lake        | Dal / Wular              | **Chilika (Odisha)**                  |
+| Highest salinity lake              | Chilika                  | **Sambhar (Rajasthan)**               |
+| Largest mountain range (length)    | Himalayas                | **Andes** (Himalayas = highest)       |
+| Ghats meet at                      | Annamalai / Palani       | **Nilgiri Hills**                     |
+| India's only active volcano        | Lakshadweep              | **Barren Island, Andaman**            |
+| Smallest UT                        | Chandigarh               | **Lakshadweep**                       |
+| Highest population density country | China / India            | **Bangladesh**                        |
+| Narmada drains into                | Bay of Bengal            | **Arabian Sea**                       |
+| Sutlej river origin                | India                    | **Tibet** (Trans-Himalayan)           |
+| Forest cover largest state         | Arunachal Pradesh        | **Madhya Pradesh**                    |
+| Kuno National Park state           | Gujarat / Rajasthan      | **Madhya Pradesh**                    |
+| Majuli Island — known for          | Largest saltwater lake   | **Largest inhabited river island**    |
+| NE state bordering only 1 state    | Tripura / Meghalaya      | **Sikkim** (borders West Bengal only) |
 
 ---
 
