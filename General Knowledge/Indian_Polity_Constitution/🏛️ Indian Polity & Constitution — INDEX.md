@@ -17,26 +17,26 @@ Its the blueprint for everyting run---
 
 ## 📁 Sub-Topics — Click to Open
 
-| # | Sub-Topic File | Questions | Priority |
-|---|---------------|-----------|---------|
-| 1 | [[01 — Constitution Basics]] | 12 Qs | 🔴 High |
-| 2 | [[02 — Fundamental Rights]] | 10 Qs | 🔴 High |
-| 3 | [[03 — Parliament Structure]] | 14 Qs | 🔴 High |
-| 4 | [[04 — President & Vice President]] | 8 Qs | 🔴 High |
-| 5 | [[05 — Prime Minister & Council of Ministers]] | 6 Qs | 🔴 High |
-| 6 | [[06 — Constitutional Amendments]] | 8 Qs | 🔴 High |
-| 7 | [[07 — Articles Quick Reference]] | 15 Qs | 🔴 High |
-| 8 | [[08 — Judiciary]] | 6 Qs | 🟡 Medium |
-| 9 | [[09 — Panchayati Raj & Local Bodies]] | 5 Qs | 🟡 Medium |
-| 10 | [[10 — Governor & State Government]] | 5 Qs | 🟡 Medium |
-| 11 | [[11 — Schedules of Constitution]] | 4 Qs | 🟡 Medium |
-| 12 | [[12 — Writs]] | 3 Qs | 🟡 Medium |
-| 13 | [[13 — Emergency Provisions]] | 4 Qs | 🟡 Medium |
-| 14 | [[14 — Borrowed Features (Source Countries)]] | 6 Qs | 🟡 Medium |
-| 15 | [[15 — Directive Principles & Duties]] | 4 Qs | 🟢 Low |
-| 16 | [[16 — Citizenship]] | 3 Qs | 🟢 Low |
-| 17 | [[17 — Election Commission & Voting]] | 3 Qs | 🟢 Low |
-| 18 | [[18 — UPSC & Constitutional Bodies]] | 3 Qs | 🟢 Low |
+| #   | Sub-Topic File                                 | Questions | Priority  |
+| --- | ---------------------------------------------- | --------- | --------- |
+| 1   | [[01 — Constitution Basics]]                   | 12 Qs     | 🔴 High   |
+| 2   | [[02 — Fundamental Rights]]                    | 10 Qs     | 🔴 High   |
+| 3   | [[03 — Parliament Structure]]                  | 14 Qs     | 🔴 High   |
+| 4   | [[04 — President & Vice President]]            | 8 Qs      | 🔴 High   |
+| 5   | [[05 — Prime Minister & Council of Ministers]] | 6 Qs      | 🔴 High   |
+| 6   | [[06 — Constitutional Amendments]]             | 8 Qs      | 🔴 High   |
+| 7   | [[07 — Articles Quick Reference]]              | 15 Qs     | 🔴 High   |
+| 8   | [[08 — Judiciary]]                             | 6 Qs      | 🟡 Medium |
+| 9   | [[09 — Panchayati Raj & Local Bodies]]         | 5 Qs      | 🟡 Medium |
+| 10  | [[10 — Governor & State Government]]           | 5 Qs      | 🟡 Medium |
+| 11  | [[11 — Schedules of Constitution]]             | 4 Qs      | 🟡 Medium |
+| 12  | [[12 — Writs]]                                 | 3 Qs      | 🟡 Medium |
+| 13  | [[13 — Emergency Provisions]]                  | 4 Qs      | 🟡 Medium |
+| 14  | [[14 — Borrowed Features (Source Countries)]]  | 6 Qs      | 🟡 Medium |
+| 15  | [[15 — Directive Principles & Duties]]         | 4 Qs      | 🟢 Low    |
+| 16  | [[16 — Citizenship]]                           | 3 Qs      | 🟢 Low    |
+| 17  | [[17 — Election Commission & Voting]]          | 3 Qs      | 🟢 Low    |
+| 18  | [[18 — UPSC & Constitutional Bodies]]          | 3 Qs      | 🟢 Low    |
 
 ---
 
