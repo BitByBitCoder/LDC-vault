@@ -39,13 +39,13 @@ f
 
 ## High Courts
 
-| Question | Answer |
-|----------|--------|
-| Established under | Article 214 |
-| HC jurisdiction over | Writs under Article 226 |
+| Question              | Answer                                            |
+| --------------------- | ------------------------------------------------- |
+| Established under     | Article 214                                       |
+| HC jurisdiction over  | Writs under Article 226                           |
 | HC judge appointed by | President (in consultation with CJI and Governor) |
-| First HC in India | Calcutta HC (1862) |
-| Mizoram HC | Gauhati HC has jurisdiction over Mizoram |
+| First HC in India     | Calcutta HC (1862)                                |
+| Mizoram HC            | Gauhati HC has jurisdiction over Mizoram          |
 
 ## Exam Traps ⚠️
 > SC writ = **Article 32**; HC writ = **Article 226** — don't mix
