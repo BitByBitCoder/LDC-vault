@@ -21,25 +21,25 @@
 
 ## All Important Amendments — Complete Table
 
-| Amendment | Year | What it did                                                                              |
-| --------- | ---- | ---------------------------------------------------------------------------------------- |
-| **1st**   | 1951 | Added 9th Schedule — land reforms                                                        |
-| **7th**   | 1956 | Reorganisation of states on linguistic basis                                             |
-| **24th**  | 1971 | Parliament can amend any part of Constitution                                            |
-| **25th**  | 1971 | Restricted Right to Property                                                             |
-| **42nd**  | 1976 | Added: Secular, Socialist, Integrity to Preamble; added Fundamental Duties; DPSP over FR |
-| **44th**  | 1978 | Removed Right to Property as FR; restored provisions changed by 42nd                     |
-| **52nd**  | 1985 | Anti-defection law — 10th Schedule                                                       |
-| **61st**  | 1989 | Voting age reduced from **21 to 18**                                                     |
-| **73rd**  | 1992 | **Panchayati Raj** — 3-tier system — 11th Schedule                                       |
-| **74th**  | 1992 | **Urban Local Bodies** — Municipalities — 12th Schedule                                  |
-| **86th**  | 2002 | **Right to Education** — Article 21A — free & compulsory 6–14 yrs                        |
-| **91st**  | 2003 | Max ministers = 15% of house strength                                                    |
-| **97th**  | 2011 | Right to form co-operative societies                                                     |
-| **101st** | 2016 | **GST** — Goods and Services Tax                                                         |
-| **102nd** | 2018 | National Commission for Backward Classes                                                 |
-| **103rd** | 2019 | 10% EWS (Economic Weaker Section) reservation                                            |
-| **104th** | 2020 | Removed Anglo-Indian nominated seats in Parliament                                       |
+| **Amendment** | **Year** | **What it did (English)**                                                                 | **Mizo Hrilhfiahna / Hriat tur pawimawh**                                                                                                                                           |
+| ------------- | -------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1st**       | 1951     | Added 9th Schedule — land reforms.                                                        | **9th Schedule** a dah belh a. Sorkarin zalen taka ram sem zai hna (land reforms) a thawh theih nan court inrawlh lakah he schedule-a dante hi a venhim phah a ni.                  |
+| **7th**       | 1956     | Reorganisation of states on linguistic basis.                                             | India ram state-te kha **tawng hman dan azirin** a thar tura then hrang leh remkhawm leh a ni (State 14 leh UT 6 din a ni).                                                         |
+| **24th**      | 1971     | Parliament can amend any part of Constitution.                                            | Fundamental Rights thleng pawhin Parliament-in a duh chuan Danpui (Constitution) hi a siamtha thei a ni tih tichiantu a ni.                                                         |
+| **25th**      | 1971     | Restricted Right to Property.                                                             | Sorkarin vantlang tana hmasawnna hna a thawh dawnna mi mal ram a laksak hian zangnadawmna (compensation) pek chhuah dan thuneihna a ti tlem.                                        |
+| **42nd**      | 1976     | Added: Secular, Socialist, Integrity to Preamble; added Fundamental Duties; DPSP over FR. | Preamble-ah thumal thum a belh a, **Fundamental Duties** a vawi khatna atan a dah belh bawk. He amendment hi a lian tham em avangin **"Mini-Constitution"** tiin an sawi hial thin. |
+| **44th**      | 1978     | Removed Right to Property as FR; restored provisions changed by 42nd.                     | _Right to Property_ kha Fundamental Right atangin a paih a. Emergency laia sorkarin thuneihna a lo hman sual tawhte siamthat lehna dan a ni.                                        |
+| **52nd**      | 1985     | Anti-defection law — 10th Schedule.                                                       | **Anti-Defection Law** rawn siamna a ni. MP emaw MLA emaw, mahni party phatsana party danga inpe chawp thinte hremna dan (10th Schedule) a ni.                                      |
+| **61st**      | 1989     | Voting age reduced from 21 to 18.                                                         | Vote thlak theih kum tlin chin chu **kum 21 atangin kum 18-ah** a tihniam.                                                                                                          |
+| **73rd**      | 1992     | Panchayati Raj — 3-tier system — 11th Schedule.                                           | Thingtlang tualchhung rorelna khawhna (**Panchayati Raj System**) dinna a ni a, **11th Schedule** a belh thung.                                                                     |
+| **74th**      | 1992     | Urban Local Bodies — Municipalities — 12th Schedule.                                      | Khawpui lama tualchhung rorelna (**Municipalities**) dinna leh **12th Schedule** belhna a ni.                                                                                       |
+| **86th**      | 2002     | Right to Education — Article 21A — free & compulsory 6–14 yrs.                            | Kum 6 atanga 14 inkar naupang zawng zawng tana a thlawn leh neih ngei ngei tur zirna (**Right to Education - Article 21A**) a rawn siam.                                            |
+| **91st**      | 2003     | Max ministers = 15% of house strength.                                                    | Minister zat tur bitukna a ni. PM/CM telin Minister zawng zawng zat hi Lok Sabha/Assembly seat awm zawng zawng **15% aia tam** a ni tur a ni lo.                                    |
+| **97th**      | 2011     | Right to form co-operative societies.                                                     | _Co-operative societies_ din theihna thuneihna kha Danpui anga khua leh tui dikna chanvo (Fundamental Right) pakhatah a rawn siam.                                                  |
+| **101st**     | 2016     | GST — Goods and Services Tax.                                                             | Ram pum huapa chhiah hman thar, **GST (Goods and Services Tax)** luhpuihna dan a ni.                                                                                                |
+| **102nd**     | 2018     | National Commission for Backward Classes.                                                 | _National Commission for Backward Classes (NCBC)_ kha Danpui anga hmunpui pawmawh (Constitutional Status) a pe ta.                                                                  |
+| **103**rd     | 2019     | 10% EWS (Economic Weaker Section) reservation.                                            | Rethei leh harsa zual, SC/ST/OBC pawl fiaha tel lo (General Category) te tan sorkar hna leh zirna hmunah **10% reservation (EWS)** a siam.                                          |
+| **104th**     | 2020     | Removed Anglo-Indian nominated seats in Parliament.                                       | Lok Sabha leh State Assembly-a **Anglo-Indian** tana seat zuah (nominate) thin kha a paih bo ta a, SC/ST tana seat zuah thung chu kum 10 dangin a pawsei thung.                     |
 
 ## Preamble Changes
 
