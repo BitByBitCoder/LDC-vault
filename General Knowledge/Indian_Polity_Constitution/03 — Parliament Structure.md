@@ -87,6 +87,8 @@
 
 
 
+Extra
+
 Based on the tables you just shared, the LDC exam pattern for Indian Polity is crystal clear. The examiners are not testing deep legal theories; they are testing **Authority, Exceptions, and Numbers**.
 
 Here is the exact pattern they use:
