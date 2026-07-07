@@ -5,19 +5,19 @@
 
 ## Questions From Your Papers
 
-| Question | Answer |
-|----------|--------|
-| Amendment procedure — Article | **Article 368** |
-| First Amendment year | **1951** |
-| Which amendment added Fundamental Duties | **42nd Amendment (1976)** |
-| Which amendment added Secular + Socialist to Preamble | **42nd Amendment (1976)** |
-| Which amendment reversed 42nd changes | **44th Amendment (1978)** |
-| Right to Property removed by | **44th Amendment (1978)** |
-| Panchayati Raj amendment | **73rd Amendment (1992)** |
-| Urban Local Bodies amendment | **74th Amendment (1992)** |
-| Right to Education amendment | **86th Amendment (2002)** |
-| Goods & Services Tax amendment | **101st Amendment (2016)** |
-| Current age to vote — changed by | **61st Amendment (1989)** — 21 to 18 years |
+|**Question / Topic**|**Answer**|**Mizo Hrilhfiahna / Hriat tur pawimawh**|
+|---|---|---|
+|**Amendment procedure — Article**|Article 368|India ram Danpui (Constitution) siamthat hna kalpui dan leh phung tarlanna Article a ni.|
+|**First Amendment year**|1951|India ram Danpui siamthat (amend) vawi khatna ber kum a ni.|
+|**Which amendment added Fundamental Duties**|42nd Amendment (1976)|Ram tana khua leh tui kan mawhphurhna (Fundamental Duties) Danpuia a vawi khatna atana belh luhna a ni.|
+|**Which amendment added Secular + Socialist to Preamble**|42nd Amendment (1976)|Preamble-ah _Socialist_, _Secular_, leh _Integrity_ tih thumalte hi belh a ni. (He 42nd Amendment hi **"Mini-Constitution"** tiin an sawi hial thin).|
+|**Which amendment reversed 42nd changes**|44th Amendment (1978)|Emergency laia 42nd Amendment-in thil a lo thlak danglam vak mai kha sorkar tharin a siamtha leh a ni.|
+|**Right to Property removed by**|44th Amendment (1978)|_Right to Property_ kha Fundamental Right atanga paih chhuah a ni a, Article 300A hnuaiah _Legal Right_ chauhva siam a ni ta.|
+|**Panchayati Raj amendment**|73rd Amendment (1992)|Thualchhung thingtlang rorelna khawhna (Panchayati Raj System) Danpui anga rawn pawmna leh dinna a ni.|
+|**Urban Local Bodies amendment**|74th Amendment (1992)|Khawpui lama tualchhung rorelna (Municipalities / Urban Local Bodies) rawn dinna a ni.|
+|**Right to Education amendment**|86th Amendment (2002)|Kum 6 atanga 14 inkar naupang zawng zawng tana a thlawn leh neih ngei ngei tur zirna (_Right to Education_ - Article 21A) rawn siamna a ni.|
+|**Goods & Services Tax amendment**|101st Amendment (2016)|Ram pum huapa chhiah hman thar, GST (Goods and Services Tax) luhpuihna dan a ni.|
+|**Current age to vote — changed by**|61st Amendment (1989)|Vote thlak thei kum chu kum 21 a ni thin a, chu chu kum 18-ah tihhniam a nihna dan a ni.|
 
 ## All Important Amendments — Complete Table
 
