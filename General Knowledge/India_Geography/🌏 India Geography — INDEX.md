@@ -32,28 +32,28 @@
 
 ## ⚡ Flash Facts — Memorize First
 
-| Question | Answer |
-|----------|--------|
-| Longest river in India | **Ganga** |
-| Largest state by area | **Rajasthan** |
-| Smallest state by area | **Goa** |
-| Largest coastline state | **Gujarat** |
-| Largest brackish water lake | **Chilika Lake (Odisha)** |
-| Highest lake salinity | **Sambhar Lake (Rajasthan)** |
-| Highest peak Peninsular India | **Anaimudi (Kerala) — 2,695m** |
-| Highest motorable pass | **Umling La (Ladakh)** |
-| Smallest UT | **Lakshadweep** |
-| India's only active volcano | **Barren Island (Andaman)** |
-| Western + Eastern Ghats meet | **Nilgiri Hills** |
-| Palk Strait — between | **India and Sri Lanka** |
-| Tropic of Cancer — 8 states | **Gujarat, Rajasthan, MP, CG, JH, WB, Tripura, Mizoram** |
-| State with largest forest cover | **Madhya Pradesh** |
-| World's deepest lake | **Lake Baikal (Russia)** |
-| Highest quality coal | **Anthracite** |
-| Latitude expressed relative to | **Equator** |
-| Scotland of the East | **Shillong** |
-| Largest river island in world | **Majuli Island (Assam)** |
-| Country highest population density | **Bangladesh** |
+| Question                           | Answer                                                   |
+| ---------------------------------- | -------------------------------------------------------- |
+| Longest river in India             | **Ganga**                                                |
+| Largest state by area              | **Rajasthan**                                            |
+| Smallest state by area             | **Goa**                                                  |
+| Largest coastline state            | **Gujarat**                                              |
+| Largest brackish water lake        | **Chilika Lake (Odisha)**                                |
+| Highest lake salinity              | **Sambhar Lake (Rajasthan)**                             |
+| Highest peak Peninsular India      | **Anaimudi (Kerala) — 2,695m**                           |
+| Highest motorable pass             | **Umling La (Ladakh)**                                   |
+| Smallest UT                        | **Lakshadweep**                                          |
+| India's only active volcano        | **Barren Island (Andaman)**                              |
+| Western + Eastern Ghats meet       | **Nilgiri Hills**                                        |
+| Palk Strait — between              | **India and Sri Lanka**                                  |
+| Tropic of Cancer — 8 states        | **Gujarat, Rajasthan, MP, CG, JH, WB, Tripura, Mizoram** |
+| State with largest forest cover    | **Madhya Pradesh**                                       |
+| World's deepest lake               | **Lake Baikal (Russia)**                                 |
+| Highest quality coal               | **Anthracite**                                           |
+| Latitude expressed relative to     | **Equator**                                              |
+| Scotland of the East               | **Shillong**                                             |
+| Largest river island in world      | **Majuli Island (Assam)**                                |
+| Country highest population density | **Bangladesh**                                           |
 
 ---
 
