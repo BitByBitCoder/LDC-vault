@@ -5,19 +5,19 @@
 
 ## Questions From Your Papers
 
-| Question | Answer |
-|----------|--------|
-| Supreme Court established | **Article 124** |
-| SC original jurisdiction (disputes between states) | **Article 131** |
-| SC writ jurisdiction | **Article 32** |
-| High Court writ jurisdiction | **Article 226** |
-| CJI appointed by | **President** |
-| SC judges retirement age | **65 years** |
-| HC judges retirement age | **62 years** |
-| First CJI of India | **H.J. Kania** |
-| Current CJI | **Sanjiv Khanna** (verify before exam) |
-| SC judges can be removed by | **Impeachment by Parliament** |
-| Judicial review power — Article | **Article 13** |
+| Question                                           | Answer                                 |
+| -------------------------------------------------- | -------------------------------------- |
+| Supreme Court established                          | **Article 124**                        |
+| SC original jurisdiction (disputes between states) | **Article 131**                        |
+| SC writ jurisdiction                               | **Article 32**                         |
+| High Court writ jurisdiction                       | **Article 226**                        |
+| CJI appointed by                                   | **President**                          |
+| SC judges retirement age                           | **65 years**                           |
+| HC judges retirement age                           | **62 years**                           |
+| First CJI of India                                 | **H.J. Kania**                         |
+| Current CJI                                        | **Sanjiv Khanna** (verify before exam) |
+| SC judges can be removed by                        | **Impeachment by Parliament**          |
+| Judicial review power — Article                    | **Article 13**                         |
 
 ## Supreme Court — Structure
 
