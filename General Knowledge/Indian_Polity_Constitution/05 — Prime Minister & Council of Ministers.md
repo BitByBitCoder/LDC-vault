@@ -44,13 +44,14 @@
 
 ## Key PM Facts
 
-| Question                    | Answer                                  |
-| --------------------------- | --------------------------------------- |
-| Min age for PM              | **25 years** (must be Lok Sabha member) |
-| PM must be member of        | Either house of Parliament              |
-| If PM not MP at appointment | Must become MP within **6 months**      |
-| PM can be from Rajya Sabha  | **Yes** — e.g., Manmohan Singh          |
-| PM removed by               | **Losing confidence vote in Lok Sabha** |
+
+| **Question / Topic**            | **Answer**                          | **Mizo Hrilhfiahna / Hriat tur pawimawh**                                                                                                        |
+| ------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Min age for PM**              | 25 years (if Lok Sabha member)      | Lok Sabha member nihna tlin chin chu kum 25 a ni a, Rajya Sabha atanga tlin a nih thung chuan kum 30 tlin a ngai.                                |
+| **PM must be member of**        | Either house of Parliament          | Lok Sabha emaw Rajya Sabha khawi zawk zawk member pawh a ni thei.                                                                                |
+| **If PM not MP at appointment** | Must become MP within 6 months      | PM-a an ruat lai hian MP la ni lo mah se, Article 75(5) na angin thla 6 chhungin Parliament House pakhatah MP a nih hman ngei ngei a ngai.       |
+| **PM can be from Rajya Sabha**  | Yes — e.g., Manmohan Singh          | Rajya Sabha MP pawh PM a ni thei. Entirnan: Indira Gandhi, H.D. Deve Gowda, I.K. Gujral, leh Dr. Manmohan Singh te kha Rajya Sabha member an ni. |
+| **PM removed by**               | Losing confidence vote in Lok Sabha | Lok Sabha-ah thlawptu a neih tlem zawk vanga _No-Confidence Motion_ an pass chuan PM leh a Council of Ministers ho zawng zawng an bân a ngai.    |
 
 ## Exam Traps ⚠️
 > Max ministers = **15% of Lok Sabha strength** (91 approx) — NOT a fixed number
