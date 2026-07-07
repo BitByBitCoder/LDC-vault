@@ -5,19 +5,19 @@
 
 ## Questions From Your Papers
 
-| Question                                           | Answer                                 |
-| -------------------------------------------------- | -------------------------------------- |
-| Supreme Court established                          | **Article 124**                        |
-| SC original jurisdiction (disputes between states) | **Article 131**                        |
-| SC writ jurisdiction                               | **Article 32**                         |
-| High Court writ jurisdiction                       | **Article 226**                        |
-| CJI appointed by                                   | **President**                          |
-| SC judges retirement age                           | **65 years**                           |
-| HC judges retirement age                           | **62 years**                           |
-| First CJI of India                                 | **H.J. Kania**                         |
-| Current CJI                                        | **Sanjiv Khanna** (verify before exam) |
-| SC judges can be removed by                        | **Impeachment by Parliament**          |
-| Judicial review power — Article                    | **Article 13**                         |
+|**Question / Topic**|**Answer**|**Mizo Hrilhfiahna / Hriat tur pawimawh**|
+|---|---|---|
+|**Supreme Court established**|Article 124|India ram Supreme Court dinna leh a Judge-te ruat dan (appointment) tarlanna.|
+|**SC original jurisdiction**|Article 131|State leh State inkar buaina emaw, Central leh State inkar buaina thubuai direct-a Supreme Court-a thlen nghal theihna thuneihna.|
+|**SC writ jurisdiction**|Article 32|Mipui Fundamental Right bawhchhiat a nih laia Supreme Court-a zualko vana Writ chhuahna dan.|
+|**High Court writ jurisdiction**|Article 226|High Court-in Writ a chhuah theihna thuneihna lian tak a ni.|
+|**CJI appointed by**|President|Chief Justice of India leh Judge dangte hi President-in thla thlenga a ruat thin an ni.|
+|**SC judges retirement age**|65 years|Supreme Court Judge-te chawlh (retire) kum bituk a ni.|
+|**HC judges retirement age**|62 years|High Court Judge-te chawlh kum bituk a ni (Exam-ah SC leh HC retirement age hi an thlei hrang thiam em tih an zawt fo).|
+|**First CJI of India**|H.J. Kania|India ram Supreme Court hotu ber hmasa ber a ni.|
+|**Current CJI**|**Justice Surya Kant**|Tun dinhmuna India ram Chief Justice lai (53-na) a ni a, February 2027 thleng a chelh ang.|
+|**SC judges can be removed by**|Impeachment by Parliament|Judge-te hi awlsam taka bân ngawt theih an ni lo va, Parliament House pahnihin thutlukna (Impeachment) an siam hnuah chauh President-in a paih thla thei.|
+|**Judicial review power**|Article 13|Sorkar dan siam thar a dik em tih court-in a lo ennatsak (review) theihna dan tlungphum pakhat a ni.|
 
 ## Supreme Court — Structure
 
