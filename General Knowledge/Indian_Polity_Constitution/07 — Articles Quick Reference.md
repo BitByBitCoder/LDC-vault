@@ -84,6 +84,8 @@ LDC exam-ah hian i list-a la tel lo, zawh fo thin **Article pawimawh em em 5** k
 
 ## Parts of Constitution
 
+
+
 |**Part**|**Articles**|**Content**|**Mizo Hrilhfiahna / Hriat tur pawimawh**|
 |---|---|---|---|
 |**Part I**|1–4|Union and its territory|India ram huam chin leh state hrang hrangte din leh siam rem dan.|
@@ -93,7 +95,10 @@ LDC exam-ah hian i list-a la tel lo, zawh fo thin **Article pawimawh em em 5** k
 |**Part IVA**|51A|Fundamental Duties|Ram tana khua leh tui kan mawhphurhna leh tihtur hrang hrang 11.|
 |**Part V**|52–151|The Union|Central sorkar hmunpui (President, PM, Parliament, leh Supreme Court).|
 |**Part VI**|152–237|The States|State sorkar kalphung (Governor, CM, Assembly, leh High Court).|
-|**Part XI**|**245–263**|Relations between Union & States|Central sorkar leh State sorkar inlaichinna leh thuneihna insem dan.|
+|**Part IX**|243–243O|The Panchayats|Thingtlang tualchhung rorelna khawhna dan (73rd Amendment hmanga belh).|
+|**Part IXA**|243P–243ZG|The Municipalities|Khawpui lama tualchhung rorelna/Municipalities (74th Amendment hmanga belh).|
+|**Part XI**|245–263|Relations between Union & States|Central sorkar leh State sorkar inlaichinna leh thuneihna insem dan.|
+|**Part XV**|324–329A|Elections|India rama inthlanpui kalpui dan leh Election Commission thuneihna huang.|
 |**Part XVIII**|352–360|Emergency Provisions|Emergency (National, President's Rule, Financial) puan leh hman dan.|
 |**Part XX**|368|Amendment of Constitution|Danpui siamțhatna (Amendment) hna kalpui dan leh a phung chiah.|
 
