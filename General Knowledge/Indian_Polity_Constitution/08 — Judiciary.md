@@ -39,13 +39,18 @@ f
 
 ## High Courts
 
-| Question              | Answer                                            |
-| --------------------- | ------------------------------------------------- |
-| Established under     | Article 214                                       |
-| HC jurisdiction over  | Writs under Article 226                           |
-| HC judge appointed by | President (in consultation with CJI and Governor) |
-| First HC in India     | Calcutta HC (1862)                                |
-| Mizoram HC            | Gauhati HC has jurisdiction over Mizoram          |
+Yes, every single point on your list is **100% correct**. These are high-yield, accurate facts that are essential for competitive government exams.
+
+To make it easier to review and memorize, here is your list organized with the exact legal context and Mizo explanations:
+
+| **Topic / Provision**    | **English Details**                 | **Mizo Meaning & Exam Context**                                                             |
+| ------------------------ | ----------------------------------- | ------------------------------------------------------------------------------------------- |
+| **Established Under**    | Article 214                         | State tinin High Court an nei tur a ni tih hriattirna.                                      |
+| **Writ Jurisdiction**    | Article 226                         | High Court-in Fundamental Rights leh dikna hrang hrang vawnghim tura Writ a chhuah theihna. |
+| **Judge Appointment**    | President (consults CJI & Governor) | India President-in Chief Justice of India leh Governor-te rawnin a ruat thin.               |
+| **First HC in India**    | Calcutta HC (1862)                  | India rama High Court hlapui din hmasak ber (July 1, 1862).                                 |
+| **Mizoram Jurisdiction** | Gauhati HC has jurisdiction         | Mizoram chuan Gauhati HC thuneihna a hmanpui (Aizawl-ah Permanent Bench a awm).             |
+k
 
 ## Exam Traps ⚠️
 > SC writ = **Article 32**; HC writ = **Article 226** — don't mix
