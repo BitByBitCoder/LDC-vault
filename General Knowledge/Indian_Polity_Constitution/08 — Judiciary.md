@@ -30,11 +30,12 @@ Exam-ah hian he thupui bik hi an zawt duh thut thin:
 | Question                              | Answer                                   |
 | ------------------------------------- | ---------------------------------------- |
 | Location                              | New Delhi                                |
-| Total judges including CJI            | **34** (CJI + 33)                        |
+| Total judges including CJI            | **38** (CJI + 37)                        |
 | Minimum judges for Constitution bench | **5**                                    |
 | SC can issue writs under              | Article 32                               |
 | SC has original jurisdiction in       | Disputes between Centre and States       |
 | SC advisory jurisdiction              | Article 143 — President seeks SC opinion |
+f
 
 ## High Courts
 
