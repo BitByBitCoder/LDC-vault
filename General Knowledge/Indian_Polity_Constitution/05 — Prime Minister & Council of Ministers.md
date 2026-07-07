@@ -36,21 +36,21 @@
 
 ## Council of Ministers — 3 Categories
 
-| Category               | Key Fact                              |
-| ---------------------- | ------------------------------------- |
-| **Cabinet Ministers**  | Most senior — attend Cabinet meetings |
-| **Ministers of State** | Junior — may/may not attend Cabinet   |
-| **Deputy Ministers**   | Assist Cabinet ministers              |
+|**Category**|**Key Fact**|**Mizo Hrilhfiahna / Hriat tur pawimawh**|
+|---|---|---|
+|**Cabinet Ministers**|Most senior — attend Cabinet meetings|Sorkara Minister lian leh thuneitu berte an ni. Sorkar thutlukna pawimawh siamna (Cabinet meeting)-ah hian an tel ngei ngei thin a, ministry lian (Home, Finance, Defence) an chang tlangpui.|
+|**Ministers of State (MoS)**|Junior — may/may not attend Cabinet|Cabinet Minister-te aia dinhmun hniam deuh hlek an ni. Mahni puala department enkawl (Independent Charge) an awm thei a, emaw Cabinet Minister te hnuaiah an thawk thei bawk. Cabinet meeting-ah hian bik taka sawm (invited) an nih chauhvin an tel thei.|
+|**Deputy Ministers**|Assist Cabinet ministers|Minister dang (Cabinet leh MoS) te hnathawh phuhrutu leh puitute an ni a. Independent charge an nei ngai lo va, Cabinet meeting-ah pawh an tel ve ngai lo.|
 
 ## Key PM Facts
 
-| Question | Answer |
-|----------|--------|
-| Min age for PM | **25 years** (must be Lok Sabha member) |
-| PM must be member of | Either house of Parliament |
-| If PM not MP at appointment | Must become MP within **6 months** |
-| PM can be from Rajya Sabha | **Yes** — e.g., Manmohan Singh |
-| PM removed by | **Losing confidence vote in Lok Sabha** |
+| Question                    | Answer                                  |
+| --------------------------- | --------------------------------------- |
+| Min age for PM              | **25 years** (must be Lok Sabha member) |
+| PM must be member of        | Either house of Parliament              |
+| If PM not MP at appointment | Must become MP within **6 months**      |
+| PM can be from Rajya Sabha  | **Yes** — e.g., Manmohan Singh          |
+| PM removed by               | **Losing confidence vote in Lok Sabha** |
 
 ## Exam Traps ⚠️
 > Max ministers = **15% of Lok Sabha strength** (91 approx) — NOT a fixed number
