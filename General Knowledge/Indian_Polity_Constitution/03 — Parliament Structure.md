@@ -71,7 +71,7 @@
 |**Current Speaker**|Om Birla|Serving since 2019 (re-elected).|
 
 ### **Key Constitutional Positions**
-
+[Key position](sub%20ip%20and%20c/Key%20position.md)
 
 | **Position**       | **Who Elects Them?**                                                             | **Removal Process**                                                       | **Term** | **Power / Role**                                                           |
 | ------------------ | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------- | -------------------------------------------------------------------------- |
