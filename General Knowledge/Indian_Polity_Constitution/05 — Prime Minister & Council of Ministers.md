@@ -5,21 +5,21 @@
 
 ## Questions From Your Papers
 
-| Question | Answer |
-|----------|--------|
-| PM resigns to | **President** |
-| PM appointed by | **President** |
-| Max ministers including PM | **15% of Lok Sabha strength** |
-| Council of Ministers — Article | **Article 74** |
-| PM — Article | **Article 75** |
-| PM oath administered by | **President** |
-| Collective responsibility of cabinet | To **Lok Sabha** |
-| NITI Aayog ex-officio chairman | **Prime Minister** |
-| Planning Commission replaced by | **NITI Aayog (2015)** |
-| First PM of India | Jawaharlal Nehru |
-| Longest serving PM | **Jawaharlal Nehru** |
-| First woman PM | **Indira Gandhi** |
-| Current PM | **Narendra Modi** |
+| Question                             | Answer                        |
+| ------------------------------------ | ----------------------------- |
+| PM resigns to                        | **President**                 |
+| PM appointed by                      | **President**                 |
+| Max ministers including PM           | **15% of Lok Sabha strength** |
+| Council of Ministers — Article       | **Article 74**                |
+| PM — Article                         | **Article 75**                |
+| PM oath administered by              | **President**                 |
+| Collective responsibility of cabinet | To **Lok Sabha**              |
+| NITI Aayog ex-officio chairman       | **Prime Minister**            |
+| Planning Commission replaced by      | **NITI Aayog (2015)**         |
+| First PM of India                    | Jawaharlal Nehru              |
+| Longest serving PM                   | **Jawaharlal Nehru**          |
+| First woman PM                       | **Indira Gandhi**             |
+| Current PM                           | **Narendra Modi**             |
 
 ## Council of Ministers — 3 Categories
 
