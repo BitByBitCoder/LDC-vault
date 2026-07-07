@@ -30,14 +30,14 @@
 
 ## President — Powers & Facts
 
-| Question                        | Answer                                              |
-| ------------------------------- | --------------------------------------------------- |
-| Pardoning power of President    | Article 72                                          |
-| Who can seek President's pardon | Anyone convicted by court martial or death sentence |
-| Ordinance power — Article       | **Article 123**                                     |
-| First President of India        | Dr. Rajendra Prasad                                 |
-| First woman President           | Pratibha Patil                                      |
-| Current President               | Droupadi Murmu (first tribal woman President)       |
+| **Question / Topic**                | **Answer**                                          | **Mizo Hrilhfiahna / Hriat tur pawimawh**                                                                                                                                 |
+| ----------------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Pardoning power of President**    | Article 72                                          | President-in mi sual hremna tihhniam phalsak leh ngaihdamna (pardon) a pek theihna dan a ni.                                                                              |
+| **Who can seek President's pardon** | Anyone convicted by court martial or death sentence | Court martial (sipai court) thutlukna siam leh thihna hremna (death sentence) hi chu President chauh hian a ngaidam thei (State Governor-in he thuneihna hi a nei ve lo). |
+| **Ordinance power — Article**       | Article 123                                         | Parliament a thut khawm loh laia thil hmanhmawh thlak a awm chuan, President-in Dan lailawk (Ordinance) a siam thei thin.                                                 |
+| **First President of India**        | Dr. Rajendra Prasad                                 | India ram President hmasa ber a ni.                                                                                                                                       |
+| **First woman President**           | Pratibha Patil                                      | India rama hmeichhe President hmasa ber a ni.                                                                                                                             |
+| **Current President**               | Droupadi Murmu                                      | Tun dinhmuna India ram President lai a ni a, tlangmi/hnam hnuaihnung (tribal) zinga hmeichhe President hmasa ber a ni.                                                    |
 
 ## Vice President — Key Facts
 
