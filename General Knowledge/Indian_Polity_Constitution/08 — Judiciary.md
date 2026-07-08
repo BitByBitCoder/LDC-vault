@@ -27,14 +27,14 @@ Exam-ah hian he thupui bik hi an zawt duh thut thin:
 - **Shortest serving CJI:** **Kamal Narain Singh** (Ni 17 chauh a chelh hman).
 ## Supreme Court — Structure
 
-| Question                              | Answer                                   |
-| ------------------------------------- | ---------------------------------------- |
-| Location                              | New Delhi                                |
-| Total judges including CJI            | **38** (CJI + 37)                        |
-| Minimum judges for Constitution bench | **5**                                    |
-| SC can issue writs under              | Article 32                               |
-| SC has original jurisdiction in       | Disputes between Centre and States       |
-| SC advisory jurisdiction              | Article 143 — President seeks SC opinion |
+|**Topic / Article**|**Answer**|**Mizo Hrilhfiahna / Hriat tur pawimawh**|
+|---|---|---|
+|**Location**|New Delhi|India apex court (hinfiahna hmun sang ber) awmna hmun a ni.|
+|**Total Judges**|38 (CJI + 37)|May 2026 khan sanctioned strength hi 34 atangin 38-ah tihpun a ni.|
+|**Constitution Bench**|Minimum 5 judges|Dan Pui (Constitution) thil hrilhfiah ngai khawpa pawimawh ngaihtuah tur chuan judge 5 tal an țhutkhawm a ngai.|
+|**Writs Jurisdiction**|Article 32|Mipui dikna hnar (Fundamental Rights) humhalh nan SC hian Writ chi hrang hrang a tichhuak thei.|
+|**Original Jurisdiction**|Disputes between Centre and States|Central leh State inkar emaw, State leh State inkara buaina thleng court danga kaltlang lova SC-a tlang nghal theihna a ni.|
+|**Advisory Jurisdiction**|Article 143|Ram President-in dan chungchang bikah SC thurawn (opinion) a dil theihna dan pui a ni.|
 f
 
 ## High Courts
