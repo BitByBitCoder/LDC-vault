@@ -4,28 +4,27 @@
 ---
 
 ## All 12 Schedules — Complete Table
-
-| Schedule | Content                                                      | Key Exam Fact                           |
-| -------- | ------------------------------------------------------------ | --------------------------------------- |
-| **1st**  | States and Union Territories list                            | 28 states + 8 UTs                       |
-| **2nd**  | Salaries of President, VP, Governors, Judges                 | —                                       |
-| **3rd**  | Oaths and Affirmations                                       | —                                       |
-| **4th**  | Allocation of Rajya Sabha seats to states                    | —                                       |
-| **5th**  | Administration of Scheduled Areas & Tribes                   | NOT NE states                           |
-| **6th**  | Tribal areas admin in Assam, Meghalaya, Tripura, **Mizoram** | Chakma, Lai, Mara in Mizoram            |
-| **7th**  | Division of powers — Union/State/Concurrent Lists            | Most important                          |
-| **8th**  | 22 Official Languages                                        | Hindi, Mizo NOT in this list separately |
-| **9th**  | Land reform laws — beyond judicial review                    | Added by 1st Amendment                  |
-| **10th** | Anti-defection law                                           | Added by 52nd Amendment 1985            |
-| **11th** | Panchayati Raj — 29 subjects                                 | Added by 73rd Amendment                 |
-| **12th** | Municipalities — 18 subjects                                 | Added by 74th Amendment                 |
+|**Schedule**|**Content**|**Key Exam Fact (Corrected)**|**Mizo Notes / Hriat tur pawimawh**|
+|---|---|---|---|
+|**1st**|States and Union Territories list|**28 States + 8 UTs**|India ram state leh UT awm zawng zawng hming leh an ram ri chin tarlarna a ni.|
+|**2nd**|Salaries / Allowances of high officials|**VP salary bik a hrangin a awm lo**|President, Governors, Judges, leh Speaker-te hlawh ziahna a ni. (Vice President hlawh hi chu _Chairman of Rajya Sabha_ a nihna angin a hlawh thung).|
+|**3rd**|Oaths and Affirmations (Thutiam)|**President thutiam a tel lo**|MPs, MLAs, leh Judges-te thutiam dan a ni. (President, VP, leh Governor thutiam chu _Articles_ lamah a hrangin a awm thung).|
+|**4th**|Allocation of Rajya Sabha seats|Allocation based on population|State leh UT hrang hrang ten Rajya Sabha-ah seat engzah nge an neih dawn tih tarlarna.|
+|**5th**|Scheduled Areas & Tribes admin|**Excludes 4 NE States**|India rama hnam hnuatkhawmte awmna bial enkawl dan (Mizoram erawh a tel lo).|
+|**6th**|Tribal areas in Assam, Meghalaya, Tripura, Mizoram|**Chakma, Lai, Mara (Mizoram)**|North-East state 4-a tlangmi bik Autonomous District Councils (ADCs) thuneihna dan.|
+|**7th**|Division of powers (Lists)|Union (100), State (61), Concurrent (52)|Central sorkar leh State sorkar thuneihna sem thlukna (Federal structure lungphu).|
+|**8th**|22 Official Languages|**Hindi a tel**; English & Mizo an tel lo|A tirah khan 14 chauh a ni a, tunah chuan 22 lai a tling tawh.|
+|**9th**|Land reform laws / Validation|Added by **1st Amendment (1951)**|Court-in sorkar thil tih a hnawl thut loh nana dan humhalh bik (Judicial review laka fihlimna).|
+|**10th**|Anti-defection law (Party thlak sek)|Added by **52nd Amendment (1985)**|Inthlan zawh hnuah duhtawka party sawn kual (party hop) ching MP/MLA-te bân theihna dan.|
+|**11th**|Panchayati Raj (Rural Local Body)|**29 Subjects** / **73rd Amendment**|Thingtlang tualchhung rorelna sorkar thupui/mawhphurhna 29 tarlarna.|
+|**12th**|Municipalities (Urban Local Body)|**18 Subjects** / **74th Amendment**|Khawpui lam tualchhung rorelna sorkar thupui/mawhphurhna 18 tarlarna.|
 
 ## 7th Schedule — Three Lists (Most Tested)
 
-| List | Items | Who Legislates |
-|------|-------|---------------|
-| **Union List** | 97 subjects | **Parliament only** |
-| **State List** | 66 subjects | **State Legislature** |
+| List                | Items       | Who Legislates                 |
+| ------------------- | ----------- | ------------------------------ |
+| **Union List**      | 97 subjects | **Parliament only**            |
+| **State List**      | 66 subjects | **State Legislature**          |
 | **Concurrent List** | 47 subjects | **Both — Parliament prevails** |
 
 ### Union List Examples
