@@ -20,11 +20,11 @@
 
 ## 3-Tier Panchayati Raj Structure
 
-| Level | Name | Covers |
-|-------|------|--------|
-| Village level | **Gram Panchayat** | Village |
-| Block/Taluk level | **Panchayat Samiti** (Block) | Block |
-| District level | **Zila Parishad** | District |
+| Level             | Name                         | Covers   |
+| ----------------- | ---------------------------- | -------- |
+| Village level     | **Gram Panchayat**           | Village  |
+| Block/Taluk level | **Panchayat Samiti** (Block) | Block    |
+| District level    | **Zila Parishad**            | District |
 
 ## Urban Local Bodies (74th Amendment)
 
