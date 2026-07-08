@@ -21,12 +21,30 @@
 
 ## 7th Schedule — Three Lists (Most Tested)
 
-|**List Name**|**Original Subjects**|**Present Subjects**|**Who Legislates?**|**Mizo Notes / Examples**|
-|---|---|---|---|---|
-|**Union List** _(List I)_|97|**100**|Parliament only|Central Sorkar chauhva thuneihna (Defence, Banking, Foreign Affairs).|
-|**State List** _(List II)_|66|**61**|State Legislature|State Sorkar thuneihna bik (Police, Public Health, Agriculture).|
-|**Concurrent List** _(List III)_|47|**52**|Both (Parliament prevails in a conflict)|Sorkar pahnih thuneihna (Education, Forests, Marriage).|
+| **List Name**                    | **Original Subjects** | **Present Subjects** | **Who Legislates?**                      | **Mizo Notes / Examples**                                             |
+| -------------------------------- | --------------------- | -------------------- | ---------------------------------------- | --------------------------------------------------------------------- |
+| **Union List** _(List I)_        | 97                    | **100**              | Parliament only                          | Central Sorkar chauhva thuneihna (Defence, Banking, Foreign Affairs). |
+| **State List** _(List II)_       | 66                    | **61**               | State Legislature                        | State Sorkar thuneihna bik (Police, Public Health, Agriculture).      |
+| **Concurrent List** _(List III)_ | 47                    | **52**               | Both (Parliament prevails in a conflict) | Sorkar pahnih thuneihna (Education, Forests, Marriage).               |
+### High-Yield Exam Facts to Remember
 
+1. **The 42nd Amendment Shift (1976):**
+    
+    The main reason the numbers changed is that the **42nd Constitutional Amendment Act of 1976** moved **5 subjects** out of the State List and into the Concurrent List. These 5 are highly tested:
+    
+    - Education
+        
+    - Forests
+        
+    - Weights and Measures
+        
+    - Protection of Wild Animals and Birds
+        
+    - Administration of Justice (except Supreme Court/High Courts)
+        
+2. **Residuary Powers (Article 248):**
+    
+    If a new subject comes up that is not mentioned in any of these three lists (like **Cyber Law / Information Technology**), the power to make laws on it goes exclusively to the **Parliament**. This is called Residuary Power.
 ### Union List Examples
 Defence, Foreign affairs, Banking, Currency, Railways, Atomic Energy, Census
 
@@ -38,12 +56,12 @@ Education, Marriage, Bankruptcy, Trade unions, Criminal law, Forests
 
 ## 8th Schedule — 22 Official Languages
 
-| Languages (22 total) | — |
-|---------------------|---|
-| Assamese, Bengali, Bodo, Dogri | Gujarati, Hindi, Kannada |
-| Kashmiri, Konkani, Maithili | Malayalam, Manipuri, Marathi |
-| Nepali, Odia, Punjabi | Sanskrit, Santali, Sindhi |
-| Tamil, Telugu, Urdu | — |
+| Languages (22 total)           | —                            |
+| ------------------------------ | ---------------------------- |
+| Assamese, Bengali, Bodo, Dogri | Gujarati, Hindi, Kannada     |
+| Kashmiri, Konkani, Maithili    | Malayalam, Manipuri, Marathi |
+| Nepali, Odia, Punjabi          | Sanskrit, Santali, Sindhi    |
+| Tamil, Telugu, Urdu            | —                            |
 
 > 💡 **Mizo language** is NOT in 8th Schedule officially. Official state language = Mizo + English.
 
