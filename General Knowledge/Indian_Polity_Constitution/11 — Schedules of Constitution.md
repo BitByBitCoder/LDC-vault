@@ -67,14 +67,14 @@ Education, Marriage, Bankruptcy, Trade unions, Criminal law, Forests
 
 ## Questions From Your Papers
 
-| Question                         | Answer                             |
-| -------------------------------- | ---------------------------------- |
-| 6th Schedule — states covered    | Assam, Meghalaya, Tripura, Mizoram |
-| 6th Schedule councils in Mizoram | Chakma, Lai, Mara                  |
-| Anti-defection — Schedule        | **10th Schedule**                  |
-| Panchayati Raj — Schedule        | **11th Schedule**                  |
-| Municipalities — Schedule        | **12th Schedule**                  |
-| Languages in 8th Schedule        | **22**                             |
+|**Question / Topic**|**Answer**|**Mizo Hrilhfiahna / Local Context**|
+|---|---|---|
+|**6th Schedule States**|Assam, Meghalaya, Tripura, Mizoram|**A-M-T-M** tiin awlsam deuhva chhinchiah thin kha a ni. Tlangmi tamna bial bik humhalh nana siam a ni.|
+|**6th Schedule Councils in Mizoram**|**Chakma, Lai, Mara**|Mizoram chhim lama Autonomous District Council (ADC) pathum awmte an ni. Sorkar laipui ațangin thuneihna bik (autonomy) an nei hrang ve tlat a ni.|
+|**Anti-defection Schedule**|10th Schedule|Party thlak sek (party-hopping) vanga thlawpna hmun sawn thin MP leh MLA-te bân theihna dan (Added by 52nd Amendment, 1985).|
+|**Panchayati Raj Schedule**|11th Schedule|Thingtlang lam tualchhung rorelna sorkar thupui 29 awmna (Added by 73rd Amendment, 1992).|
+|**Municipalities Schedule**|12th Schedule|Khawpui lam tualchhung rorelna sorkar thupui 18 awmna (Added by 74th Amendment, 1992).|
+|**Languages in 8th Schedule**|22 Languages|India ram sorkar dan puiin a pawm tak tawng 22 chanchin.|
 
 ## Exam Traps ⚠️
 > 5th Schedule = Scheduled Tribes in **other** states; 6th Schedule = **NE tribal areas**
