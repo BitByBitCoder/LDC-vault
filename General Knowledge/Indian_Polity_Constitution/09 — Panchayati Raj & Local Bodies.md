@@ -20,11 +20,11 @@
 
 ## 3-Tier Panchayati Raj Structure
 
-| Level             | Name                         | Covers   |
-| ----------------- | ---------------------------- | -------- |
-| Village level     | **Gram Panchayat**           | Village  |
-| Block/Taluk level | **Panchayat Samiti** (Block) | Block    |
-| District level    | **Zila Parishad**            | District |
+|**Level**|**Name of Body**|**Covers**|**Mizo Hrilhfiahna / Hriat tur pawimawh**|
+|---|---|---|---|
+|**Village Level**|Gram Panchayat|Village / Group of villages|A hnuai ber hmun (Lower tier). Khaw pakhat emaw, khaw tlemte inkhawm bial chhung enkawltu a ni.|
+|**Block / Taluk Level**|Panchayat Samiti|Block / Tehsil|A laili hmun (Intermediate tier). Block chhung sorkar hmasawnna hna thlawptu a ni.|
+|**District Level**|Zilla Parishad|District|A vawr sang ber hmun (Apex body). District pum huapa Panchayat zawng zawng thununna leh hmunpui ber a ni.|
 
 ## Urban Local Bodies (74th Amendment)
 
