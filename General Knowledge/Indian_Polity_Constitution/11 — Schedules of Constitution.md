@@ -5,20 +5,20 @@
 
 ## All 12 Schedules — Complete Table
 
-| Schedule | Content | Key Exam Fact |
-|----------|---------|--------------|
-| **1st** | States and Union Territories list | 28 states + 8 UTs |
-| **2nd** | Salaries of President, VP, Governors, Judges | — |
-| **3rd** | Oaths and Affirmations | — |
-| **4th** | Allocation of Rajya Sabha seats to states | — |
-| **5th** | Administration of Scheduled Areas & Tribes | NOT NE states |
-| **6th** | Tribal areas admin in Assam, Meghalaya, Tripura, **Mizoram** | Chakma, Lai, Mara in Mizoram |
-| **7th** | Division of powers — Union/State/Concurrent Lists | Most important |
-| **8th** | 22 Official Languages | Hindi, Mizo NOT in this list separately |
-| **9th** | Land reform laws — beyond judicial review | Added by 1st Amendment |
-| **10th** | Anti-defection law | Added by 52nd Amendment 1985 |
-| **11th** | Panchayati Raj — 29 subjects | Added by 73rd Amendment |
-| **12th** | Municipalities — 18 subjects | Added by 74th Amendment |
+| Schedule | Content                                                      | Key Exam Fact                           |
+| -------- | ------------------------------------------------------------ | --------------------------------------- |
+| **1st**  | States and Union Territories list                            | 28 states + 8 UTs                       |
+| **2nd**  | Salaries of President, VP, Governors, Judges                 | —                                       |
+| **3rd**  | Oaths and Affirmations                                       | —                                       |
+| **4th**  | Allocation of Rajya Sabha seats to states                    | —                                       |
+| **5th**  | Administration of Scheduled Areas & Tribes                   | NOT NE states                           |
+| **6th**  | Tribal areas admin in Assam, Meghalaya, Tripura, **Mizoram** | Chakma, Lai, Mara in Mizoram            |
+| **7th**  | Division of powers — Union/State/Concurrent Lists            | Most important                          |
+| **8th**  | 22 Official Languages                                        | Hindi, Mizo NOT in this list separately |
+| **9th**  | Land reform laws — beyond judicial review                    | Added by 1st Amendment                  |
+| **10th** | Anti-defection law                                           | Added by 52nd Amendment 1985            |
+| **11th** | Panchayati Raj — 29 subjects                                 | Added by 73rd Amendment                 |
+| **12th** | Municipalities — 18 subjects                                 | Added by 74th Amendment                 |
 
 ## 7th Schedule — Three Lists (Most Tested)
 
