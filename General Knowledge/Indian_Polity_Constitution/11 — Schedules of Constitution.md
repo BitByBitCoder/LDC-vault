@@ -67,14 +67,14 @@ Education, Marriage, Bankruptcy, Trade unions, Criminal law, Forests
 
 ## Questions From Your Papers
 
-| Question | Answer |
-|----------|--------|
-| 6th Schedule — states covered | Assam, Meghalaya, Tripura, Mizoram |
-| 6th Schedule councils in Mizoram | Chakma, Lai, Mara |
-| Anti-defection — Schedule | **10th Schedule** |
-| Panchayati Raj — Schedule | **11th Schedule** |
-| Municipalities — Schedule | **12th Schedule** |
-| Languages in 8th Schedule | **22** |
+| Question                         | Answer                             |
+| -------------------------------- | ---------------------------------- |
+| 6th Schedule — states covered    | Assam, Meghalaya, Tripura, Mizoram |
+| 6th Schedule councils in Mizoram | Chakma, Lai, Mara                  |
+| Anti-defection — Schedule        | **10th Schedule**                  |
+| Panchayati Raj — Schedule        | **11th Schedule**                  |
+| Municipalities — Schedule        | **12th Schedule**                  |
+| Languages in 8th Schedule        | **22**                             |
 
 ## Exam Traps ⚠️
 > 5th Schedule = Scheduled Tribes in **other** states; 6th Schedule = **NE tribal areas**
