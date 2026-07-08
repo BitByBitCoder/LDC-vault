@@ -62,13 +62,13 @@ extra
 ## Speaker of Lok Sabha
 
 
-|**Question / Concept**|**Correct Answer**|**Technical Nuance / Article**|
-|---|---|---|
-|**How is the Speaker elected?**|By members of the Lok Sabha|Elected from among members in the first meeting after a general election (**Art 93**).|
-|**What is the Casting Vote?**|Tie-breaking vote|Used only when votes for and against a motion are equal (**Art 100**).|
-|**Who presides over a Joint Sitting?**|Speaker of the Lok Sabha|The Speaker presides over the joint sitting of both Houses (**Art 118**).|
-|**First Speaker**|G.V. Mavalankar|Often called the "Father of the Lok Sabha" (**1952–1956**).|
-|**Current Speaker**|Om Birla|Serving since 2019 (re-elected).|
+| **Question / Concept**                 | **Correct Answer**          | **Technical Nuance / Article**                                                         |
+| -------------------------------------- | --------------------------- | -------------------------------------------------------------------------------------- |
+| **How is the Speaker elected?**        | By members of the Lok Sabha | Elected from among members in the first meeting after a general election (**Art 93**). |
+| **What is the Casting Vote?**          | Tie-breaking vote           | Used only when votes for and against a motion are equal (**Art 100**).                 |
+| **Who presides over a Joint Sitting?** | Speaker of the Lok Sabha    | The Speaker presides over the joint sitting of both Houses (**Art 118**).              |
+| **First Speaker**                      | G.V. Mavalankar             | Often called the "Father of the Lok Sabha" (**1952–1956**).                            |
+| **Current Speaker**                    | Om Birla                    | Serving since 2019 (re-elected).                                                       |
 
 ### **Key Constitutional Positions**
 [Key position](sub%20ip%20and%20c/Key%20position.md)
