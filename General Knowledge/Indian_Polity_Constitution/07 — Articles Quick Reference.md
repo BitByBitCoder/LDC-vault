@@ -45,6 +45,7 @@ He ta hian i list zawng zawng kha felfai tak leh Mizo hrilhfiahna tawi, fiah tak
 | **Article 161**  | Governor's pardoning power                     | State Governor ngaihdamna thuneihna (Thihna hremna chauh a ngaidam thei lo).                     |
 | **Article 163**  | Council of Ministers for Governor              | Governor puitu leh thurawn petu State Minister-te dinhmun.                                       |
 | **Article 165**  | Advocate General of State                      | State sorkar ukil ber (Highest Law Officer in a State).                                          |
+| Article 202      |                                                |                                                                                                  |
 | **Article 214**  | High Courts                                    | State tin tana High Court din theihna dan.                                                       |
 | **Article 226**  | High Court Writ jurisdiction                   | High Court-in thupuan/thupek (Writs) a chhuah theihna thuneihna lian.                            |
 | **Article 245**  | Distribution of legislative powers             | Parliament leh State Assembly-ten dan an siam theihna chin chin bitukna.                         |
