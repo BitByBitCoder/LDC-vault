@@ -21,11 +21,11 @@
 
 ## 7th Schedule — Three Lists (Most Tested)
 
-| List                | Items       | Who Legislates                 |
-| ------------------- | ----------- | ------------------------------ |
-| **Union List**      | 97 subjects | **Parliament only**            |
-| **State List**      | 66 subjects | **State Legislature**          |
-| **Concurrent List** | 47 subjects | **Both — Parliament prevails** |
+|**List Name**|**Original Subjects**|**Present Subjects**|**Who Legislates?**|**Mizo Notes / Examples**|
+|---|---|---|---|---|
+|**Union List** _(List I)_|97|**100**|Parliament only|Central Sorkar chauhva thuneihna (Defence, Banking, Foreign Affairs).|
+|**State List** _(List II)_|66|**61**|State Legislature|State Sorkar thuneihna bik (Police, Public Health, Agriculture).|
+|**Concurrent List** _(List III)_|47|**52**|Both (Parliament prevails in a conflict)|Sorkar pahnih thuneihna (Education, Forests, Marriage).|
 
 ### Union List Examples
 Defence, Foreign affairs, Banking, Currency, Railways, Atomic Energy, Census
