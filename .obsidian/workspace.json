@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Article 202",
+                "query": "path:\"General Knowledge\"  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
