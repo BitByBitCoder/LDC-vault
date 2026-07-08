@@ -32,13 +32,13 @@
 
 ## State Legislature
 
-| Question | Answer |
-|----------|--------|
+| Question                                    | Answer                                                                  |
+| ------------------------------------------- | ----------------------------------------------------------------------- |
 | State with bicameral legislature (2 houses) | 6 states — Andhra Pradesh, Bihar, Karnataka, Maharashtra, Telangana, UP |
-| Lower house of state | Vidhan Sabha (Legislative Assembly) |
-| Upper house of state | Vidhan Parishad (Legislative Council) |
-| Min seats in Vidhan Sabha | 60 |
-| Max seats in Vidhan Sabha | 500 |
+| Lower house of state                        | Vidhan Sabha (Legislative Assembly)                                     |
+| Upper house of state                        | Vidhan Parishad (Legislative Council)                                   |
+| Min seats in Vidhan Sabha                   | 60                                                                      |
+| Max seats in Vidhan Sabha                   | 500                                                                     |
 
 ## Exam Traps ⚠️
 > Governor appointed by **President** — NOT elected
