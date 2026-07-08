@@ -32,13 +32,13 @@
 
 ## State Legislature
 
-| Question                                    | Answer                                                                  |
-| ------------------------------------------- | ----------------------------------------------------------------------- |
-| State with bicameral legislature (2 houses) | 6 states — Andhra Pradesh, Bihar, Karnataka, Maharashtra, Telangana, UP |
-| Lower house of state                        | Vidhan Sabha (Legislative Assembly)                                     |
-| Upper house of state                        | Vidhan Parishad (Legislative Council)                                   |
-| Min seats in Vidhan Sabha                   | 60                                                                      |
-| Max seats in Vidhan Sabha                   | 500                                                                     |
+|                              |                                                             |                                                                                                                                          |
+| ---------------------------- | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **Bicameral Legislature**    | 6 States (AP, Bihar, Karnataka, Maharashtra, Telangana, UP) | India ram state 6 chauh hian hmun hnihah sorkar dan siamna in (Two Houses) an nei. A dang zawng chu House pakhat nei (Unicameral) an ni. |
+| **Lower House of State**     | Vidhan Sabha (Legislative Assembly)                         | Mipuiațanga tlang taka thlan tlin (MLAs) te țhutkhawmna hmun pui a ni.                                                                   |
+| **Upper House of State**     | Vidhan Parishad (Legislative Council)                       | Central sorkar-a Rajya Sabha ang chiah kha a ni a, permanent body dissolving tlin lo a ni.                                               |
+| **Minimum Seats (Standard)** | 60 seats                                                    | Article 170-na angin Vidhan Sabha seat hi 60 aia tlem a ni tur a ni lo. _(⚠️ Mahse Exception a awm)._                                    |
+| **Maximum Seats**            | 500 seats                                                   | State lian ber berah pawh seat 500 aia tam a awm tur a ni lo. (UP hian a nei tam ber — 403 seats).                                       |
 
 ## Exam Traps ⚠️
 > Governor appointed by **President** — NOT elected
