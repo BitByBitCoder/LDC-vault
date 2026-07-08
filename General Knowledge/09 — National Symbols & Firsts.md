@@ -33,15 +33,15 @@
 
 ## Exam Traps ⚠️
 
-| Trap | Wrong | Correct |
-|------|-------|---------|
-| National Anthem written by | Bankim Chandra | **Rabindranath Tagore** |
-| National Song written by | Rabindranath Tagore | **Bankim Chandra Chatterjee** |
-| National Animal | Lion | **Tiger** (Lion = state animal of Gujarat) |
-| National Sport officially declared | Hockey | **No official declaration** — Hockey is traditional |
-| Currency symbol ₹ designed by | RBI | **D. Udaya Kumar (2010)** |
-| National Emblem location | Taj Mahal | **Sarnath (Ashoka's pillar)** |
-| National Aquatic Animal | Crocodile / Dolphin | **River Dolphin** |
+| Trap                               | Wrong               | Correct                                             |
+| ---------------------------------- | ------------------- | --------------------------------------------------- |
+| National Anthem written by         | Bankim Chandra      | **Rabindranath Tagore**                             |
+| National Song written by           | Rabindranath Tagore | **Bankim Chandra Chatterjee**                       |
+| National Animal                    | Lion                | **Tiger** (Lion = state animal of Gujarat)          |
+| National Sport officially declared | Hockey              | **No official declaration** — Hockey is traditional |
+| Currency symbol ₹ designed by      | RBI                 | **D. Udaya Kumar (2010)**                           |
+| National Emblem location           | Taj Mahal           | **Sarnath (Ashoka's pillar)**                       |
+| National Aquatic Animal            | Crocodile / Dolphin | **River Dolphin**                                   |
 
 ---
 
