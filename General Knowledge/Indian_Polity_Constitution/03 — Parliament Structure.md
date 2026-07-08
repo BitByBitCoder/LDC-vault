@@ -48,7 +48,7 @@
 | ----------- | ---------------------------- |
 | Lok Sabha   | 1/10th of total members = 55 |
 | Rajya Sabha | 1/10th of total members = 25 |
-
+extra
 ## Types of Bills
 [Bill explainded](sub%20ip%20and%20c/Bill%20explainded.md)
 
