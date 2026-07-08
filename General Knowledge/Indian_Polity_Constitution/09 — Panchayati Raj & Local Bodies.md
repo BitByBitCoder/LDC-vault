@@ -28,12 +28,11 @@
 
 ## Urban Local Bodies (74th Amendment)
 
-| Type | Covers |
-|------|--------|
-| **Municipal Corporation** | Large cities (10 lakh+) |
-| **Municipal Council** | Medium towns |
-| **Town Panchayat** | Small towns |
-| **Nagar Panchayat** | Transitional areas (rural to urban) |
+|**Type of Urban Body**|**Area It Covers**|**Population / Context**|
+|---|---|---|
+|**Municipal Corporation** _(Mahanagar Palika)_|Larger Urban Areas / Large Cities|Generally **10 lakh (1 million)+** population, though state governors set the exact limit.|
+|**Municipal Council** _(Nagar Palika)_|Smaller Urban Areas / Medium Towns|Smaller cities and major towns.|
+|**Nagar Panchayat / Town Panchayat**|Transitional Areas|Rural areas that are actively transforming into urban areas (Small Towns).|
 
 ## 11th Schedule — Panchayat Subjects (29 subjects)
 Key ones: Agriculture, land improvement, fisheries, education, health, drinking water, roads, poverty alleviation
