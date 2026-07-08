@@ -5,18 +5,18 @@
 
 ## Questions From Your Papers
 
-| Question                                | Answer                                 |
-| --------------------------------------- | -------------------------------------- |
-| Panchayati Raj — Amendment              | **73rd Amendment (1992)**              |
-| Urban Local Bodies — Amendment          | **74th Amendment (1992)**              |
-| Panchayati Raj — Schedule               | **11th Schedule**                      |
-| Urban Local Bodies — Schedule           | **12th Schedule**                      |
-| Panchayati Raj opposed by               | **B.R. Ambedkar**                      |
-| Panchayati Raj supported/recommended by | **Balwant Rai Mehta Committee (1957)** |
-| First state to implement Panchayati Raj | **Rajasthan (2 Oct 1959)**             |
-| Panchayati Raj Article                  | **Article 243**                        |
-| Municipalities Article                  | **Article 243P**                       |
-| Reservation in Panchayat for women      | **Not less than 1/3rd**                |
+|**Question / Topic**|**Answer**|**Mizo Hrilhfiahna / Hriat tur pawimawh**|
+|---|---|---|
+|**Panchayati Raj — Amendment**|73rd Amendment (1992)|Thingtlang tualchhung rorelna (Panchayati Raj) siamna dan pawimawh ber a ni.|
+|**Urban Local Bodies — Amendment**|74th Amendment (1992)|Khawpui lama tualchhung rorelna (Municipalities) dinna dan a ni.|
+|**Panchayati Raj — Schedule**|11th Schedule|Panchayat-in hna a thawh theihna huang thupui (subjects) **29** ngawt a tarlang.|
+|**Urban Local Bodies — Schedule**|12th Schedule|Municipality-in hna a thawh theihna huang thupui (subjects) **18** a tarlang thung.|
+|**Panchayati Raj opposed by**|B.R. Ambedkar|**Exam-ah an zawt duh thut thin:** Ambedkar hian thingtlang lamah hnam thlei bikna leh in-englohna (caste oppression) a nasat zual a hlauh avangin luhpui hi a lo hnar tlut tlut thin.|
+|**Panchayati Raj supported by**|Balwant Rai Mehta Committee|Kum 1957 khan **"3-Tier System"** (Gram Panchayat, Panchayat Samiti, leh Zilla Parishad) rawn rawt chhuaktu kha a ni.|
+|**First state to implement**|Rajasthan (2 Oct 1959)|Nagaur District-ah Prime Minister Jawaharlal Nehru khan Mahatma Gandhi piancham pualin a lo hawng hmasa ber a ni. (_A dawt chu Andhra Pradesh_).|
+|**Panchayati Raj Article**|Article 243 (243 to 243O)|Part IX huang chhunga Panchayat dante ziah luhna tlingphum a ni.|
+|**Municipalities Article**|Article 243P (243P to 243ZG)|Part IXA huang chhunga Khawpui sorkar dante ziah luhna chin a ni.|
+|**Reservation for women**|Not less than 1/3rd (33%)|Article 243D(3) angin Panchayat seat-ah hmeichhiate tan **1/3rd** a tlem berah zuah (reserve) a ni tur a ni.|
 
 ## 3-Tier Panchayati Raj Structure
 
