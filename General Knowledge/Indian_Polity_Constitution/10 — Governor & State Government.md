@@ -5,20 +5,20 @@
 
 ## Questions From Your Papers
 
-| Question | Answer |
-|----------|--------|
-| Governor appointed by | **President** |
-| Governor's oath administered by | **Chief Justice of respective HC** |
-| Governor's term | **5 years (at pleasure of President)** |
-| Min age — Governor | **35 years** |
-| Governor is | Constitutional head of State |
-| Governor pardoning power | **Article 161** |
-| Governor's ordinance power | **Article 213** |
-| Governor's report for President's Rule | **Article 356** |
-| Council of Ministers advise Governor | **Article 163** |
-| Advocate General of State | **Article 165** |
-| CM of State appointed by | **Governor** |
-| CM's oath administered by | **Governor** |
+|**Article / Topic**|**What it covers**|**Mizo Hrilhfiahna / Hriat tur pawimawh**|
+|---|---|---|
+|**Governor Appointment**|Appointed by the President.|India President-in state Larsap (Governor) tur hi a ruat țhin (Article 155).|
+|**Governor's Oath**|Administered by the Chief Justice of the respective High Court.|State Larsap thutiam (Oath) laktirtu chu kha state bialtu High Court-a Chief Justice kha a ni (Article 159).|
+|**Governor's Term**|5 years (serves at the pleasure of the President).|Kum 5 chhung atan thlan a ni tlangpui a, mahse President-in a duh hun hmain a bân thei (Pleasure of President).|
+|**Minimum Age**|35 years.|Larsap ni tur chuan tlem berah kum 35 tlin a ngai (Article 157).|
+|**Constitutional Role**|Constitutional head of the State.|State sorkar hruaitu ber (Executive Head) a ni. Central sorkar aiawhtu (Agent) a ni bawk.|
+|**Article 161**|Governor's pardoning power.|Sorkar dan palzutu tana hremna tihhniam, sut, emaw ngaihdam (pardon) theihna thuneihna.|
+|**Article 213**|Governor's ordinance power.|Assembly chawlh (not in session) laia sorkar dandan thar (Ordinance) tichhuak thei tura Larsap thuneihna.|
+|**Article 356**|Governor's report for President's Rule.|State-in dan pui kal phung a zawm zawh lohva President's Rule (Emergency) hman tura Larsap-in report a thawnna dan.|
+|**Article 163**|Council of Ministers advise Governor.|Larsap pui tur leh thurawn pe turin Chief Minister hovin Minister-te an awm tur a ni tihna.|
+|**Article 165**|Advocate General of the State.|State sorkar ukil ber (Highest legal officer of the state). Larsap-in a ruat țhin.|
+|**CM Appointment**|Appointed by the Governor.|Assembly-a party seat hmu tam ber hruaitu kha Larsap-in Chief Minister-ah a ruat thin (Article 164).|
+|**CM's Oath**|Administered by the Governor.|Chief Minister thutiam laktirtu chu Larsap (Governor) a ni.|
 
 ## Governor — Powers
 
