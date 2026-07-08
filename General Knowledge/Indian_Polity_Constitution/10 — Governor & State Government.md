@@ -22,13 +22,13 @@
 
 ## Governor — Powers
 
-| Power | Article | Detail |
-|-------|---------|--------|
-| Pardoning power | 161 | Can pardon state offences (NOT death sentence — that is President's) |
-| Ordinance | 213 | When legislature not in session |
-| Appoints CM | 164 | Leader of majority in Assembly |
-| Appoints AG | 165 | Advocate General of State |
-| Reserves Bill for President | 200 | Can reserve state bill for Presidential assent |
+| **Article / Power**                              | **Detail**                                                                                   | **Mizo Hrilhfiahna / Hriat tur pawimawh**                                                                                                                          |
+| ------------------------------------------------ | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Article 161**<br><br>  <br><br>Pardoning Power | Can pardon state offences. (Cannot pardon a death sentence — that belongs to the President). | State sorkar dan (State laws) bawhchhiatna laka hremna sut, tihhniam, emaw ngaihdam theihna. **Thihna hremna (Death Sentence) erawh a ngaidam hlen thei lo tlat.** |
+| **Article 213**<br><br>  <br><br>Ordinance Power | Issued when the State Legislature is not in session.                                         | Assembly chawlh laia sorkar dandan thar, dan ang chiahva hman zui tur (Ordinance) tichhuah theihna thuneihna.                                                      |
+| **Article 164**<br><br>  <br><br>Appoints CM     | Appoints the leader of the majority party in the Legislative Assembly.                       | Assembly inthlana sorkar seat la tam ber hotu ber kha Chief Minister-ah a ruat (appoint) țhin.                                                                     |
+| **Article 165**<br><br>  <br><br>Appoints AG     | Appoints the Advocate General of the State.                                                  | State sorkar ukil ber (Highest legal advisor to the state government) a ruatna dan a ni.                                                                           |
+| **Article 200**<br><br>  <br><br>Reserves Bill   | Can reserve a State Bill for the consideration of the President.                             | Assembly-in Bill an pass tawh kha Larsap hian a lo pawm (Assent) lo ngawt thei a, **President ngaihtuah zui atan a khek (reserve) thei** tlat a ni.                |
 
 ## State Legislature
 
