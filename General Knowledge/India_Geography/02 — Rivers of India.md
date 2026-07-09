@@ -57,14 +57,14 @@
 
 ## Important Dams & Projects
 
-| Dam | River | State |
-|-----|-------|-------|
-| **Bhakra Nangal** | Sutlej | Himachal/Punjab — highest gravity dam |
-| **Hirakud** | Mahanadi | Odisha — longest dam |
-| **Tehri** | Bhagirathi | Uttarakhand — highest dam in India |
-| **Sardar Sarovar** | Narmada | Gujarat |
-| **Nagarjuna Sagar** | Krishna | Telangana/AP |
-| **Tuirial** | Tuirial | Mizoram |
+| Dam                 | River      | State                                 |
+| ------------------- | ---------- | ------------------------------------- |
+| **Bhakra Nangal**   | Sutlej     | Himachal/Punjab — highest gravity dam |
+| **Hirakud**         | Mahanadi   | Odisha — longest dam                  |
+| **Tehri**           | Bhagirathi | Uttarakhand — highest dam in India    |
+| **Sardar Sarovar**  | Narmada    | Gujarat                               |
+| **Nagarjuna Sagar** | Krishna    | Telangana/AP                          |
+| **Tuirial**         | Tuirial    | Mizoram                               |
 
 ---
 
