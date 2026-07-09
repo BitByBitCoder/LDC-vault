@@ -1,3 +1,7 @@
+
+Highest motorable pass in IndiaUmling La Pass (Ladakh) — 19,024 ft
+
+i dont know what type of question is this what categories what type of related question
 This type of question falls under **Static General Knowledge (GK)**, specifically inside two major sub-categories that show up constantly on competitive clerkship exams like the Lower Division Clerk (LDC) exam:
 
 1. **Superlatives of India** (The "Highest, Longest, Largest, Tallest" of everything)
