@@ -39,25 +39,25 @@
 
 ## Important Peaks
 
-| Peak | Location | Height/Rank |
-|------|---------|------------|
-| **Mt. Everest** | Nepal-Tibet border | Highest in world (8,849 m) |
-| **K2** | Karakoram (Ladakh/Pakistan) | 2nd highest in world |
-| **Kangchenjunga** | Sikkim-Nepal | Highest in India |
-| **Anaimudi** | Kerala (Western Ghats) | Highest in Peninsular India |
-| **Dodabetta** | Nilgiri, Tamil Nadu | 2nd highest in Peninsular India |
-| **Phawngpui** | Siaha, Mizoram | Highest in Mizoram (2,157 m) |
+| Peak              | Location                    | Height/Rank                     |
+| ----------------- | --------------------------- | ------------------------------- |
+| **Mt. Everest**   | Nepal-Tibet border          | Highest in world (8,849 m)      |
+| **K2**            | Karakoram (Ladakh/Pakistan) | 2nd highest in world            |
+| **Kangchenjunga** | Sikkim-Nepal                | Highest in India                |
+| **Anaimudi**      | Kerala (Western Ghats)      | Highest in Peninsular India     |
+| **Dodabetta**     | Nilgiri, Tamil Nadu         | 2nd highest in Peninsular India |
+| **Phawngpui**     | Siaha, Mizoram              | Highest in Mizoram (2,157 m)    |
 
 ## Important Passes
 
-| Pass | Location | Key Fact |
-|------|---------|---------|
-| **Nathu La** | **Sikkim** | India-China trade route |
-| **Bom Di La** | Arunachal Pradesh | — |
-| **Jelep La** | Sikkim | — |
-| **Rohtang Pass** | Himachal Pradesh | — |
-| **Umling La** | Ladakh | **Highest motorable pass in India** |
-| **Diphu Pass** | Arunachal Pradesh | **Tri-point India-China-Myanmar** |
+| Pass             | Location          | Key Fact                            |
+| ---------------- | ----------------- | ----------------------------------- |
+| **Nathu La**     | **Sikkim**        | India-China trade route             |
+| **Bom Di La**    | Arunachal Pradesh | —                                   |
+| **Jelep La**     | Sikkim            | —                                   |
+| **Rohtang Pass** | Himachal Pradesh  | —                                   |
+| **Umling La**    | Ladakh            | **Highest motorable pass in India** |
+| **Diphu Pass**   | Arunachal Pradesh | **Tri-point India-China-Myanmar**   |
 
 ## Exam Traps ⚠️
 > Highest motorable pass = **Umling La** — NOT Khardung La (common misconception)
