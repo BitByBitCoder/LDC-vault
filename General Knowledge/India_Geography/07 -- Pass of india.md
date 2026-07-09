@@ -16,3 +16,16 @@
 | **Arunachal Pradesh** | **Bomdi La**              | Arunachal with Lhasa (Tibet).                | Western Arunachal leh Tibet thlunzawmtu a ni.                                                          |
 | **Arunachal Pradesh** | **Diphu Pass**            | Tri-point of **India, China, and Myanmar**.  | MacMahon Line-a awm, ralkap leh sumdawnna kawnga pawimawh em em a ni.                                  |
 | **Arunachal Pradesh** | **Pangsau Pass**          | Arunachal with Myanmar.                      | Hmanlaia **Stilwell Road** an tih mai, Burma (Myanmar) phei na lampui.                                 |
+
+
+
+| Pass              | State/Location | Key Fact                                          |
+| ----------------- | -------------- | ------------------------------------------------- |
+| **Umling La**     | Ladakh         | Highest motorable pass — 19,024 ft                |
+| **Khardung La**   | Ladakh         | Earlier claimed highest motorable — now Umling La |
+| **Nathu La**      | **Sikkim**     | Trade route with China                            |
+| **Jelep La**      | Sikkim         | —                                                 |
+| **Diphu Pass**    | Arunachal      | Tri-point — India, China, Myanmar                 |
+| **Bara Lacha La** | Himachal       | —                                                 |
+| **Rohtang Pass**  | Himachal       | —                                                 |
+| **Banihal Pass**  | J&K            | —                                                 |

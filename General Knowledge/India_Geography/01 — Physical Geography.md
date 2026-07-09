@@ -22,45 +22,45 @@
 
 ## Mountain Ranges of India
 
-| Range | Location | Key Fact |
-|-------|----------|---------|
-| **Himalayas** | North | Highest — 3 ranges: Himadri, Himachal, Shivalik |
-| **Karakoram** | North | K2 — 2nd highest peak in world |
-| **Aravalli** | Rajasthan | Oldest fold mountains in India |
-| **Vindhya** | Central India | Separates North and South India |
-| **Satpura** | MP | Parallel to Vindhya |
-| **Western Ghats** | West coast | Run from Gujarat to Kerala |
-| **Eastern Ghats** | East coast | Discontinuous — lower than Western Ghats |
-| **Nilgiri** | Tamil Nadu/Kerala | Where Western + Eastern Ghats **meet** |
+| Range             | Location          | Key Fact                                        |
+| ----------------- | ----------------- | ----------------------------------------------- |
+| **Himalayas**     | North             | Highest — 3 ranges: Himadri, Himachal, Shivalik |
+| **Karakoram**     | North             | K2 — 2nd highest peak in world                  |
+| **Aravalli**      | Rajasthan         | Oldest fold mountains in India                  |
+| **Vindhya**       | Central India     | Separates North and South India                 |
+| **Satpura**       | MP                | Parallel to Vindhya                             |
+| **Western Ghats** | West coast        | Run from Gujarat to Kerala                      |
+| **Eastern Ghats** | East coast        | Discontinuous — lower than Western Ghats        |
+| **Nilgiri**       | Tamil Nadu/Kerala | Where Western + Eastern Ghats **meet**          |
 
 ---
 
 ## Mountain Peaks
 
-| Peak | Height | Location |
-|------|--------|---------|
-| **Mt. Everest** | 8,849 m | Nepal/Tibet — world's highest |
-| **K2 (Godwin-Austen)** | 8,611 m | Karakoram — 2nd highest world |
-| **Kanchenjunga** | 8,586 m | Sikkim — **highest peak in India** |
-| **Nanda Devi** | 7,816 m | Uttarakhand — 2nd highest in India |
-| **Anaimudi** | 2,695 m | Kerala — **highest in Peninsular India** |
-| **Dodabetta** | 2,637 m | Tamil Nadu — highest in Nilgiris |
-| **Phawngpui** | 2,157 m | Mizoram — highest in Mizoram |
+| Peak                   | Height  | Location                                 |
+| ---------------------- | ------- | ---------------------------------------- |
+| **Mt. Everest**        | 8,849 m | Nepal/Tibet — world's highest            |
+| **K2 (Godwin-Austen)** | 8,611 m | Karakoram — 2nd highest world            |
+| **Kanchenjunga**       | 8,586 m | Sikkim — **highest peak in India**       |
+| **Nanda Devi**         | 7,816 m | Uttarakhand — 2nd highest in India       |
+| **Anaimudi**           | 2,695 m | Kerala — **highest in Peninsular India** |
+| **Dodabetta**          | 2,637 m | Tamil Nadu — highest in Nilgiris         |
+| **Phawngpui**          | 2,157 m | Mizoram — highest in Mizoram             |
 
 ---
 
 ## Important Passes
 
-| Pass | State/Location | Key Fact |
-|------|---------------|---------|
-| **Umling La** | Ladakh | Highest motorable pass — 19,024 ft |
-| **Khardung La** | Ladakh | Earlier claimed highest motorable — now Umling La |
-| **Nathu La** | **Sikkim** | Trade route with China |
-| **Jelep La** | Sikkim | — |
-| **Diphu Pass** | Arunachal | Tri-point — India, China, Myanmar |
-| **Bara Lacha La** | Himachal | — |
-| **Rohtang Pass** | Himachal | — |
-| **Banihal Pass** | J&K | — |
+| Pass              | State/Location | Key Fact                                          |
+| ----------------- | -------------- | ------------------------------------------------- |
+| **Umling La**     | Ladakh         | Highest motorable pass — 19,024 ft                |
+| **Khardung La**   | Ladakh         | Earlier claimed highest motorable — now Umling La |
+| **Nathu La**      | **Sikkim**     | Trade route with China                            |
+| **Jelep La**      | Sikkim         | —                                                 |
+| **Diphu Pass**    | Arunachal      | Tri-point — India, China, Myanmar                 |
+| **Bara Lacha La** | Himachal       | —                                                 |
+| **Rohtang Pass**  | Himachal       | —                                                 |
+| **Banihal Pass**  | J&K            | —                                                 |
 
 ---
 
