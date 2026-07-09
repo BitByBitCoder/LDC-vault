@@ -11,14 +11,10 @@
             "id": "22b71dd0e6300154",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Knowledge/India_Geography/🌏 India Geography — INDEX.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🌏 India Geography — INDEX"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -193,10 +189,21 @@
   },
   "active": "22b71dd0e6300154",
   "lastOpenFiles": [
+    "GK_Missing_Topics/📌 GK Missing Topics — INDEX.md",
+    "General Knowledge/India_Geography/🌏 India Geography — INDEX.md",
+    "GK_Missing_Topics/09 — High Yield Probable Questions.md",
+    "GK_Missing_Topics/07 — Current Affairs & World GK.md",
+    "GK_Missing_Topics/08 — Computer Knowledge Gaps.md",
+    "GK_Missing_Topics/06 — Indian History Deep Facts.md",
+    "GK_Missing_Topics/05 — English Clauses & Determiners.md",
+    "GK_Missing_Topics/03 — Indian Economy Terms.md",
+    "GK_Missing_Topics/04 — Geography Gaps.md",
+    "GK_Missing_Topics/02 — Mizoram Deep History.md",
+    "GK_Missing_Topics/01 — Science & Physics.md",
+    "GK_Missing_Topics",
     "General Knowledge/Modern_Indian_History/03 — Indian National Congress.md",
     "General Knowledge/Modern_Indian_History/02 — Freedom Movement Timeline.md",
     "General Knowledge/Modern_Indian_History/01 — British Governors & Viceroys.md",
-    "General Knowledge/India_Geography/🌏 India Geography — INDEX.md",
     "General Knowledge/Indian_Polity_Constitution/10 — Governor & State Government.md",
     "General Knowledge/Indian_Polity_Constitution/09 — Panchayati Raj & Local Bodies.md",
     "General Knowledge/Indian_Polity_Constitution/08 — Judiciary.md",
@@ -209,17 +216,7 @@
     "General Knowledge/Indian_Polity_Constitution/17 — Election Commission & Voting.md",
     "General Knowledge/Indian_Polity_Constitution/16 — Citizenship.md",
     "General Knowledge/Indian_Polity_Constitution/15 — Directive Principles & Duties.md",
-    "General Knowledge/Indian_Polity_Constitution/14 — Borrowed Features (Source Countries).md",
-    "General Knowledge/Indian_Polity_Constitution/13 — Emergency Provisions.md",
-    "General Knowledge/Indian_Polity_Constitution/12 — Writs.md",
-    "General Knowledge/Indian_Polity_Constitution/11 — Schedules of Constitution.md",
-    "General Knowledge/Indian_Polity_Constitution/🏛️ Indian Polity & Constitution — INDEX.md",
-    "General Knowledge/Indian_Polity_Constitution/21 - First of.md",
-    "General Knowledge/Indian_Polity_Constitution/04 — President & Vice President.md",
     "General Knowledge/Indian_Polity_Constitution/current",
-    "General Knowledge/Indian_Polity_Constitution/02 — Fundamental Rights.md",
-    "General Knowledge/Indian_Polity_Constitution/00 - Important Dates Chronological order.md",
-    "General Knowledge/Indian_Polity_Constitution/01 — Constitution Basics.md",
     "General Knowledge/Untitled.base",
     "General Knowledge/Indian_Polity_Constitution/Indian constitution Parts.png",
     "Computer_Knowledge",
