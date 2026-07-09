@@ -6,4 +6,4 @@
 | **Spice Garden of India**                | **Kerala**                 | Culturally and historically famous for producing high-quality spices like black pepper and cardamom.                   |
 | **City of Lakes**                        | **Udaipur** (Rajasthan)    | Renowned for its sophisticated, historic chain of artificial lakes and royal palaces.                                  |
 | **Manchester of India**                  | **Ahmedabad** (Gujarat)    | Compared to Manchester (UK) due to its massive booming textile and cotton mill industries.                             |
-the of 
+the of question
