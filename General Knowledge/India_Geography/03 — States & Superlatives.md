@@ -103,30 +103,30 @@
 
 ## NE States Border Facts
 
-| State                 | Borders                                                |
-| --------------------- | ------------------------------------------------------ |
-| **Sikkim**            | Only West Bengal (Indian state) + Nepal, China, Bhutan |
-| **Tripura**           | Assam, Mizoram + Bangladesh (3 sides)                  |
-| **Meghalaya**         | Assam, West Bengal + Bangladesh                        |
-| **Mizoram**           | Assam, Manipur, Tripura + Myanmar, Bangladesh          |
-| **Manipur**           | Assam, Nagaland, Mizoram + Myanmar                     |
-| **Nagaland**          | Assam, Arunachal, Manipur + Myanmar                    |
-| **Arunachal Pradesh** | Assam, Nagaland + China, Myanmar, Bhutan               |
+|**State**|**Borders (Indian States)**|**International Borders**|**Critical Exam Insight / Mizo Hrilhfiahna**|
+|---|---|---|---|
+|**Sikkim**|**West Bengal** (Only 1)|Nepal, China (Tibet), Bhutan|India state pakhat chauh tawk si, ram dang pathum (3 countries) inrina ni bawk a ni.|
+|**Meghalaya**|**Assam** (Only 1)|Bangladesh|_⚠️ Trap Fix!_ India ram chhungah chuan **Assam chauh a tawk**. Chhim lamah Bangladesh ram a rari bawk.|
+|**Tripura**|Assam, Mizoram|Bangladesh (3 sides)|Bangladesh-in **kil thum liah** (north, south, west) a hual tuam vek a ni.|
+|**Mizoram**|Assam, Manipur, Tripura|Myanmar, Bangladesh|Khawchhak leh chhim lamah **Myanmar**, khawthlang lamah **Bangladesh** inkarah kan awm.|
+|**Manipur**|Assam, Nagaland, Mizoram|Myanmar|Khawchhak lam rari-ah Myanmar a awm a, India state 3-in a hual bawk.|
+|**Nagaland**|Assam, Arunachal Pradesh, Manipur|Myanmar|Assam, Arunachal, leh Manipur inkarah a awm a, khawchhak lamah Myanmar rari a nei.|
+|**Arunachal Pradesh**|Assam, Nagaland|Bhutan, China, Myanmar|Ram dang pathum—**Bhutan (West), China (North), leh Myanmar (East)**—inrina state lian tak a ni.|
 
 ---
 
 ## Minerals & Mining States
 
-| Mineral | Leading State |
-|---------|--------------|
-| Coal | Jharkhand |
-| Iron ore | Odisha |
-| Mica | Rajasthan |
-| Copper (Khetri Belt) | **Rajasthan** |
-| Bauxite | Odisha |
-| Manganese | Odisha |
-| Petroleum | Rajasthan / Gujarat |
-| Highest solar capacity | Rajasthan |
+| Mineral                | Leading State       |
+| ---------------------- | ------------------- |
+| Coal                   | Jharkhand           |
+| Iron ore               | Odisha              |
+| Mica                   | Rajasthan           |
+| Copper (Khetri Belt)   | **Rajasthan**       |
+| Bauxite                | Odisha              |
+| Manganese              | Odisha              |
+| Petroleum              | Rajasthan / Gujarat |
+| Highest solar capacity | Rajasthan           |
 
 ---
 
@@ -211,3 +211,13 @@ Here is the exact breakdown of what is correct and where you need to be careful:
         
 
 Here is your updated, trap-proof master table with precise exam insights and local Mizo connections:
+
+### 💡 2 High-Yield Map Tricks for the Exam
+
+#### 1. The "Only One Neighbor" Club
+
+If the exam asks: _"Which states in India border only one single Indian state?"_ The answer is exactly two in the entire country: **Sikkim** (borders only West Bengal) and **Meghalaya** (borders only Assam).
+
+#### 2. Chicken's Neck (Siliguri Corridor)
+
+West Bengal stretches all the way up north to touch Sikkim, but it stays west of Assam. This narrow stretch of land is called the **Siliguri Corridor**, and it is the only land passage connecting all of Northeast India to the rest of the mainland. Because it does not push further east, Meghalaya remains untouched by it.
