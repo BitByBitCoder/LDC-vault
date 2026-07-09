@@ -81,3 +81,6 @@ Education, Marriage, Bankruptcy, Trade unions, Criminal law, Forests
 > 6th Schedule covers **4** states: Assam, Meghalaya, Tripura, Mizoram — NOT all NE states
 > Anti-defection = **10th Schedule** (added 52nd Amendment 1985) — not 9th
 > 8th Schedule has **22** languages — Mizo is NOT officially in it
+
+
+all check

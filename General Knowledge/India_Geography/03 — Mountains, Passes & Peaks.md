@@ -69,3 +69,4 @@
 > Tri-point India-China-Myanmar = **Diphu Pass** — NOT Jelep La
 
 
+All check
