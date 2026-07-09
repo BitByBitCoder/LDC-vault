@@ -71,15 +71,15 @@
 
 ## Important Lakes
 
-| Lake | State | Key Fact |
-|------|-------|---------|
-| **Chilika** | Odisha | Largest brackish water lake in India |
-| **Sambhar** | Rajasthan | Highest salinity lake in India |
-| **Wular** | J&K | Largest freshwater lake in India |
-| **Dal** | J&K | Famous tourist lake |
-| **Loktak** | Manipur | Largest freshwater lake in NE India |
-| **Baikal** | Russia | World's deepest lake |
-| **Victoria** | Africa | World's largest freshwater lake (area) |
+| Lake         | State     | Key Fact                               |
+| ------------ | --------- | -------------------------------------- |
+| **Chilika**  | Odisha    | Largest brackish water lake in India   |
+| **Sambhar**  | Rajasthan | Highest salinity lake in India         |
+| **Wular**    | J&K       | Largest freshwater lake in India       |
+| **Dal**      | J&K       | Famous tourist lake                    |
+| **Loktak**   | Manipur   | Largest freshwater lake in NE India    |
+| **Baikal**   | Russia    | World's deepest lake                   |
+| **Victoria** | Africa    | World's largest freshwater lake (area) |
 
 ---
 
