@@ -71,15 +71,18 @@
 
 ## Important Lakes
 
-| Lake         | State     | Key Fact                               |
-| ------------ | --------- | -------------------------------------- |
-| **Chilika**  | Odisha    | Largest brackish water lake in India   |
-| **Sambhar**  | Rajasthan | Highest salinity lake in India         |
-| **Wular**    | J&K       | Largest freshwater lake in India       |
-| **Dal**      | J&K       | Famous tourist lake                    |
-| **Loktak**   | Manipur   | Largest freshwater lake in NE India    |
-| **Baikal**   | Russia    | World's deepest lake                   |
-| **Victoria** | Africa    | World's largest freshwater lake (area) |
+|**Lake**|**Location (State/Country)**|**Key Fact / Exam Record**|**Mizo Notes / Critical Exam Insights**|
+|---|---|---|---|
+|**Chilika Lake**|Odisha|Largest **brackish water** lake in India.|India rama tui thur/chi (brackish) hrukna dil lian ber a ni. Marine lagoon lian tak a ni bawk.|
+|**Wular Lake**|Jammu & Kashmir|Largest **freshwater** lake in India.|India rama tui thianghlim (freshwater) dil lian ber a ni. Jhelum lui hian a tluang phei a ni.|
+|**Sambhar Lake**|Rajasthan|Highest **salinity** lake in India.|India rama dil al ber (salted inland lake) a ni. Helai hmun ațang hian chi (salt) tam tak an siam țhin.|
+|**Dal Lake**|Jammu & Kashmir|Famous tourist lake; "Jewel of Kashmir".|Hriat lar em em chhan chu helai dila tui chunga in (Houseboats) leh lawng mawi tak tak (**Shikaras**) vang a ni.|
+|**Loktak Lake**|Manipur|Largest freshwater lake in NE India.|Northwest khawvel huamchhunga dil hmingthang a ni a, a chhan chu tui chunga phuan hnim hlawm awm (**Phumdis**) leh khawvela national park tui chunga hleinual awmchhun **Keibul Lamjao National Park** awmna a ni.|
+|**Palak Dil** _(Pala Tipa)_|Mara Autonomous District, **Mizoram**|**Largest natural lake** in Mizoram.|Mizoram chhunga **dil siam chawp loh (natural)** lian ber a ni. Mara hnam hovin Pala Tipa an ti țhin a, Phura khaw bul, Siaha district chhungah a awm.|
+|**Tam Dil**|Saitual District, **Mizoram**|Famous tourist/natural lake.|Mizoram sorkar hian tourism atangin a hmelhriat lar hle a, hman chuan Aizawl district thlenga chhiar tel thin kha a ni a, tunah chuan Saitual district chhungah a awm.|
+|**Lake Baikal**|Russia (Siberia)|**World's deepest lake** & oldest lake.|Khawvela tui thuk ber leh upa ber dil a ni. Khawvel tui thianghlim za zinga 20% hi he dil chhungah chauh hian a awm.|
+|**Lake Superior**|North America (USA/Canada)|**World's largest freshwater lake** by surface area.|_(I list-ah hian belh rawh)_ Tui thianghlim dil zinga a phak zau ber a ni.|
+|**Caspian Sea**|Central Asia / Russia / Iran|**World's largest lake overall**.|_(Wording Trap!)_ 'Sea' tiin an hming mahse tuipui lian tak hung khupna tui a nih vangin **khawvela dil lian ber** tia chhiar tel a ni (a tui a al thung).|
 
 ---
 
