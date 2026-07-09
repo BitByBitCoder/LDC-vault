@@ -60,21 +60,21 @@
 
 ## States & Their Capitals — Tricky Ones
 
-| State | Capital |
-|-------|---------|
-| Arunachal Pradesh | Itanagar |
-| Nagaland | Kohima |
-| Manipur | Imphal |
-| Mizoram | Aizawl |
-| Tripura | Agartala |
-| Meghalaya | Shillong |
-| Sikkim | Gangtok |
-| Assam | Dispur |
-| Telangana | Hyderabad |
-| Uttarakhand | Dehradun |
-| Himachal Pradesh | Shimla |
-| Jharkhand | Ranchi |
-| Chhattisgarh | Raipur |
+| State             | Capital      |
+| ----------------- | ------------ |
+| Arunachal Pradesh | Itanagar     |
+| Nagaland          | Kohima       |
+| Manipur           | Imphal       |
+| Mizoram           | Aizawl       |
+| Tripura           | Agartala     |
+| Meghalaya         | Shillong     |
+| Sikkim            | Gangtok      |
+| Assam             | Dispur       |
+| Telangana         | Hyderabad    |
+| Uttarakhand       | Dehradun     |
+| Himachal Pradesh  | Shimla       |
+| Jharkhand         | Ranchi       |
+| Chhattisgarh      | Raipur       |
 | Australia (world) | **Canberra** |
 
 ---
@@ -177,3 +177,9 @@ Here is the exact breakdown of what is correct and where you need to be careful:
 - **Country with highest population density: Bangladesh**
     
     - _The Trap:_ Globally, micro-states like **Monaco** and **Singapore** have the highest population density. Bangladesh is the most densely populated **among major/large countries** (countries with populations over 10 million). If Monaco is an option in your exam, pick Monaco.
+      
+      ### 💡 2 High-Yield Exam Reminders for UTs
+
+1. **The Number 8:** Make sure you remember that India has **28 States and 8 Union Territories** right now (not 7 or 9). The merger of Daman & Diu with Dadra & Nagar Haveli in 2020 brought the total count down from 9 to 8.
+    
+2. **Who has an Assembly?** Out of the 8 UTs, only **3 have their own legislative assemblies/Chief Ministers**: Delhi, Puducherry, and Jammu & Kashmir. The other 5 are governed directly by the Central Government via administrators or Lieutenant Governors.
