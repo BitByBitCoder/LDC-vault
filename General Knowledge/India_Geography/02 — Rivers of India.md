@@ -21,27 +21,28 @@
 
 ### Himalayan Rivers (Perennial — fed by glaciers)
 
-| River | Origin | Drains Into | Key Fact |
-|-------|--------|------------|---------|
-| **Ganga** | Gangotri Glacier | Bay of Bengal | Longest river in India |
-| **Yamuna** | Yamunotri | Ganga (at Prayagraj) | Ganga's largest tributary |
-| **Brahmaputra** | Tibet (Mansarovar) | Bay of Bengal | Longest by volume — Majuli island |
-| **Indus** | Tibet | Arabian Sea | Longest overall (but mostly in Pakistan) |
-| **Sutlej** | Tibet | Arabian Sea | **Trans-Himalayan** — also called Langqên Zangbo |
-| **Beas** | Rohtang Pass | Sutlej | — |
-| **Ravi** | HP | Chenab | — |
-| **Chenab** | HP | Indus | Longest of 5 Punjab rivers |
+| River           | Origin             | Drains Into          | Key Fact                                         |
+| --------------- | ------------------ | -------------------- | ------------------------------------------------ |
+| **Ganga**       | Gangotri Glacier   | Bay of Bengal        | Longest river in India                           |
+| **Yamuna**      | Yamunotri          | Ganga (at Prayagraj) | Ganga's largest tributary                        |
+| **Brahmaputra** | Tibet (Mansarovar) | Bay of Bengal        | Longest by volume — Majuli island                |
+| **Indus**       | Tibet              | Arabian Sea          | Longest overall (but mostly in Pakistan)         |
+| **Sutlej**      | Tibet              | Arabian Sea          | **Trans-Himalayan** — also called Langqên Zangbo |
+| **Beas**        | Rohtang Pass       | Sutlej               | —                                                |
+| **Ravi**        | HP                 | Chenab               | —                                                |
+| **Chenab**      | HP                 | Indus                | Longest of 5 Punjab rivers                       |
+|                 |                    |                      |                                                  |
 
 ### Peninsular Rivers (Seasonal — rain fed)
 
-| River | Origin | Drains Into | Key Fact |
-|-------|--------|------------|---------|
-| **Narmada** | Amarkantak (MP) | **Arabian Sea** | Only E→W flowing major river |
-| **Tapti/Tapi** | Satpura (MP) | **Arabian Sea** | Also flows West |
-| **Mahanadi** | Chhattisgarh | Bay of Bengal | Hirakud Dam — longest earthen dam |
-| **Godavari** | Nashik (Maharashtra) | Bay of Bengal | Longest peninsular river |
-| **Krishna** | Mahabaleshwar | Bay of Bengal | — |
-| **Kaveri** | Karnataka | Bay of Bengal | "Ganga of the South" |
+| River          | Origin               | Drains Into     | Key Fact                          |
+| -------------- | -------------------- | --------------- | --------------------------------- |
+| **Narmada**    | Amarkantak (MP)      | **Arabian Sea** | Only E→W flowing major river      |
+| **Tapti/Tapi** | Satpura (MP)         | **Arabian Sea** | Also flows West                   |
+| **Mahanadi**   | Chhattisgarh         | Bay of Bengal   | Hirakud Dam — longest earthen dam |
+| **Godavari**   | Nashik (Maharashtra) | Bay of Bengal   | Longest peninsular river          |
+| **Krishna**    | Mahabaleshwar        | Bay of Bengal   | —                                 |
+| **Kaveri**     | Karnataka            | Bay of Bengal   | "Ganga of the South"              |
 
 ---
 
