@@ -5,18 +5,18 @@
 
 ## Questions From Your Papers
 
-| Question | Answer |
-|----------|--------|
-| Highest motorable pass in India | **Umling La Pass (Ladakh) — 19,024 ft** |
-| Western & Eastern Ghats meet at | **Nilgiri Hills** |
-| Palk Strait — between | **India and Sri Lanka** |
-| Highest peak in Peninsular India | **Anaimudi (Kerala) — 2,695 m** |
-| Duncan Passage — between | **South Andaman and Little Andaman** |
-| Nathu La pass — located in | **Sikkim** |
-| Diphu Pass — tri-point of | **India, China, Myanmar** |
-| Smallest Union Territory | **Lakshadweep** |
-| India's only active volcano | **Barren Island (Andaman Islands)** |
-| Latitude expressed relative to | **Equator** |
+| Question                         | Answer                                  |
+| -------------------------------- | --------------------------------------- |
+| Highest motorable pass in India  | **Umling La Pass (Ladakh) — 19,024 ft** |
+| Western & Eastern Ghats meet at  | **Nilgiri Hills**                       |
+| Palk Strait — between            | **India and Sri Lanka**                 |
+| Highest peak in Peninsular India | **Anaimudi (Kerala) — 2,695 m**         |
+| Duncan Passage — between         | **South Andaman and Little Andaman**    |
+| Nathu La pass — located in       | **Sikkim**                              |
+| Diphu Pass — tri-point of        | **India, China, Myanmar**               |
+| Smallest Union Territory         | **Lakshadweep**                         |
+| India's only active volcano      | **Barren Island (Andaman Islands)**     |
+| Latitude expressed relative to   | **Equator**                             |
 
 ---
 
