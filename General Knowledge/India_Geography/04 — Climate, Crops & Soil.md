@@ -103,3 +103,6 @@ GR-MC-JWB-TM
 > Red soil colour = **Iron Oxides** — NOT Sulphur or Phosphorus
 > Black soil best for = **Cotton** — found in Maharashtra (Deccan)
 > Tundra = **Cold desert** — NOT tropical or deciduous
+
+
+all corrected
