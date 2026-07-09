@@ -60,43 +60,43 @@
 
 ## States & Their Capitals — Tricky Ones
 
-| State             | Capital      |
-| ----------------- | ------------ |
-| Arunachal Pradesh | Itanagar     |
-| Nagaland          | Kohima       |
-| Manipur           | Imphal       |
-| Mizoram           | Aizawl       |
-| Tripura           | Agartala     |
-| Meghalaya         | Shillong     |
-| Sikkim            | Gangtok      |
-| Assam             | Dispur       |
-| Telangana         | Hyderabad    |
-| Uttarakhand       | Dehradun     |
-| Himachal Pradesh  | Shimla       |
-| Jharkhand         | Ranchi       |
-| Chhattisgarh      | Raipur       |
-| Australia (world) | **Canberra** |
+| **State / Country**   | **Capital** | **Seasonal / Administrative Traps to Know**                                            | **Mizo Hrilhfiahna / Exam Focus**                                      |
+| --------------------- | ----------- | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| **Arunachal Pradesh** | Itanagar    | Land of the Rising Sun khawpui.                                                        | NE state zinga area zau ber capital a ni.                              |
+| **Nagaland**          | Kohima      | Famous for the Hornbill Festival & WWII Cemetery.                                      | Exam-ah Kohima nena inzawm hlei nihna an zawt duh hle.                 |
+| **Manipur**           | Imphal      | Sits in the Imphal Valley.                                                             | Loktak Lake leh tui chunga floating park bul hnai ber khawpui.         |
+| **Mizoram**           | Aizawl      | Tropic of Cancer-in a paltlang khawpui pawimawh.                                       | Kan khawpui ngei a ni a, altitude lam thlengin lo vawng reng rawh.     |
+| **Tripura**           | Agartala    | Second largest city in Northeast India after Guwahati.                                 | Bangladesh rari rala awm hnai ber khawpui a ni.                        |
+| **Meghalaya**         | Shillong    | Known as the "Scotland of the East".                                                   | Hming lem (nickname) hi GK bikah a chhuak duh hle.                     |
+| **Sikkim**            | Gangtok     | Located in the Eastern Himalayas.                                                      | Sikkim hi India state zinga population tlem ber capital a ni.          |
+| **Assam**             | Dispur      | _⚠️ Trap:_ Guwahati hi khawpui lian zawk mahse Dispur hi capital dik tak a ni.         | High Court leh airport pui ber chu Guwahati-ah a awm thung.            |
+| **Telangana**         | Hyderabad   | _⚠️ Update:_ Joint capital hun a tawp tawh. J&K ang deuhva princely state hlui thupui. | Tunah chuan Telangana chauhvin capital atan an hmang tawh.             |
+| **Uttarakhand**       | Dehradun    | **Winter Capital**. _(Summer: Gairsain)_                                               | Tlangram state a nih vangin sorkar hian khawpui pahnih a nei.          |
+| **Himachal Pradesh**  | Shimla      | **Summer Capital**. _(Winter: Dharamshala)_                                            | British hun laia India pumpui summer capital lo ni tawh țhin kha a ni. |
+| **Jharkhand**         | Ranchi      | Known as the "City of Waterfalls".                                                     | Chotanagpur Plateau laili rala awm a ni.                               |
+| **Chhattisgarh**      | Raipur      | Administrative center is Naya Raipur (Atal Nagar).                                     | Madhya Pradesh ațanga phel hranna state khawpui a ni.                  |
+| **Australia**         | Canberra    | _⚠️ Trap:_ Sydney leh Melbourne lian hle mahse an capital a ni lo.                     | Khawvel huangah chuan he thila inbumna hi a tam ber pawl a ni.         |
 
 ---
 
 ## Important Nicknames of Cities/Places
 
-| Nickname | Place |
-|----------|-------|
-| Scotland of the East | **Shillong** |
-| Mecca of Indian Football | **Kolkata** |
-| Manchester of India | Ahmedabad |
-| Silicon Valley of India | Bengaluru |
-| Pink City | Jaipur |
-| Blue City | Jodhpur |
-| Golden City | Jaisalmer |
-| White City | Udaipur |
-| City of Joy | Kolkata |
-| Garden City | Bengaluru |
-| Rice Bowl of India | Andhra Pradesh |
-| Rice Bowl of Mizoram | **Champhai** |
-| Spice Garden of India | Kerala |
-| Land of Five Rivers | Punjab |
+| Nickname                 | Place          |
+| ------------------------ | -------------- |
+| Scotland of the East     | **Shillong**   |
+| Mecca of Indian Football | **Kolkata**    |
+| Manchester of India      | Ahmedabad      |
+| Silicon Valley of India  | Bengaluru      |
+| Pink City                | Jaipur         |
+| Blue City                | Jodhpur        |
+| Golden City              | Jaisalmer      |
+| White City               | Udaipur        |
+| City of Joy              | Kolkata        |
+| Garden City              | Bengaluru      |
+| Rice Bowl of India       | Andhra Pradesh |
+| Rice Bowl of Mizoram     | **Champhai**   |
+| Spice Garden of India    | Kerala         |
+| Land of Five Rivers      | Punjab         |
 
 ---
 
