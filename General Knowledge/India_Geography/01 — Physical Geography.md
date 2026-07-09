@@ -66,29 +66,29 @@
 
 ## Straits & Water Bodies (India)
 
-| Strait/Channel | Between |
-|----------------|---------|
-| **Palk Strait** | India and Sri Lanka |
-| **Duncan Passage** | South Andaman and Little Andaman |
-| **Ten Degree Channel** | Little Andaman and Car Nicobar |
-| **Eight Degree Channel** | Lakshadweep and Maldives |
-| **Palk Bay** | India and Sri Lanka (wider than Palk Strait) |
+| Strait/Channel           | Between                                      |
+| ------------------------ | -------------------------------------------- |
+| **Palk Strait**          | India and Sri Lanka                          |
+| **Duncan Passage**       | South Andaman and Little Andaman             |
+| **Ten Degree Channel**   | Little Andaman and Car Nicobar               |
+| **Eight Degree Channel** | Lakshadweep and Maldives                     |
+| **Palk Bay**             | India and Sri Lanka (wider than Palk Strait) |
 
 ---
 
 ## India — Basic Physical Facts
 
-| Question | Answer |
-|----------|--------|
-| Total area of India | 32,87,263 sq km |
-| India's rank in world by area | **7th** |
-| India's rank in world by population | **1st** (surpassed China 2023) |
-| Southernmost point | **Indira Point (Great Nicobar)** |
-| Northernmost point | **Indira Col (Siachen, J&K)** |
-| Easternmost point | **Kibithoo (Arunachal Pradesh)** |
-| Westernmost point | **Ghuar Mota (Gujarat)** |
-| India's only active volcano | **Barren Island (Andaman)** |
-| Tropic of Cancer — 8 states | **Gujarat, Rajasthan, MP, CG, JH, WB, Tripura, Mizoram** |
+| Question                            | Answer                                                   |
+| ----------------------------------- | -------------------------------------------------------- |
+| Total area of India                 | 32,87,263 sq km                                          |
+| India's rank in world by area       | **7th**                                                  |
+| India's rank in world by population | **1st** (surpassed China 2023)                           |
+| Southernmost point                  | **Indira Point (Great Nicobar)**                         |
+| Northernmost point                  | **Indira Col (Siachen, J&K)**                            |
+| Easternmost point                   | **Kibithoo (Arunachal Pradesh)**                         |
+| Westernmost point                   | **Ghuar Mota (Gujarat)**                                 |
+| India's only active volcano         | **Barren Island (Andaman)**                              |
+| Tropic of Cancer — 8 states         | **Gujarat, Rajasthan, MP, CG, JH, WB, Tripura, Mizoram** |
 
 ---
 
