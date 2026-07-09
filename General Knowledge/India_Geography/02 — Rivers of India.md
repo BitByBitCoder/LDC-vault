@@ -5,15 +5,15 @@
 
 ## Questions From Your Papers
 
-| Question | Answer |
-|----------|--------|
-| Longest river in India | **Ganga** |
-| Narmada drains into | **Arabian Sea** |
-| Sutlej river type | **Trans-Himalayan river** |
-| Longest river in Mizoram | **Tlawng (~185 km)** |
-| Tuirial river — project on it | **Tuirial Hydroelectric Project** |
-| Tuirini Hydro project capacity | **24 MW** |
-| Majuli Island — in which river | **Brahmaputra** |
+| Question                       | Answer                            |
+| ------------------------------ | --------------------------------- |
+| Longest river in India         | **Ganga**                         |
+| Narmada drains into            | **Arabian Sea**                   |
+| Sutlej river type              | **Trans-Himalayan river**         |
+| Longest river in Mizoram       | **Tlawng (~185 km)**              |
+| Tuirial river — project on it  | **Tuirial Hydroelectric Project** |
+| Tuirini Hydro project capacity | **24 MW**                         |
+| Majuli Island — in which river | **Brahmaputra**                   |
 
 ---
 
