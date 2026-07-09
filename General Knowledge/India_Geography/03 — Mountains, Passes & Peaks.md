@@ -46,7 +46,7 @@
 | **Kangchenjunga** | Sikkim-Nepal                | Highest in India                |
 | **Anaimudi**      | Kerala (Western Ghats)      | Highest in Peninsular India     |
 | **Dodabetta**     | Nilgiri, Tamil Nadu         | 2nd highest in Peninsular India |
-| **Phawngpui**     | Siaha, Mizoram              | Highest in Mizoram (2,157 m)    |
+| **Phawngpui**     | Lawantlai, Mizoram          | Highest in Mizoram (2,157 m)    |
 
 ## Important Passes
 
@@ -58,6 +58,7 @@
 | **Rohtang Pass** | Himachal Pradesh  | —                                   |
 | **Umling La**    | Ladakh            | **Highest motorable pass in India** |
 | **Diphu Pass**   | Arunachal Pradesh | **Tri-point India-China-Myanmar**   |
+|                  |                   |                                     |
 
 ## Exam Traps ⚠️
 > Highest motorable pass = **Umling La** — NOT Khardung La (common misconception)
@@ -66,3 +67,5 @@
 > Western + Eastern Ghats meet = **Nilgiri** — NOT Cardamom or Palani hills
 > Largest mountain range in world = **Andes** — NOT Himalayas (Himalayas = highest average)
 > Tri-point India-China-Myanmar = **Diphu Pass** — NOT Jelep La
+
+
