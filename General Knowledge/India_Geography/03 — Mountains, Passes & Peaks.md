@@ -5,16 +5,16 @@
 
 ## Questions From Your Papers
 
-| Question | Answer |
-|----------|--------|
-| Highest motorable pass in India | **Umling La Pass (Ladakh)** |
-| Nathu La pass — in which state | **Sikkim** |
-| Highest peak in Peninsular India | **Anaimudi (Kerala)** |
-| Western & Eastern Ghats meet at | **Nilgiri Hills** |
-| Highest waterfall in Chotanagpur plateau | **Lodh Falls (Jharkhand)** |
-| Largest mountain range in world | **Andes (South America)** |
-| Tri-point of India, China, Myanmar | **Diphu Pass** |
-| Phawngpui (Blue Mountain) — Mizoram | Highest peak in Mizoram — Siaha district |
+| Question                                 | Answer                                |
+| ---------------------------------------- | ------------------------------------- |
+| Highest motorable pass in India          | **Umling La Pass (Ladakh)**           |
+| Nathu La pass — in which state           | **Sikkim**                            |
+| Highest peak in Peninsular India         | **Anaimudi (Kerala)**                 |
+| Western & Eastern Ghats meet at          | **Nilgiri Hills**                     |
+| Highest waterfall in Chotanagpur plateau | **Lodh Falls (Jharkhand)**            |
+| Largest mountain range in world          | **Andes (South America)**             |
+| Tri-point of India, China, Myanmar       | **Diphu Pass**                        |
+| Phawngpui (Blue Mountain) — Mizoram      | Highest peak in Mizoram — La district |
 
 ## Mountain Ranges of India
 
