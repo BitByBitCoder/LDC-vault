@@ -23,23 +23,23 @@
 
 ## India — States Superlatives
 
-| Category | State |
-|----------|-------|
-| **Largest by area** | Rajasthan |
-| **Smallest by area** | Goa |
-| **Largest by population** | Uttar Pradesh |
-| **Smallest by population** | Sikkim |
-| **Most densely populated** | Bihar |
-| **Least densely populated** | Arunachal Pradesh |
-| **Highest literacy** | Kerala (~94%) |
-| **Lowest literacy** | Bihar |
-| **Highest sex ratio** | Kerala |
-| **Lowest sex ratio** | Haryana |
-| **Largest coastline** | Gujarat |
-| **Longest coastline** | Gujarat (1,214 km) |
-| **Largest forest cover** | Madhya Pradesh |
-| **Highest forest % of area** | Mizoram (~84–89%) |
-| **Highest solar capacity** | Rajasthan |
+| Category                     | State              |
+| ---------------------------- | ------------------ |
+| **Largest by area**          | Rajasthan          |
+| **Smallest by area**         | Goa                |
+| **Largest by population**    | Uttar Pradesh      |
+| **Smallest by population**   | Sikkim             |
+| **Most densely populated**   | Bihar              |
+| **Least densely populated**  | Arunachal Pradesh  |
+| **Highest literacy**         | Kerala (~94%)      |
+| **Lowest literacy**          | Bihar              |
+| **Highest sex ratio**        | Kerala             |
+| **Lowest sex ratio**         | Haryana            |
+| **Largest coastline**        | Gujarat            |
+| **Longest coastline**        | Gujarat (1,214 km) |
+| **Largest forest cover**     | Madhya Pradesh     |
+| **Highest forest % of area** | Mizoram (~84–89%)  |
+| **Highest solar capacity**   | Rajasthan          |
 
 ---
 
@@ -137,3 +137,43 @@
 > Capital of Australia = **Canberra** — NOT Sydney or Melbourne
 > NE state bordering only 1 state = **Sikkim** — NOT Tripura or Meghalaya
 > Khetri copper = **Rajasthan** — NOT Jharkhand
+Most of your facts are **true**, but a few have common exam traps that could cost you marks.
+
+Here is the exact breakdown of what is correct and where you need to be careful:
+
+### 1. The Completely Correct Facts
+
+- **Largest state by area:** Rajasthan
+    
+- **Smallest state by area:** Goa
+    
+- **Largest state by population (2011):** Uttar Pradesh
+    
+- **Smallest state by population (2011):** Sikkim
+    
+- **Largest coastline state:** Gujarat
+    
+- **Highest literacy rate state:** Kerala
+    
+- **Shillong called:** Scotland of the East
+    
+- **Khetri Belt (copper):** Rajasthan
+    
+
+### 2. The Facts You Need to Fix (Exam Traps)
+
+- **State with largest forest cover: Madhya Pradesh**
+    
+    - _The Trap:_ This is only true **by total area**. If the exam asks for the highest forest cover **by percentage**, the answer is **Mizoram** (around 84.5%). Always check if the question says "by area" or "by percentage."
+        
+- **NE state bordering only 1 Indian state: Sikkim**
+    
+    - _The Trap:_ Sikkim is not alone! There are actually **two** Northeastern states that border only one Indian state:
+        
+        1. **Sikkim** (borders only West Bengal)
+            
+        2. **Meghalaya** (borders only Assam)
+            
+- **Country with highest population density: Bangladesh**
+    
+    - _The Trap:_ Globally, micro-states like **Monaco** and **Singapore** have the highest population density. Bangladesh is the most densely populated **among major/large countries** (countries with populations over 10 million). If Monaco is an option in your exam, pick Monaco.
