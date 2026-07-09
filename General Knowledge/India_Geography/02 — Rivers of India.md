@@ -21,17 +21,16 @@
 
 ### Himalayan Rivers (Perennial — fed by glaciers)
 
-| River           | Origin             | Drains Into          | Key Fact                                         |
-| --------------- | ------------------ | -------------------- | ------------------------------------------------ |
-| **Ganga**       | Gangotri Glacier   | Bay of Bengal        | Longest river in India                           |
-| **Yamuna**      | Yamunotri          | Ganga (at Prayagraj) | Ganga's largest tributary                        |
-| **Brahmaputra** | Tibet (Mansarovar) | Bay of Bengal        | Longest by volume — Majuli island                |
-| **Indus**       | Tibet              | Arabian Sea          | Longest overall (but mostly in Pakistan)         |
-| **Sutlej**      | Tibet              | Arabian Sea          | **Trans-Himalayan** — also called Langqên Zangbo |
-| **Beas**        | Rohtang Pass       | Sutlej               | —                                                |
-| **Ravi**        | HP                 | Chenab               | —                                                |
-| **Chenab**      | HP                 | Indus                | Longest of 5 Punjab rivers                       |
-|                 |                    |                      |                                                  |
+|**River**|**Origin (A lo chhuahna)**|**Drains Into (A luah luhna)**|**Key Fact**|**Mizo Hrilhfiahna / Exam Focus**|
+|---|---|---|---|---|
+|**Ganga**|Gangotri Glacier (Uttarakhand)|Bay of Bengal|Longest river in India (2,525 km).|India ram chhunga lui dung sei ber a ni.|
+|**Yamuna**|Yamunotri Glacier (Uttarakhand)|Ganga River (at Prayagraj)|Ganga's largest tributary.|Ganga lui nena fin (tributary) lian ber a ni. **Triveni Sangam** (Prayagraj)-ah an i fin țhin.|
+|**Brahmaputra**|Tibet (near Mansarovar)|Bay of Bengal|Largest by water volume in India.|India rama tui luang hnem ber (volume) lui a ni. Tibet ramah chuan **Tsangpo** an ti țhin. **Majuli Island** awmna kha a ni bawk.|
+|**Indus**|Tibet (near Mansarovar)|Arabian Sea|Longest overall river in the subcontinent.|Himadri piah lam ațanga lo chhuak a ni a, a dung a sei em em a, mahse a thui zawk hi Pakistan chhungah a luang thung.|
+|**Sutlej**|Tibet (Lake Rakshastal)|Indus River (via Panjnad)|Trans-Himalayan; **Longest of the 5 Punjab rivers**.|Trans-Himalayan river a ni a (Tibet-ah a lo chhuak). Punjab lui 5 zinga **a dung sei ber** a ni.|
+|**Chenab**|Bara-lacha La Pass (HP)|Indus River|**Largest of the 5 Punjab rivers by volume**.|Punjab lui 5 zinga **tui hnem ber** (volume) la a ni thung.|
+|**Beas**|Rohtang Pass (HP)|Sutlej River (at Harike)|Flows entirely within India.|Punjab lui 5 zinga **India ram chhung chauhva luang** (Pakistan-ah a phei ve lo) awmchhun a ni.|
+|**Ravi**|Rohtang Pass (HP)|Chenab River|Border river between India and Pakistan.|Himachal leh Punjab rorualna paltlangin Chenab lui a va zawm leh a ni.|
 
 ### Peninsular Rivers (Seasonal — rain fed)
 
