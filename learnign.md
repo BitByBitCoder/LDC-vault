@@ -4,6 +4,8 @@ Here's a roadmap that moves from beginner to advanced. Think of it like learning
 
 ---
 
+
+group related information
 # Phase 1 — Understand How Learning Works (Foundation)
 
 **Goal:** Learn what actually happens when you learn.
