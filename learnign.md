@@ -6,6 +6,432 @@ Here's a roadmap that moves from beginner to advanced. Think of it like learning
 
 
 group related information
+
+You're already identifying the core ideas. Here's a concise summary of the techniques we've discussed, organized into a practical checklist you can keep in Obsidian.
+
+# 🧠 Learning Techniques Cheat Sheet
+
+## 1. Group Related Information (Chunking)
+
+Don't memorize isolated facts. Organize them into meaningful groups.
+
+❌ Bad
+
+```text
+Article 14
+Article 15
+Article 16
+Article 17
+```
+
+✅ Better
+
+```text
+Equality
+├── Article 14
+├── Article 15
+├── Article 16
+├── Article 17
+```
+
+---
+
+## 2. Connect Related Information
+
+Every new idea should connect to something you already know.
+
+Example
+
+```text
+Article 32
+        │
+        ├── Supreme Court
+        ├── Writs
+        ├── Fundamental Rights
+        └── Article 226
+```
+
+Ask:
+
+- What does this relate to?
+    
+- Where have I seen this before?
+    
+
+---
+
+## 3. Ask Questions Instead of Collecting Facts
+
+Instead of:
+
+```text
+Article 32 protects Fundamental Rights.
+```
+
+Ask:
+
+- Why?
+    
+- How?
+    
+- When?
+    
+- What if?
+    
+- Compare?
+    
+- Explain?
+    
+
+Learning begins with questions.
+
+---
+
+## 4. Learn Concepts Before Details
+
+Don't start with numbers.
+
+Instead of
+
+```text
+Article 14
+Article 15
+Article 16
+```
+
+Start with
+
+```text
+Equality
+
+↓
+
+Articles supporting Equality
+```
+
+Concept → Details
+
+---
+
+## 5. Compare Things
+
+Comparison creates stronger understanding.
+
+Examples
+
+```text
+Article 32
+vs
+Article 226
+```
+
+```text
+President
+vs
+Governor
+```
+
+```text
+Money Bill
+vs
+Finance Bill
+```
+
+Ask:
+
+- Similarities?
+    
+- Differences?
+    
+- Exam trap?
+    
+
+---
+
+## 6. Explain in Simple Words
+
+If you can't explain it simply, you probably don't understand it yet.
+
+Imagine teaching a 12-year-old.
+
+---
+
+## 7. Retrieval Practice
+
+Close the book.
+
+Ask yourself:
+
+- What do I remember?
+    
+- Can I explain it?
+    
+- Can I draw it?
+    
+
+Don't look at the answer immediately.
+
+---
+
+## 8. Build Mental Models
+
+Think in systems instead of lists.
+
+Instead of
+
+```text
+40 random Articles
+```
+
+Think
+
+```text
+Constitution
+
+↓
+
+Fundamental Rights
+
+↓
+
+Equality
+
+↓
+
+Article 14
+```
+
+---
+
+## 9. Find Relationships
+
+Every note should answer:
+
+- Parent?
+    
+- Child?
+    
+- Similar?
+    
+- Opposite?
+    
+- Cause?
+    
+- Effect?
+    
+
+Example
+
+```text
+Democracy
+
+↓
+
+Fundamental Rights
+
+↓
+
+Article 32
+```
+
+---
+
+## 10. Compress Information
+
+After studying
+
+```text
+500 words
+
+↓
+
+100 words
+
+↓
+
+20 words
+
+↓
+
+1 sentence
+
+↓
+
+3 keywords
+```
+
+Compression forces understanding.
+
+---
+
+## 11. Think About "Why"
+
+Keep asking why until you reach the underlying reason.
+
+Example
+
+```text
+Article 32
+
+↓
+
+Why?
+
+↓
+
+Protect Rights
+
+↓
+
+Why?
+
+↓
+
+Prevent abuse of power
+
+↓
+
+Why?
+
+↓
+
+Maintain democracy
+```
+
+---
+
+## 12. Use Real Examples
+
+Connect abstract ideas to real life.
+
+Example
+
+```text
+Equality
+
+↓
+
+Reservation
+
+↓
+
+Government Jobs
+
+↓
+
+Real Court Cases
+```
+
+Concrete examples make concepts easier to remember.
+
+---
+
+## 13. Predict Exam Questions
+
+Don't just read.
+
+Create questions.
+
+Example
+
+```text
+Why is Article 32 called the Heart and Soul?
+
+Compare Article 32 and 226.
+
+Which Article protects Equality?
+```
+
+---
+
+## 14. Learn by Teaching
+
+Pretend someone asks,
+
+> "Can you explain this?"
+
+If you struggle, you've found a gap in your understanding.
+
+---
+
+## 15. Review Connections, Not Just Facts
+
+Instead of reviewing:
+
+```text
+Article 14
+
+Article 15
+
+Article 16
+```
+
+Review
+
+```text
+Equality
+
+↓
+
+How Articles 14–18 work together
+```
+
+---
+
+# A Simple Learning Formula
+
+Whenever you learn something new, run it through this checklist:
+
+```text
+1. What is it?            (Definition)
+
+2. Why does it exist?     (Purpose)
+
+3. How does it work?      (Mechanism)
+
+4. Where is it used?      (Application)
+
+5. What is it connected to? (Connections)
+
+6. What is similar?       (Comparison)
+
+7. What is different?     (Contrast)
+
+8. Can I explain it?      (Understanding)
+
+9. Can I recall it without notes? (Retrieval)
+
+10. Can I teach it?       (Mastery)
+```
+
+## One more principle
+
+All of these techniques support one larger goal:
+
+> **Build a network of knowledge, not a collection of notes.**
+
+A beginner often has isolated facts:
+
+```text
+Fact
+Fact
+Fact
+Fact
+```
+
+An expert has an interconnected network:
+
+```text
+Concept
+   ├── Fact
+   ├── Fact
+   ├── Example
+   ├── Comparison
+   ├── Question
+   └── Application
+```
+
+That's the mindset shift you're aiming for in Obsidian: use it to **build and navigate a knowledge network**, not just to archive information.
 # Phase 1 — Understand How Learning Works (Foundation)
 
 **Goal:** Learn what actually happens when you learn.
