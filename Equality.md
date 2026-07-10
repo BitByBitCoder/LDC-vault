@@ -8,7 +8,7 @@ Treat everyone equally before the law.
 
 ## Articles
 
-[[General Knowledge/brain/Article 14]]
+[[General Knowledge/brain/Fundamental Rights/Aticles/Article 14]]
 
 [[Article 15]]
 
@@ -38,7 +38,7 @@ Reservation
 
 ## Related Concepts
 
-[[Fundamental Rights]]
+[[General Knowledge/brain/Fundamental Rights/Fundamental Rights]]
 
 [[Rule of Law]]
 
