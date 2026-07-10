@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Knowledge/India_Geography/04 — States & Union Territories.md",
+                "file": "learnign.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 — States & Union Territories"
+              "title": "learnign"
             }
           }
         ]
@@ -193,13 +193,15 @@
   },
   "active": "22b71dd0e6300154",
   "lastOpenFiles": [
+    "Welcome.md",
+    "learnign.md",
+    "General Knowledge/India_Geography/04 — States & Union Territories.md",
     "General Knowledge/India_Geography/04 — Climate, Crops & Soil.md",
     "General Knowledge/India_Geography/03 — States & Superlatives.md",
     "General Knowledge/India_Geography/🌏 India Geography — INDEX.md",
     "General Knowledge/India_Geography/03 — Mountains, Passes & Peaks.md",
     "General Knowledge/India_Geography/01 — Physical Geography.md",
     "General Knowledge/India_Geography/05 — Agriculture & Crops.md",
-    "General Knowledge/India_Geography/04 — States & Union Territories.md",
     "General Knowledge/Indian_Polity_Constitution/08 — Judiciary.md",
     "General Knowledge/Indian_Polity_Constitution/09 — Panchayati Raj & Local Bodies.md",
     "General Knowledge/Indian_Polity_Constitution/10 — Governor & State Government.md",
@@ -217,8 +219,6 @@
     "GK_Missing_Topics/07 — Current Affairs & World GK.md",
     "GK_Missing_Topics/08 — Computer Knowledge Gaps.md",
     "GK_Missing_Topics/06 — Indian History Deep Facts.md",
-    "GK_Missing_Topics/05 — English Clauses & Determiners.md",
-    "GK_Missing_Topics/03 — Indian Economy Terms.md",
     "GK_Missing_Topics",
     "General Knowledge/Indian_Polity_Constitution/current",
     "General Knowledge/Untitled.base",
