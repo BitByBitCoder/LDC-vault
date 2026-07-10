@@ -11,19 +11,7 @@ Basic rights guaranteed by the Constitution.
 
 To protect citizens from arbitrary government action.
 
-Without Fundamental Rights
-
-↓
-
-No freedom
-
-↓
-
-No equality
-
-↓
-
-No democracy
+Without Fundamental Rights->No freedom->No equality->No democracy
 
 ---
 
@@ -43,8 +31,7 @@ Citizens can approach the courts if these rights are violated.
 
 [[Article 226]]
 
-Fundamental Rights
-│
+## Fundamental Rights
 ├── Equality
 ├── Freedom
 ├── Exploitation
