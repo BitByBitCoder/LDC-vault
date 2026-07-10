@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Knowledge/Indian_Polity_Constitution/brain/Fundamental Rights/Fundamental Rights.md",
+                "file": "General Knowledge/Indian_Polity_Constitution/brain/The Indian Constitution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fundamental Rights"
+              "title": "The Indian Constitution"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Knowledge/Indian_Polity_Constitution/brain/The Indian Constitution.md",
+                "file": "General Knowledge/Indian_Polity_Constitution/brain/Fundamental Rights/Fundamental Rights.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Indian Constitution"
+              "title": "Fundamental Rights"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,11 +205,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c6c201c39a4935e",
+  "active": "22b71dd0e6300154",
   "lastOpenFiles": [
-    "General Knowledge/Indian_Polity_Constitution/brain/01 Home Indian polity  Constitution.md",
-    "General Knowledge/Indian_Polity_Constitution/brain/The Indian Constitution.md",
     "General Knowledge/Indian_Polity_Constitution/brain/Fundamental Rights/Fundamental Rights.md",
+    "General Knowledge/Indian_Polity_Constitution/brain/The Indian Constitution.md",
+    "General Knowledge/Indian_Polity_Constitution/brain/01 Home Indian polity  Constitution.md",
     "General Knowledge/Indian_Polity_Constitution/brain/Fundamental Rights/Aticles/Article 14.md",
     "General Knowledge/Indian_Polity_Constitution/note/🏛️ Indian Polity & Constitution — INDEX.md",
     "General Knowledge/Science_Technology/🔬 Science & Technology — INDEX.md",

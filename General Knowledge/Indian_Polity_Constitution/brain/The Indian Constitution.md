@@ -2,7 +2,7 @@
 | -------------- | ---------------------------------------------------------------------- | ------------------------ | ------------------------------------------------------------------------- |
 | **Part I**     | [[The Union and its Territory]]                                        | Articles 1–4             | India ram ramri leh a hnuaia State hrang hrangte chungchang.              |
 | **Part II**    | [[Citizenship]]                                                        | Articles 5–11            | India khua leh tui (citizenship) nihna dan leh thubupte.                  |
-| **Part III**   | [[Fundamental Rights/Fundamental Rights]]                              | Articles 12–35           | Khua leh tui tinte dikna chanvo bulpui, court-a humhim theih.             |
+| **Part III**   | [[Fundamental Rights]]                                                 | Articles 12–35           | Khua leh tui tinte dikna chanvo bulpui, court-a humhim theih.             |
 | **Part IV**    | [[Directive Principles of State Policy]]                               | Articles 36–51           | Sawrkarin ram a rorrel laia policy a zawm tur kaihhruaina (DPSP).         |
 | **Part IV-A**  | [[Fundamental Duties]]                                                 | Article 51A              | India khua leh tuite mawhphurhna leh tih tur pawimawh.                    |
 | **Part V**     | [[The Union]]                                                          | Articles 52–151          | Central sawrkar (President, PM, Parliament, Supreme Court) inrelbawl dan. |
