@@ -8,7 +8,7 @@ Treat everyone equally before the law.
 
 ## Articles
 
-[[General Knowledge/brain/Fundamental Rights/Aticles/Article 14]]
+[Article 14](General%20Knowledge/brain/Fundamental%20Rights/Aticles/Article%2014.md)
 
 [[Article 15]]
 
