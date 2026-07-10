@@ -10,6 +10,9 @@
 
 He ta hian i list zawng zawng kha felfai tak leh Mizo hrilhfiahna tawi, fiah tak nen ka rawn rem khawm leh e:
 
+	
+
+
 | **Article**      | **Official Wording / Title**                                                                          | **Mizo Hrilhfiahna (Exam Focus)**                                                                                                                                |
 | ---------------- | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Article 1**    | Name and territory of the Union.                                                                      | India ram hming ("India, that is Bharat") leh a ram ri chin (States & UTs) tarlarna.                                                                             |
