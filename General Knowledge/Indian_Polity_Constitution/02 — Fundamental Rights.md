@@ -15,6 +15,8 @@
 | **Articles NOT suspended during Emergency**      | Articles 20 and 21                                 |
 | **Article 21A**                                  | Right to Education (Free & compulsory, age 6–14)   |
 | **Which part highlights secular character**      | Preamble (Also supported by Articles 25–28)        |
+|                                                  |                                                    |
+|                                                  |                                                    |
 
 ## All 6 Fundamental Rights
 
