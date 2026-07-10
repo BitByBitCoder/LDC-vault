@@ -9,6 +9,11 @@ Basic rights guaranteed by the Constitution.
 ## Why does it exist?
 
 To protect citizens from arbitrary government action.
+Mizo chuan hetiang hian a sawi theih ang:
+
+**"Sawrkarin a duh duha thuneihna a hman (arbitrary action) laka khua leh tuite humhim nan."**
+
+_A hrilhfiahna tawi:_ He thumal hian sawrkarin dan loa a duh dahlut taka th th-a rorrelna (arbitrary action) a kalpui lakah, mipui dikna leh zalenna humhim a kawk a ni (entirnan: Part III-a _Fundamental Rights_ kan neih chhan ber pawh hi sawrkar laka kan invenna a ni).
 
 Without Fundamental Rights->No freedom->No equality->No democracy
 
