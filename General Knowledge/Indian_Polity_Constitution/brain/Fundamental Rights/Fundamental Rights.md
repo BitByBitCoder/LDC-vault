@@ -9,7 +9,7 @@ Basic rights guaranteed by the Constitution.
 ## Why does it exist?
 
 To protect citizens from arbitrary government action.
-Mizo chuan hetiang hian a sawi theih ang:
+
 
 **"Sawrkarin a duh duha thuneihna a hman (arbitrary action) laka khua leh tuite humhim nan."**
 
