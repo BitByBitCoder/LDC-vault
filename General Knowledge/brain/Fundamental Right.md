@@ -42,3 +42,23 @@ Citizens can approach the courts if these rights are violated.
 [[Article 32]]
 
 [[Article 226]]
+
+Fundamental Rights
+│
+├── Equality
+├── Freedom
+├── Exploitation
+├── Religion
+├── Culture & Education
+└── Constitutional Remedies
+
+# Fundamental Rights
+
+## Types
+
+- [[Equality]]
+- [[Freedom]]
+- [[Right against Exploitation]]
+- [[Freedom of Religion]]
+- [[Cultural and Educational Rights]]
+- [[Constitutional Remedies]]
