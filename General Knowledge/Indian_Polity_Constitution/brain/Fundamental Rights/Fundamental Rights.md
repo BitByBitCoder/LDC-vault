@@ -3,7 +3,8 @@
 > ## What is it?
 
 >dfdf
->
+> [!info]- Click here to reveal the hidden information
+
 Basic rights guaranteed by the Constitution.
 
 ---
