@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dictionary/Untitled.md",
+                "file": "Dictionary/arbitary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "arbitary"
             }
           },
           {
@@ -35,7 +35,8 @@
               "title": "Fundamental Rights"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,10 +206,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "22b71dd0e6300154",
+  "active": "7c6c201c39a4935e",
   "lastOpenFiles": [
+    "Dictionary/arbitary.md",
     "General Knowledge/Indian_Polity_Constitution/brain/Fundamental Rights/Fundamental Rights.md",
-    "Dictionary/Untitled.md",
     "Dictionary",
     "General Knowledge/Indian_Polity_Constitution/brain/The Indian Constitution.md",
     "General Knowledge/Indian_Polity_Constitution/brain/01 Home Indian polity  Constitution.md",

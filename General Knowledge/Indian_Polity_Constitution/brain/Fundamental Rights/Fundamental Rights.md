@@ -8,7 +8,7 @@ Basic rights guaranteed by the Constitution.
 
 ## Why does it exist?
 
-To protect citizens from arbitrary government action.
+To protect citizens from [arbitary](../../../../Dictionary/arbitary.md) government action.
 
 
 **"Sawrkarin a duh duha thuneihna a hman (arbitrary action) laka khua leh tuite humhim nan."**
