@@ -6,7 +6,7 @@
 > [!info]- Click here to reveal the hidden information
 
 Basic rights guaranteed by the Constitution.
-
+> This is the secret information that stays hidden
 ---
 
 ## Why does it exist?
