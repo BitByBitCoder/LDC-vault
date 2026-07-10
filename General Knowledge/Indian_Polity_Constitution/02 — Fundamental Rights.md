@@ -1,4 +1,4 @@
-# 02 — Fundamental Rights
+s
 [[🏛️ Indian Polity & Constitution — INDEX|← Back to Index]]
 
 ---
