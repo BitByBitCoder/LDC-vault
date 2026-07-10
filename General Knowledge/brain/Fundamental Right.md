@@ -1,4 +1,3 @@
-# Fundamental Rights
 
 > The basic rights guaranteed by the Constitution to protect individual liberty and equality against the misuse of State power.
 > ## What is it?
