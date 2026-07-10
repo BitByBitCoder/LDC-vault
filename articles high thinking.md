@@ -31,7 +31,7 @@ Ask:
 Equality protects people from arbitrary or discriminatory treatment by the State.
 
 ## Connected Articles
-- [[General Knowledge/brain/Fundamental Rights/Aticles/Article 14]]
+- [[General Knowledge/Indian_Polity_Constitution/brain/Fundamental Rights/Aticles/Article 14]]
 - [[Article 15]]
 - [[Article 16]]
 - [[Article 17]]

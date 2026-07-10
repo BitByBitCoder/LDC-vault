@@ -8,7 +8,7 @@ Treat everyone equally before the law.
 
 ## Articles
 
-[Article 14](General%20Knowledge/brain/Fundamental%20Rights/Aticles/Article%2014.md)
+[Article 14](General%20Knowledge/Indian_Polity_Constitution/brain/Fundamental%20Rights/Aticles/Article%2014.md)
 
 [[Article 15]]
 
@@ -38,7 +38,7 @@ Reservation
 
 ## Related Concepts
 
-[[General Knowledge/brain/Fundamental Rights/Fundamental Rights]]
+[[General Knowledge/Indian_Polity_Constitution/brain/Fundamental Rights/Fundamental Rights]]
 
 [[Rule of Law]]
 
