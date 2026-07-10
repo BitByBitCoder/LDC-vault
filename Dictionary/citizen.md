@@ -1,0 +1,1 @@
+(sitizin), noun khawpui mi, khua leh tui, ram pakhata chêng.

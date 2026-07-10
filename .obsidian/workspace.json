@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Knowledge/Indian_Polity_Constitution/brain/Fundamental Rights/Fundamental Rights.md",
+                "file": "Dictionary/citizen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fundamental Rights"
+              "title": "citizen"
             }
           },
           {
@@ -207,8 +207,9 @@
   },
   "active": "22b71dd0e6300154",
   "lastOpenFiles": [
-    "Dictionary/arbitary.md",
     "General Knowledge/Indian_Polity_Constitution/brain/Fundamental Rights/Fundamental Rights.md",
+    "Dictionary/citizen.md",
+    "Dictionary/arbitary.md",
     "Dictionary",
     "General Knowledge/Indian_Polity_Constitution/brain/The Indian Constitution.md",
     "General Knowledge/Indian_Polity_Constitution/brain/01 Home Indian polity  Constitution.md",
@@ -239,7 +240,6 @@
     "Welcome.md",
     "General Knowledge/India_Geography/04 — States & Union Territories.md",
     "General Knowledge/India_Geography/04 — Climate, Crops & Soil.md",
-    "General Knowledge/India_Geography/03 — States & Superlatives.md",
     "GK_Missing_Topics",
     "General Knowledge/Indian_Polity_Constitution/note/current",
     "General Knowledge/Untitled.base",

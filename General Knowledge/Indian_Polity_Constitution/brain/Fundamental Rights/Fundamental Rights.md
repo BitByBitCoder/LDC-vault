@@ -21,7 +21,7 @@ Without Fundamental Rights->No freedom->No equality->No democracy
 
 ## How does it work?
 
-Citizens can approach the courts if these rights are violated.
+[citizen](../../../../Dictionary/citizen.md)s can approach the courts if these rights are violated.
 
 ---
 
