@@ -1,0 +1,28 @@
+| **Part**       | **Title (Obsidian Link)**                                              | **Articles Covered**     | **Mizo Hrilhfiahna (Quick Explanation)**                                  |
+| -------------- | ---------------------------------------------------------------------- | ------------------------ | ------------------------------------------------------------------------- |
+| **Part I**     | [[The Union and its Territory]]                                        | Articles 1–4             | India ram ramri leh a hnuaia State hrang hrangte chungchang.              |
+| **Part II**    | [[Citizenship]]                                                        | Articles 5–11            | India khua leh tui (citizenship) nihna dan leh thubupte.                  |
+| **Part III**   | [[Fundamental Rights]]                                                 | Articles 12–35           | Khua leh tui tinte dikna chanvo bulpui, court-a humhim theih.             |
+| **Part IV**    | [[Directive Principles of State Policy]]                               | Articles 36–51           | Sawrkarin ram a rorrel laia policy a zawm tur kaihhruaina (DPSP).         |
+| **Part IV-A**  | [[Fundamental Duties]]                                                 | Article 51A              | India khua leh tuite mawhphurhna leh tih tur pawimawh.                    |
+| **Part V**     | [[The Union]]                                                          | Articles 52–151          | Central sawrkar (President, PM, Parliament, Supreme Court) inrelbawl dan. |
+| **Part VI**    | [[The States]]                                                         | Articles 152–237         | State sawrkar (Governor, CM, Assembly, High Court) inrelbawl dan.         |
+| _Part VII_     | _[[The States in Part B of the First Schedule]]_                       | _Article 238 (Repealed)_ | 1956 khan ṭhiat (repeal) a ni tawh.                                       |
+| **Part VIII**  | [[The Union Territories]]                                              | Articles 239–242         | Union Territory (UT)-te awp dan tur kaihhruaina.                          |
+| **Part IX**    | [[The Panchayats]]                                                     | Articles 243–243O        | Khawtual inrâlbawlna (Panchayati Raj) chungchang.                         |
+| **Part IX-A**  | [[The Municipalities]]                                                 | Articles 243P–243ZG      | Urban local bodies (Municipality) inrelbawl dan.                          |
+| **Part IX-B**  | [[Co-operative Societies]]                                             | Articles 243ZH–243ZT     | Co-operative society-te din leh enkawl dan.                               |
+| **Part X**     | [[The Scheduled and Tribal Areas]]                                     | Articles 244–244A        | Scheduled leh Tribal Area-te enkawl dan bik.                              |
+| **Part XI**    | [[Relations between the Union and the States]]                         | Articles 245–263         | Central sawrkar leh State sawrkar inkara thuneihna leh inlaichinna.       |
+| **Part XII**   | [[Finance, Property, Contracts and Suits]]                             | Articles 264–300A        | Sawrkar sum leh pai, chhiah (tax), leh neih nung (property) chungchang.   |
+| **Part XIII**  | [[Trade, Commerce, and Intercourse within the Territory of India]]     | Articles 301–307         | India ram chhunga sumdawnna leh thil thon zalenna.                        |
+| **Part XIV**   | [[Services under the Union and the States]]                            | Articles 308–323         | Civil Services (UPSC leh State PSC) chungchang.                           |
+| **Part XIV-A** | [[Tribunals]]                                                          | Articles 323A–323B       | Tribunal (buaina chinfelna court bik)-te din dan.                         |
+| **Part XV**    | [[Elections]]                                                          | Articles 324–329A        | Inthlanpui kalpui dan leh Election Commission thuneihna.                  |
+| **Part XVI**   | [[Special Provisions Relating to Certain Classes]]                     | Articles 330–342B        | SC, ST, leh OBC tana thil bik siamsakte (reservation thupuite).           |
+| **Part XVII**  | [[Official Language]]                                                  | Articles 343–351         | Ram official ṭawng leh court ṭawng hman tur hrang hrangte.                |
+| **Part XVIII** | [[Emergency Provisions]]                                               | Articles 352–360         | Emergency (ram wep khawk) puan dan leh thuneihna bikte.                   |
+| **Part XIX**   | [[Miscellaneous]]                                                      | Articles 361–367         | President leh Governor-te humhimna leh dan dangte.                        |
+| **Part XX**    | [[Amendment of the Constitution]]                                      | Article 368              | Constitution siamṭhat dan tur (Amendment) kaihhruaina.                    |
+| **Part XXI**   | [[Temporary, Transitional and Special Provisions]]                     | Articles 369–392         | State ṭhenkhat tana dan bik leh chumi hriatpuina lailâk.                  |
+| **Part XXII**  | [[Short Title, Commencement, Authoritative Text in Hindi and Repeals]] | Articles 393–395         | Constitution hming, hman ṭan ni, leh Hindi ṭawnga lehlin chungchang.      |
