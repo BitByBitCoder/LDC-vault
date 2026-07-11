@@ -1,0 +1,1 @@
+-al, adjectives democracy thil.
