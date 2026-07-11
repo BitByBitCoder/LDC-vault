@@ -82,7 +82,7 @@ The [[Constitution]].
 
 ## What kind of country?
 
-- [[Dictionary/Sovereign]]
+- [[Sovereign]]
 - [[ Socialist]]
 - [[Secular]]
 - [[Democratic]]
