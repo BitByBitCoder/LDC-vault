@@ -295,3 +295,7 @@ Before writing anything, write this one line at the top:
 > **"If this concept didn't exist, what problem would the Constitution have?"**
 
 That single question will naturally lead you to the **purpose**, the **connections**, and the **importance** of the topic—the foundation of a true thinking note.
+
+
+
+> ##hru
