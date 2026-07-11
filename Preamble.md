@@ -297,3 +297,9 @@ Before writing anything, write this one line at the top:
 That single question will naturally lead you to the **purpose**, the **connections**, and the **importance** of the topic—the foundation of a true thinking note.
 
 0
+
+
+
+
+> [!question]- What is the capital of India?
+> New Delhi
