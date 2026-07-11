@@ -1,3 +1,4 @@
+
 | **Part**       | **Title (Obsidian Link)**                                              | **Articles Covered**     | **Mizo Hrilhfiahna (Quick Explanation)**                                  |
 | -------------- | ---------------------------------------------------------------------- | ------------------------ | ------------------------------------------------------------------------- |
 | **Part I**     | [[The Union and its Territory]]                                        | Articles 1–4             | India ram ramri leh a hnuaia State hrang hrangte chungchang.              |
