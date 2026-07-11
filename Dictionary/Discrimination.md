@@ -1,0 +1,1 @@
+ thliar hrang thei, thil chîk thiam. discrimination, noun
