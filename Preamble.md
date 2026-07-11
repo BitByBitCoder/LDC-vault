@@ -298,3 +298,9 @@ That single question will naturally lead you to the **purpose**, the **connectio
 
 
 
+> [!info] 💡 Big Idea
+> The Preamble is the mission statement of the Constitution.
+
+
+> [!info]+ 💡 Big Idea
+> The Preamble is the mission statement...
