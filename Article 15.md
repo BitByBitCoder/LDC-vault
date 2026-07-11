@@ -1,5 +1,7 @@
 # 📜 Article 15
 
+### Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth
+
 > ## 💡 Big Idea
 > Article 15 protects people from discrimination based on **religion, race, caste, sex, or place of birth**. It helps ensure that all citizens are treated fairly by the State.
 
