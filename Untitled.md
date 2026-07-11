@@ -8,37 +8,12 @@
 ---
 
 > ## 🤔 Why does it exist?
-
-
----
-
 > ## ❓ What problem does it solve?
-
-
----
-
 > ## ⚙️ How does it work?
----
-
 > ## 🔗 Connected Concepts
-
----
-
 > ## ⚖ Compare
-
----
-
 > ## 🌎 Real Examples
->
-
-
----
-
 > ## 🧠 Mental Model example real life
->
-
----
-
 > ## 🚨 Common Misconceptions
 
 
