@@ -296,6 +296,5 @@ Before writing anything, write this one line at the top:
 
 That single question will naturally lead you to the **purpose**, the **connections**, and the **importance** of the topic—the foundation of a true thinking note.
 
+# 📜 Preamble
 
-> [!]+ 💡 Big Idea 
-> sdfsdfsdf
