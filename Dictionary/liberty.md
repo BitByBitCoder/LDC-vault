@@ -1,0 +1,1 @@
+(laibarti), noun zalenna.

@@ -1,0 +1,1 @@
+(vaiawleit), verb transitive bawhchhia, tinawmnah, pâwngsual. violation, noun

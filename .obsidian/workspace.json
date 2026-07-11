@@ -10,15 +10,17 @@
           {
             "id": "22b71dd0e6300154",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Knowledge/Indian_Polity_Constitution/brain/Fundamental Rights/Fundamental Rights.md",
+                "file": "learn/the think framework.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Fundamental Rights"
+              "title": "the think framework"
             }
           },
           {
@@ -27,15 +29,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dictionary/arbitary.md",
+                "file": "Preamble.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "arbitary"
+              "title": "Preamble"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,14 +208,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "22b71dd0e6300154",
+  "active": "7c6c201c39a4935e",
   "lastOpenFiles": [
-    "Dictionary/citizen.md",
+    "Constitution.md",
+    "Preamble.md",
+    "Supreme Court.md",
+    "learn/template.md",
     "General Knowledge/Indian_Polity_Constitution/brain/Fundamental Rights/Fundamental Rights.md",
-    "Dictionary/arbitary.md",
-    "Dictionary",
+    "learn/the think framework.md",
+    "Dictionary/violate.md",
     "General Knowledge/Indian_Polity_Constitution/brain/The Indian Constitution.md",
+    "Dictionary/arbitary.md",
+    "learn/byhart.md",
+    "Dictionary/liberty.md",
     "General Knowledge/Indian_Polity_Constitution/brain/01 Home Indian polity  Constitution.md",
+    "Dictionary/citizen.md",
+    "Dictionary",
     "General Knowledge/Indian_Polity_Constitution/brain/Fundamental Rights/Aticles/Article 14.md",
     "General Knowledge/Indian_Polity_Constitution/note/🏛️ Indian Polity & Constitution — INDEX.md",
     "General Knowledge/Science_Technology/🔬 Science & Technology — INDEX.md",
@@ -232,14 +243,6 @@
     "articles high thinking.md",
     "learn",
     "obsidian setup.md",
-    "Obsidian_Learning_System.md",
-    "General Knowledge/Modern_Indian_History/01 — British Governors & Viceroys.md",
-    "learnign.md",
-    "Obsidian_Learning_System.md.md",
-    "General Knowledge/India_Geography/01 — India Basic Facts & Superlatives.md",
-    "Welcome.md",
-    "General Knowledge/India_Geography/04 — States & Union Territories.md",
-    "General Knowledge/India_Geography/04 — Climate, Crops & Soil.md",
     "GK_Missing_Topics",
     "General Knowledge/Indian_Polity_Constitution/note/current",
     "General Knowledge/Untitled.base",

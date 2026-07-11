@@ -1,12 +1,9 @@
 
-> The basic rights guaranteed by the Constitution to protect individual liberty and equality against the misuse of State power.
-> ## What is it?
+> The basic rights guaranteed by the Constitution to protect individual [liberty](../../../../Dictionary/liberty.md) and equality against the misuse of State power.
 
->dfdf
-> [!info]- Click here to reveal the hidden information
+Sawrkar thuneihna hman sual laka mimal zalenna leh intluktlanna humhim nana Danpui (Constitution)-in a tiamsak dikna chanvo
 
-Basic rights guaranteed by the Constitution.
-> This is the secret information that stays hidden
+
 ---
 
 ## Why does it exist?
@@ -16,7 +13,8 @@ To protect citizens from [arbitary](../../../../Dictionary/arbitary.md) governme
 
 **"Sawrkarin a duh duha thuneihna a hman (arbitrary action) laka khua leh tuite humhim nan."**
 
-_A hrilhfiahna tawi:_ He thumal hian sawrkarin dan loa a duh dahlut taka th th-a rorrelna (arbitrary action) a kalpui lakah, mipui dikna leh zalenna humhim a kawk a ni (entirnan: Part III-a _Fundamental Rights_ kan neih chhan ber pawh hi sawrkar laka kan invenna a ni).
+
+### Why fudamental right?
 
 Without Fundamental Rights->No freedom->No equality->No democracy
 
@@ -24,7 +22,7 @@ Without Fundamental Rights->No freedom->No equality->No democracy
 
 ## How does it work?
 
-[citizen](../../../../Dictionary/citizen.md)s can approach the courts if these rights are violated.
+[citizen](../../../../Dictionary/citizen.md)s can approach the courts if these rights are [violate](../../../../Dictionary/violate.md)d.
 
 ---
 
@@ -38,13 +36,21 @@ Without Fundamental Rights->No freedom->No equality->No democracy
 
 [[Article 226]]
 
-## Fundamental Rights
+## 6 Fundamental Rights
 ├── Equality
 ├── Freedom
 ├── Exploitation
 ├── Religion
 ├── Culture & Education
 └── Constitutional Remedies
+
+
+├── **Intluktlanna** (Equality) 
+├── **Zalenna** (Freedom) 
+├── **Hnehchhiatna laka himna** (Exploitation) 
+├── **Sakhaw zalenna** (Religion) 
+├── **Hnam zia leh Zirna** (Culture & Education) 
+└── **Danpui hmanga dikna chanvo humhimna** (Constitutional Remedies)
 
 # Fundamental Rights
 
