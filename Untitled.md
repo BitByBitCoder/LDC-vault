@@ -34,22 +34,13 @@
 
 ---
 
-> ## 🧠 Mental Model exam ple
+> ## 🧠 Mental Model example real life
 >
 
 ---
 
 > ## 🚨 Common Misconceptions
->
-> ❌ Article 15 prohibits all forms of classification.
->
-> ✅ Reasonable special provisions and reservations are allowed.
->
-> ---
->
-> ❌ Reservation violates Article 15.
->
-> ✅ Reservation is specifically permitted under Article 15.
+
 
 ---
 
@@ -66,18 +57,12 @@
 ---
 
 > ## 🎓 Explain Like I'm 12
->
-> Imagine your teacher says:
->
-> "I will not treat students differently because they are boys or girls, belong to a different religion, or come from a different village."
->
-> That's the idea behind Article 15.
+
 
 ---
 
 > ## 📝 One-Sentence Summary
->
-> Article 15 prevents discrimination based on religion, race, caste, sex, or place of birth while allowing special measures to help disadvantaged groups.
+
 
 ---
 
