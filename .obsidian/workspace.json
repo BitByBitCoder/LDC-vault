@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dictionary/Prohibition.md",
+                "file": "Article 15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prohibition"
+              "title": "Article 15"
             }
           },
           {
@@ -224,8 +224,8 @@
   },
   "active": "7c6c201c39a4935e",
   "lastOpenFiles": [
-    "Article 15.md",
     "Dictionary/Prohibition.md",
+    "Article 15.md",
     "learn/framework 2.md",
     "Equality.md",
     "General Knowledge/Indian_Polity_Constitution/brain/Fundamental Rights/Fundamental Rights.md",

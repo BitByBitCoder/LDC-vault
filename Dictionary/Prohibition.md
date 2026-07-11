@@ -1,0 +1,1 @@
+In Mizo, the word **Prohibition** literally means **"Khapna"** or **"Khamna"**.
