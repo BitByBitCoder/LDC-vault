@@ -1,0 +1,1 @@
+(sawverin, sawvrin, savrin), noun and adjective lalber, English pawisa pound khat.
