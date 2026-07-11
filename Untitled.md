@@ -8,38 +8,17 @@
 ---
 
 > ## 🤔 Why does it exist?
-> Imagine if the government could deny opportunities to people simply because of their religion, caste, or gender.
->
-> Society would become unfair and divided.
->
-> Article 15 exists to prevent such discrimination and promote equality.
+
 
 ---
 
 > ## ❓ What problem does it solve?
-> - Unfair treatment based on identity.
-> - Social exclusion.
-> - Discrimination in public places and services.
-> - Historical inequalities.
+
 
 ---
 
 > ## ⚙️ How does it work?
 > The State cannot discriminate against citizens solely on the grounds of:
->
-> - Religion
-> - Race
-> - Caste
-> - Sex
-> - Place of Birth
->
-> However, the Constitution allows special provisions for:
->
-> - Women
-> - Children
-> - Socially and Educationally Backward Classes
-> - SCs and STs
-
 ---
 
 > ## 🔗 Connected Concepts
