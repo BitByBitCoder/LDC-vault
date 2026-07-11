@@ -18,67 +18,24 @@
 ---
 
 > ## ⚙️ How does it work?
-> The State cannot discriminate against citizens solely on the grounds of:
 ---
 
 > ## 🔗 Connected Concepts
-> [[Equality]]
->
-> [[Article 14]]
->
-> [[Article 16]]
->
-> [[Reservation]]
->
-> [[Social Justice]]
->
-> [[Fundamental Rights]]
 
 ---
 
 > ## ⚖ Compare
->
-> ### Article 14 vs Article 15
->
-> **Article 14**
->
-> Equality before law.
->
-> General principle of equality.
->
-> ---
->
-> **Article 15**
->
-> No discrimination based on specific grounds.
->
-> More specific protection.
 
 ---
 
 > ## 🌎 Real Examples
 >
-> ❌ A government college refusing admission because of a student's religion.
->
-> ❌ A public park denying entry based on caste.
->
-> ✅ Reservation for SC/ST/OBC categories.
->
-> ✅ Special hostels for women students.
+
 
 ---
 
-> ## 🧠 Mental Model
+> ## 🧠 Mental Model exam ple
 >
-> Imagine a school.
->
-> The principal announces:
->
-> "No student can be treated differently because of religion, caste, gender, or birthplace."
->
-> That rule is similar to Article 15.
->
-> Everyone gets a fair chance.
 
 ---
 
