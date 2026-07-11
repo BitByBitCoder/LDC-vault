@@ -79,3 +79,9 @@ Why is Article 32 called the Heart and Soul?
 Can Parliament remove Fundamental Rights?
 
 How do Fundamental Rights and DPSPs sometimes conflict?
+
+
+
+To protect citizens from [arbitary](../../../../Dictionary/arbitary.md) government action.
+
+##ddfd
