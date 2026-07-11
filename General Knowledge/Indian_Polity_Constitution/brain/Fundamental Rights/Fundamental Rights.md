@@ -14,7 +14,7 @@ To protect citizens from [arbitary](../../../../Dictionary/arbitary.md) governme
 **"Sawrkarin a duh duha thuneihna a hman (arbitrary action) laka khua leh tuite humhim nan."**
 
 
-### Why fudamental right?
+## Why fudamental right?
 
 Without Fundamental Rights->No freedom->No equality->No democracy
 
