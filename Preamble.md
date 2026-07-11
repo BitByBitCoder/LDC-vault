@@ -76,7 +76,7 @@ The people are the ultimate source of authority.
 
 ## What did they create?
 
-The Constitution.
+The [[Constitution]].
 
 ---
 
