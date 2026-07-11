@@ -1,0 +1,1 @@
+(-shalist), noun vântlâng kuta ram sum dah duh mi.
