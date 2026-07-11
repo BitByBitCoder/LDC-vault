@@ -1,9 +1,6 @@
 ---
 tags:
-  - constitution
-  - concept
 aliases:
-  - Introduction of Constitution
 ---
 
 # 📜 Preamble
@@ -303,3 +300,4 @@ That single question will naturally lead you to the **purpose**, the **connectio
 
 > [!question]- What is the capital of India?
 > New Delhi
+>  The Preamble is the introduction and guiding philosophy of the Constitution, explaining who created it, why it exists, and the ideals India seeks to achieve.
