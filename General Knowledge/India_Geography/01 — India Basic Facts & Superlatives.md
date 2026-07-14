@@ -70,3 +70,7 @@
 > India overtook UK = became **5th** largest economy (2022)
 > India largest producer in world = **Milk** (NOT rice or wheat — those are China/USA)
 > Most populated state = **UP** — NOT Maharashtra
+
+
+
+* **Nathu La** — ||Sikkim|| [^1] * **Diphu Pass** — ||Arunachal Pradesh|| [^2]
