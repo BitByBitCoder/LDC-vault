@@ -7,7 +7,7 @@
 
 | Question                                         | Answer                                              |
 | ------------------------------------------------ | --------------------------------------------------- |
-| India area rank in world                         | **7th largest**                                     |
+| India area rank in world                         | [[**7th largest**]]                                 |
 | India overtook UK to become __ largest economy   | **5th (2022)**                                      |
 | Most populated state (Census 2011)               | **Uttar Pradesh**                                   |
 | Smallest Union Territory                         | **Lakshadweep**                                     |
