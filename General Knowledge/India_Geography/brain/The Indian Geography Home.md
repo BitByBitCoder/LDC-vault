@@ -34,7 +34,7 @@ Here is the master table of **all 28 Indian states**, mapping out their most fam
 | 28    | **West Bengal**        | **Kolkata**               | City of Joy, Cultural Capital of India     | India ram zirna leh thiamna bulțhut, khawpui nun nuam tak nei a ni.                                               |
 
 
-## Tags
+	## Tags
 For competitive exams like the LDC, studying all 28 states can feel overwhelming if you don't know what to look for. Examiners almost always pull their questions from the exact same **7 core categories** for each state.
 
 Think of this as your **"State GK Study Checklist."** Whenever you study a state, make sure you write down these 7 things:
