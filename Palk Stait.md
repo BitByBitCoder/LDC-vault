@@ -9,3 +9,4 @@
 | 5     | **What is the name of India's first sea bridge?**                         | **Pamban Bridge**               | Kum 1914-a sak daih tawh kha a ni a, Indian mainland leh Rameswaram thliarkar a thlunzawm a ni.               |
 | 6     | **Which marine mammal is highly protected in the Gulf of Mannar?**        | **Dugong (Sea Cow)**            | He lai bawr tui hnuai hlobet (sea grass) hmunah hian tui hnuai bawng (Sea Cow) an humhalh hle.                |![](5687836%20(1).png)
 l
+![](5687836%20(1)%201.png)
