@@ -90,13 +90,13 @@
 ## Straits & Water Bodies (India)
 A **strait is a narrow passage of water that connects two larger water bodies** (such as two seas, a sea and an ocean, or a bay and a sea).
 
-| Strait/Channel           | Between                                      |
-| ------------------------ | -------------------------------------------- |
-| **Palk Strait**          | India and Sri Lanka                          |
-| **Duncan Passage**       | South Andaman and Little Andaman             |
-| **Ten Degree Channel**   | Little Andaman and Car Nicobar               |
-| **Eight Degree Channel** | Lakshadweep and Maldives                     |
-| **Palk Bay**             | India and Sri Lanka (wider than Palk Strait) |
+| Strait/Channel           | Between                                              |
+| ------------------------ | ---------------------------------------------------- |
+| **Palk Strait**          | \|\|India and Sri Lanka\|\|                          |
+| **Duncan Passage**       | \|\|South Andaman and Little Andaman\|\|             |
+| **Ten Degree Channel**   | \|\|Little Andaman and Car Nicobar\|\|               |
+| **Eight Degree Channel** | \|\|Lakshadweep and Maldives\|\|                     |
+| **Palk Bay**             | \|\|India and Sri Lanka (wider than Palk Strait)\|\| |
 
 ---
 
