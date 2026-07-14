@@ -39,7 +39,7 @@
 
 | Peak                   | Height  | Location                                 |
 | ---------------------- | ------- | ---------------------------------------- |
-| **Mt. Everest**        | 8,849 m | Nepal/Tibet — world's highest            |
+|  **Mt. Everest**       | 8,849 m | Nepal/Tibet — world's highest            |
 | **K2 (Godwin-Austen)** | 8,611 m | Karakoram — 2nd highest world            |
 | **Kanchenjunga**       | 8,586 m | Sikkim — **highest peak in India**       |
 | **Nanda Devi**         | 7,816 m | Uttarakhand — 2nd highest in India       |
