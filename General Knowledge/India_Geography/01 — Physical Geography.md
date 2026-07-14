@@ -35,7 +35,7 @@
 
 ---
 
-## Mountain Peaks
+## Mountain Peaks 
 
 | Peak                   | Height  | Location                                 |
 | ---------------------- | ------- | ---------------------------------------- |
@@ -46,7 +46,7 @@
 | **Anaimudi**           | 2,695 m | Kerala — **highest in Peninsular India** |
 | **Dodabetta**          | 2,637 m | Tamil Nadu — highest in Nilgiris         |
 | **Phawngpui**          | 2,157 m | Mizoram — highest in Mizoram             |
-
+[17 -- Mountain Peaks in India](17%20--%20Mountain%20Peaks%20in%20India.md)
 
 ## trick
 |Peak|Memory Trick|
