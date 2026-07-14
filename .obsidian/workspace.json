@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Knowledge/India_Geography/01 — Physical Geography.md",
-                "mode": "preview",
+                "file": "Nilgiri Hills.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 — Physical Geography"
+              "title": "Nilgiri Hills"
             }
           }
         ],
@@ -210,8 +210,9 @@
   },
   "active": "82df31133898d141",
   "lastOpenFiles": [
-    "General Knowledge/India_Geography/07 -- Pass of india.md",
     "General Knowledge/India_Geography/01 — Physical Geography.md",
+    "Nilgiri Hills.md",
+    "General Knowledge/India_Geography/07 -- Pass of india.md",
     "Passes in India.md",
     "General Knowledge/India_Geography/01 — India Basic Facts & Superlatives.md",
     "Electoral College.md",
@@ -236,7 +237,6 @@
     "learn/byhart.md",
     "General Knowledge/Indian_Polity_Constitution/brain/01 Home Indian polity  Constitution.md",
     "Preamble.md",
-    "learn/template.md",
     "Dictionary",
     "General Knowledge/Indian_Polity_Constitution/note",
     "General Knowledge/note",
