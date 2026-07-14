@@ -34,22 +34,22 @@
 
 ## State Superlatives
 
-| Superlative                     | State                       |
-| ------------------------------- | --------------------------- |
-| Largest by area                 | \|\| Rajasthan \|\|         |
-| Smallest by area (state)        | \|\| Goa \|\|               |
-| Most populated (2011)           | \|\| Uttar Pradesh \|\|     |
-| Least populated (2011)          | \|\| Sikkim \|\|            |
-| Highest literacy (2011)         | \|\| Kerala \|\|            |
-| Lowest literacy                 |  Bihar**                    |
-| Longest coastline               | **Gujarat**                 |
-| Largest forest cover (area)     | **Madhya Pradesh**          |
-| Highest forest % of area        | **Mizoram (~89%)**          |
-| Largest producer cotton         | **Gujarat**                 |
-| Largest producer milk           | **Uttar Pradesh**           |
-| Largest producer rice           | **West Bengal**             |
-| Largest producer wheat          | **Uttar Pradesh**           |
-| India largest producer in world | **Milk, Spices, Jute, Tea** |
+| Superlative                     | State                             |
+| ------------------------------- | --------------------------------- |
+| Largest by area                 | \|\| Rajasthan \|\|               |
+| Smallest by area (state)        | \|\| Goa \|\|                     |
+| Most populated (2011)           | \|\| Uttar Pradesh \|\|           |
+| Least populated (2011)          | \|\| Sikkim \|\|                  |
+| Highest literacy (2011)         | \|\| Kerala \|\|                  |
+| Lowest literacy                 | \|\| Bihar \|\|                   |
+| Longest coastline               | \|\| Gujarat \|\|                 |
+| Largest forest cover (area)     | \|\| Madhya Pradesh \|\|          |
+| Highest forest % of area        | \|\| Mizoram (~89%) \|\|          |
+| Largest producer cotton         | \|\| Gujarat \|\|                 |
+| Largest producer milk           | \|\| Uttar Pradesh \|\|           |
+| Largest producer rice           | \|\| West Bengal \|\|             |
+| Largest producer wheat          | \|\| Uttar Pradesh \|\|           |
+| India largest producer in world | \|\| Milk, Spices, Jute, Tea \|\| |
 
 ## Union Territories
 
