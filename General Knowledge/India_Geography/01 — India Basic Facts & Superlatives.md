@@ -77,3 +77,20 @@
 > sdfsdfsdf
 > sdfsdfsdf
 > sdfsdf
+
+The President is the head of the State.
+
+<details>
+<summary>More Information</summary>
+
+- Article 52
+- Electoral College
+- Five-year term
+
+</details>
+
+President[^1]
+
+[^1]: The constitutional head of India elected for five years.
+
+President [[Electoral College]]
