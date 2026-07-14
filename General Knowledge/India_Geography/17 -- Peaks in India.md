@@ -1,14 +1,14 @@
 Highest Peaks in India
 
-| Peak Name          | Height (meters) | State / Union Territory | Mountain Range         |
-| ------------------ | --------------- | ----------------------- | ---------------------- |
-| K2 (Godwin-Austen) | 8,611           | Ladakh (PoK)            | Karakoram              |
-| Kangchenjunga      | 8,586           | Sikkim                  | Himalayas              |
-| Nanda Devi         | 7,816           | Uttarakhand             | Garhwal Himalayas      |
-| Kamet              | 7,756           | Uttarakhand             | Zaskar Range / Garhwal |
-| Saltoro Kangri     | 7,742           | Ladakh                  | Saltoro Karakoram      |
-| Saser Kangri I     | 7,672           | Ladakh                  | Saser Karakoram        |
-| Mamostong Kangri   | 7,516           | Ladakh                  | Rimo Karakoram         |
-| Saser Kangri II    | 7,513           | Ladakh                  | Saser Karakoram        |
-| Rimo I             | 7,385           | Ladakh                  | Karakoram              |
-| Hardeol            | 7,151           | Uttarakhand             | Kumaon Himalayas       |
+### ⛰️ Missing High-Yield Regional Peaks (Exam Must-Knows)
+
+| **Peak Name**    | **Height** | **State / UT**    | **Mountain Range / Region** | **Why it's Important (Exam Context)**                                                          |
+| ---------------- | ---------- | ----------------- | --------------------------- | ---------------------------------------------------------------------------------------------- |
+| **Anamudi**      | 2,695 m    | Kerala            | Western Ghats / Anaimalai   | **Highest peak in South India** and the entire Peninsular region.                              |
+| **Guru Shikhar** | 1,722 m    | Rajasthan         | Aravalli Range              | **Highest peak of the Aravalli Range** (Located in Mount Abu). Extremely common exam question. |
+| **Dhupgarh**     | 1,350 m    | Madhya Pradesh    | Satpura Range               | **Highest peak of the Satpura Range** (Located in Pachmarhi).                                  |
+| **Mahendragiri** | 1,501 m    | Odisha            | Eastern Ghats               | **Highest peak of the Eastern Ghats**.                                                         |
+| **Doddabetta**   | 2,637 m    | Tamil Nadu        | Nilgiri Hills               | **Highest peak of the Nilgiri Hills** (2nd highest in South India).                            |
+| **Saddle Peak**  | 732 m      | Andaman & Nicobar | North Andaman Island        | **Highest peak in the Andaman & Nicobar Islands**.                                             |
+| **Phawngpui**    | 2,157 m    | Mizoram           | Lushai Hills / Mizo Hills   | **Highest peak in Mizoram** (Blue Mountain). Essential for regional/state exams.               |
+| **Saramati**     | 3,842 m    | Nagaland          | Naga Hills (Purvanchal)     | **Highest peak in Nagaland**, forming a natural border with Myanmar.                           |
