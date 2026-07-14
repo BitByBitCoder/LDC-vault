@@ -32,3 +32,125 @@ Here is the master table of **all 28 Indian states**, mapping out their most fam
 | 26    | **Uttar Pradesh**      | **Kanpur / Varanasi**     | Leather City, Spiritual Capital of India   | Kanpur hi vun hna (leather) thawhna a ni a, Varanasi erawh sakhaw hmun hlui ber a ni.                             |
 | 27    | **Uttarakhand**        | **Rishikesh / Mussoorie** | Yoga City, Queen of the Mountains          | Rishikesh hi yoga zirna hmunpui khawvel huap a ni.                                                                |
 | 28    | **West Bengal**        | **Kolkata**               | City of Joy, Cultural Capital of India     | India ram zirna leh thiamna bulțhut, khawpui nun nuam tak nei a ni.                                               |
+
+
+## Tags
+For competitive exams like the LDC, studying all 28 states can feel overwhelming if you don't know what to look for. Examiners almost always pull their questions from the exact same **7 core categories** for each state.
+
+Think of this as your **"State GK Study Checklist."** Whenever you study a state, make sure you write down these 7 things:
+
+### 1. Rivers & Major Dams (Lui leh Tuihuan)
+
+Examiners love asking about where rivers start, their tributaries, and the massive dams built on them.
+
+- **What to look for:** The longest river in the state, any river with a nickname, and the highest/longest dams.
+    
+- **Exam Examples:**
+    
+    - _Odisha:_ **Mahanadi River** $\rightarrow$ **Hirakud Dam** (Longest earth dam in India).
+        
+    - _Uttarakhand:_ **Bhagirathi River** $\rightarrow$ **Tehri Dam** (Highest dam in India).
+        
+    - _Telangana/Andhra:_ **Krishna River** $\rightarrow$ **Nagarjuna Sagar Dam**.
+        
+
+### 2. National Parks & Wildlife Sanctuaries (Huan Sahuan Humhalh)
+
+This is a guaranteed 1-2 marks in almost every paper. Focus on parks that protect a _specific_ endangered animal.
+
+- **What to look for:** The oldest park, newest park, or places with unique wildlife.
+    
+- **Exam Examples:**
+    
+    - _Assam:_ **Kaziranga National Park** (Famous for the One-Horned Rhino).
+        
+    - _Manipur:_ **Keibul Lamjao National Park** (The world's only _floating_ national park, famous for the Sangai deer).
+        
+    - _Uttarakhand:_ **Jim Corbett National Park** (India's oldest national park, established in 1936).
+        
+
+### 3. Folk Dances & Cultural Festivals (Lam leh Kut)
+
+Every state has its classical dance, folk dances, and major harvesting festivals.
+
+- **What to look for:** Classical dances (there are only 8), harvest festivals, and unique tribal festivals.
+    
+- **Exam Examples:**
+    
+    - _Kerala:_ **Kathakali** & **Mohiniyattam** (Classical) | **Onam** (Festival).
+        
+    - _Punjab:_ **Bhangra** & **Gidda** (Folk).
+        
+    - _Nagaland:_ **Hornbill Festival** (Known as the "Festival of Festivals").
+        
+
+### 4. Mountain Peaks, Passes & Lakes (Tlang, Kawtchhuah leh Dil)
+
+Physical geography questions frequently ask about highest points and physical boundaries.
+
+- **What to look for:** Highest peak in that specific state, crucial mountain passes (la), and famous lakes (especially Ramsar sites).
+    
+- **Exam Examples:**
+    
+    - _Sikkim:_ **Kanchenjunga** (Highest peak in India) | **Nathu La Pass**.
+        
+    - _Odisha:_ **Chilika Lake** (Largest brackish water lagoon in India).
+        
+    - _Jammu & Kashmir:_ **Wular Lake** (Largest freshwater lake in India).
+        
+
+### 5. Geographical Indications & GI Tags (Thil siam hmingthang)
+
+GI Tags are given to products that are unique to a specific town or state.
+
+- **What to look for:** Famous handicrafts, agricultural items, or local sweets.
+    
+- **Exam Examples:**
+    
+    - _West Bengal:_ **Darjeeling Tea** (The very first GI Tag in India, 2004).
+        
+    - _Karnataka:_ **Channapatna Toys** & **Mysore Sandal Soap**.
+        
+    - _Kashmir:_ **Saffron (Kesar)**.
+        
+
+### 6. Borders & Neighbors (Ramri)
+
+You need to know which states share borders with other states or international countries.
+
+- **What to look for:** The state with the most neighbors, and states bordering Bangladesh, Myanmar, China, etc.
+    
+- **Exam Examples:**
+    
+    - _Uttar Pradesh:_ Borders the maximum number of states (**8 states + 1 UT**).
+        
+    - _West Bengal & Assam:_ Frequently asked in international border questions regarding Bangladesh.
+        
+
+### 7. Major Minerals & Industries (Siamna hmunpui)
+
+- **What to look for:** Nuclear power plants, major steel plants, and heavy mining zones.
+    
+- **Exam Examples:**
+    
+    - _Tamil Nadu:_ **Kudankulam Nuclear Power Plant** (Highest capacity in India).
+        
+    - _Karnataka:_ **Kolar Gold Fields (KGF)** (Famous historical gold mine).
+        
+
+### 💡 Example of how to structure your notebook:
+
+When making notes for **Assam**, your page should look like this:
+
+> **ASSAM**
+> 
+> - **River/Dam:** Brahmaputra River, Kopili Hydroelectric project.
+>     
+> - **National Parks:** Kaziranga, Manas, Dibru-Saikhowa.
+>     
+> - **Dance/Festival:** Bihu, Sattriya (Classical Dance).
+>     
+> - **GI Tag:** Muga Silk, Tezpur Litchi.
+>     
+> - **Peak/Lake:** Dipor Bil (Ramsar Lake).
+>
