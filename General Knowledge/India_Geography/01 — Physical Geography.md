@@ -72,6 +72,7 @@
 | **Bara Lacha La** | Himachal       | —                                                 |
 | **Rohtang Pass**  | Himachal       | —                                                 |
 | **Banihal Pass**  | J&K            | —                                                 |
+| Mig La Pass       |                | Highest                                           |
 ## passes trick
 | Trigger         | Answer      |
 | --------------- | ----------- |
