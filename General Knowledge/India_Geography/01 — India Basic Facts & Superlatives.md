@@ -34,22 +34,22 @@
 
 ## State Superlatives
 
-| Superlative                     | State                                           | why                  |
-| ------------------------------- | ----------------------------------------------- | -------------------- |
-| Largest by area                 | \|\| Rajasthan \|\|                             |                      |
-| Smallest by area (state)        | \|\| Goa \|\|                                   |                      |
-| Most populated (2011)           | \|\| Uttar Pradesh \|\|                         |                      |
-| Least populated (2011)          | \|\| Sikkim \|\|                                |                      |
-| Highest literacy (2011)         | \|\| Kerala \|\|                                |                      |
-| Lowest literacy                 | \|\| Bihar \|\|                                 |                      |
-| Longest coastline               | \|\| Gujarat \|\|                               |                      |
-| Largest forest cover (area)     | \|\| Madhya Pradesh \|\|                        |                      |
-| Highest forest % of area        | \|\| Mizoram (~89%) \|\|                        |                      |
-| Largest producer cotton         | \|\| Gujarat \|\|                               | \|\|Black soil\|\|   |
-| Largest producer milk           | \|\| Uttar Pradesh \|\|                         | \|\|Bawng an tam\|\| |
-| Largest producer rice           | \|\| West Bengal \|\| [ view](West%20Bengal%20) |                      |
-| Largest producer wheat          | \|\| Uttar Pradesh \|\|                         |                      |
-| India largest producer in world | \|\| Milk, Spices, Jute, Tea \|\|               |                      |
+| Superlative                     | State                                           | why                                     |
+| ------------------------------- | ----------------------------------------------- | --------------------------------------- |
+| Largest by area                 | \|\| Rajasthan \|\|                             |                                         |
+| Smallest by area (state)        | \|\| Goa \|\|                                   |                                         |
+| Most populated (2011)           | \|\| Uttar Pradesh \|\|                         |                                         |
+| Least populated (2011)          | \|\| Sikkim \|\|                                |                                         |
+| Highest literacy (2011)         | \|\| Kerala \|\|                                |                                         |
+| Lowest literacy                 | \|\| Bihar \|\|                                 |                                         |
+| Longest coastline               | \|\| Gujarat \|\|                               | \|\|\|\|                                |
+| Largest forest cover (area)     | \|\| Madhya Pradesh \|\|                        |                                         |
+| Highest forest % of area        | \|\| Mizoram (~89%) \|\|                        |                                         |
+| Largest producer cotton         | \|\| Gujarat \|\|                               | \|\|Black soil worm weather moister\|\| |
+| Largest producer milk           | \|\| Uttar Pradesh \|\|                         | \|\|Bawng an tam\|\|                    |
+| Largest producer rice           | \|\| West Bengal \|\| [ view](West%20Bengal%20) |                                         |
+| Largest producer wheat          | \|\| Uttar Pradesh \|\|                         |                                         |
+| India largest producer in world | \|\| Milk, Spices, Jute, Tea \|\|               |                                         |
 
 ## Union Territories
 
