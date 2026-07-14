@@ -55,7 +55,7 @@
 
 | UT                       | Capital                           | Key Fact                                    |
 | ------------------------ | --------------------------------- | ------------------------------------------- |
-| Delhi                    | Delhi                             | NCT — National Capital Territory            |
+| Delhi                    | \|\| Delhi \|\|                   | NCT — National Capital Territory            |
 | Chandigarh               | Chandigarh                        | Shared capital of Punjab & Haryana          |
 | **Ladakh**               | **Leh**                           | Carved from J&K (2019) — largest UT by area |
 | Puducherry               | Puducherry                        | Has legislature                             |
