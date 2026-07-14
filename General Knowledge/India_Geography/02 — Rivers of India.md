@@ -7,7 +7,7 @@
 
 | Question                       | Answer                            |
 | ------------------------------ | --------------------------------- |
-| Longest river in India         | **Ganga**                         |
+| Longest river in India         | \|\|**Ganga**\|\|                 |
 | Narmada drains into            | **Arabian Sea**                   |
 | Sutlej river type              | **Trans-Himalayan river**         |
 | Longest river in Mizoram       | **Tlawng (~185 km)**              |
