@@ -47,6 +47,17 @@
 | **Dodabetta**          | 2,637 m | Tamil Nadu — highest in Nilgiris         |
 | **Phawngpui**          | 2,157 m | Mizoram — highest in Mizoram             |
 
+
+## trick
+|Peak|Memory Trick|
+|---|---|
+|**Mt. Everest**|Everyone knows it. 🏔️|
+|**K2**|"K2 = King #2."|
+|**Kanchenjunga**|**"Khan's Jungle"** → Imagine **Shah Rukh Khan lost in a jungle**. _Kan-chen-junga → Khan Jungle_.|
+|**Nanda Devi**|**"Nanda is a Devi (goddess)."** This sounds like a person's name, so it's easy.|
+|**Anaimudi**|**"An Elephant's Mudi (head)."** In Malayalam, _Anai_ means **elephant**. Imagine an elephant standing on the highest peak of South India. 🐘|
+|**Dodabetta**|**"Doda is Better."** Think: "**Doda better!**" It's the highest peak of the Nilgiris.|
+|**Phawngpui**|**"Phone Pui."** Imagine a **giant phone on top of a blue mountain**. 📱⛰️|
 ---
 
 ## Important Passes
