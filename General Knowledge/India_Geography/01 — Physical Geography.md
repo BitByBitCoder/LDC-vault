@@ -60,7 +60,7 @@
 
 ---
 
-## Important Passes
+## Important Passes [Passes in India](../../Passes%20in%20India.md)
 
 | Pass              | State/Location | Key Fact                                          |
 | ----------------- | -------------- | ------------------------------------------------- |
