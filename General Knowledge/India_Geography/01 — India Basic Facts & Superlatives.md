@@ -5,17 +5,17 @@
 
 ## Questions From Your Papers
 
-| Question                                         | Answer                                              |
-| ------------------------------------------------ | --------------------------------------------------- |
-| India area rank in world                         | \|\| 7th largest\|\|                                |
-| India overtook UK to become __ largest economy   | \|\| 5th (2022) \|\|                                |
-| Most populated state (Census 2011)               | \|\| Uttar Pradesh \|\|                             |
-| Smallest Union Territory                         | \|\| Lakshadweep \|\|                               |
-| Scotland of the East                             | \|\| Shillong (Meghalaya) \|\|                      |
-| Mecca of Indian football                         | \|\| Kolkata \|\|                                   |
-| Majuli Island known for                          | **Largest inhabited river island in world — Assam** |
-| NE state sharing border with only 1 Indian state | **Sikkim**                                          |
-| India is largest producer of                     | **Milk**                                            |
+| Question                                         | Answer                                                    |
+| ------------------------------------------------ | --------------------------------------------------------- |
+| India area rank in world                         | \|\| 7th largest\|\|                                      |
+| India overtook UK to become __ largest economy   | \|\| 5th (2022) \|\|                                      |
+| Most populated state (Census 2011)               | \|\| Uttar Pradesh \|\|                                   |
+| Smallest Union Territory                         | \|\| Lakshadweep \|\|                                     |
+| Scotland of the East                             | \|\| Shillong (Meghalaya) \|\|                            |
+| Mecca of Indian football                         | \|\| Kolkata \|\|                                         |
+| Majuli Island known for                          | \|\| Largest inhabited river island in world — Assam \|\| |
+| NE state sharing border with only 1 Indian state | \|\| Sikkim \|\|                                          |
+| India is largest producer of                     | \|\| Milk \|\|                                            |
 
 ## India — Basic Facts
 
@@ -34,21 +34,21 @@
 
 ## State Superlatives
 
-| Superlative | State |
-|-------------|-------|
-| Largest by area | **Rajasthan** |
-| Smallest by area (state) | **Goa** |
-| Most populated (2011) | **Uttar Pradesh** |
-| Least populated (2011) | **Sikkim** |
-| Highest literacy (2011) | **Kerala** |
-| Lowest literacy | **Bihar** |
-| Longest coastline | **Gujarat** |
-| Largest forest cover (area) | **Madhya Pradesh** |
-| Highest forest % of area | **Mizoram (~89%)** |
-| Largest producer cotton | **Gujarat** |
-| Largest producer milk | **Uttar Pradesh** |
-| Largest producer rice | **West Bengal** |
-| Largest producer wheat | **Uttar Pradesh** |
+| Superlative                     | State                       |
+| ------------------------------- | --------------------------- |
+| Largest by area                 | \|\| Rajasthan \|\|         |
+| Smallest by area (state)        | \|\| Goa \|\|               |
+| Most populated (2011)           | \|\| Uttar Pradesh \|\|     |
+| Least populated (2011)          | \|\| Sikkim \|\|            |
+| Highest literacy (2011)         | \|\| Kerala \|\|            |
+| Lowest literacy                 |  Bihar**                    |
+| Longest coastline               | **Gujarat**                 |
+| Largest forest cover (area)     | **Madhya Pradesh**          |
+| Highest forest % of area        | **Mizoram (~89%)**          |
+| Largest producer cotton         | **Gujarat**                 |
+| Largest producer milk           | **Uttar Pradesh**           |
+| Largest producer rice           | **West Bengal**             |
+| Largest producer wheat          | **Uttar Pradesh**           |
 | India largest producer in world | **Milk, Spices, Jute, Tea** |
 
 ## Union Territories
