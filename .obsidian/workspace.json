@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,11 +222,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c18e9e86155e611c",
+  "active": "4fa0ca39dacb7a17",
   "lastOpenFiles": [
+    "General Knowledge/India_Geography/brain/The Indian Geography Home.md",
     "articles high thinking.md",
     "General Knowledge/India_Geography/brain/Andhra Pradesh.md",
-    "General Knowledge/India_Geography/brain/The Indian Geography Home.md",
     "learn/the think framework.md",
     "General Knowledge/India_Geography/brain/Andera Pradesh.md",
     "learn/deep-processing-framework.md",
