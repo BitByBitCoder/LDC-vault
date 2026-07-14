@@ -5,8 +5,18 @@
 
 ## Questions From Your Papers
 
-
-
+| **Question (Chhanna zawnna)**        | **Answer (A chhanna)**                  | **Mizo Explanation / Exam Tips**                                                                                                                           |
+| ------------------------------------ | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Highest motorable pass in India**  | **Umling La Pass (Ladakh) — 19,024 ft** | Ladakh-a awm, India leh khawvel hial pawha lirthei (motor) tlan theihna tlang kawng (pass) sang ber a ni.                                                  |
+| **Western & Eastern Ghats meet at**  | **Nilgiri Hills**                       | India chhim lama tlang tlar pahnih—khawthlang lam (Western) leh khawchhak lam (Eastern)—infinna tlang hmingthang a ni. "Blue Mountains" tiin an sawi bawk. |
+| **Palk Strait — between**            | **India and Sri Lanka**                 | India leh Sri Lanka inkar tui kawng zim (strait) a ni. Map-ah en la, hmun zimte inrina lai tak kha a ni.                                                   |
+| **Highest peak in Peninsular India** | **Anaimudi (Kerala) — 2,695 m**         | India chhim lam (Peninsular region) tlang zawng zawng zinga sang ber a ni a, Kerala State-ah a awm.                                                        |
+| **Duncan Passage — between**         | **South Andaman and Little Andaman**    | Andaman thliarkar (islands) zinga South Andaman leh Little Andaman inkar tui kawng (passage) a ni.                                                         |
+| **Nathu La pass — located in**       | **Sikkim**                              | India (Sikkim) leh China (Tibet) inrina hmun tlang kawtchhuah hlui a ni a, hmanlai "Silk Road" pawimawh tak a ni.                                          |
+| **Diphu Pass — tri-point of**        | **India, China, Myanmar**               | Ram pathum (India, China, leh Myanmar) ramri intawhna kawtchhuah a ni. Arunachal Pradesh border-ah a awm.                                                  |
+| **Smallest Union Territory**         | **Lakshadweep**                         | India Union Territory zinga a rari (area) te ber a ni. Arabian Sea-ah a awm a, coral island an ti bawk.                                                    |
+| **India's only active volcano**      | **Barren Island (Andaman Islands)**     | India rama meivah (volcano) la nung/puak thei awmchhun a ni a, Andaman tuipui chungah a awm.                                                               |
+|**Latitude expressed relative to**|**Equator**|Khawvel semtu lai tak (Equator/Line of Latitude 0°) ațanga tehin hmar lam leh chhim lam latitude-te hi chhiar țan a ni ziah.|
 ---
 
 ## Mountain Ranges of India
