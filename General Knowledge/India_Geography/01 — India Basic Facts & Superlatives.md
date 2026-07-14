@@ -23,13 +23,13 @@
 | ----------------------- | ---------------------------------------------- |
 | Total area              | \|\| 32,87,263 sq km \|\|                      |
 | Rank by area            | \|\| 7th largest in world \|\|                 |
-| Rank by population      | \|\|  ** 1st (overtook China 2023)**  \|\|     |
-| Longest coastline state | \|\| **Gujarat** \|\|                          |
+| Rank by population      | \|\|1st (overtook China 2023)\|\|              |
+| Longest coastline state | \|\|Gujarat\|\|                                |
 | Southernmost point      | \|\| Indira Point (Great Nicobar) \|\|         |
 | Northernmost point      | \|\| Indira Col (Siachen Glacier) \|\|         |
 | Easternmost point       | \|\| Kibithu (Arunachal Pradesh)  \|\|         |
 | Westernmost point       | \|\| Sir Creek (Gujarat) \|\|                  |
-| Standard Time meridian  | \|\| **82.5° E (IST — UTC+5:30)** \|\|         |
+| Standard Time meridian  | \|\|82.5° E (IST — UTC+5:30)\|\|               |
 | Standard Time city      | \|\| Allahabad (Prayagraj) lies on 82.5°E \|\| |
 
 ## State Superlatives
