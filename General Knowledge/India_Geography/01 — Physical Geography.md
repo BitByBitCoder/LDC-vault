@@ -28,7 +28,7 @@
 | **Karakoram**     | \|\|North\|\|             | K2 — 2nd highest peak in world                  |
 | **Aravalli**      | \|\|Rajasthan\|\|         | Oldest fold mountains in India                  |
 | **Vindhya**       | \|\|Central India\|\|     | Separates North and South India                 |
-| **Satpura**       | \|\|MP\|\|                | Parallel to Vindhya                             |
+| **Satpura**       | \|\|MP Mahastra\|\|       | Parallel to Vindhya                             |
 | **Western Ghats** | \|\|West coast\|\|        | Run from Gujarat to Kerala                      |
 | **Eastern Ghats** | \|\|East coast\|\|        | Discontinuous — lower than Western Ghats        |
 | **Nilgiri**       | \|\|Tamil Nadu/Kerala\|\| | Where Western + Eastern Ghats **meet**          |
