@@ -50,15 +50,7 @@
 
 ## Important Passes
 
-| Pass             | Location          | Key Fact                            |
-| ---------------- | ----------------- | ----------------------------------- |
-| **Nathu La**     | **Sikkim**        | India-China trade route             |
-| **Bom Di La**    | Arunachal Pradesh | —                                   |
-| **Jelep La**     | Sikkim            | —                                   |
-| **Rohtang Pass** | Himachal Pradesh  | —                                   |
-| **Umling La**    | Ladakh            | **Highest motorable pass in India** |
-| **Diphu Pass**   | Arunachal Pradesh | **Tri-point India-China-Myanmar**   |
-|                  |                   |                                     |
+
 
 ## Exam Traps ⚠️
 > Highest motorable pass = **Umling La** — NOT Khardung La (common misconception)
