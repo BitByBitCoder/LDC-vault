@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "the",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -222,7 +223,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4fa0ca39dacb7a17",
+  "active": "f2b02c95d5d62a7f",
   "lastOpenFiles": [
     "General Knowledge/India_Geography/brain/The Indian Geography Home.md",
     "learn/the think framework.md",

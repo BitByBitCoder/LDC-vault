@@ -43,12 +43,12 @@ Fertile agriculture + ports
 
 ### 🌾 Economy and resources
 
-|Area|Why it matters|
-|---|---|
-|Agriculture|Rice is the major crop; the fertile deltas make farming important.|
-|Ports|Visakhapatnam is a major port for trade and industry.|
-|Industries|Shipbuilding, petroleum refining, fertilizers, textiles, and IT services.|
-|Minerals|Bauxite, limestone, and natural gas are important resources.|
+| Area        | Why it matters                                                            |
+| ----------- | ------------------------------------------------------------------------- |
+| Agriculture | Rice is the major crop; the fertile deltas make farming important.        |
+| Ports       | Visakhapatnam is a major port for trade and industry.                     |
+| Industries  | Shipbuilding, petroleum refining, fertilizers, textiles, and IT services. |
+| Minerals    | Bauxite, limestone, and natural gas are important resources.              |
 
 ### 🏛️ Places to connect
 
