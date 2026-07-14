@@ -58,7 +58,7 @@
 
 ---
 
-> [!tip]- 🌳 What makes Andhra Pradesh unique in wildlife?
+> [!tip]- 🌳 wildlife?
 >
 > National Parks
 >
@@ -79,7 +79,7 @@
 
 ---
 
-> [!tip]- 🎭 What represents Andhra Pradesh's culture?
+> [!tip]- 🎭 Andhra Pradesh's culture?
 >
 > Dance
 >
