@@ -29,3 +29,9 @@
 | **Bara Lacha La** | Himachal       | —                                                 |
 | **Rohtang Pass**  | Himachal       | —                                                 |
 | **Banihal Pass**  | J&K            | —                                                 |
+---
+aliases:
+  - Pass in India
+  - Indian Passes
+  - Mountain Passes
+---
