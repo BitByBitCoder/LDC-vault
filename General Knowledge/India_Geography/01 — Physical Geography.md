@@ -22,16 +22,16 @@
 
 ## Mountain Ranges of India
 
-| Range             | Location          | Key Fact                                        |
-| ----------------- | ----------------- | ----------------------------------------------- |
-| **Himalayas**     | \|\|North\|\|     | Highest — 3 ranges: Himadri, Himachal, Shivalik |
-| **Karakoram**     | North             | K2 — 2nd highest peak in world                  |
-| **Aravalli**      | Rajasthan         | Oldest fold mountains in India                  |
-| **Vindhya**       | Central India     | Separates North and South India                 |
-| **Satpura**       | MP                | Parallel to Vindhya                             |
-| **Western Ghats** | West coast        | Run from Gujarat to Kerala                      |
-| **Eastern Ghats** | East coast        | Discontinuous — lower than Western Ghats        |
-| **Nilgiri**       | Tamil Nadu/Kerala | Where Western + Eastern Ghats **meet**          |
+| Range             | Location                  | Key Fact                                        |
+| ----------------- | ------------------------- | ----------------------------------------------- |
+| **Himalayas**     | \|\|North\|\|             | Highest — 3 ranges: Himadri, Himachal, Shivalik |
+| **Karakoram**     | \|\|North\|\|             | K2 — 2nd highest peak in world                  |
+| **Aravalli**      | \|\|Rajasthan\|\|         | Oldest fold mountains in India                  |
+| **Vindhya**       | \|\|Central India\|\|     | Separates North and South India                 |
+| **Satpura**       | \|\|MP\|\|                | Parallel to Vindhya                             |
+| **Western Ghats** | \|\|West coast\|\|        | Run from Gujarat to Kerala                      |
+| **Eastern Ghats** | \|\|East coast\|\|        | Discontinuous — lower than Western Ghats        |
+| **Nilgiri**       | \|\|Tamil Nadu/Kerala\|\| | Where Western + Eastern Ghats **meet**          |
 
 ---
 
