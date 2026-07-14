@@ -7,12 +7,12 @@
 
 | Question                                         | Answer                                              |
 | ------------------------------------------------ | --------------------------------------------------- |
-| India area rank in world                         | [[**7th largest**]]                                 |
-| India overtook UK to become __ largest economy   | **5th (2022)**                                      |
-| Most populated state (Census 2011)               | **Uttar Pradesh**                                   |
-| Smallest Union Territory                         | **Lakshadweep**                                     |
-| Scotland of the East                             | **Shillong (Meghalaya)**                            |
-| Mecca of Indian football                         | **Kolkata**                                         |
+| India area rank in world                         | \|\| 7th largest\|\|                                |
+| India overtook UK to become __ largest economy   | \|\| 5th (2022) \|\|                                |
+| Most populated state (Census 2011)               | \|\| Uttar Pradesh \|\|                             |
+| Smallest Union Territory                         | \|\| Lakshadweep \|\|                               |
+| Scotland of the East                             | \|\| Shillong (Meghalaya) \|\|                      |
+| Mecca of Indian football                         | \|\| Kolkata \|\|                                   |
 | Majuli Island known for                          | **Largest inhabited river island in world — Assam** |
 | NE state sharing border with only 1 Indian state | **Sikkim**                                          |
 | India is largest producer of                     | **Milk**                                            |
