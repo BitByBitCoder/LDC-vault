@@ -74,16 +74,17 @@
 | **Banihal Pass**  | J&K            | —                                                 |
 | Mig La Pass       |                | Highest                                           |
 ## passes trick
-|Pass|Trigger|
-|---|---|
-|**Umling La**|🚗 Ultimate Height|
-|**Khardung La**|🏆 Old Champion|
-|**Nathu La**|🇨🇳 China Trade|
-|**Jelep La**|🚙 Jeep Trade|
-|**Diphu Pass**|🔺 Three Countries|
-|**Bara Lacha La**|🍫 Big Bar|
-|**Rohtang Pass**|❄️ Road Tangled|
-|**Banihal Pass**|🚆 Kashmir Tunnel|
+| Pass              | Trigger            |
+| ----------------- | ------------------ |
+| **Umling La**     | 🚗 Ultimate Height |
+| **Khardung La**   | 🏆 Old Champion    |
+| **Nathu La**      | 🇨🇳 China Trade   |
+| **Jelep La**      | 🚙 Jeep Trade      |
+| **Diphu Pass**    | 🔺 Three Countries |
+| **Bara Lacha La** | 🍫 Big Bar         |
+| **Rohtang Pass**  | ❄️ Road Tangled    |
+| **Banihal Pass**  | 🚆 Kashmir Tunnel  |
+| Mig La Pass       | Champion           |
 
 
 ## Straits & Water Bodies (India)
