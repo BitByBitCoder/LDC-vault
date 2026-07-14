@@ -88,6 +88,7 @@
 
 
 ## Straits & Water Bodies (India)
+A **strait is a narrow passage of water that connects two larger water bodies** (such as two seas, a sea and an ocean, or a bay and a sea).
 
 | Strait/Channel           | Between                                      |
 | ------------------------ | -------------------------------------------- |
