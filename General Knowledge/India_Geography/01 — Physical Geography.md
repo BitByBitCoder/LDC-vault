@@ -74,13 +74,16 @@
 | **Banihal Pass**  | J&K            | —                                                 |
 | Mig La Pass       |                | Highest                                           |
 ## passes trick
-| Trigger         | Answer      |
-| --------------- | ----------- |
-| Highest road    | Umling La   |
-| Old highest     | Khardung La |
-| China trade     | Nathu La    |
-| Three countries | Diphu Pass  |
-| Snow            | Rohtang     |
+|Pass|Trigger|
+|---|---|
+|**Umling La**|🚗 Ultimate Height|
+|**Khardung La**|🏆 Old Champion|
+|**Nathu La**|🇨🇳 China Trade|
+|**Jelep La**|🚙 Jeep Trade|
+|**Diphu Pass**|🔺 Three Countries|
+|**Bara Lacha La**|🍫 Big Bar|
+|**Rohtang Pass**|❄️ Road Tangled|
+|**Banihal Pass**|🚆 Kashmir Tunnel|
 
 
 ## Straits & Water Bodies (India)
