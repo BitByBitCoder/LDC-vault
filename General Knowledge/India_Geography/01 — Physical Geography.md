@@ -24,7 +24,7 @@
 
 | Range             | Location          | Key Fact                                        |
 | ----------------- | ----------------- | ----------------------------------------------- |
-| **Himalayas**     | North             | Highest — 3 ranges: Himadri, Himachal, Shivalik |
+| **Himalayas**     | \|\|North\|\|     | Highest — 3 ranges: Himadri, Himachal, Shivalik |
 | **Karakoram**     | North             | K2 — 2nd highest peak in world                  |
 | **Aravalli**      | Rajasthan         | Oldest fold mountains in India                  |
 | **Vindhya**       | Central India     | Separates North and South India                 |
