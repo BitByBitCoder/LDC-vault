@@ -5,7 +5,7 @@
 
 ## Questions From Your Papers
 
-| **Question (Chhanna zawnna)**        | **Answer (A chhanna)**                         | **Mizo Explanation / Exam Tips**                                                                                                                           |
+| **Question (Chhanna zawnna)**        | **\|\|Answer (A chhanna)\|\|**                 | **Mizo Explanation / Exam Tips**                                                                                                                           |
 | ------------------------------------ | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Highest motorable pass in India**  | **Umling La Pass (Ladakh) — 19,024 ft**        | Ladakh-a awm, India leh khawvel hial pawha lirthei (motor) tlan theihna tlang kawng (pass) sang ber a ni.                                                  |
 | **Western & Eastern Ghats meet at**  | **Nilgiri Hills**<br>\|\|Anaimudi (Kerala)\|\| | India chhim lama tlang tlar pahnih—khawthlang lam (Western) leh khawchhak lam (Eastern)—infinna tlang hmingthang a ni. "Blue Mountains" tiin an sawi bawk. |
