@@ -73,6 +73,15 @@
 | **Rohtang Pass**  | Himachal       | —                                                 |
 | **Banihal Pass**  | J&K            | —                                                 |
 
+## passes trick
+| Trigger         | Answer      |
+| --------------- | ----------- |
+| Highest road    | Umling La   |
+| Old highest     | Khardung La |
+| China trade     | Nathu La    |
+| Three countries | Diphu Pass  |
+| Snow            | Rohtang     |
+|Kashmir|Banihal|
 ---
 
 ## Straits & Water Bodies (India)
