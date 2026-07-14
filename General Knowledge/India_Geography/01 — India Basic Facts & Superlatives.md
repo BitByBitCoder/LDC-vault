@@ -73,4 +73,3 @@
 
 
 
-* **Nathu La** — ||Sikkim|| [^1] * **Diphu Pass** — ||Arunachal Pradesh|| [^2]
