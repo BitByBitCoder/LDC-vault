@@ -1,0 +1,34 @@
+Here is the master table of **all 28 Indian states**, mapping out their most famous cities, their official GK nicknames (what they are known for), and key insights for your exam preparation.
+
+### Master Table: 28 States, Famous Cities, and Nicknames
+
+|**#**|**State**|**Famous City**|**Known For (Nicknames)**|**Mizo Notes / Exam Focus**|
+|---|---|---|---|---|
+|1|**Andhra Pradesh**|**Visakhapatnam**|City of Destiny, Jewel of the East Coast|Tuipui rari mawi tak nei, tuipui lawng chawlhna hmun pawimawh.|
+|2|**Arunachal Pradesh**|**Itanagar**|Land of the Dawn-Lit Mountains|Ni chhuah hmasakna ber hmun a nih vang a ni.|
+|3|**Assam**|**Guwahati / Dibrugarh**|Gateway to Northeast, Tea City of India|NE luhka ber a ni a, Dibrugarh erawh thingpui huan lian tak tak awmna a ni.|
+|4|**Bihar**|**Nalanda / Bhagalpur**|Land of Knowledge, Silk City of India|Nalanda-ah hian hmanlai university hlui a awm a; Bhagalpur erawh tussa (silk) thahna a ni.|
+|5|**Chhattisgarh**|**Raipur / Bhilai**|Rice Bowl of India, Steel Hub of India|Buh thar hnemna ram leh thirpui (steel plant) lian awmna hmun a ni.|
+|6|**Goa**|**Panaji**|Pearl of the Orient, Tourist Paradise|Beach mawi tak tak awmna, khualzin tlawh hlawh ber a ni.|
+|7|**Gujarat**|**Ahmedabad / Surat**|Manchester of India, Diamond City|Ahmedabad-ah puan khawl lian a tam a; Surat-ah khawvel lung mantawh (diamond) 90% laih rual ziah a ni.|
+|8|**Haryana**|**Gurugram / Panipat**|Millennium City, City of Weavers|Gurugram hi IT & sorkar piah lam hna hmun a ni a; Panipat erawh puantahna (handloom) hmunpui a ni.|
+|9|**Himachal Pradesh**|**Shimla**|Queen of Hills|Hmanlaia tlang ram khawpui nuam ber leh tlangram lalfanu an tih hial a ni.|
+|10|**Jharkhand**|**Jamshedpur / Dhanbad**|Steel City of India, Coal Capital of India|India rama thir leh lungmeihawl laih chhuahna hmunpui pawimawh tawpkhawk a ni.|
+|11|**Karnataka**|**Bengaluru**|Silicon Valley of India, Garden City|Technology leh computer thiamna lama khawpui lian ber a ni.|
+|12|**Kerala**|**Kochi / Kollam**|Queen of Arabian Sea, Cashew Capital|Kochi hi tuipui rari ațanga thlai rimtui tawlh chhuahna a ni a, Kollam hi drak (cashew) khawpui a ni.|
+|13|**Madhya Pradesh**|**Indore**|Cleanest City of India, Mini Mumbai|India rama khawpui fai ber thlang ziah a ni a, sumdawnna hmunpui lian tak a ni.|
+|14|**Maharashtra**|**Mumbai / Pune**|City of Dreams, Oxford of the East|Mumbai hi sumdawnna leh film khawpui a ni a; Pune erawh zirna in țha tamna a ni.|
+|15|**Manipur**|**Imphal**|Jewel of India, Land of Jewels|India ram ralkhel h rari khawpui mawi leh lung mawi tamna tlangram a ni.|
+|16|**Meghalaya**|**Shillong**|Scotland of the East|Tlang ram rem leh nuam tak, Scotland ram nena inang thup an tih vang a ni.|
+|17|**Mizoram**|**Champhai / Aizawl**|Rice Bowl of Mizoram, Silent City|Champhai phai pui zau hi Mizoram buh thar hnemna ber a ni.|
+|18|**Nagaland**|**Kohima**|Land of Festivals, Battle of Kohima|Hnam hrang hrang bik Kut (Horbill) lawmna hmun leh hmanlai indopui 2-na hmun a ni.|
+|19|**Odisha**|**Bhubaneswar / Cuttack**|Temple City, Silver City|Biak in (temple) hlui tamna a ni a, Cuttack erawh tangka hna (silver filigree) kutchhuak mawi tak tak awmna a ni.|
+|20|**Punjab**|**Amritsar / Ludhiana**|Golden City, Manchester of India (Punjab)|Sikh sakhaw hmun thianghlim Golden Temple awmna a ni.|
+|21|**Rajasthan**|**Jaipur / Jodhpur**|Pink City, Blue City|Jaipur hi rawng sen no-a hnawih khawpui a ni a, Jodhpur erawh pawl-in an hnawih thin.|
+|22|**Sikkim**|**Gangtok**|Land of Monasteries, Paradise of Botanists|Buddha sakhaw in tamna leh nungcha leh pangpar mawi tak tak awmna ram a ni.|
+|23|**Tamil Nadu**|**Chennai / Coimbatore**|Detroit of Asia, Manchester of South India|Chennai hi motor siam chhuahna lian ber a ni.|
+|24|**Telangana**|**Hyderabad**|City of Pearls, City of Nizams|Tuipui lung mawi (pearl) leh lung mantawh tawlh chhuahna hmun hlui a ni.|
+|25|**Tripura**|**Agartala**|City of Royal Palaces|Lal in (Ujjayanta Palace) mawi tak tak hlui awmna a ni.|
+|26|**Uttar Pradesh**|**Kanpur / Varanasi**|Leather City, Spiritual Capital of India|Kanpur hi vun hna (leather) thawhna a ni a, Varanasi erawh sakhaw hmun hlui ber a ni.|
+|27|**Uttarakhand**|**Rishikesh / Mussoorie**|Yoga City, Queen of the Mountains|Rishikesh hi yoga zirna hmunpui khawvel huap a ni.|
+|28|**West Bengal**|**Kolkata**|City of Joy, Cultural Capital of India|India ram zirna leh thiamna bulțhut, khawpui nun nuam tak nei a ni.|
