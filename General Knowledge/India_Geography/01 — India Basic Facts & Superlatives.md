@@ -47,7 +47,7 @@
 | Highest forest % of area        | \|\| Mizoram (~89%) \|\|                        |                                         |
 | Largest producer cotton         | \|\| Gujarat \|\|                               | \|\|Black soil worm weather moister\|\| |
 | Largest producer milk           | \|\| Uttar Pradesh \|\|                         | \|\|Bawng an tam\|\|                    |
-| Largest producer rice           | \|\| West Bengal \|\| [ view](West%20Bengal%20) |                                         |
+| Largest producer rice           | \|\| West Bengal \|\| [ view](West%20Bengal%20) | \|\|🌧️ Heavy Rainfall\|\|              |
 | Largest producer wheat          | \|\| Uttar Pradesh \|\|                         |                                         |
 | India largest producer in world | \|\| Milk, Spices, Jute, Tea \|\|               |                                         |
 
