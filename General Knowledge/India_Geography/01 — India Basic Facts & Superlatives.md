@@ -53,16 +53,16 @@
 
 ## Union Territories
 
-| UT | Capital | Key Fact |
-|----|---------|---------|
-| Delhi | Delhi | NCT — National Capital Territory |
-| **Lakshadweep** | Kavaratti | **Smallest UT** |
-| Puducherry | Puducherry | Has legislature |
-| Andaman & Nicobar | Port Blair | Barren Island (volcano) here |
-| Chandigarh | Chandigarh | Shared capital of Punjab & Haryana |
-| Dadra & NH + Daman & Diu | Daman | Merged UTs |
-| **Ladakh** | **Leh** | Carved from J&K (2019) — largest UT by area |
-| J&K | Srinagar (summer), Jammu (winter) | Has legislature |
+| UT                       | Capital                           | Key Fact                                    |
+| ------------------------ | --------------------------------- | ------------------------------------------- |
+| Delhi                    | Delhi                             | NCT — National Capital Territory            |
+| J&K                      | Srinagar (summer), Jammu (winter) | Has legislature                             |
+| **Lakshadweep**          | Kavaratti                         | **Smallest UT**                             |
+| Puducherry               | Puducherry                        | Has legislature                             |
+| Andaman & Nicobar        | Port Blair                        | Barren Island (volcano) here                |
+| Chandigarh               | Chandigarh                        | Shared capital of Punjab & Haryana          |
+| Dadra & NH + Daman & Diu | Daman                             | Merged UTs                                  |
+| **Ladakh**               | **Leh**                           | Carved from J&K (2019) — largest UT by area |
 
 ## Exam Traps ⚠️
 > Smallest UT = **Lakshadweep** — NOT Chandigarh or Puducherry
