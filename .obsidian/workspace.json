@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Knowledge/India_Geography/07 -- Pass of india.md",
+                "file": "General Knowledge/India_Geography/01 — Physical Geography.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07 -- Pass of india"
+              "title": "01 — Physical Geography"
             }
           }
         ],
@@ -210,6 +210,7 @@
   },
   "active": "82df31133898d141",
   "lastOpenFiles": [
+    "Passes in India.md",
     "General Knowledge/India_Geography/01 — Physical Geography.md",
     "General Knowledge/India_Geography/07 -- Pass of india.md",
     "General Knowledge/India_Geography/01 — India Basic Facts & Superlatives.md",
@@ -236,7 +237,6 @@
     "General Knowledge/Indian_Polity_Constitution/brain/01 Home Indian polity  Constitution.md",
     "Preamble.md",
     "learn/template.md",
-    "Obsidian_Learning_System.md",
     "Dictionary",
     "General Knowledge/Indian_Polity_Constitution/note",
     "General Knowledge/note",
