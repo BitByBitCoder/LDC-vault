@@ -12,7 +12,7 @@
 | Most populated state (Census 2011)               | \|\| Uttar Pradesh \|\|                                   |
 | Smallest Union Territory                         | \|\| Lakshadweep \|\|                                     |
 | Scotland of the East                             | \|\| Shillong (Meghalaya) \|\|                            |
-| Mecca of Indian football                         | \|\| Kolkata \|\|                                         |
+| Mecca of Indian football                         | \|\| Kolkata \|\| [[Koldata\| view]]                      |
 | [[Majuli]] Island known for                      | \|\| Largest inhabited river island in world — Assam \|\| |
 | NE state sharing border with only 1 Indian state | \|\| Sikkim \|\|                                          |
 | India is largest producer of                     | \|\| Milk \|\|                                            |
