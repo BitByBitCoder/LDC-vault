@@ -17,7 +17,7 @@
 | **Smallest Union Territory**         | **\|\|Lakshadweep\|\|**                         | India Union Territory zinga a rari (area) te ber a ni. Arabian Sea-ah a awm a, coral island an ti bawk.                                                    |
 | **India's only active volcano**      | **\|\|Barren Island (Andaman Islands)\|\|**     | India rama meivah (volcano) la nung/puak thei awmchhun a ni a, Andaman tuipui chungah a awm.                                                               |
 |                                      |                                                 |                                                                                                                                                            |
-| **Latitude expressed relative to**   | **Equator**                                     | Khawvel semtu lai tak (Equator/Line of Latitude 0°) ațanga tehin hmar lam leh chhim lam latitude-te hi chhiar țan a ni ziah.                               |
+| **Latitude expressed relative to**   | **\|\| Equator \|\|**                           | Khawvel semtu lai tak (Equator/Line of Latitude 0°) ațanga tehin hmar lam leh chhim lam latitude-te hi chhiar țan a ni ziah.                               |
 
 
 ## Mountain Ranges of India
