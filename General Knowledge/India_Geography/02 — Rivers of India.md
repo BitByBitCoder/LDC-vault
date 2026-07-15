@@ -35,14 +35,14 @@
 
 ### Peninsular Rivers (Seasonal — rain fed)
 
-| **River**        | **Origin (A lo chhuahna)**                  | **Drains Into**       | **Key Fact**                                                              | **Mizo Hrilhfiahna / Exam Focus**                                                                            |
-| ---------------- | ------------------------------------------- | --------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| **Godavari**     | \|\|Trimbakeshwar (Nashik, Maharashtra)\|\| | \|\|Bay of Bengal\|\| | **Longest Peninsular river** (1,465 km). Also called _Dakshin Ganga_.\|\| | Chhim lam (Peninsular India) lui dung sei ber a ni.                                                          |
-| **Krishna**      | Mahabaleshwar (Maharashtra)                 | Bay of Bengal         | **2nd longest Peninsular river**. Features Nagarjuna Sagar Dam.           | Chhim lam lui sei ber pahnihna a ni. **Nagarjuna Sagar Dam** lian tak kha he lui chungah hian a awm.         |
-| **Kaveri**       | Talakaveri (Kodagu, Karnataka)              | Bay of Bengal         | Perennial river; called **Ganga of the South** due to purity.             | Chhim lam lui zinga tui hul ngai lo (perennial) awmchhun a ni.                                               |
-| **Mahanadi**     | Sihawa (Chhattisgarh)                       | Bay of Bengal         | **Hirakud Dam** is built on it in Odisha.                                 | Khawvela lei nena siam dam sei ber pawl, **Hirakud Dam** awmna luipui a ni.                                  |
-| **Narmada**      | Amarkantak (Madhya Pradesh)                 | Arabian Sea           | **Longest West-flowing river**; flows through a rift valley.              | Khawthlang lama luang thla lui zinga **a sei ber** a ni. Tlang pahnih (Vindhya leh Satpura) inkarah a luang. |
-| **Tapi / Tapti** | Multai, Satpura Range (MP)                  | Arabian Sea           | Flows parallel to Narmada in a rift valley.                               | Narmada lui nena parallel deuhva khawthlang lama luang thla ve tho a ni.                                     |
+| **River**        | **Origin (A lo chhuahna)**                  | **Drains Into**       | **Key Fact**                                                             | **Mizo Hrilhfiahna / Exam Focus**                                                                            |
+| ---------------- | ------------------------------------------- | --------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
+| **Godavari**     | \|\|Trimbakeshwar (Nashik, Maharashtra)\|\| | \|\|Bay of Bengal\|\| | \|\| Longest Peninsular river (1,465 km)Also called _Dakshin Ganga  \|\| | Chhim lam (Peninsular India) lui dung sei ber a ni.                                                          |
+| **Krishna**      | Mahabaleshwar (Maharashtra)                 | Bay of Bengal         | **2nd longest Peninsular river**. Features Nagarjuna Sagar Dam.          | Chhim lam lui sei ber pahnihna a ni. **Nagarjuna Sagar Dam** lian tak kha he lui chungah hian a awm.         |
+| **Kaveri**       | Talakaveri (Kodagu, Karnataka)              | Bay of Bengal         | Perennial river; called **Ganga of the South** due to purity.            | Chhim lam lui zinga tui hul ngai lo (perennial) awmchhun a ni.                                               |
+| **Mahanadi**     | Sihawa (Chhattisgarh)                       | Bay of Bengal         | **Hirakud Dam** is built on it in Odisha.                                | Khawvela lei nena siam dam sei ber pawl, **Hirakud Dam** awmna luipui a ni.                                  |
+| **Narmada**      | Amarkantak (Madhya Pradesh)                 | Arabian Sea           | **Longest West-flowing river**; flows through a rift valley.             | Khawthlang lama luang thla lui zinga **a sei ber** a ni. Tlang pahnih (Vindhya leh Satpura) inkarah a luang. |
+| **Tapi / Tapti** | Multai, Satpura Range (MP)                  | Arabian Sea           | Flows parallel to Narmada in a rift valley.                              | Narmada lui nena parallel deuhva khawthlang lama luang thla ve tho a ni.                                     |
 
 
 ---
