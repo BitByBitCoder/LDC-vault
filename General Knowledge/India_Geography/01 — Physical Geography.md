@@ -102,17 +102,17 @@ A **strait is a narrow passage of water that connects two larger water bodies** 
 
 ## India — Basic Physical Facts
 
-| Question                            | Answer                                                   |
-| ----------------------------------- | -------------------------------------------------------- |
-| Total area of India                 | \|\|32,87,263 sq km\|\|                                  |
-| India's rank in world by area       | **7th**                                                  |
-| India's rank in world by population | **1st** (surpassed China 2023)                           |
-| Southernmost point                  | **Indira Point (Great Nicobar)**                         |
-| Northernmost point                  | **Indira Col (Siachen, J&K)**                            |
-| Easternmost point                   | **Kibithu (Arunachal Pradesh)**                          |
-| Westernmost point                   | **Ghuar Mota (Gujarat)**                                 |
-| India's only active volcano         | **Barren Island (Andaman)**                              |
-| Tropic of Cancer — 8 states         | **Gujarat, Rajasthan, MP, CG, JH, WB, Tripura, Mizoram** |
+| Question                            | Answer                                                   |     |
+| ----------------------------------- | -------------------------------------------------------- | --- |
+| Total area of India                 | \|\|32,87,263 sq km\|\|                                  |     |
+| India's rank in world by area       | **7th**                                                  |     |
+| India's rank in world by population | **1st** (surpassed China 2023)                           |     |
+| Southernmost point                  | **Indira Point (Great Nicobar)**                         |     |
+| Northernmost point                  | **Indira Col (Siachen, J&K)**                            |     |
+| Easternmost point                   | **Kibithu (Arunachal Pradesh)**                          |     |
+| Westernmost point                   | **Ghuar Mota (Gujarat)**                                 |     |
+| India's only active volcano         | **Barren Island (Andaman)**                              |     |
+| Tropic of Cancer — 8 states         | **Gujarat, Rajasthan, MP, CG, JH, WB, Tripura, Mizoram** |     |
 
 ---
 
