@@ -1,0 +1,1 @@
+**Longest river in the Indian subcontinent:** **Indus (3,180 km)**
