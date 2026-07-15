@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brahmaputra.md",
+                "file": "Indus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brahmaputra"
+              "title": "Indus"
             }
           }
         ],
@@ -208,9 +208,10 @@
   },
   "active": "de6bba9723d6ca64",
   "lastOpenFiles": [
-    "images (2).jpeg",
     "General Knowledge/India_Geography/02 — Rivers of India.md",
+    "Indus.md",
     "Brahmaputra.md",
+    "images (2).jpeg",
     "Yamuna.md",
     "images 1.jpeg",
     "Ganga.md",
@@ -252,7 +253,6 @@
     "learn",
     "GK_Missing_Topics",
     "General Knowledge/Indian_Polity_Constitution/note/current",
-    "General Knowledge/Indian_Polity_Constitution/note/Indian constitution Parts.png",
-    "Screenshot 2026-07-02 at 12.12.16 AM.png"
+    "General Knowledge/Indian_Polity_Constitution/note/Indian constitution Parts.png"
   ]
 }
