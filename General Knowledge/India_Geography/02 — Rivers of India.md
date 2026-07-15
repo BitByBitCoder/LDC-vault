@@ -47,8 +47,7 @@
 | **Narmada**      | Amarkantak (Madhya Pradesh)                 | Arabian Sea           | **Longest West-flowing river**; flows through a rift valley.             | Khawthlang lama luang thla lui zinga **a sei ber** a ni. Tlang pahnih (Vindhya leh Satpura) inkarah a luang. |
 | **Tapi / Tapti** | Multai, Satpura Range (MP)                  | Arabian Sea           | Flows parallel to Narmada in a rift valley.                              | Narmada lui nena parallel deuhva khawthlang lama luang thla ve tho a ni.                                     |
 
-########A perennial river ==flows continuously throughout the year, even during the dry season==.
----
+A perennial river ==flows continuously throughout the year, even during the dry season==.
 
 ## Rivers Draining into Arabian Sea vs Bay of Bengal
 
