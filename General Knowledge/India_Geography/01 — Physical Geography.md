@@ -100,7 +100,7 @@ A **strait is a narrow passage of water that connects two larger water bodies** 
 | **Palk Bay**             | \|\|India and Sri Lanka (wider than Palk Strait)\|\| |
 
 ---
-### Topic: Extreme points of India
+### Extreme points of India
 
 - Southernmost point → Indira Point, Great Nicobar
 - Northernmost point → Indira Col, Siachen (J&K)
@@ -108,17 +108,13 @@ A **strait is a narrow passage of water that connects two larger water bodies** 
 - Westernmost point → Ghuar Mota / Sir Creek area, Gujarat
 ## India — Basic Physical Facts
 
-| Question                            | Answer                                                   |     |
-| ----------------------------------- | -------------------------------------------------------- | --- |
-| Total area of India                 | \|\|32,87,263 sq km\|\|                                  |     |
-| India's rank in world by area       | **7th**                                                  |     |
-| India's rank in world by population | **1st** (surpassed China 2023)                           |     |
-|                                     |                                                          |     |
-|                                     |                                                          |     |
-|                                     |                                                          |     |
-|                                     |                                                          |     |
-| India's only active volcano         | **Barren Island (Andaman)**                              |     |
-| Tropic of Cancer — 8 states         | **Gujarat, Rajasthan, MP, CG, JH, WB, Tripura, Mizoram** |     |
+| Question                            | Answer                                                   |
+| ----------------------------------- | -------------------------------------------------------- |
+| Total area of India                 | \|\|32,87,263 sq km\|\|                                  |
+| India's rank in world by area       | **7th**                                                  |
+| India's rank in world by population | **1st** (surpassed China 2023)                           |
+| India's only active volcano         | **Barren Island (Andaman)**                              |
+| Tropic of Cancer — 8 states         | **Gujarat, Rajasthan, MP, CG, JH, WB, Tripura, Mizoram** |
 
 ---
 
