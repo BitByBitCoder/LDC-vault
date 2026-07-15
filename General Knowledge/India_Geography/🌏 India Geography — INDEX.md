@@ -19,14 +19,14 @@
 
 ## 📁 Sub-Topics
 
-| # | File | Questions | Priority |
-|---|------|-----------|---------|
-| 1 | [[01 — Physical Geography]] | 15 Qs | 🔴 High |
-| 2 | [[02 — Rivers of India]] | 10 Qs | 🔴 High |
-| 3 | [[03 — States & Superlatives]] | 12 Qs | 🔴 High |
-| 4 | [[04 — Climate, Crops & Soil]] | 8 Qs | 🟡 Medium |
-| 5 | [[05 — National Parks & Wildlife]] | 6 Qs | 🟡 Medium |
-| 6 | [[06 — World Geography]] | 10 Qs | 🟢 Low |
+| #   | File                               | Questions | Priority  |
+| --- | ---------------------------------- | --------- | --------- |
+| 1   | [[01 — Physical Geography]]        | 15 Qs     | 🔴 High   |
+| 2   | [[02 — Rivers of India]]           | 10 Qs     | 🔴 High   |
+| 3   | [[03 — States & Superlatives]]     | 12 Qs     | 🔴 High   |
+| 4   | [[04 — Climate, Crops & Soil]]     | 8 Qs      | 🟡 Medium |
+| 5   | [[05 — National Parks & Wildlife]] | 6 Qs      | 🟡 Medium |
+| 6   | [[06 — World Geography]]           | 10 Qs     | 🟢 Low    |
 
 ---
 
