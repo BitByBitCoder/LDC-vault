@@ -89,4 +89,59 @@
 7. [[06 — World Geography]]
 
 
-## F
+## Full topic
+### Physical Geography (= Landforms & Water Bodies)
+
+- **Mountains & Peaks** — ranges, individual peaks, height rankings
+- **Passes** — mountain passes, tri-points
+- **Plateaus** — Deccan Plateau, Chota Nagpur, Malwa
+- **Plains** — Indo-Gangetic plain, coastal plains
+- **Straits, Channels & Water Passages** — Palk Strait, Ten Degree Channel, Duncan Passage
+- **Islands & Archipelagos** — Andaman & Nicobar, Lakshadweep
+- **Coastline features** — Konkan coast, Coromandel coast, deltas (as landform, not river-flow)
+- **Volcanoes** — Barren Island
+- **Extreme points** — northernmost/southernmost/easternmost/westernmost
+- **Basic country facts** — total area, world rank by area, latitude/longitude basics
+
+### 02 — Rivers of India
+
+- **River systems** — Himalayan (perennial) vs Peninsular (seasonal)
+- **Individual rivers** — origin, length, tributaries, states passed through
+- **River basins & drainage patterns**
+- **Dams & reservoirs on specific rivers**
+- **River-linked cities** ("which river does city X sit on")
+- **Waterfalls** (since they're river-dependent features)
+- **Lakes fed by/connected to rivers** (as distinct from standalone lakes — judgment call, could also sit in 01 if the lake is more of a static landform fact like Palak Lake)
+
+### 03 — States & Superlatives
+
+- **State-specific facts** — capital, formation date, chief minister/governor
+- **"Largest/smallest/highest" state rankings** — by area, population, literacy
+- **Union Territories** — status, capitals, governance
+- **State symbols** — state bird, flower, animal (unless you'd rather bucket these under Wildlife in 05 — worth deciding once and staying consistent)
+- **Border-sharing facts** — which states share borders with which countries
+- **Statehood/formation history dates**
+
+### 04 — Climate, Crops & Soil
+
+- **Monsoon mechanics** — SW/NE monsoon, retreating monsoon
+- **Seasons** — Kharif, Rabi, Zaid cropping seasons
+- **Rainfall patterns** — regional variation, rain shadow areas
+- **Soil types** — alluvial, black (regur), red, laterite — and which crops grow where
+- **Specific crop facts** — major producer states, crop requirements
+- **Climate zones/classification**
+
+### 05 — National Parks & Wildlife
+
+- **National Parks & Sanctuaries** — location, state, famous species
+- **Biosphere Reserves**
+- **Endangered/famous species** — tiger reserves, one-horned rhino, etc.
+- **Ramsar sites/wetlands** (or could sit in 01 if treated as water-body geography — again, pick one home)
+- **Conservation projects** — Project Tiger, Project Elephant
+
+### 06 — World Geography
+
+- **World physical facts** — continents, oceans, world's longest/highest/largest
+- **World rivers, mountains, deserts** (non-India)
+- **Countries** — capitals, currencies, borders
+- **World organizations' geographic HQ facts** (if relevant to your papers)
