@@ -74,7 +74,7 @@
 | **Rohtang Pass**  | Himachal       | —                                                 |
 | **Banihal Pass**  | J&K            | —                                                 |
 | Mig La Pass       |                | Highest                                           |
-## passes trick
+### passes trick
 | Pass              | Trigger            |
 | ----------------- | ------------------ |
 | **Umling La**     | 🚗 Ultimate Height |
