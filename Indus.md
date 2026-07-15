@@ -1,5 +1,5 @@
 From a competitive exam perspective, the **Ganga River System** is the most frequently tested geographical topic in India. It is treated as the country's lifeline and its largest river basin, draining roughly 26% of India's landmass.
-
+![](image-18.png)
 When examiners frame questions about the Ganga, they focus heavily on three core areas: **its complex origin, its exact tributaries, and its statutory/national facts.**
 
 ### 1. The Core Origin Matrix (Panch Prayag)
