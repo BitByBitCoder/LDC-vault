@@ -16,7 +16,7 @@ The Ganga does not start as a single stream. It is formed by the confluence of m
     
 - **Devprayag:** **Alaknanda + Bhagirathi** (This is where the river officially takes the hming **_Ganga_**).
     
-
+![](images%20(1)%201.jpeg)
 ### 📊 Tributaries Breakdown (Left vs. Right Bank)
 
 Questions will explicitly ask: _"Which of the following is NOT a left-bank tributary of Ganga?"_ Keep this alignment completely separated in your notes:
