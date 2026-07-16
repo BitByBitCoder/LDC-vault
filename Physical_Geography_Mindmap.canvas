@@ -37,7 +37,8 @@
 		{"id":"n16","type":"text","text":"**Umling La\n(Ultimate Height)**\nHighest motorable pass — Ladakh, 19,024ft","x":244,"y":-694,"width":240,"height":70,"color":"2"},
 		{"id":"n18","type":"text","text":"**Nathu La\n(China Trade)**\nSikkim — trade route with China","x":244,"y":-589,"width":240,"height":70,"color":"2"},
 		{"id":"n20","type":"text","text":"**Diphu Pass\n(3 Countries)**\nTri-point: India, China, Myanmar","x":244,"y":-476,"width":240,"height":70,"color":"2"},
-		{"id":"n22","type":"text","text":"**Khardung La\n(Old Champion)**\nLadakh — no longer highest","x":244,"y":-358,"width":240,"height":70,"color":"2"}
+		{"id":"n22","type":"text","text":"**Khardung La\n(Old Champion)**\nLadakh — no longer highest","x":244,"y":-358,"width":240,"height":70,"color":"2"},
+		{"id":"d9988ed95374b425","x":-1898,"y":-322,"width":400,"height":73,"type":"file","file":"Obsidian_Learning_System.md"}
 	],
 	"edges":[
 		{"id":"n3","fromNode":"n1","fromSide":"right","toNode":"n2","toSide":"left","color":"1"},
