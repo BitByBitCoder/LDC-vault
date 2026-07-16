@@ -1,11 +1,4 @@
 {
-	"nodes":[
-		{"id":"eccde2b4e5925724","type":"file","file":"maths brain/5687836 (1).png","x":28,"y":-225,"width":400,"height":375},
-		{"id":"d548129bfc9bccff","type":"file","file":"maths brain/Screenshot 2026-07-02 at 12.11.51 AM.png","x":-589,"y":-247,"width":400,"height":233},
-		{"id":"8e25257adc4ded50","type":"file","file":"maths brain/ChatGPT Image Jun 30, 2026, 07_31_55 PM 2.png","x":-261,"y":-564,"width":400,"height":267}
-	],
-	"edges":[
-		{"id":"7514b02d2f2ca3f6","fromNode":"d548129bfc9bccff","fromSide":"right","toNode":"eccde2b4e5925724","toSide":"left"},
-		{"id":"acce4d258af6dc25","fromNode":"8e25257adc4ded50","fromSide":"bottom","toNode":"d548129bfc9bccff","toSide":"top"}
-	]
+	"nodes":[],
+	"edges":[]
 }
