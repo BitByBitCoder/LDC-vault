@@ -8,23 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "22b71dd0e6300154",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "maths brain/Untitled.canvas",
-                "viewState": {
-                  "x": -20,
-                  "y": -126.5,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
-            }
-          },
-          {
             "id": "c365556c86f37cdd",
             "type": "leaf",
             "state": {
@@ -91,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -209,11 +191,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "22b71dd0e6300154",
+  "active": "c365556c86f37cdd",
   "lastOpenFiles": [
+    "maths brain/bbgun.canvas",
+    "General Knowledge/India_Geography/01 — Physical Geography.md",
+    "maths brain/ChatGPT Image Jun 30, 2026, 07_31_55 PM 2.png",
+    "maths brain/Screenshot 2026-07-02 at 12.11.51 AM.png",
+    "maths brain/5687836 (1).png",
     "Physical_Geography_Mindmap.canvas",
     "image-18 1.png",
-    "General Knowledge/India_Geography/01 — Physical Geography.md",
     "Obsidian_Learning_System.md",
     "first canvas.canvas",
     "learn/the think framework.md",
@@ -241,9 +227,6 @@
     "Brahmaputra.md",
     "images (2).jpeg",
     "Yamuna.md",
-    "images 1.jpeg",
-    "images (1) 1.jpeg",
-    "images (1).jpeg",
     "General Knowledge/India_Geography/05 — Agriculture & Crops.md",
     "General Knowledge/India_Geography/04 — States & Union Territories.md",
     "General Knowledge/India_Geography/04 — Climate, Crops & Soil.md",
