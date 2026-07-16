@@ -15,9 +15,9 @@
               "state": {
                 "file": "Physical_Geography_Mindmap.canvas",
                 "viewState": {
-                  "x": -639.5548973882742,
-                  "y": 68.99146560911508,
-                  "zoom": -1.4145182291666667
+                  "x": -654.4294431102196,
+                  "y": -232.63851911780202,
+                  "zoom": -0.6067504882812501
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -28,14 +28,17 @@
             "id": "c365556c86f37cdd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "General Knowledge/India_Geography/01 — Physical Geography.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "01 — Physical Geography"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,8 +208,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c365556c86f37cdd",
+  "active": "22b71dd0e6300154",
   "lastOpenFiles": [
+    "General Knowledge/India_Geography/01 — Physical Geography.md",
     "Obsidian_Learning_System.md",
     "Physical_Geography_Mindmap.canvas",
     "first canvas.canvas",
@@ -215,7 +219,6 @@
     "Untitled.base",
     "General Knowledge/India_Geography/02 — Rivers of India.md",
     "General Knowledge/India_Geography/🌏 India Geography — INDEX.md",
-    "General Knowledge/India_Geography/01 — Physical Geography.md",
     "General Knowledge/India_Geography/01 — India Basic Facts & Superlatives.md",
     "General Knowledge/India_Geography/03 — Mountains, Passes & Peaks.md",
     "General Knowledge/India_Geography/03 — States & Superlatives.md",
