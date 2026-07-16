@@ -37,6 +37,7 @@
 | [[Brahmaputra]]    | \|\|Angsi Glacier Tibet (near Mansarovar)\|\| | \|\|Bay of Bengal\|\|              | \|\|Largest by water volume in India.\|\|                                   | India rama tui luang hnem ber (volume) lui a ni. Tibet ramah chuan **Tsangpo** an ti țhin. **Majuli Island** awmna kha a ni bawk.                                                               |
 
 ### Peninsular Rivers (Seasonal — rain fed)
+#### East flowing river system
 
 | **River**        | **Origin (A lo chhuahna)**                  | **Drains Into**       | **Key Fact**                                                             | **Mizo Hrilhfiahna / Exam Focus**                                                                            |
 | ---------------- | ------------------------------------------- | --------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
