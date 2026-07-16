@@ -15,16 +15,27 @@
               "state": {
                 "file": "Physical_Geography_Mindmap.canvas",
                 "viewState": {
-                  "x": -1093.1234406157569,
-                  "y": -297.9126625372762,
-                  "zoom": -1.0187377929687509
+                  "x": -639.5548973882742,
+                  "y": 68.99146560911508,
+                  "zoom": -1.4145182291666667
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Physical_Geography_Mindmap"
             }
+          },
+          {
+            "id": "c365556c86f37cdd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,8 +205,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "22b71dd0e6300154",
+  "active": "c365556c86f37cdd",
   "lastOpenFiles": [
+    "Obsidian_Learning_System.md",
     "Physical_Geography_Mindmap.canvas",
     "first canvas.canvas",
     "learn/the think framework.md",
