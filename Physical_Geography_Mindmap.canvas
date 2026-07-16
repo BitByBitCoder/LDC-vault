@@ -39,7 +39,8 @@
 		{"id":"n22","type":"text","text":"**Khardung La\n(Old Champion)**\nLadakh — no longer highest","x":244,"y":-358,"width":240,"height":70,"color":"2"},
 		{"id":"d9988ed95374b425","x":-1898,"y":-322,"width":400,"height":73,"type":"file","file":"Obsidian_Learning_System.md"},
 		{"id":"949bd9131c50ebef","x":-779,"y":-111,"width":250,"height":233,"type":"text","text":"| Peak                   |\n| ---------------------- |\n| **Mt. Everest**        |\n| **K2 (Godwin-Austen)** |\n| **Kanchenjunga**       |\n| **Nanda Devi**         |\n| **Anaimudi**           |\n| **Dodabetta**          |\n| **Phawngpui**          |"},
-		{"id":"n10","type":"text","text":"**Dodabetta\n(Doda Better)**\nHighest in Nilgiris — Tamil Nadu","x":-1181,"y":-589,"width":240,"height":70,"color":"1"}
+		{"id":"n10","type":"text","text":"**Dodabetta\n(Doda Better)**\nHighest in Nilgiris — Tamil Nadu","x":-1181,"y":-589,"width":240,"height":70,"color":"1"},
+		{"id":"bdd93cd395470fe9","x":283,"y":-993,"width":400,"height":216,"type":"file","file":"image-18 1.png"}
 	],
 	"edges":[
 		{"id":"n3","fromNode":"n1","fromSide":"right","toNode":"n2","toSide":"left","color":"1"},
@@ -76,6 +77,7 @@
 		{"id":"n67","fromNode":"n64","fromSide":"right","toNode":"n66","toSide":"left","color":"0"},
 		{"id":"n69","fromNode":"n64","fromSide":"right","toNode":"n68","toSide":"left","color":"0"},
 		{"id":"n71","fromNode":"n64","fromSide":"right","toNode":"n70","toSide":"left","color":"0"},
-		{"id":"n73","fromNode":"n64","fromSide":"right","toNode":"n72","toSide":"left","color":"0"}
+		{"id":"n73","fromNode":"n64","fromSide":"right","toNode":"n72","toSide":"left","color":"0"},
+		{"id":"82f2f8d634e7b616","fromNode":"n16","fromSide":"top","toNode":"bdd93cd395470fe9","toSide":"left"}
 	]
 }
