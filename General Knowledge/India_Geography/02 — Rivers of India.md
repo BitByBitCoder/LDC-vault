@@ -48,8 +48,11 @@
 | **Tapi / Tapti** | Multai, Satpura Range (MP)                  | Arabian Sea           | Flows parallel to Narmada in a rift valley.                              | Narmada lui nena parallel deuhva khawthlang lama luang thla ve tho a ni.                                     |
 
 #### West flowing river system
-| **Mahanadi** | Sihawa (Chhattisgarh) | Bay of Bengal | **Hirakud Dam** is built on it in Odisha. | Khawvela lei nena siam dam sei ber pawl, **Hirakud Dam** awmna luipui a ni. |
-| ------------ | --------------------- | ------------- | ----------------------------------------- | --------------------------------------------------------------------------- |
+
+| **River**    | **Origin (A lo chhuahna)**                  | **Drains Into**       | **Key Fact**                                                             | **Mizo Hrilhfiahna / Exam Focus**                                           |
+| ------------ | ------------------------------------------- | --------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
+| **Mahanadi** | Sihawa (Chhattisgarh)                       | Bay of Bengal         | **Hirakud Dam** is built on it in Odisha.                                | Khawvela lei nena siam dam sei ber pawl, **Hirakud Dam** awmna luipui a ni. |
+| [[Godavari]] | \|\|Trimbakeshwar (Nashik, Maharashtra)\|\| | \|\|Bay of Bengal\|\| | \|\| Longest Peninsular river (1,465 km)Also called _Dakshin Ganga  \|\| | Chhim lam (Peninsular India) lui dung sei ber a ni.                         |
 A perennial river ==flows continuously throughout the year, even during the dry season==.
 
 ## Rivers Draining into Arabian Sea vs Bay of Bengal
