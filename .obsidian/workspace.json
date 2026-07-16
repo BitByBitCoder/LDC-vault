@@ -25,10 +25,17 @@
             "id": "de6bba9723d6ca64",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ],
@@ -204,6 +211,9 @@
   },
   "active": "de6bba9723d6ca64",
   "lastOpenFiles": [
+    "2026-07-16.md",
+    "Untitled.canvas",
+    "Untitled.base",
     "General Knowledge/India_Geography/02 — Rivers of India.md",
     "General Knowledge/India_Geography/🌏 India Geography — INDEX.md",
     "learn/the think framework.md",
@@ -238,8 +248,6 @@
     "Passes in India.md",
     "General Knowledge/India_Geography/18 -- volcano.md",
     "General Knowledge/India_Geography/17 -- Mountain Peaks in India.md",
-    "General Knowledge/India_Geography/07 -- Important Passes of india.md",
-    "General Knowledge/India_Geography/16 -- Passage Important.md",
     "General Knowledge/India_Geography/brain",
     "Dictionary",
     "General Knowledge/Indian_Polity_Constitution/note",
@@ -248,7 +256,6 @@
     "General Knowledge/Indian_Polity_Constitution/brain/Fundamental Rights",
     "General Knowledge/Indian_Polity_Constitution/brain",
     "learn",
-    "GK_Missing_Topics",
-    "General Knowledge/Indian_Polity_Constitution/note/current"
+    "GK_Missing_Topics"
   ]
 }
