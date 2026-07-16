@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Physical_Geography_Mindmap.canvas",
+                "file": "maths brain/Untitled.canvas",
                 "viewState": {
-                  "x": -1169.6420393551407,
-                  "y": -182.3224231620712,
-                  "zoom": -1.0754435221354157
+                  "x": -20,
+                  "y": -126.5,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Physical_Geography_Mindmap"
+              "title": "Untitled"
             }
           },
           {
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "canv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +91,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -210,10 +211,10 @@
   },
   "active": "22b71dd0e6300154",
   "lastOpenFiles": [
+    "Physical_Geography_Mindmap.canvas",
     "image-18 1.png",
     "General Knowledge/India_Geography/01 — Physical Geography.md",
     "Obsidian_Learning_System.md",
-    "Physical_Geography_Mindmap.canvas",
     "first canvas.canvas",
     "learn/the think framework.md",
     "2026-07-16.md",
@@ -243,7 +244,6 @@
     "images 1.jpeg",
     "images (1) 1.jpeg",
     "images (1).jpeg",
-    "images.jpeg",
     "General Knowledge/India_Geography/05 — Agriculture & Crops.md",
     "General Knowledge/India_Geography/04 — States & Union Territories.md",
     "General Knowledge/India_Geography/04 — Climate, Crops & Soil.md",
