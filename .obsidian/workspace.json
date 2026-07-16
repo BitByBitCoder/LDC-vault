@@ -17,7 +17,7 @@
                 "viewState": {
                   "x": -80.5,
                   "y": -207,
-                  "zoom": 0
+                  "zoom": -0.25128173828125
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -32,16 +32,17 @@
               "state": {
                 "file": "Physical_Geography_Mindmap.canvas",
                 "viewState": {
-                  "x": -1536.392000829684,
-                  "y": -831.7795348089705,
-                  "zoom": -2.4786254882812497
+                  "x": -3677.3509349873216,
+                  "y": -2184.29804251362,
+                  "zoom": -3.267985026041667
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Physical_Geography_Mindmap"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,10 +212,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fae9520d72428e28",
+  "active": "6b9b3f90383d8b8d",
   "lastOpenFiles": [
-    "Physical_Geography_Mindmap.canvas",
     "maths brain/bbgun.canvas",
+    "Physical_Geography_Mindmap.canvas",
     "General Knowledge/India_Geography/01 — Physical Geography.md",
     "maths brain/ChatGPT Image Jun 30, 2026, 07_31_55 PM 2.png",
     "maths brain/Screenshot 2026-07-02 at 12.11.51 AM.png",

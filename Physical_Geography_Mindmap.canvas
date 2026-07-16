@@ -41,7 +41,7 @@
 		{"id":"n26","type":"text","text":"**Palk Strait**\nBetween India and Sri Lanka","x":-3777,"y":-312,"width":240,"height":70,"color":"3"},
 		{"id":"n30","type":"text","text":"**Ten Degree Channel**\nLittle Andaman ↔ Car Nicobar","x":-3821,"y":-117,"width":240,"height":70,"color":"3"},
 		{"id":"n32","type":"text","text":"**Eight Degree Channel**\nLakshadweep ↔ Maldives","x":-3843,"y":-19,"width":240,"height":70,"color":"3"},
-		{"id":"8bb9019edf24d277","type":"file","file":"maths brain/bbgun.canvas","x":-9291,"y":-5696,"width":4614,"height":2428,"color":"3"}
+		{"id":"f82f7edc9dab4d70","x":-6916,"y":-4715,"width":3925,"height":2458,"type":"file","file":"maths brain/bbgun.canvas"}
 	],
 	"edges":[
 		{"id":"n3","fromNode":"n1","fromSide":"right","toNode":"n2","toSide":"left","color":"1"},
@@ -81,7 +81,6 @@
 		{"id":"82f2f8d634e7b616","fromNode":"n16","fromSide":"top","toNode":"bdd93cd395470fe9","toSide":"left"},
 		{"id":"06fda4aedd4ac0be","fromNode":"n24","fromSide":"left","toNode":"n28","toSide":"right"},
 		{"id":"4d3b6d54e4fc862e","fromNode":"n28","fromSide":"right","toNode":"n24","toSide":"left","color":"2"},
-		{"id":"128aa67a69a10231","fromNode":"n30","fromSide":"right","toNode":"n24","toSide":"left","color":"2"},
-		{"id":"ed72383f3e9e2f1c","fromNode":"n24","fromSide":"top","toNode":"8bb9019edf24d277","toSide":"bottom"}
+		{"id":"128aa67a69a10231","fromNode":"n30","fromSide":"right","toNode":"n24","toSide":"left","color":"2"}
 	]
 }
