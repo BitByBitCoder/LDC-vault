@@ -28,17 +28,14 @@
             "id": "6b9b3f90383d8b8d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Physical_Geography_Mindmap.canvas",
-                "viewState": {
-                  "x": -2461.199748404782,
-                  "y": 423.35646854711155,
-                  "zoom": -1.0213623046875
-                }
+                "file": "Computer_Knowledge/01 — Hardware & Computer Basics.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Physical_Geography_Mindmap"
+              "icon": "lucide-file",
+              "title": "01 — Hardware & Computer Basics"
             }
           }
         ],
@@ -214,8 +211,8 @@
   },
   "active": "6b9b3f90383d8b8d",
   "lastOpenFiles": [
-    "maths brain/bbgun.canvas",
     "Physical_Geography_Mindmap.canvas",
+    "maths brain/bbgun.canvas",
     "General Knowledge/India_Geography/01 — Physical Geography.md",
     "maths brain/ChatGPT Image Jun 30, 2026, 07_31_55 PM 2.png",
     "maths brain/Screenshot 2026-07-02 at 12.11.51 AM.png",
