@@ -35,12 +35,12 @@
 		{"id":"d9988ed95374b425","type":"file","file":"Obsidian_Learning_System.md","x":-1898,"y":-322,"width":400,"height":73},
 		{"id":"n10","type":"text","text":"**Dodabetta\n(Doda Better)**\nHighest in Nilgiris — Tamil Nadu","x":-1181,"y":-589,"width":240,"height":70,"color":"1"},
 		{"id":"bdd93cd395470fe9","type":"file","file":"image-18 1.png","x":283,"y":-993,"width":400,"height":216},
-		{"id":"n24","type":"text","text":"🌊 Straits & Channels","x":-4341,"y":-336,"width":260,"height":70,"color":"3"},
-		{"id":"n28","type":"text","text":"**Duncan Passage**\nSouth Andaman ↔ Little Andaman","x":-5286,"y":-408,"width":240,"height":70,"color":"3"},
-		{"id":"n26","type":"text","text":"**Palk Strait**\nBetween India and Sri Lanka","x":-5264,"y":-506,"width":240,"height":70,"color":"3"},
-		{"id":"n30","type":"text","text":"**Ten Degree Channel**\nLittle Andaman ↔ Car Nicobar","x":-5308,"y":-311,"width":240,"height":70,"color":"3"},
-		{"id":"n32","type":"text","text":"**Eight Degree Channel**\nLakshadweep ↔ Maldives","x":-5330,"y":-213,"width":240,"height":70,"color":"3"},
-		{"id":"949bd9131c50ebef","type":"text","text":"| Peak                   |\n| ---------------------- |\n| **Mt. Everest**        |\n| **K2 (Godwin-Austen)** |\n| **Kanchenjunga**       |\n| **Nanda Devi**         |\n| **Anaimudi**           |\n| **Dodabetta**          |\n| **Phawngpui**          |","x":-4029,"y":-690,"width":250,"height":233}
+		{"id":"949bd9131c50ebef","type":"text","text":"| Peak                   |\n| ---------------------- |\n| **Mt. Everest**        |\n| **K2 (Godwin-Austen)** |\n| **Kanchenjunga**       |\n| **Nanda Devi**         |\n| **Anaimudi**           |\n| **Dodabetta**          |\n| **Phawngpui**          |","x":-4029,"y":-690,"width":250,"height":233},
+		{"id":"n24","type":"text","text":"🌊 Straits & Channels","x":-2854,"y":-142,"width":260,"height":70,"color":"3"},
+		{"id":"n28","type":"text","text":"**Duncan Passage**\nSouth Andaman ↔ Little Andaman","x":-3799,"y":-214,"width":240,"height":70,"color":"3"},
+		{"id":"n26","type":"text","text":"**Palk Strait**\nBetween India and Sri Lanka","x":-3777,"y":-312,"width":240,"height":70,"color":"3"},
+		{"id":"n30","type":"text","text":"**Ten Degree Channel**\nLittle Andaman ↔ Car Nicobar","x":-3821,"y":-117,"width":240,"height":70,"color":"3"},
+		{"id":"n32","type":"text","text":"**Eight Degree Channel**\nLakshadweep ↔ Maldives","x":-3843,"y":-19,"width":240,"height":70,"color":"3"}
 	],
 	"edges":[
 		{"id":"n3","fromNode":"n1","fromSide":"right","toNode":"n2","toSide":"left","color":"1"},
