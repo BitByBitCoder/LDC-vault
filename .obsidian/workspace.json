@@ -28,14 +28,17 @@
             "id": "6b9b3f90383d8b8d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "General Knowledge/India_Geography/01 — Physical Geography.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "01 — Physical Geography"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ],
@@ -211,12 +214,15 @@
   },
   "active": "6b9b3f90383d8b8d",
   "lastOpenFiles": [
+    "General Knowledge/India_Geography/02 — Rivers of India.md",
+    "Untitled.canvas",
+    "General Knowledge/India_Geography/gk canvas",
+    "General Knowledge/India_Geography/01 — Physical Geography.md",
     "GK_Missing_Topics/01 — Science & Physics.md",
     "GK_Missing_Topics/📌 GK Missing Topics — INDEX.md",
     "Computer_Knowledge/01 — Hardware & Computer Basics.md",
     "Physical_Geography_Mindmap.canvas",
     "maths brain/bbgun.canvas",
-    "General Knowledge/India_Geography/01 — Physical Geography.md",
     "maths brain/ChatGPT Image Jun 30, 2026, 07_31_55 PM 2.png",
     "maths brain/Screenshot 2026-07-02 at 12.11.51 AM.png",
     "maths brain/5687836 (1).png",
@@ -226,7 +232,6 @@
     "learn/the think framework.md",
     "2026-07-16.md",
     "Untitled.base",
-    "General Knowledge/India_Geography/02 — Rivers of India.md",
     "General Knowledge/India_Geography/🌏 India Geography — INDEX.md",
     "General Knowledge/India_Geography/01 — India Basic Facts & Superlatives.md",
     "General Knowledge/India_Geography/03 — Mountains, Passes & Peaks.md",
@@ -250,7 +255,6 @@
     "Yamuna.md",
     "General Knowledge/India_Geography/05 — Agriculture & Crops.md",
     "General Knowledge/India_Geography/04 — States & Union Territories.md",
-    "General Knowledge/India_Geography/04 — Climate, Crops & Soil.md",
     "General Knowledge/India_Geography/brain",
     "Dictionary",
     "General Knowledge/Indian_Polity_Constitution/note",
@@ -258,7 +262,6 @@
     "General Knowledge/Indian_Polity_Constitution/brain/Fundamental Rights/Aticles",
     "General Knowledge/Indian_Polity_Constitution/brain/Fundamental Rights",
     "General Knowledge/Indian_Polity_Constitution/brain",
-    "learn",
-    "GK_Missing_Topics"
+    "learn"
   ]
 }
