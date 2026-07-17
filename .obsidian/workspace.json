@@ -11,31 +11,31 @@
             "id": "c365556c86f37cdd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Indus.md",
-                "mode": "source",
-                "source": false
+                "file": "maths brain/bbgun.canvas",
+                "viewState": {
+                  "x": -80.5,
+                  "y": -207,
+                  "zoom": -1.4185668945312502
+                }
               },
-              "icon": "lucide-file",
-              "title": "Indus"
+              "icon": "lucide-layout-dashboard",
+              "title": "bbgun"
             }
           },
           {
             "id": "6b9b3f90383d8b8d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "River India canvas.canvas",
-                "viewState": {
-                  "x": -2388.34264282679,
-                  "y": 258.0050333104551,
-                  "zoom": -1.3491373697916662
-                }
+                "file": "GK_Missing_Topics/📌 GK Missing Topics — INDEX.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "River India canvas"
+              "icon": "lucide-file",
+              "title": "📌 GK Missing Topics — INDEX"
             }
           }
         ],
@@ -211,14 +211,15 @@
   },
   "active": "6b9b3f90383d8b8d",
   "lastOpenFiles": [
-    "Pasted image 20260717182424.png",
-    "Indus.md",
-    "General Knowledge/India_Geography/02 — Rivers of India.md",
-    "River India canvas.canvas",
-    "maths brain/bbgun.canvas",
-    "General Knowledge/India_Geography/gk canvas",
-    "General Knowledge/India_Geography/01 — Physical Geography.md",
     "GK_Missing_Topics/01 — Science & Physics.md",
+    "General Knowledge/India_Geography/01 — Physical Geography.md",
+    "maths brain/bbgun.canvas",
+    "General Knowledge/India_Geography/02 — Rivers of India.md",
+    "Indus.md",
+    "Ganga.md",
+    "River India canvas.canvas",
+    "Pasted image 20260717182424.png",
+    "General Knowledge/India_Geography/gk canvas",
     "GK_Missing_Topics/📌 GK Missing Topics — INDEX.md",
     "Computer_Knowledge/01 — Hardware & Computer Basics.md",
     "Physical_Geography_Mindmap.canvas",
@@ -246,10 +247,8 @@
     "Godavari.md",
     "Pasted image 20260715194140.png",
     "Subcontinent.md",
-    "Ganga.md",
     "image-18.png",
     "Brahmaputra.md",
-    "images (2).jpeg",
     "Yamuna.md",
     "General Knowledge/India_Geography/05 — Agriculture & Crops.md",
     "General Knowledge/India_Geography/04 — States & Union Territories.md",
