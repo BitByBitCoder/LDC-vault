@@ -28,14 +28,17 @@
             "id": "6b9b3f90383d8b8d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "GK_Missing_Topics/📌 GK Missing Topics — INDEX.md",
-                "mode": "source",
-                "source": false
+                "file": "General Knowledge/India_Geography/gk canvas/River India canvas.canvas",
+                "viewState": {
+                  "x": -1165.1056189155474,
+                  "y": 260.70597249038826,
+                  "zoom": -1.0564737955729169
+                }
               },
-              "icon": "lucide-file",
-              "title": "📌 GK Missing Topics — INDEX"
+              "icon": "lucide-layout-dashboard",
+              "title": "River India canvas"
             }
           }
         ],
@@ -71,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bbgun",
+                "query": "river india canv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -211,16 +214,17 @@
   },
   "active": "6b9b3f90383d8b8d",
   "lastOpenFiles": [
+    "General Knowledge/India_Geography/gk canvas/Pasted image 20260717182710.png",
+    "GK_Missing_Topics/📌 GK Missing Topics — INDEX.md",
     "GK_Missing_Topics/01 — Science & Physics.md",
     "General Knowledge/India_Geography/01 — Physical Geography.md",
     "maths brain/bbgun.canvas",
     "General Knowledge/India_Geography/02 — Rivers of India.md",
     "Indus.md",
     "Ganga.md",
-    "River India canvas.canvas",
+    "General Knowledge/India_Geography/gk canvas/River India canvas.canvas",
     "Pasted image 20260717182424.png",
     "General Knowledge/India_Geography/gk canvas",
-    "GK_Missing_Topics/📌 GK Missing Topics — INDEX.md",
     "Computer_Knowledge/01 — Hardware & Computer Basics.md",
     "Physical_Geography_Mindmap.canvas",
     "maths brain/ChatGPT Image Jun 30, 2026, 07_31_55 PM 2.png",
