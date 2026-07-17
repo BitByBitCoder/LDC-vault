@@ -11,17 +11,14 @@
             "id": "c365556c86f37cdd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "maths brain/bbgun.canvas",
-                "viewState": {
-                  "x": -80.5,
-                  "y": -207,
-                  "zoom": -0.25128173828125
-                }
+                "file": "General Knowledge/India_Geography/02 — Rivers of India.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "bbgun"
+              "icon": "lucide-file",
+              "title": "02 — Rivers of India"
             }
           },
           {
@@ -41,8 +38,7 @@
               "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,17 +208,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b9b3f90383d8b8d",
+  "active": "c365556c86f37cdd",
   "lastOpenFiles": [
-    "General Knowledge/India_Geography/02 — Rivers of India.md",
+    "maths brain/bbgun.canvas",
     "Untitled.canvas",
+    "General Knowledge/India_Geography/02 — Rivers of India.md",
     "General Knowledge/India_Geography/gk canvas",
     "General Knowledge/India_Geography/01 — Physical Geography.md",
     "GK_Missing_Topics/01 — Science & Physics.md",
     "GK_Missing_Topics/📌 GK Missing Topics — INDEX.md",
     "Computer_Knowledge/01 — Hardware & Computer Basics.md",
     "Physical_Geography_Mindmap.canvas",
-    "maths brain/bbgun.canvas",
     "maths brain/ChatGPT Image Jun 30, 2026, 07_31_55 PM 2.png",
     "maths brain/Screenshot 2026-07-02 at 12.11.51 AM.png",
     "maths brain/5687836 (1).png",
