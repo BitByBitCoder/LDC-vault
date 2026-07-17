@@ -28,17 +28,14 @@
             "id": "6b9b3f90383d8b8d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "General Knowledge/India_Geography/gk canvas/River India canvas.canvas",
-                "viewState": {
-                  "x": -1165.1056189155474,
-                  "y": 260.70597249038826,
-                  "zoom": -1.0564737955729169
-                }
+                "file": "General Knowledge/India_Geography/02 — Rivers of India.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "River India canvas"
+              "icon": "lucide-file",
+              "title": "02 — Rivers of India"
             }
           }
         ],
@@ -214,15 +211,15 @@
   },
   "active": "6b9b3f90383d8b8d",
   "lastOpenFiles": [
+    "General Knowledge/India_Geography/01 — Physical Geography.md",
+    "General Knowledge/India_Geography/02 — Rivers of India.md",
+    "General Knowledge/India_Geography/gk canvas/River India canvas.canvas",
     "General Knowledge/India_Geography/gk canvas/Pasted image 20260717182710.png",
     "GK_Missing_Topics/📌 GK Missing Topics — INDEX.md",
     "GK_Missing_Topics/01 — Science & Physics.md",
-    "General Knowledge/India_Geography/01 — Physical Geography.md",
     "maths brain/bbgun.canvas",
-    "General Knowledge/India_Geography/02 — Rivers of India.md",
     "Indus.md",
     "Ganga.md",
-    "General Knowledge/India_Geography/gk canvas/River India canvas.canvas",
     "Pasted image 20260717182424.png",
     "General Knowledge/India_Geography/gk canvas",
     "Computer_Knowledge/01 — Hardware & Computer Basics.md",
@@ -251,7 +248,6 @@
     "Godavari.md",
     "Pasted image 20260715194140.png",
     "Subcontinent.md",
-    "image-18.png",
     "Brahmaputra.md",
     "Yamuna.md",
     "General Knowledge/India_Geography/05 — Agriculture & Crops.md",
