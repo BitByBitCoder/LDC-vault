@@ -44,7 +44,7 @@
 | [[Godavari]]     | \|\|Trimbakeshwar (Nashik, Maharashtra)\|\| | \|\|Bay of Bengal\|\| | \|\| Longest Peninsular river (1,465 km)Also called _Dakshin Ganga  \|\| | Chhim lam (Peninsular India) lui dung sei ber a ni.                                                  |
 | [[Krishna]]      | \|\|Mahabaleshwar (Maharashtra)\|\|         | \|\|Bay of Bengal\|\| | \|\|2nd longest Peninsular river**. Features Nagarjuna Sagar Dam.\|\|    | Chhim lam lui sei ber pahnihna a ni. **Nagarjuna Sagar Dam** lian tak kha he lui chungah hian a awm. |
 | [[Kaveri]]       | \|\|Talakaveri (Kodagu, Karnataka)\|\|      | \|\|Bay of Bengal\|\| | \|\|Perennial rivercalled Ganga of the South due to purity\|\|           | Chhim lam lui zinga tui hul ngai lo (perennial) awmchhun a ni.                                       |
-| **Tapi / Tapti** | Multai, Satpura Range (MP)                  | Arabian Sea           | Flows parallel to Narmada in a rift valley.                              | Narmada lui nena parallel deuhva khawthlang lama luang thla ve tho a ni.                             |
+| **Tapi / Tapti** | Multai, Satpura Range (MP)                  | Arabian Sea           | Flows parallel to Narmada in a rift valley.                              | Narmada lui nena parallel deuhva khawthlang lama luang thla ve tho a ni.c                            |
 
 #### West flowing river system
 
