@@ -14,7 +14,7 @@
 | Tuirial river — project on it  | \|\|Tuirial Hydroelectric Project\|\| |
 | Tuirini Hydro project capacity | \|\|24 MW\|\|                         |
 | Majuli Island — in which river | \|\|Brahmaputra\|\|                   |
-
+ 
 ---
 
 ## Major Rivers — Complete Table
