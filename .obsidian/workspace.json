@@ -28,14 +28,17 @@
             "id": "6b9b3f90383d8b8d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "General Knowledge/India_Geography/02 — Rivers of India.md",
-                "mode": "source",
-                "source": false
+                "file": "General Knowledge/India_Geography/gk canvas/River India canvas.canvas",
+                "viewState": {
+                  "x": -2783,
+                  "y": -747.5,
+                  "zoom": -1.6950439453125
+                }
               },
-              "icon": "lucide-file",
-              "title": "02 — Rivers of India"
+              "icon": "lucide-layout-dashboard",
+              "title": "River India canvas"
             }
           }
         ],
@@ -211,8 +214,8 @@
   },
   "active": "6b9b3f90383d8b8d",
   "lastOpenFiles": [
-    "General Knowledge/India_Geography/01 — Physical Geography.md",
     "General Knowledge/India_Geography/02 — Rivers of India.md",
+    "General Knowledge/India_Geography/01 — Physical Geography.md",
     "General Knowledge/India_Geography/gk canvas/River India canvas.canvas",
     "General Knowledge/India_Geography/gk canvas/Pasted image 20260717182710.png",
     "GK_Missing_Topics/📌 GK Missing Topics — INDEX.md",
