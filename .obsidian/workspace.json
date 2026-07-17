@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Knowledge/India_Geography/02 — Rivers of India.md",
+                "file": "Indus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 — Rivers of India"
+              "title": "Indus"
             }
           },
           {
@@ -29,7 +29,7 @@
               "state": {
                 "file": "River India canvas.canvas",
                 "viewState": {
-                  "x": -777.2419743852407,
+                  "x": -2388.34264282679,
                   "y": 258.0050333104551,
                   "zoom": -1.3491373697916662
                 }
@@ -38,7 +38,8 @@
               "title": "River India canvas"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,10 +209,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c365556c86f37cdd",
+  "active": "6b9b3f90383d8b8d",
   "lastOpenFiles": [
-    "River India canvas.canvas",
+    "Pasted image 20260717182424.png",
+    "Indus.md",
     "General Knowledge/India_Geography/02 — Rivers of India.md",
+    "River India canvas.canvas",
     "maths brain/bbgun.canvas",
     "General Knowledge/India_Geography/gk canvas",
     "General Knowledge/India_Geography/01 — Physical Geography.md",
@@ -244,7 +247,6 @@
     "Pasted image 20260715194140.png",
     "Subcontinent.md",
     "Ganga.md",
-    "Indus.md",
     "image-18.png",
     "Brahmaputra.md",
     "images (2).jpeg",
