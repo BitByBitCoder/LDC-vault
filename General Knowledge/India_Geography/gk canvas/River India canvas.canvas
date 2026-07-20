@@ -17,8 +17,12 @@
 		{"id":"42c9ce20a8ec2aa1","type":"text","text":"Mizoram","x":102,"y":-147,"width":250,"height":60},
 		{"id":"e5dc28c00830e29f","type":"text","text":"Himachal pradesh/punjab","x":117,"y":-35,"width":250,"height":60},
 		{"id":"2c5d90d7ceafd8f2","x":116,"y":165,"width":250,"height":60,"type":"text","text":"Gujarat"},
-		{"id":"27b4fa9485dc675f","x":424,"y":-143,"width":250,"height":60,"type":"text","text":"Tuirial Project and serlui"},
-		{"id":"efc0b87465579296","x":484,"y":-13,"width":250,"height":60,"type":"text","text":"Bhakar"}
+		{"id":"27b4fa9485dc675f","x":424,"y":-143,"width":250,"height":60,"color":"2","type":"text","text":"Tuirial Project and serlui"},
+		{"id":"efc0b87465579296","x":484,"y":-13,"width":250,"height":60,"color":"2","type":"text","text":"Bhakar Nagal"},
+		{"id":"35379100ddd09b46","x":525,"y":133,"width":250,"height":60,"color":"2","type":"text","text":"Hirakut"},
+		{"id":"aa8e84571412740d","x":464,"y":208,"width":250,"height":60,"color":"2","type":"text","text":"Sadar Sarovar"},
+		{"id":"1cf6657f7b9d4d01","x":149,"y":317,"width":250,"height":60,"type":"text","text":"Telengana"},
+		{"id":"9cc91eb19ac0c399","x":473,"y":313,"width":250,"height":60,"color":"2","type":"text","text":"Nagarjuna"}
 	],
 	"edges":[
 		{"id":"354f848c9046d5ba","fromNode":"79bb27b220caa9f1","fromSide":"left","toNode":"19bebacc7e5af695","toSide":"right"},
@@ -38,6 +42,10 @@
 		{"id":"50961fdad4aef691","fromNode":"8d567dc9d6899ea4","fromSide":"right","toNode":"e1197d4b20636ae5","toSide":"left"},
 		{"id":"3541efcadaa526a5","fromNode":"8d567dc9d6899ea4","fromSide":"right","toNode":"2c5d90d7ceafd8f2","toSide":"left"},
 		{"id":"2e65e110dbbd8246","fromNode":"42c9ce20a8ec2aa1","fromSide":"right","toNode":"27b4fa9485dc675f","toSide":"left"},
-		{"id":"d6d892a0eb7865fa","fromNode":"e5dc28c00830e29f","fromSide":"right","toNode":"efc0b87465579296","toSide":"left"}
+		{"id":"d6d892a0eb7865fa","fromNode":"e5dc28c00830e29f","fromSide":"right","toNode":"efc0b87465579296","toSide":"left"},
+		{"id":"0ac54f4e6ebe96cb","fromNode":"e1197d4b20636ae5","fromSide":"right","toNode":"35379100ddd09b46","toSide":"left"},
+		{"id":"f9178ed13a03f89c","fromNode":"2c5d90d7ceafd8f2","fromSide":"right","toNode":"aa8e84571412740d","toSide":"left"},
+		{"id":"cf4977e3bb35951b","fromNode":"1cf6657f7b9d4d01","fromSide":"right","toNode":"9cc91eb19ac0c399","toSide":"left"},
+		{"id":"48e1fb75b6a18af6","fromNode":"1cf6657f7b9d4d01","fromSide":"left","toNode":"8d567dc9d6899ea4","toSide":"right"}
 	]
 }
