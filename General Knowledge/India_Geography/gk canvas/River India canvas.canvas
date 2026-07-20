@@ -16,7 +16,9 @@
 		{"id":"5edee01af740c8ff","type":"file","file":"General Knowledge/India_Geography/gk canvas/Pasted image 20260720153917.png","x":-2817,"y":106,"width":740,"height":740},
 		{"id":"42c9ce20a8ec2aa1","type":"text","text":"Mizoram","x":102,"y":-147,"width":250,"height":60},
 		{"id":"e5dc28c00830e29f","type":"text","text":"Himachal pradesh/punjab","x":117,"y":-35,"width":250,"height":60},
-		{"id":"2c5d90d7ceafd8f2","x":116,"y":165,"width":250,"height":60,"type":"text","text":"Gujarat"}
+		{"id":"2c5d90d7ceafd8f2","x":116,"y":165,"width":250,"height":60,"type":"text","text":"Gujarat"},
+		{"id":"27b4fa9485dc675f","x":424,"y":-143,"width":250,"height":60,"type":"text","text":"Tuirial Project and serlui"},
+		{"id":"efc0b87465579296","x":484,"y":-13,"width":250,"height":60,"type":"text","text":"Bhakar"}
 	],
 	"edges":[
 		{"id":"354f848c9046d5ba","fromNode":"79bb27b220caa9f1","fromSide":"left","toNode":"19bebacc7e5af695","toSide":"right"},
@@ -31,6 +33,11 @@
 		{"id":"bae2b4bb8660f72c","fromNode":"8353342c84d89adb","fromSide":"right","toNode":"19bebacc7e5af695","toSide":"left"},
 		{"id":"b1faffcfb7cafca5","fromNode":"912332d8b3f26c13","fromSide":"left","toNode":"5edee01af740c8ff","toSide":"right"},
 		{"id":"fe9951a95ee8ccd4","fromNode":"e0d570e3b38682b8","fromSide":"left","toNode":"5edee01af740c8ff","toSide":"right"},
-		{"id":"80df2f5682d32b6f","fromNode":"8d567dc9d6899ea4","fromSide":"right","toNode":"42c9ce20a8ec2aa1","toSide":"left"}
+		{"id":"80df2f5682d32b6f","fromNode":"8d567dc9d6899ea4","fromSide":"right","toNode":"42c9ce20a8ec2aa1","toSide":"left"},
+		{"id":"86ab8b578aae2bf8","fromNode":"8d567dc9d6899ea4","fromSide":"right","toNode":"e5dc28c00830e29f","toSide":"left"},
+		{"id":"50961fdad4aef691","fromNode":"8d567dc9d6899ea4","fromSide":"right","toNode":"e1197d4b20636ae5","toSide":"left"},
+		{"id":"3541efcadaa526a5","fromNode":"8d567dc9d6899ea4","fromSide":"right","toNode":"2c5d90d7ceafd8f2","toSide":"left"},
+		{"id":"2e65e110dbbd8246","fromNode":"42c9ce20a8ec2aa1","fromSide":"right","toNode":"27b4fa9485dc675f","toSide":"left"},
+		{"id":"d6d892a0eb7865fa","fromNode":"e5dc28c00830e29f","fromSide":"right","toNode":"efc0b87465579296","toSide":"left"}
 	]
 }
