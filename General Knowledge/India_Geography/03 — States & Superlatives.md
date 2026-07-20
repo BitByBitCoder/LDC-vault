@@ -83,21 +83,21 @@
 
 ### Master Table: Famous Geographical Nicknames
 
-| **Nickname**                 | **Place / Location**          | **Key Exam Insight / Wording Check**                                         | **Mizo Hrilhfiahna / Exam Focus**                                             |
-| ---------------------------- | ----------------------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| **Scotland of the East**     | \|\|Shillong (Meghalaya)\|\|  | Rolling hills and climate reminded Britishers of Scotland.                   | Khawchhak lam Scotland an ti țhin.                                            |
-| **Mecca of Indian Football** | \|\|Kolkata (West Bengal)\|\| | Home to India's oldest and most passionate clubs (Mohun Bagan, East Bengal). | India rama football tuipui ber leh bul țanna khawpui a ni.                    |
-| **Manchester of India**      | Ahmedabad (Gujarat)           | _⚠️ Note North vs. South distinctions!_ Famous for textile mills.            | Puan leh thil thar chhuahna lian, India ram puma puan innghahna pui ber a ni. |
-| **Silicon Valley of India**  | Bengaluru (Karnataka)         | Also called **Garden City** and **Electronic City**. Hub of IT.              | India rama IT leh technology lama khawpui h rari ber a ni.                    |
-| **Pink City**                | Jaipur (Rajasthan)            | Painted pink in 1876 to welcome Prince Albert.                               | Khawpui building-te rawng sen no-a hnawih vek a nih vang a ni.                |
-| **Blue City / Sun City**     | Jodhpur (Rajasthan)           | Houses near Mehrangarh Fort are painted indigo blue to keep cool.            | Rawng pawla in hnawih khawpui hmingthang kha a ni.                            |
-| **Golden City**              | Jaisalmer (Rajasthan)         | _⚠️ Don't confuse with Amritsar._ Built using yellow Thar desert sandstone.  | Thlaler chia lungmual rawng eng ngat sialsiam khawpui a ni.                   |
-| **White City**               | Udaipur (Rajasthan)           | Also called **City of Lakes**. Famous for white marble palaces.              | Dil mawi tak tak leh marble var thha taka sak in tamna hmun a ni.             |
-| **City of Joy**              | Kolkata (West Bengal)         | Named after Dominique Lapierre's famous novel.                               | Khawpui hlimawm leh culture ngah tak an tihna a ni.                           |
-| **Rice Bowl of India**       | Andhra Pradesh / Chhattisgarh | AP for Krishna-Godavari Delta region; Chhattisgarh for state nickname.       | India rama buh thar hnemna hmun pui a ni.                                     |
-| **Rice Bowl of Mizoram**     | **Champhai**                  | Features the flat, highly fertile Zotlang plains.                            | Mizoram chhunga **buh thar hnem ber leh phai pui zau ber** awmna a ni.        |
-| **Spice Garden of India**    | Kerala                        | Historically famous worldwide for black pepper and cardamom.                 | Nimbu, thakthing, leh thil thak hlo (spices) chhuahna hmun pui ber a ni.      |
-| **Land of Five Rivers**      | Punjab                        | Named after the 5 Indus tributaries: **Sutlej, Beas, Ravi, Chenab, Jhelum**. | _Punj_ (Five) + _Ab_ (Water) = Lui pui pui 5 luanna ram tihna a ni.           |
+| **Nickname**                 | **Place / Location**                  | **Key Exam Insight / Wording Check**                                         | **Mizo Hrilhfiahna / Exam Focus**                                             |
+| ---------------------------- | ------------------------------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| **Scotland of the East**     | \|\|Shillong (Meghalaya)\|\|          | Rolling hills and climate reminded Britishers of Scotland.                   | Khawchhak lam Scotland an ti țhin.                                            |
+| **Mecca of Indian Football** | \|\|Kolkata (West Bengal)\|\|         | Home to India's oldest and most passionate clubs (Mohun Bagan, East Bengal). | India rama football tuipui ber leh bul țanna khawpui a ni.                    |
+| **Manchester of India**      | \|\|Ahmedabad (Gujarat)\|\|           | _⚠️ Note North vs. South distinctions!_ Famous for textile mills.            | Puan leh thil thar chhuahna lian, India ram puma puan innghahna pui ber a ni. |
+| **Silicon Valley of India**  | \|\|Bengaluru (Karnataka)\|\|         | Also called **Garden City** and **Electronic City**. Hub of IT.              | India rama IT leh technology lama khawpui h rari ber a ni.                    |
+| **Pink City**                | \|\|Jaipur (Rajasthan)\|\|            | Painted pink in 1876 to welcome Prince Albert.                               | Khawpui building-te rawng sen no-a hnawih vek a nih vang a ni.                |
+| **Blue City / Sun City**     | \|\|Jodhpur (Rajasthan)\|\|           | Houses near Mehrangarh Fort are painted indigo blue to keep cool.            | Rawng pawla in hnawih khawpui hmingthang kha a ni.                            |
+| **Golden City**              | \|\|Jaisalmer (Rajasthan)\|\|         | _⚠️ Don't confuse with Amritsar._ Built using yellow Thar desert sandstone.  | Thlaler chia lungmual rawng eng ngat sialsiam khawpui a ni.                   |
+| **White City**               | \|\|Udaipur (Rajasthan)\|\|           | Also called **City of Lakes**. Famous for white marble palaces.              | Dil mawi tak tak leh marble var thha taka sak in tamna hmun a ni.             |
+| **City of Joy**              | \|\|Kolkata (West Bengal)\|\|         | Named after Dominique Lapierre's famous novel.                               | Khawpui hlimawm leh culture ngah tak an tihna a ni.                           |
+| **Rice Bowl of India**       | \|\|Andhra Pradesh / Chhattisgarh\|\| | AP for Krishna-Godavari Delta region; Chhattisgarh for state nickname.       | India rama buh thar hnemna hmun pui a ni.                                     |
+| **Rice Bowl of Mizoram**     | \|\|Champhai\|\|                      | Features the flat, highly fertile Zotlang plains.                            | Mizoram chhunga **buh thar hnem ber leh phai pui zau ber** awmna a ni.        |
+| **Spice Garden of India**    | \|\|Kerala\|\|                        | Historically famous worldwide for black pepper and cardamom.                 | Nimbu, thakthing, leh thil thak hlo (spices) chhuahna hmun pui ber a ni.      |
+| **Land of Five Rivers**      | \|\|Punjab\|\|                        | Named after the 5 Indus tributaries: **Sutlej, Beas, Ravi, Chenab, Jhelum**. | _Punj_ (Five) + _Ab_ (Water) = Lui pui pui 5 luanna ram tihna a ni.           |
 
 ---
 
