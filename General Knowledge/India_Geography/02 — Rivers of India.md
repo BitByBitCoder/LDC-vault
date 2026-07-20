@@ -39,12 +39,12 @@
 ### Peninsular Rivers (Seasonal — rain fed)
 #### East flowing river system
 
-| **River**        | **Origin (A lo chhuahna)**                  | **Drains Into**       | **Key Fact**                                                             | **Mizo Hrilhfiahna / Exam Focus**                                                                    |
-| ---------------- | ------------------------------------------- | --------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
-| [[Godavari]]     | \|\|Trimbakeshwar (Nashik, Maharashtra)\|\| | \|\|Bay of Bengal\|\| | \|\| Longest Peninsular river (1,465 km)Also called _Dakshin Ganga  \|\| | Chhim lam (Peninsular India) lui dung sei ber a ni.                                                  |
-| [[Krishna]]      | \|\|Mahabaleshwar (Maharashtra)\|\|         | \|\|Bay of Bengal\|\| | \|\|2nd longest Peninsular river**. Features Nagarjuna Sagar Dam.\|\|    | Chhim lam lui sei ber pahnihna a ni. **Nagarjuna Sagar Dam** lian tak kha he lui chungah hian a awm. |
-| [[Kaveri]]       | \|\|Talakaveri (Kodagu, Karnataka)\|\|      | \|\|Bay of Bengal\|\| | \|\|Perennial rivercalled Ganga of the South due to purity\|\|           | Chhim lam lui zinga tui hul ngai lo (perennial) awmchhun a ni.                                       |
-| **Mahanadi**     | Sihawa (Chhattisgarh)                       | Bay of Bengal         | **Hirakud Dam** is built on it in Odisha.                                | Khawvela lei nena siam dam sei ber pawl, **Hirakud Dam** awmna luipui a ni.                          |
+| **River**    | **Origin (A lo chhuahna)**                  | **Drains Into**       | **Key Fact**                                                             | **Mizo Hrilhfiahna / Exam Focus**                                                                    |
+| ------------ | ------------------------------------------- | --------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
+| **Mahanadi** | Sihawa (Chhattisgarh)                       | Bay of Bengal         | **Hirakud Dam** is built on it in Odisha.                                | Khawvela lei nena siam dam sei ber pawl, **Hirakud Dam** awmna luipui a ni.                          |
+| [[Godavari]] | \|\|Trimbakeshwar (Nashik, Maharashtra)\|\| | \|\|Bay of Bengal\|\| | \|\| Longest Peninsular river (1,465 km)Also called _Dakshin Ganga  \|\| | Chhim lam (Peninsular India) lui dung sei ber a ni.                                                  |
+| [[Krishna]]  | \|\|Mahabaleshwar (Maharashtra)\|\|         | \|\|Bay of Bengal\|\| | \|\|2nd longest Peninsular river**. Features Nagarjuna Sagar Dam.\|\|    | Chhim lam lui sei ber pahnihna a ni. **Nagarjuna Sagar Dam** lian tak kha he lui chungah hian a awm. |
+| [[Kaveri]]   | \|\|Talakaveri (Kodagu, Karnataka)\|\|      | \|\|Bay of Bengal\|\| | \|\|Perennial rivercalled Ganga of the South due to purity\|\|           | Chhim lam lui zinga tui hul ngai lo (perennial) awmchhun a ni.                                       |
 
 #### West flowing river system
 
