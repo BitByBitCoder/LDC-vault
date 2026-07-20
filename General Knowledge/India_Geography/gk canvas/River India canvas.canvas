@@ -22,7 +22,8 @@
 		{"id":"35379100ddd09b46","x":525,"y":133,"width":250,"height":60,"color":"2","type":"text","text":"Hirakut"},
 		{"id":"aa8e84571412740d","x":464,"y":208,"width":250,"height":60,"color":"2","type":"text","text":"Sadar Sarovar"},
 		{"id":"1cf6657f7b9d4d01","x":149,"y":317,"width":250,"height":60,"type":"text","text":"Telengana"},
-		{"id":"9cc91eb19ac0c399","x":473,"y":313,"width":250,"height":60,"color":"2","type":"text","text":"Nagarjuna"}
+		{"id":"9cc91eb19ac0c399","x":473,"y":313,"width":250,"height":60,"color":"2","type":"text","text":"Nagarjuna"},
+		{"id":"ffe1b4346a3d1022","x":-249,"y":45,"width":285,"height":400,"type":"file","file":"General Knowledge/India_Geography/gk canvas/Pasted image 20260720163427.png"}
 	],
 	"edges":[
 		{"id":"354f848c9046d5ba","fromNode":"79bb27b220caa9f1","fromSide":"left","toNode":"19bebacc7e5af695","toSide":"right"},
@@ -46,6 +47,7 @@
 		{"id":"0ac54f4e6ebe96cb","fromNode":"e1197d4b20636ae5","fromSide":"right","toNode":"35379100ddd09b46","toSide":"left"},
 		{"id":"f9178ed13a03f89c","fromNode":"2c5d90d7ceafd8f2","fromSide":"right","toNode":"aa8e84571412740d","toSide":"left"},
 		{"id":"cf4977e3bb35951b","fromNode":"1cf6657f7b9d4d01","fromSide":"right","toNode":"9cc91eb19ac0c399","toSide":"left"},
-		{"id":"48e1fb75b6a18af6","fromNode":"1cf6657f7b9d4d01","fromSide":"left","toNode":"8d567dc9d6899ea4","toSide":"right"}
+		{"id":"48e1fb75b6a18af6","fromNode":"1cf6657f7b9d4d01","fromSide":"left","toNode":"8d567dc9d6899ea4","toSide":"right"},
+		{"id":"f9f24d36c739f163","fromNode":"8d567dc9d6899ea4","fromSide":"bottom","toNode":"ffe1b4346a3d1022","toSide":"top"}
 	]
 }
