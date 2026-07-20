@@ -103,15 +103,15 @@
 
 ## NE States Border Facts
 
-| **State**             | **Borders (Indian States)**       | **International Borders**    | **Critical Exam Insight / Mizo Hrilhfiahna**                                                            |
-| --------------------- | --------------------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------- |
-| **Sikkim**            | \|\|West Bengal (Only 1)\|\|      | Nepal, China (Tibet), Bhutan | India state pakhat chauh tawk si, ram dang pathum (3 countries) inrina ni bawk a ni.                    |
-| **Meghalaya**         | \|\|Assam (Only 1)\|\|            | Bangladesh                   | _⚠️ Trap Fix!_ India ram chhungah chuan **Assam chauh a tawk**. Chhim lamah Bangladesh ram a rari bawk. |
-| **Tripura**           | Assam, Mizoram                    | Bangladesh (3 sides)         | Bangladesh-in **kil thum liah** (north, south, west) a hual tuam vek a ni.                              |
-| **Mizoram**           | Assam, Manipur, Tripura           | Myanmar, Bangladesh          | Khawchhak leh chhim lamah **Myanmar**, khawthlang lamah **Bangladesh** inkarah kan awm.                 |
-| **Manipur**           | Assam, Nagaland, Mizoram          | Myanmar                      | Khawchhak lam rari-ah Myanmar a awm a, India state 3-in a hual bawk.                                    |
-| **Nagaland**          | Assam, Arunachal Pradesh, Manipur | Myanmar                      | Assam, Arunachal, leh Manipur inkarah a awm a, khawchhak lamah Myanmar rari a nei.                      |
-| **Arunachal Pradesh** | Assam, Nagaland                   | Bhutan, China, Myanmar       | Ram dang pathum—**Bhutan (West), China (North), leh Myanmar (East)**—inrina state lian tak a ni.        |
+| **State**             | **Borders (Indian States)**               | **International Borders**    | **Critical Exam Insight / Mizo Hrilhfiahna**                                                            |
+| --------------------- | ----------------------------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------- |
+| **Sikkim**            | \|\|West Bengal (Only 1)\|\|              | Nepal, China (Tibet), Bhutan | India state pakhat chauh tawk si, ram dang pathum (3 countries) inrina ni bawk a ni.                    |
+| **Meghalaya**         | \|\|Assam (Only 1)\|\|                    | Bangladesh                   | _⚠️ Trap Fix!_ India ram chhungah chuan **Assam chauh a tawk**. Chhim lamah Bangladesh ram a rari bawk. |
+| **Tripura**           | \|\|Assam, Mizoram\|\|                    | Bangladesh (3 sides)         | Bangladesh-in **kil thum liah** (north, south, west) a hual tuam vek a ni.                              |
+| **Mizoram**           | \|\|Assam, Manipur, Tripura\|\|           | Myanmar, Bangladesh          | Khawchhak leh chhim lamah **Myanmar**, khawthlang lamah **Bangladesh** inkarah kan awm.                 |
+| **Manipur**           | \|\|Assam, Nagaland, Mizoram\|\|          | Myanmar                      | Khawchhak lam rari-ah Myanmar a awm a, India state 3-in a hual bawk.                                    |
+| **Nagaland**          | \|\|Assam, Arunachal Pradesh, Manipur\|\| | Myanmar                      | Assam, Arunachal, leh Manipur inkarah a awm a, khawchhak lamah Myanmar rari a nei.                      |
+| **Arunachal Pradesh** | \|\|Assam, Nagaland\|\|                   | Bhutan, China, Myanmar       | Ram dang pathum—**Bhutan (West), China (North), leh Myanmar (East)**—inrina state lian tak a ni.        |
 
 ---
 
