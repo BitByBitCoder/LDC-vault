@@ -11,23 +11,6 @@
             "id": "c365556c86f37cdd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "General Knowledge/India_Geography/gk canvas/State and superlative canvas.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "State and superlative canvas"
-            }
-          },
-          {
-            "id": "6b9b3f90383d8b8d",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "General Knowledge/India_Geography/03 — States & Superlatives.md",
@@ -38,8 +21,7 @@
               "title": "03 — States & Superlatives"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,11 +192,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b9b3f90383d8b8d",
+  "active": "c365556c86f37cdd",
   "lastOpenFiles": [
+    "General Knowledge/India_Geography/03 — Mountains, Passes & Peaks.md",
     "General Knowledge/India_Geography/gk canvas/State and superlative canvas.canvas",
     "General Knowledge/India_Geography/03 — States & Superlatives.md",
-    "General Knowledge/India_Geography/03 — Mountains, Passes & Peaks.md",
     "General Knowledge/India_Geography/02 — Rivers of India.md",
     "General Knowledge/India_Geography/gk canvas/River India canvas.canvas",
     "capitals.png",
