@@ -85,8 +85,8 @@
 
 | **Nickname**                 | **Place / Location**          | **Key Exam Insight / Wording Check**                                         | **Mizo Hrilhfiahna / Exam Focus**                                             |
 | ---------------------------- | ----------------------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| **Scotland of the East**     | Shillong (Meghalaya)          | Rolling hills and climate reminded Britishers of Scotland.                   | Khawchhak lam Scotland an ti țhin.                                            |
-| **Mecca of Indian Football** | Kolkata (West Bengal)         | Home to India's oldest and most passionate clubs (Mohun Bagan, East Bengal). | India rama football tuipui ber leh bul țanna khawpui a ni.                    |
+| **Scotland of the East**     | \|\|Shillong (Meghalaya)\|\|  | Rolling hills and climate reminded Britishers of Scotland.                   | Khawchhak lam Scotland an ti țhin.                                            |
+| **Mecca of Indian Football** | \|\|Kolkata (West Bengal)\|\| | Home to India's oldest and most passionate clubs (Mohun Bagan, East Bengal). | India rama football tuipui ber leh bul țanna khawpui a ni.                    |
 | **Manchester of India**      | Ahmedabad (Gujarat)           | _⚠️ Note North vs. South distinctions!_ Famous for textile mills.            | Puan leh thil thar chhuahna lian, India ram puma puan innghahna pui ber a ni. |
 | **Silicon Valley of India**  | Bengaluru (Karnataka)         | Also called **Garden City** and **Electronic City**. Hub of IT.              | India rama IT leh technology lama khawpui h rari ber a ni.                    |
 | **Pink City**                | Jaipur (Rajasthan)            | Painted pink in 1876 to welcome Prince Albert.                               | Khawpui building-te rawng sen no-a hnawih vek a nih vang a ni.                |
