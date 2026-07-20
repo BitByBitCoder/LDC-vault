@@ -5,19 +5,19 @@
 
 ## Questions From Your Papers
 
-| Question                                | Answer                                |
-| --------------------------------------- | ------------------------------------- |
-| Largest state by area                   | \|\|Rajasthan\|\|                     |
-| Smallest state by area                  | **Goa**                               |
-| Largest state by population (2011)      | **Uttar Pradesh**                     |
-| Smallest state by population (2011)     | **Sikkim**                            |
-| Largest coastline state                 | **Gujarat**                           |
-| State with largest forest cover         | **Madhya Pradesh**                    |
-| Highest literacy rate state             | **Kerala**                            |
-| Shillong called                         | **Scotland of the East**              |
-| NE state bordering only 1 Indian state  | **Sikkim (borders West Bengal only)** |
-| Country with highest population density | **Bangladesh**                        |
-| Khetri Belt (copper)                    | **Rajasthan**                         |
+| Question                                | Answer                                    |
+| --------------------------------------- | ----------------------------------------- |
+| Largest state by area                   | \|\|Rajasthan\|\|                         |
+| Smallest state by area                  | \|\|Goa\|\|                               |
+| Largest state by population (2011)      | \|\|Uttar Pradesh\|\|                     |
+| Smallest state by population (2011)     | \|\|Sikkim\|\|                            |
+| Largest coastline state                 | \|\|Gujarat\|\|                           |
+| State with largest forest cover         | \|\|Madhya Pradesh\|\|                    |
+| Highest literacy rate state             | \|\|Kerala\|\|                            |
+| Shillong called                         | \|\|Scotland of the East\|\|              |
+| NE state bordering only 1 Indian state  | \|\|Sikkim (borders West Bengal only)\|\| |
+| Country with highest population density | \|\|Bangladesh\|\|                        |
+| Khetri Belt (copper)                    | \|\|Rajasthan\|\|                         |
 
 ---
 
