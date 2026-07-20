@@ -11,6 +11,23 @@
             "id": "c365556c86f37cdd",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "General Knowledge/India_Geography/gk canvas/State and superlative canvas.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "State and superlative canvas"
+            }
+          },
+          {
+            "id": "6b9b3f90383d8b8d",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "General Knowledge/India_Geography/03 — States & Superlatives.md",
@@ -20,25 +37,9 @@
               "icon": "lucide-file",
               "title": "03 — States & Superlatives"
             }
-          },
-          {
-            "id": "6b9b3f90383d8b8d",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "General Knowledge/India_Geography/gk canvas/River India canvas.canvas",
-                "viewState": {
-                  "x": -65.46789521032068,
-                  "y": 54.630305652441876,
-                  "zoom": -0.16222330729166662
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "River India canvas"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,13 +210,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fae9520d72428e28",
+  "active": "6b9b3f90383d8b8d",
   "lastOpenFiles": [
+    "General Knowledge/India_Geography/03 — Mountains, Passes & Peaks.md",
     "General Knowledge/India_Geography/03 — States & Superlatives.md",
-    "General Knowledge/India_Geography/gk canvas/State and superlative canvas.md",
-    "General Knowledge/India_Geography/🌏 India Geography — INDEX.md",
     "General Knowledge/India_Geography/02 — Rivers of India.md",
     "General Knowledge/India_Geography/gk canvas/River India canvas.canvas",
+    "General Knowledge/India_Geography/gk canvas/State and superlative canvas.canvas",
+    "capitals.png",
+    "General Knowledge/India_Geography/gk canvas/State and superlative canvas.md",
+    "General Knowledge/India_Geography/🌏 India Geography — INDEX.md",
     "General Knowledge/India_Geography/gk canvas/Pasted image 20260720163427.png",
     "General Knowledge/India_Geography/gk canvas/Pasted image 20260720153917.png",
     "maths brain/bbgun.canvas",
@@ -239,20 +243,17 @@
     "2026-07-16.md",
     "Untitled.base",
     "General Knowledge/India_Geography/01 — India Basic Facts & Superlatives.md",
-    "General Knowledge/India_Geography/03 — Mountains, Passes & Peaks.md",
     "General Knowledge/India_Geography/09 -- Geographical Sobriquets.md",
     "General Knowledge/India_Geography/15 -- Cordinial Direction.md",
     "General Knowledge/India_Geography/06 — World Geography.md",
     "General Knowledge/India_Geography/6 region.jpeg",
     "Kaveri.md",
-    "Pasted image 20260715194920.png",
     "Krishna.md",
     "Godavari.md",
     "Subcontinent.md",
     "Brahmaputra.md",
     "Yamuna.md",
     "General Knowledge/India_Geography/05 — Agriculture & Crops.md",
-    "General Knowledge/India_Geography/04 — States & Union Territories.md",
     "General Knowledge/India_Geography/brain",
     "Dictionary",
     "General Knowledge/Indian_Polity_Constitution/note",
