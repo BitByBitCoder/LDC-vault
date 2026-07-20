@@ -74,8 +74,8 @@
 | **Uttarakhand**       | \|\|Dehradun\|\|  | **Winter Capital**. _(Summer: Gairsain)_                                               | Tlangram state a nih vangin sorkar hian khawpui pahnih a nei.          |
 | **Himachal Pradesh**  | \|\|Shimla\|\|    | **Summer Capital**. _(Winter: Dharamshala)_                                            | British hun laia India pumpui summer capital lo ni tawh țhin kha a ni. |
 | **Jharkhand**         | \|\|Ranchi\|\|    | Known as the "City of Waterfalls".                                                     | Chotanagpur Plateau laili rala awm a ni.                               |
-| **Chhattisgarh**      | \|\|\|Raipur      | Administrative center is Naya Raipur (Atal Nagar).                                     | Madhya Pradesh ațanga phel hranna state khawpui a ni.                  |
-| **Australia**         | Canberra          | _⚠️ Trap:_ Sydney leh Melbourne lian hle mahse an capital a ni lo.                     | Khawvel huangah chuan he thila inbumna hi a tam ber pawl a ni.         |
+| **Chhattisgarh**      | \|\|Raipur\|\|    | Administrative center is Naya Raipur (Atal Nagar).                                     | Madhya Pradesh ațanga phel hranna state khawpui a ni.                  |
+| **Australia**         | \|\|Canberra\|\|  | _⚠️ Trap:_ Sydney leh Melbourne lian hle mahse an capital a ni lo.                     | Khawvel huangah chuan he thila inbumna hi a tam ber pawl a ni.         |
 
 ---
 
