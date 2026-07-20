@@ -11,31 +11,31 @@
             "id": "c365556c86f37cdd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "General Knowledge/India_Geography/gk canvas/River India canvas.canvas",
-                "viewState": {
-                  "x": -1338.494770929172,
-                  "y": -165.15441953165282,
-                  "zoom": -0.7874982286834965
-                }
+                "file": "General Knowledge/India_Geography/02 — Rivers of India.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "River India canvas"
+              "icon": "lucide-file",
+              "title": "02 — Rivers of India"
             }
           },
           {
             "id": "6b9b3f90383d8b8d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "General Knowledge/India_Geography/02 — Rivers of India.md",
-                "mode": "source",
-                "source": false
+                "file": "General Knowledge/India_Geography/gk canvas/River India canvas.canvas",
+                "viewState": {
+                  "x": -1179.5,
+                  "y": -107.94286531980873,
+                  "zoom": -0.7874982286834965
+                }
               },
-              "icon": "lucide-file",
-              "title": "02 — Rivers of India"
+              "icon": "lucide-layout-dashboard",
+              "title": "River India canvas"
             }
           }
         ]
@@ -211,9 +211,9 @@
   },
   "active": "c365556c86f37cdd",
   "lastOpenFiles": [
+    "General Knowledge/India_Geography/gk canvas/River India canvas.canvas",
     "General Knowledge/India_Geography/02 — Rivers of India.md",
     "General Knowledge/India_Geography/🌏 India Geography — INDEX.md",
-    "General Knowledge/India_Geography/gk canvas/River India canvas.canvas",
     "maths brain/bbgun.canvas",
     "General Knowledge/India_Geography/01 — Physical Geography.md",
     "General Knowledge/India_Geography/gk canvas/Pasted image 20260717182710.png",
