@@ -11,14 +11,17 @@
             "id": "c365556c86f37cdd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "General Knowledge/India_Geography/🌏 India Geography — INDEX.md",
-                "mode": "source",
-                "source": false
+                "file": "General Knowledge/India_Geography/gk canvas/River India canvas.canvas",
+                "viewState": {
+                  "x": -1338.494770929172,
+                  "y": -165.15441953165282,
+                  "zoom": -0.7874982286834965
+                }
               },
-              "icon": "lucide-file",
-              "title": "🌏 India Geography — INDEX"
+              "icon": "lucide-layout-dashboard",
+              "title": "River India canvas"
             }
           },
           {
@@ -208,8 +211,9 @@
   },
   "active": "c365556c86f37cdd",
   "lastOpenFiles": [
-    "General Knowledge/India_Geography/gk canvas/River India canvas.canvas",
     "General Knowledge/India_Geography/02 — Rivers of India.md",
+    "General Knowledge/India_Geography/🌏 India Geography — INDEX.md",
+    "General Knowledge/India_Geography/gk canvas/River India canvas.canvas",
     "maths brain/bbgun.canvas",
     "General Knowledge/India_Geography/01 — Physical Geography.md",
     "General Knowledge/India_Geography/gk canvas/Pasted image 20260717182710.png",
@@ -230,7 +234,6 @@
     "learn/the think framework.md",
     "2026-07-16.md",
     "Untitled.base",
-    "General Knowledge/India_Geography/🌏 India Geography — INDEX.md",
     "General Knowledge/India_Geography/01 — India Basic Facts & Superlatives.md",
     "General Knowledge/India_Geography/03 — Mountains, Passes & Peaks.md",
     "General Knowledge/India_Geography/03 — States & Superlatives.md",
