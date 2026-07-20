@@ -11,7 +11,8 @@
 		{"id":"c9e5dd4b55565727","type":"file","file":"Pasted image 20260717182424.png","x":-2439,"y":-1174,"width":692,"height":374},
 		{"id":"69765d0db24e06ab","type":"file","file":"General Knowledge/India_Geography/gk canvas/Pasted image 20260717182710.png","x":-2455,"y":-637,"width":610,"height":356},
 		{"id":"e0d570e3b38682b8","x":-1814,"y":111,"width":237,"height":57,"type":"text","text":"East flowing river system"},
-		{"id":"912332d8b3f26c13","x":-1819,"y":520,"width":250,"height":60,"type":"text","text":"West flowing river system"}
+		{"id":"912332d8b3f26c13","x":-1819,"y":520,"width":250,"height":60,"type":"text","text":"West flowing river system"},
+		{"id":"5edee01af740c8ff","x":-2817,"y":106,"width":650,"height":650,"type":"file","file":"General Knowledge/India_Geography/gk canvas/Pasted image 20260720153917.png"}
 	],
 	"edges":[
 		{"id":"354f848c9046d5ba","fromNode":"79bb27b220caa9f1","fromSide":"left","toNode":"19bebacc7e5af695","toSide":"right"},
@@ -23,6 +24,8 @@
 		{"id":"712e5a39a2d53437","fromNode":"79bb27b220caa9f1","fromSide":"right","toNode":"8d567dc9d6899ea4","toSide":"left"},
 		{"id":"cc11cb91117e0351","fromNode":"cbecc2d1524a0391","fromSide":"left","toNode":"e0d570e3b38682b8","toSide":"right"},
 		{"id":"586c9f1a1b5b3acc","fromNode":"912332d8b3f26c13","fromSide":"right","toNode":"cbecc2d1524a0391","toSide":"left"},
-		{"id":"bae2b4bb8660f72c","fromNode":"8353342c84d89adb","fromSide":"right","toNode":"19bebacc7e5af695","toSide":"left"}
+		{"id":"bae2b4bb8660f72c","fromNode":"8353342c84d89adb","fromSide":"right","toNode":"19bebacc7e5af695","toSide":"left"},
+		{"id":"b1faffcfb7cafca5","fromNode":"912332d8b3f26c13","fromSide":"left","toNode":"5edee01af740c8ff","toSide":"right"},
+		{"id":"fe9951a95ee8ccd4","fromNode":"e0d570e3b38682b8","fromSide":"left","toNode":"5edee01af740c8ff","toSide":"right"}
 	]
 }
