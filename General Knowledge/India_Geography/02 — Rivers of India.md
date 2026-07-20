@@ -70,15 +70,15 @@ A perennial river ==flows continuously throughout the year, even during the dry 
 ## Important Dams & Projects
 Higest-->Longest-->Largest
 
-| **Dam / Project**    | **River**  | **State / UT**             | **Key Exam Record**                                   | **Mizo Hrilhfiahna / Exam Focus**                                      |
-| -------------------- | ---------- | -------------------------- | ----------------------------------------------------- | ---------------------------------------------------------------------- |
-| **Tehri Dam**        | Bhagirathi | Uttarakhand                | \|\|Highest Dam in India (260.5 m).\|\|               | India rama tui khuah **sang ber** a ni.                                |
-| **Bhakra Nangal**    | Sutlej     | Himachal Pradesh / Punjab  | **Highest Gravity Dam** in India (226 m).             | _⚠️ Wording Trap!_ 'Gravity dam' thlang bika sang ber a ni thung.      |
-| **Hirakud Dam**      | Mahanadi   | Odisha                     | **Longest Dam** in the world / India (25.8 km total). | Khawvel leh India rama tui khuah **sei ber** a ni.                     |
-| **Sardar Sarovar**   | Narmada    | Gujarat                    | Largest dam of the Narmada Valley Project.            | Statue of Unity bul hnaiah a awm.                                      |
-| **Nagarjuna Sagar**  | Krishna    | Telangana / Andhra Pradesh | Largest masonry (stone/brick) dam.                    | Krishna lui chunga tui khuah lian tak a ni.                            |
-| **Tuirial Project**  | Tuirial    | **Mizoram**                | 60 MW Hydroelectric Project.                          | Mizoram rama thermal/hydro project thar chhuah hnem ber (60 MW) a ni.  |
-| **Serlui B Project** | Serlui     | **Mizoram**                | 12 MW Small Hydro Project.                            | _(I list-ah hian belh rawh)_ Bilkhawthlir bula awm, 12 MW siamna a ni. |
+| **Dam / Project**    | **River**  | **State / UT**             | **Key Exam Record**                                          | **Mizo Hrilhfiahna / Exam Focus**                                      |
+| -------------------- | ---------- | -------------------------- | ------------------------------------------------------------ | ---------------------------------------------------------------------- |
+| **Tehri Dam**        | Bhagirathi | Uttarakhand                | \|\|Highest Dam in India (260.5 m).\|\|                      | India rama tui khuah **sang ber** a ni.                                |
+| **Bhakra Nangal**    | Sutlej     | Himachal Pradesh / Punjab  | \|\| Highest Gravity Dam in India (226 m). \|\|              | _⚠️ Wording Trap!_ 'Gravity dam' thlang bika sang ber a ni thung.      |
+| **Hirakud Dam**      | Mahanadi   | Odisha                     | \|\| Longest Dam  in the world / India (25.8 km total). \|\| | Khawvel leh India rama tui khuah **sei ber** a ni.                     |
+| **Sardar Sarovar**   | Narmada    | Gujarat                    | \|\|Largest dam of the Narmada Valley Project.\|\|           | Statue of Unity bul hnaiah a awm.                                      |
+| **Nagarjuna Sagar**  | Krishna    | Telangana / Andhra Pradesh | \|\|Largest masonry (stone/brick) dam.\|\|                   | Krishna lui chunga tui khuah lian tak a ni.                            |
+| **Tuirial Project**  | Tuirial    | **Mizoram**                | \|\|60 MW Hydroelectric Project.\|\|                         | Mizoram rama thermal/hydro project thar chhuah hnem ber (60 MW) a ni.  |
+| **Serlui B Project** | Serlui     | **Mizoram**                | \|\|12 MW Small Hydro Project.\|\|                           | _(I list-ah hian belh rawh)_ Bilkhawthlir bula awm, 12 MW siamna a ni. |
 https://www.youtube.com/watch?v=I5BhjFCoRhs
 ---
 
