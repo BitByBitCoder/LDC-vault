@@ -2,7 +2,7 @@
 [[🌏 India Geography — INDEX|← Back to Index]]
 
 ---
-[[]]
+[State and superlative canvas](gk%20canvas/State%20and%20superlative%20canvas.canvas)
 ## Questions From Your Papers
 
 | Question                                | Answer                                    |
@@ -23,23 +23,23 @@
 
 ## India — States Superlatives
 
-| Category                     | State              |
-| ---------------------------- | ------------------ |
-| **Largest by area**          | Rajasthan          |
-| **Smallest by area**         | Goa                |
-| **Largest by population**    | Uttar Pradesh      |
-| **Smallest by population**   | Sikkim             |
-| **Most densely populated**   | Bihar              |
-| **Least densely populated**  | Arunachal Pradesh  |
-| **Highest literacy**         | Kerala (~94%)      |
-| **Lowest literacy**          | Bihar              |
-| **Highest sex ratio**        | Kerala             |
-| **Lowest sex ratio**         | Haryana            |
-| **Largest coastline**        | Gujarat            |
-| **Longest coastline**        | Gujarat (1,214 km) |
-| **Largest forest cover**     | Madhya Pradesh     |
-| **Highest forest % of area** | Mizoram (~84–89%)  |
-| **Highest solar capacity**   | Rajasthan          |
+| Category                     | State                     |
+| ---------------------------- | ------------------------- |
+| **Largest by area**          | \|\|Rajasthan\|\|         |
+| **Smallest by area**         | \|\|Goa\|\|               |
+| **Largest by population**    | \|\|Uttar Pradesh\|\|     |
+| **Smallest by population**   | \|\|Sikkim\|\|            |
+| **Most densely populated**   | \|\|Bihar\|\|             |
+| **Least densely populated**  | \|\|Arunachal Pradesh\|\| |
+| **Highest literacy**         | \|\|Kerala (~94%)\|\|     |
+| **Lowest literacy**          | \|\|Bihar\|\|             |
+| **Highest sex ratio**        | \|\|Kerala\|\|            |
+| **Lowest sex ratio**         | \|\|Haryana\|\|           |
+| **Largest coastline**        | \|\|Gujarat\|\|           |
+| **Longest coastline**        | Gujarat (1,214 km)        |
+| **Largest forest cover**     | Madhya Pradesh            |
+| **Highest forest % of area** | Mizoram (~84–89%)         |
+| **Highest solar capacity**   | Rajasthan                 |
 
 ---
 
