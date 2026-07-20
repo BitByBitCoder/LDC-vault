@@ -18,16 +18,16 @@
 
 ## Mountain Ranges of India
 
-| Range             | Location            | Key Fact                                  |
-| ----------------- | ------------------- | ----------------------------------------- |
-| **Himalayas**     | North India         | Highest — 3 parallel ranges               |
-| **Karakoram**     | J&K/Ladakh          | K2 (2nd highest peak in world) here       |
-| **Aravalli**      | Rajasthan           | Oldest mountain range in India            |
-| **Vindhya**       | MP/UP border        | Divides North & South India               |
-| **Satpura**       | MP/Maharashtra      | Dhupgarh — highest peak in MP             |
-| **Western Ghats** | West coast          | Runs parallel to Arabian Sea coast        |
-| **Eastern Ghats** | East coast          | Discontinuous — parallel to Bay of Bengal |
-| **Nilgiri**       | TN/Kerala/Karnataka | Where Western & Eastern Ghats meet        |
+| Range             | Location                    | Key Fact                                  |
+| ----------------- | --------------------------- | ----------------------------------------- |
+| **Himalayas**     | \|\|North India\|\|         | Highest — 3 parallel ranges               |
+| **Karakoram**     | \|\|J&K/Ladakh\|\|          | K2 (2nd highest peak in world) here       |
+| **Aravalli**      | \|\|Rajasthan\|\|           | Oldest mountain range in India            |
+| **Vindhya**       | \|\|MP/UP border\|\|        | Divides North & South India               |
+| **Satpura**       | \|\|MP/Maharashtra\|\|      | Dhupgarh — highest peak in MP             |
+| **Western Ghats** | \|\|West coast\|\|          | Runs parallel to Arabian Sea coast        |
+| **Eastern Ghats** | \|\|East coast\|\|          | Discontinuous — parallel to Bay of Bengal |
+| **Nilgiri**       | \|\|TN/Kerala/Karnataka\|\| | Where Western & Eastern Ghats meet        |
 
 ## Himalayan Sub-ranges (3 Parallel)
 
@@ -39,14 +39,14 @@
 
 ## Important Peaks
 
-| Peak              | Location                    | Height/Rank                     |
-| ----------------- | --------------------------- | ------------------------------- |
-| **Mt. Everest**   | Nepal-Tibet border          | Highest in world (8,849 m)      |
-| **K2**            | Karakoram (Ladakh/Pakistan) | 2nd highest in world            |
-| **Kangchenjunga** | Sikkim-Nepal                | Highest in India                |
-| **Anaimudi**      | Kerala (Western Ghats)      | Highest in Peninsular India     |
-| **Dodabetta**     | Nilgiri, Tamil Nadu         | 2nd highest in Peninsular India |
-| **Phawngpui**     | Lawantlai, Mizoram          | Highest in Mizoram (2,157 m)    |
+| Peak              | Location                            | Height/Rank                     |
+| ----------------- | ----------------------------------- | ------------------------------- |
+| **Mt. Everest**   | \|\|Nepal-Tibet border\|\|          | Highest in world (8,849 m)      |
+| **K2**            | \|\|Karakoram (Ladakh/Pakistan)\|\| | 2nd highest in world            |
+| **Kangchenjunga** | \|\|Sikkim-Nepal\|\|                | Highest in India                |
+| **Anaimudi**      | \|\|Kerala (Western Ghats)\|\|      | Highest in Peninsular India     |
+| **Dodabetta**     | \|\|Nilgiri, Tamil Nadu\|\|         | 2nd highest in Peninsular India |
+| **Phawngpui**     | Lawantlai, Mizoram                  | Highest in Mizoram (2,157 m)    |
 
 ## Important Passes
 
