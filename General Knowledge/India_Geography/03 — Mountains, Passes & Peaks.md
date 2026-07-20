@@ -46,7 +46,7 @@
 | **Kangchenjunga** | \|\|Sikkim-Nepal\|\|                | Highest in India                |
 | **Anaimudi**      | \|\|Kerala (Western Ghats)\|\|      | Highest in Peninsular India     |
 | **Dodabetta**     | \|\|Nilgiri, Tamil Nadu\|\|         | 2nd highest in Peninsular India |
-| **Phawngpui**     | Lawantlai, Mizoram                  | Highest in Mizoram (2,157 m)    |
+| **Phawngpui**     | \|\|Lawantlai, Mizoram\|\|          | Highest in Mizoram (2,157 m)    |
 
 ## Important Passes
 
