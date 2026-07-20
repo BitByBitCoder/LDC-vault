@@ -38,7 +38,8 @@
               "title": "River India canvas"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,10 +210,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c365556c86f37cdd",
+  "active": "6b9b3f90383d8b8d",
   "lastOpenFiles": [
-    "General Knowledge/India_Geography/gk canvas/River India canvas.canvas",
     "General Knowledge/India_Geography/02 — Rivers of India.md",
+    "General Knowledge/India_Geography/gk canvas/River India canvas.canvas",
     "General Knowledge/India_Geography/🌏 India Geography — INDEX.md",
     "maths brain/bbgun.canvas",
     "General Knowledge/India_Geography/01 — Physical Geography.md",
