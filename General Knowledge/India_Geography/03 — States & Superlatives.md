@@ -45,16 +45,16 @@
 
 ## Union Territories — Key Facts
 
-|**UT**|**Capital**|**Key Fact / Exam Record**|**Mizo Notes / Exam Focus**|
-|---|---|---|---|
-|**Lakshadweep**|Kavaratti|**Smallest UT by area** (only 32 sq km).|India ram chhunga UT **te ber** a ni. Coral island (tui hnuai rannung ruh ro) hmuna siam vek a ni.|
-|**Ladakh**|Leh & Kargil _(Joint)_|**Largest UT by area**. Has **no legislature**.|**UT lian ber** a ni ta thut mai. Sorkar hran (assembly/legislature) a nei ve lo thung.|
-|**Andaman & Nicobar**|Port Blair|3rd largest UT. **Barren Island** volcano is here.|India rama **active volcano** (meizial la sat/puak thei) awmchhun Barren Island awmna a ni.|
-|**Jammu & Kashmir**|Srinagar _(Summer)_<br><br>  <br><br>Jammu _(Winter)_|Created in 2019. **Has a provision for a legislature**.|Ladakh nena țhen hran an ni a. Sorkar hran (Assembly) nei tura ruahman a ni thung (Delhi leh Puducherry ang hian).|
-|**Dadra & Nagar Haveli and Daman & Diu**|Daman|**Merged into a single UT** on January 26, 2020.|UT pahnih hrang kha kumpinu/sorkar in **January 26, 2020** khan khawn khawmin UT pakhat chauhvu a siam ta a ni.|
-|**Puducherry**|Puducherry|Former **French territory**; integrated de facto in 1954.|_⚠️ Note:_ Formed of 4 non-contiguous districts (Puducherry, Karaikal, Mahe, and Yanam) scattered across different states!|
-|**Delhi**|New Delhi|National Capital Territory (NCT). Has a legislature.|India khawpui ber a ni a, tui hna bial lian (UT) bik a ni.|
-|**Chandigarh**|Chandigarh|Designed by Le Corbusier. Capital of Punjab & Haryana.|State pahnih capital ni kawp thlap, an inkar bial UT ni bawk a ni.|
+| **UT**                                   | **Capital**                                           | **Key Fact / Exam Record**                                | **Mizo Notes / Exam Focus**                                                                                                |
+| ---------------------------------------- | ----------------------------------------------------- | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **Ladakh**                               | Leh & Kargil _(Joint)_                                | **Largest UT by area**. Has **no legislature**.           | **UT lian ber** a ni ta thut mai. Sorkar hran (assembly/legislature) a nei ve lo thung.                                    |
+| **Lakshadweep**                          | Kavaratti                                             | **Smallest UT by area** (only 32 sq km).                  | India ram chhunga UT **te ber** a ni. Coral island (tui hnuai rannung ruh ro) hmuna siam vek a ni.                         |
+| **Andaman & Nicobar**                    | Port Blair                                            | 3rd largest UT. **Barren Island** volcano is here.        | India rama **active volcano** (meizial la sat/puak thei) awmchhun Barren Island awmna a ni.                                |
+| **Jammu & Kashmir**                      | Srinagar _(Summer)_<br><br>  <br><br>Jammu _(Winter)_ | Created in 2019. **Has a provision for a legislature**.   | Ladakh nena țhen hran an ni a. Sorkar hran (Assembly) nei tura ruahman a ni thung (Delhi leh Puducherry ang hian).         |
+| **Dadra & Nagar Haveli and Daman & Diu** | Daman                                                 | **Merged into a single UT** on January 26, 2020.          | UT pahnih hrang kha kumpinu/sorkar in **January 26, 2020** khan khawn khawmin UT pakhat chauhvu a siam ta a ni.            |
+| **Puducherry**                           | Puducherry                                            | Former **French territory**; integrated de facto in 1954. | _⚠️ Note:_ Formed of 4 non-contiguous districts (Puducherry, Karaikal, Mahe, and Yanam) scattered across different states! |
+| **Delhi**                                | New Delhi                                             | National Capital Territory (NCT). Has a legislature.      | India khawpui ber a ni a, tui hna bial lian (UT) bik a ni.                                                                 |
+| **Chandigarh**                           | Chandigarh                                            | Designed by Le Corbusier. Capital of Punjab & Haryana.    | State pahnih capital ni kawp thlap, an inkar bial UT ni bawk a ni.                                                         |
 
 ---
 
