@@ -12,7 +12,7 @@
 		{"id":"69765d0db24e06ab","type":"file","file":"General Knowledge/India_Geography/gk canvas/Pasted image 20260717182710.png","x":-2455,"y":-637,"width":610,"height":356},
 		{"id":"e0d570e3b38682b8","x":-1814,"y":111,"width":237,"height":57,"type":"text","text":"East flowing river system"},
 		{"id":"912332d8b3f26c13","x":-1819,"y":520,"width":250,"height":60,"type":"text","text":"West flowing river system"},
-		{"id":"5edee01af740c8ff","x":-2817,"y":106,"width":650,"height":650,"type":"file","file":"General Knowledge/India_Geography/gk canvas/Pasted image 20260720153917.png"}
+		{"id":"5edee01af740c8ff","x":-2817,"y":106,"width":740,"height":740,"type":"file","file":"General Knowledge/India_Geography/gk canvas/Pasted image 20260720153917.png"}
 	],
 	"edges":[
 		{"id":"354f848c9046d5ba","fromNode":"79bb27b220caa9f1","fromSide":"left","toNode":"19bebacc7e5af695","toSide":"right"},
