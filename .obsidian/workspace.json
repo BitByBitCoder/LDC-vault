@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "General Knowledge/India_Geography/03 — States & Superlatives.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4c53a4ffd670982f",
