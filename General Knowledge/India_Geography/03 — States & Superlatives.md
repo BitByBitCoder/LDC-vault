@@ -7,7 +7,7 @@
 
 | Question                                | Answer                                |
 | --------------------------------------- | ------------------------------------- |
-| Largest state by area                   | **Rajasthan**                         |
+| Largest state by area                   | \|\|Rajasthan\|\|                     |
 | Smallest state by area                  | **Goa**                               |
 | Largest state by population (2011)      | **Uttar Pradesh**                     |
 | Smallest state by population (2011)     | **Sikkim**                            |
