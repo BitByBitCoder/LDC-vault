@@ -109,6 +109,31 @@
 |**Western Coastal Plain**|From Gujarat to Kerala (west coast)|Narrow, submergent coastline|Konkan coast (Maharashtra-Goa), Kannad coast (Karnataka), Malabar coast (Kerala)|Narrower than east coast; few large deltas; Western Ghats close to coast|Narrow because it's a **submerged** coast (land sank)|
 |**Eastern Coastal Plain**|From West Bengal to Tamil Nadu (east coast)|Broader, emergent coastline|Northern Circars (Odisha-AP), Coromandel Coast (TN-AP)|Wider than west coast; major deltas — Mahanadi, Godavari, Krishna, Kaveri|Wider because it's an **emergent** coast (land rose) — opposite mechanism from west coast|
 
+
+## - **Islands & Archipelagos** — Andaman & Nicobar, Lakshadweep
+
+|Group|Location|Origin|Key facts|Capital/HQ|Exam trap|
+|---|---|---|---|---|---|
+|**Andaman Islands**|Bay of Bengal, north group|Extension of Arakan Yoma (Myanmar) hill range — tectonic/volcanic|Larger group; North, Middle, South, Little Andaman|Port Blair|Confused with Nicobar as one uniform origin — they're geologically distinct|
+|**Nicobar Islands**|Bay of Bengal, south group (south of Ten Degree Channel)|Also part of same submarine mountain arc, but separated from Andaman by Ten Degree Channel|Great Nicobar has **Indira Point** — India's southernmost point|Included with Andaman & Nicobar UT, admin from Port Blair|Indira Point often wrongly attributed to Andaman|
+|**Barren Island**|Andaman group|Volcanic|India's only active volcano|—|—|
+|**Narcondam Island**|Andaman group|Volcanic (dormant)|—|—|Confused with Barren Island — Barren is active, Narcondam is dormant|
+|**Lakshadweep**|Arabian Sea|Coral origin (atolls)|Smallest UT; only 10 inhabited islands; capital: Kavaratti|Kavaratti|Confused with Andaman's origin — Lakshadweep is coral, Andaman is tectonic/volcanic|
+|**Minicoy**|Lakshadweep, southernmost island|Coral|Separated from rest of Lakshadweep by Nine Degree Channel; from Maldives by Eight Degree Channel|—|Only Lakshadweep island with matriarchal/Mahl-speaking (Divehi-linked) culture — distinct from rest of Lakshadweep|
+|**New Moore Island**|Bay of Bengal|Deltaic/sedimentary|Disputed India-Bangladesh island; reportedly submerged due to sea level rise|—|Old fact — verify current status if it appears in recent papers|
+
+**Core comparison to lock in (very high-yield):**
+
+|Feature|Andaman & Nicobar|Lakshadweep|
+|---|---|---|
+|Ocean|Bay of Bengal|Arabian Sea|
+|Origin|Tectonic/volcanic (submerged hill range)|Coral (atolls)|
+|Capital|Port Blair|Kavaratti|
+|Notable point|Indira Point (southernmost point of India)|Minicoy (southernmost island)|
+
+**Memory anchor:** Bay of Bengal islands = mountains poking through water (volcanic/tectonic); Arabian Sea islands = coral built up from the seafloor. Origin-type questions ("which island group is of coral origin") are the single most repeated pattern here.
+
+Want this linked into your India Geography vault alongside the Straits/Channels note, since Ten Degree Channel and Eight/Nine Degree Channel connect directly to these island groups?
 ## Straits & Water Bodies (India **Straits, Channels & Water Passages** )
 A **strait is a narrow passage of water that connects two larger water bodies** (such as two seas, a sea and an ocean, or a bay and a sea).
 
