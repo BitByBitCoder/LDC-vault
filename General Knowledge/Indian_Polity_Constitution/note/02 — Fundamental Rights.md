@@ -29,7 +29,7 @@
 | **3. Right against Exploitation**       | \|\|Articles 23–24\|\| | Anti-trafficking (23) and Child Labor ban (24).                        | **Hnehchhiat Laka Himna:** Mihring hralh chhawng thin (trafficking) venna leh kum 14 hnuailam hnathawk tura eizawnna hmun hlauhawma chhawr khapna.              |
 | **4. Right to Freedom of Religion**     | \|\|Articles 25–28\|\| | Freedom of conscience and free practice of religion.                   | **Sakhaw Zalenna:** Biak duh sakhaw thlan zalenna leh mahni sakhaw zirtirna vawn leh zirtir zalenna.                                                            |
 | **5. Cultural & Educational Rights**    | \|\|Articles 29–30\|\| | Protection of script, culture, and educational choices for Minorities. | **Hnam Tlemte Hnamzia leh Zirna Chanvo:** Hnam tlemte (minorities) ten an tawng, an ziak, leh an hnamzia an vawn nun nan leh zirna in dinna tura dikna an neih. |
-| **6. Right to Constitutional Remedies** | **Article 32**         | "Heart and Soul"; allows SC to issue writs to protect rights.          | **Dân Rorêlna Zualko Theihna:** Kan dikna chanvo (FR) laksak kan nih uma Supreme Court thlenga Writ hmanga zualko theihna ("Heart and Soul").                   |
+| **6. Right to Constitutional Remedies** | \|\|Article 32\|\|     | "Heart and Soul"; allows SC to issue writs to protect rights.          | **Dân Rorêlna Zualko Theihna:** Kan dikna chanvo (FR) laksak kan nih uma Supreme Court thlenga Writ hmanga zualko theihna ("Heart and Soul").                   |
 
 ## Key Articles in Fundamental Rights
 
