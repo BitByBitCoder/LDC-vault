@@ -226,6 +226,27 @@ Want this cross-linked with your Andaman-Nicobar and Lakshadweep facts in the Ob
 
 Want this merged into the Islands & Archipelagos note in your vault, since Barren and Narcondam already sit there as sub-entries?
 
+## **Extreme points** — northernmost/southernmost/easternmost/westernmost
+
+|Direction|Point|Location|Key facts|Exam trap|
+|---|---|---|---|---|
+|**Northernmost**|Indira Col|Siachen Glacier, Ladakh|Located at approximately 35°40′N in the Siachen Muztagh of Ladakh, administered by India amid territorial disputes|Undisputed vs. disputed claim points differ — some sources cite "Point 6400" as the undisputed northernmost|
+|**Southernmost (India, incl. islands)**|**Indira Point**|Great Nicobar Island, Andaman & Nicobar|Formerly known as Pygmalion Point, renamed after Indira Gandhi on October 10, 1985|Confused with Kanyakumari — Indira Point is the true southernmost point of India's territory, Kanyakumari is only mainland's southernmost|
+|**Southernmost (mainland only)**|Kanyakumari (Cape Comorin)|Tamil Nadu|Located at 8°4'N latitude; meeting point of Bay of Bengal, Arabian Sea, Indian Ocean|Frequently the wrong answer given for "southernmost point of India" (it's only mainland)|
+|**Easternmost**|Kibithu|Anjaw district, Arunachal Pradesh|Located at 27°25′N 97°01′E, near the India-Myanmar-China trijunction|—|
+|**Westernmost**|Guhar Moti|Kutch region, Gujarat|Located at about 23°36′N 68°32′E, near the Rann of Kutch|Sometimes confused with Sir Creek — Sir Creek is a disputed boundary marker, not the westernmost point itself|
+
+**Core comparison to lock in (very high-yield trap):**
+
+|Question phrasing|Correct answer|
+|---|---|
+|"Southernmost point of India"|Indira Point (Great Nicobar)|
+|"Southernmost point of mainland/peninsular India"|Kanyakumari|
+
+**Memory anchor:** Kanyakumari is famous, so it's the trap answer — but the _actual_ southernmost tip of India is Indira Point, hundreds of km further south in Great Nicobar. This mainland-vs-total-territory distinction is the single most repeated trap across all four points.
+
+Want this added as the anchor note tying together your Islands, Straits/Channels, and Coastal Geography notes — since three of the four extreme points sit inside island territories you've already covered?
+
 ## India — Basic Physical Facts
 
 | Question                            | Answer                                                   |
