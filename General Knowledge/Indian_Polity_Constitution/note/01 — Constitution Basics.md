@@ -26,22 +26,22 @@
 
 ## Important Dates
 
-| Event | Date |
-|-------|------|
-| Constituent Assembly first met | 9 December 1946 |
-| Constitution adopted | **26 November 1949** |
-| Constitution enforced (Republic Day) | **26 January 1950** |
-| First Amendment | **1951** |
+| Event                                | Date                     |
+| ------------------------------------ | ------------------------ |
+| Constituent Assembly first met       | \|\|9 December 1946\|\|  |
+| Constitution adopted                 | \|\|26 November 1949\|\| |
+| Constitution enforced (Republic Day) | \|\|26 January 1950\|\|  |
+| First Amendment                      | \|\|1951\|\|             |
 magna carta fact zawh chian phawt tur
 ## Magna Carta Facts
 
-| Question | Answer |
-|----------|--------|
-| Magna Carta of Indian people | **Government of India Act, 1858** |
-| First general elections in India | 1952 |
-| Father of Indian Constitution | Dr. B.R. Ambedkar |
-| Chairman of Drafting Committee | Dr. B.R. Ambedkar |
-| President of Constituent Assembly | Dr. Rajendra Prasad |
+| Question                          | Answer                                |
+| --------------------------------- | ------------------------------------- |
+| Magna Carta of Indian people      | \|\|Government of India Act, 1858\|\| |
+| First general elections in India  | \|\|1952\|\|                          |
+| Father of Indian Constitution     | \|\|Dr. B.R. Ambedkar\|\|             |
+| Chairman of Drafting Committee    | \|\|Dr. B.R. Ambedkar\|\|             |
+| President of Constituent Assembly | \|\|Dr. Rajendra Prasad\|\|           |
 
 ## Exam Trap ⚠️
 > Constitution **adopted** = 26 November 1949
