@@ -15,9 +15,9 @@
               "state": {
                 "file": "Physical geography canvas.canvas",
                 "viewState": {
-                  "x": -422.5,
-                  "y": -101.5,
-                  "zoom": -0.5734643168843175
+                  "x": -210.45895458366726,
+                  "y": 228.06696581325357,
+                  "zoom": -0.8734985351562499
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -38,8 +38,7 @@
               "title": "01 — Physical Geography"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,11 +209,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23c50d0fbbfdbac7",
+  "active": "c365556c86f37cdd",
   "lastOpenFiles": [
+    "Pasted image 20260721123431.png",
+    "General Knowledge/India_Geography/01 — Physical Geography.md",
     "Physical geography canvas.canvas",
     "Pasted image 20260721123150.png",
-    "General Knowledge/India_Geography/01 — Physical Geography.md",
     "Pasted image 20260721123103.png",
     "Pasted image 20260721122916.png",
     "Pasted image 20260721122852.png",
