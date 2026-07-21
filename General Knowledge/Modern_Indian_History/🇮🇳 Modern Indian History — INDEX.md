@@ -33,34 +33,35 @@
 
 ## ⚡ Flash Facts — Memorize These First
 
-| Question | Answer |
-|----------|--------|
-| First Europeans to come to India | **Portuguese** |
-| First Battle of Panipat | **1526** — Babur vs Ibrahim Lodi |
-| East India Company founded | **1600** |
-| Battle of Plassey | **1757** — Clive vs Siraj-ud-Daulah |
-| Father of civil services | **Lord Cornwallis** |
-| Permanent Settlement of Bengal | **Lord Cornwallis (1793)** |
-| Doctrine of Lapse introduced by | **Lord Dalhousie** |
-| Local Self Government — father | **Lord Ripon** |
-| Revolt of 1857 Viceroy | **Lord Canning** |
-| Partition of Bengal | **1905** — Lord Curzon |
-| Partition of Bengal annulled | **1911** |
-| INC founded | **1885** — A.O. Hume |
-| First President of INC | **W.C. Bannerjee** |
-| Rowlatt Act | **1919** |
-| Jallianwala Bagh | **1919** — Viceroy Chelmsford |
-| Non-Cooperation Movement | **1920** |
-| Dandi March started | **12 March 1930** — from Sabarmati/Ahmedabad |
-| Quit India Movement | **8 August 1942** |
-| INA formed | **1943 — Singapore** |
-| Indian Independence Act | **July 1947** |
-| India Independence | **15 August 1947** |
-| Last Viceroy | **Lord Mountbatten** |
-| Dominion Status attained | **15 August 1947** |
-| Radcliff Line — between | **India and Pakistan** |
-| First PM of India | **Jawaharlal Nehru** |
-| First President of India | **Dr. Rajendra Prasad** |
+
+|**Question (Zawtna)**|**Answer (Chhanna)**|**Exam Point / Trap Free**|
+|---|---|---|
+|First Europeans to come to India|**Portuguese**|Vasco da Gama kha 1498-ah Calicut-ah a rawn țum hmasa ber.|
+|First Battle of Panipat|**1526**|Babur hian Ibrahim Lodi hnehin **Mughal Empire** a din țan phah.|
+|East India Company founded|**1600**|Queen Elizabeth I khan Charter a pe a ni.|
+|Battle of Plassey|**1757**|Robert Clive-a hnehna hian India-ah sorkar hna an chelh țan dawtfiah.|
+|Father of Civil Services|**Lord Cornwallis**|Sorkar hnathawkte lak dan dawtfiah leh riruang a siam hmasa ber.|
+|Permanent Settlement of Bengal|**1793**|Lord Cornwallis bawk hian Zamindari System a rawn luhpui.|
+|Doctrine of Lapse|**Lord Dalhousie**|He dan hmang hian Satara, Jhansi, leh Sambalpur te kha an laksak.|
+|Father of Local Self Government|**Lord Ripon**|Inneihna leh khawtlang sorkar (Panchayat/Municipality) zung a phum.|
+|Revolt of 1857 Viceroy|**Lord Canning**|Sipai Helna (Sepoy Mutiny) a thlen laia Governor-General a ni a, a hnuah Viceroy hmasa ber a ni ta.|
+|Partition of Bengal|**1905**|Lord Curzon-a thiltih a ni a, Swadeshi Movement a thlen phah.|
+|Partition of Bengal annulled|**1911**|King George V a lo kal khan an țhiat leh a, Delhi kha capital atan an puang nghal.|
+|INC founded|**1885**|A.O. Hume-a hova din a ni a, Bombay-ah an țum khatna an țhu.|
+|First President of INC|**W.C. Bannerjee**|Umesh Chandra Banerjee hi sakhaw hran zinga hruaitu hmasa ber a ni bawk.|
+|Rowlatt Act|**1919**|"No Dalil, No Vakil, No Appeal" an tih kha, he dan lakah hian an lungawi lo hle.|
+|Jallianwala Bagh Massacre|**1919**|General Dyer-a thiltih kha a ni a, Viceroy chu Lord Chelmsford a ni.|
+|Non-Cooperation Movement|**1920**|Mahatma Gandhi-a hova bulțan a ni a, Chauri Chaura thil thleng vangin 1922-ah a titawp leh.|
+|Dandi March started|**12 March 1930**|Sabarmati Ashram ațangin dawtfiahin an chhuak a, April 6-ah Dandi-ah chi (salt) an va siam.|
+|Quit India Movement|**8 August 1942**|Bombay-ah "Do or Die" (Ti rawh u, a nih loh leh thi rawh u) tiin Gandhi-an thupui a thlak.|
+|INA formed|**1943**|Singapore-ah Subhas Chandra Bose-an hma a hruai hnuin riruang lian a nei chiah (bulțantu chu Mohan Singh a ni thung).|
+|Indian Independence Act|**July 1947**|British Parliament-in July khan a pawm a, August-ah zalenna kan hmu ta a ni.|
+|India Independence|**15 August 1947**|Zanlaiah zalenna puan a ni a, zalenna ni thar kan chuangkai ta.|
+|Last Viceroy|**Lord Mountbatten**|India zalen hnu pawhin Governor-General hmasa ber a la ni zui.|
+|Dominion Status attained|**15 August 1947**|Republic kan nih hma (1950) chu King George VI hmingin sorkar lailawk kan ni rih.|
+|Radcliffe Line|**India & Pakistan**|Sir Cyril Radcliffe-a siam a ni a, tual rari dawtfiah tak a ni.|
+|First PM of India|**Jawaharlal Nehru**|Thuthlung puan laia "Tryst with Destiny" thuchham siamtu kha a ni.|
+|First President of India|**Dr. Rajendra Prasad**|Constituent Assembly President a ni nghal bawk.|
 
 ---
 
