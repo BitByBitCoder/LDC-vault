@@ -88,6 +88,8 @@
 | Mig La Pass       | Champion           |
 
 ## **Plateaus** — Deccan Plateau, Chota Nagpur, Malwa
+
+PlateauLocationKey featureFormed byExam trap**Deccan Plateau**South of Narmada, between Western & Eastern GhatsLargest plateau; black/regur soil; cotton beltBasaltic lava flows (Deccan Traps, ~66 mya)Often confused as covering ALL peninsular plateaus**Chotanagpur Plateau**Jharkhand, Odisha, Chhattisgarh, W. Bengal"Mineral heartland" — coal, iron ore, mica, bauxiteOlder gneiss/schist rockMistaken as part of Deccan — it's separate**Malwa Plateau**Madhya Pradesh, part of RajasthanBetween Aravallis & VindhyasLava + alluviumChambal & Betwa flow NORTH to Yamuna, not south**Marwar/Rajasthan Plateau**Eastern RajasthanEast of Aravalli range——**Meghalaya (Shillong) Plateau**MeghalayaKhasi, Jaintia, Garo Hills; Cherrapunji/Mawsynram nearbyPeninsular block, separated by Malda GapWrongly grouped with Himalayas — it's peninsular material
 ## Straits & Water Bodies (India)
 A **strait is a narrow passage of water that connects two larger water bodies** (such as two seas, a sea and an ocean, or a bay and a sea).
 
