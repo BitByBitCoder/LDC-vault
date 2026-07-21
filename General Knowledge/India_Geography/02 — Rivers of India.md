@@ -87,7 +87,7 @@ Want this cross-linked with your Plains and Coastline notes, since the delta/est
 
 A perennial river ==flows continuously throughout the year, even during the dry season==.
 
-## Rivers Draining into Arabian Sea vs Bay of Bengal
+### Rivers Draining into Arabian Sea vs Bay of Bengal
 
 | Arabian Sea                                           | Bay of Bengal                                                   |
 | ----------------------------------------------------- | --------------------------------------------------------------- |
@@ -97,6 +97,8 @@ A perennial river ==flows continuously throughout the year, even during the dry 
 
 
 ---
+
+
 
 ## Important Dams & Projects
 Higest-->Longest-->Largest
