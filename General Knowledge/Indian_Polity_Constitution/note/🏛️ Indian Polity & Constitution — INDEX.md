@@ -168,7 +168,7 @@ Given the scope (18 topics), here's a high-yield table for each — sized to mat
 |Max ministers|Capped at 15% of Lok Sabha strength (91st Amendment, 2003)|
 |Exam trap|PM need NOT be a sitting MP at time of appointment, but must become one (either house) within 6 months|
 
-## 6. Constitutional Amendments 🔴
+6. Constitutional Amendments 🔴
 
 |Amendment|Year|Key change|
 |---|---|---|
