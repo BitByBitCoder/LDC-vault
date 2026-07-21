@@ -135,7 +135,30 @@
 
 Want this linked into your India Geography vault alongside the Straits/Channels note, since Ten Degree Channel and Eight/Nine Degree Channel connect directly to these island groups?
 
+## **Coastline features** — Konkan coast, Coromandel coast, deltas (as landform, not river-flow)
 
+|Feature|Location|Formed by|Key facts|Exam trap|
+|---|---|---|---|---|
+|**Konkan Coast**|Maharashtra & Goa (part of west coast)|Submergent coastline + erosional action of west-flowing rivers|Narrow, rugged, indented with small coves; Western Ghats close to shore|Often confused with Malabar coast — Konkan is Maharashtra-Goa, Malabar is Kerala|
+|**Kannad Coast**|Karnataka (part of west coast)|Submergent|Between Konkan and Malabar|Sometimes merged into "Konkan" in casual usage — technically a separate segment|
+|**Malabar Coast**|Kerala (part of west coast)|Submergent + lagoon formation|Known for **backwaters** (kayals) — Vembanad Lake is largest|Backwaters are unique to Malabar, not found on Konkan/Coromandel|
+|**Coromandel Coast**|Tamil Nadu & Andhra Pradesh (east coast)|Emergent coastline|Broader, smoother; site of major deltas (Krishna, Godavari, Kaveri)|Confused with Northern Circars — Coromandel is south (TN-AP), Circars is north (Odisha-AP)|
+|**Northern Circars**|Odisha & northern Andhra Pradesh (east coast)|Emergent|Includes Mahanadi delta|Sometimes clubbed with Coromandel — they're geographically distinct segments of east coast|
+|**Delta (as landform)**|River mouth, coastal depositional zone|Deposition of sediment where river meets sea/lake, velocity drops|Triangular/fan-shaped landform; India's east coast has "true" deltas (Mahanadi, Godavari, Krishna, Kaveri); west coast rivers form **estuaries**, not deltas|Why west coast has no deltas — steep terrain + fast river flow prevents sediment deposition; asked as a direct "why" question|
+|**Estuary**|River mouth where tidal mixing dominates|Submergence + tidal action, no delta buildup|Example: Narmada & Tapi estuaries (west coast)|Confused with delta — estuary = funnel-shaped, tidal-mixed; delta = fan-shaped, sediment-built|
+|**Lagoon**|Coastal, separated from sea by sandbar/spit|Wave/current action building a barrier|Chilika Lake (Odisha) — largest coastal lagoon in India; Vembanad (Kerala)|Chilika often mistakenly called a "delta" — it's a lagoon|
+|**Spit/Sandbar**|Coastal depositional feature|Longshore drift depositing sediment|Forms barrier enclosing lagoons|—|
+
+**Core comparison to lock in (very high-yield "why" question):**
+
+|Feature|West coast|East coast|
+|---|---|---|
+|Landform at river mouth|Estuary|Delta|
+|Reason|Steep gradient, fast-flowing short rivers|Gentle gradient, slow-flowing long rivers with heavy sediment load|
+
+**Memory anchor:** Delta = built forward into the sea (deposition wins); Estuary = drowned river mouth (sea wins, tidal mixing prevents deposition). This chain — Narmada/Tapi = estuary, Mahanadi/Godavari/Krishna/Kaveri = delta — isonto directly onto your fetch of west-vs-east coast reasoning from the Plains table's submergent/emergent explanation the same underlying tectonic cause.
+
+Want this coastline features table with the Plains table into a single "Coastal Geography" note in the exam vault its Obsidian vault, so this comparison chain fits so it fits your frequency-ranked structure?Let me clean that last bit up — want me to merge this coastline table with the Plains table into a single "Coastal Geography" note in your vault, since the submergent/emergent → estuary/delta reasoning chain links them directly?
 ## Straits & Water Bodies (India **Straits, Channels & Water Passages** )
 A **strait is a narrow passage of water that connects two larger water bodies** (such as two seas, a sea and an ocean, or a bay and a sea).
 
