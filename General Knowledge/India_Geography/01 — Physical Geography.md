@@ -112,15 +112,39 @@
 ## Straits & Water Bodies (India)
 A **strait is a narrow passage of water that connects two larger water bodies** (such as two seas, a sea and an ocean, or a bay and a sea).
 
-| Strait/Channel           | Between                                              |
-| ------------------------ | ---------------------------------------------------- |
-| **Palk Strait**          | \|\|India and Sri Lanka\|\|                          |
-| **Duncan Passage**       | \|\|South Andaman and Little Andaman\|\|             |
-| **Ten Degree Channel**   | \|\|Little Andaman and Car Nicobar\|\|               |
-| **Eight Degree Channel** | \|\|Lakshadweep and Maldives\|\|                     |
-| **Palk Bay**             | \|\|India and Sri Lanka (wider than Palk Strait)\|\| |
+| Strait/Channel           | Between                                              |     |
+| ------------------------ | ---------------------------------------------------- | --- |
+| **Palk Strait**          | \|\|India and Sri Lanka\|\|                          |     |
+| **Duncan Passage**       | \|\|South Andaman and Little Andaman\|\|             |     |
+| **Ten Degree Channel**   | \|\|Little Andaman and Car Nicobar\|\|               |     |
+| **Eight Degree Channel** | \|\|Lakshadweep and Maldives\|\|                     |     |
+| **Palk Bay**             | \|\|India and Sri Lanka (wider than Palk Strait)\|\| |     |
 
----
+more
+
+| Passage                           | Connects/separates                              | Location                                 | Key facts                                                                       | Exam trap                                                                                                    |
+| --------------------------------- | ----------------------------------------------- | ---------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| **Palk Strait**                   | India (Tamil Nadu) & Sri Lanka                  | Between Rameswaram (India) and Sri Lanka | Shallow strait; part of the same land bridge system as Adam's Bridge (Ram Setu) | Often confused with Palk Bay (a distinct, more enclosed bay just south)                                      |
+| **Adam's Bridge (Ram Setu)**      | Rameswaram (India) to Mannar Island (Sri Lanka) | Between Palk Strait & Gulf of Mannar     | Chain of limestone shoals; not a strait itself but a shoal formation            | Sometimes wrongly listed as a "strait" — it's a shoal/bridge, not a water channel                            |
+| **Gulf of Mannar**                | India & Sri Lanka                               | South of Palk Strait                     | Rich marine biodiversity; Marine National Park located here                     | Confused with Palk Strait — Mannar is south, Palk is north of Adam's Bridge                                  |
+| **Ten Degree Channel**            | Andaman Islands & Nicobar Islands               | Runs along 10°N latitude                 | Separates Little Andaman from Car Nicobar                                       | Name directly tied to latitude — frequently asked as a direct fact                                           |
+| **Duncan Passage**                | South Andaman & Little Andaman                  | Andaman archipelago                      | Connects Bay of Bengal to Andaman Sea                                           | Confused with Ten Degree Channel — Duncan is within Andamans, Ten Degree is between Andaman & Nicobar groups |
+| **Eight Degree Channel**          | Minicoy Island (India) & Maldives               | Runs along 8°N latitude                  | Separates Lakshadweep (Minicoy) from Maldives                                   | Confused with Nine Degree Channel                                                                            |
+| **Nine Degree Channel**           | Minicoy Island & rest of Lakshadweep            | Runs along 9°N latitude                  | Separates Minicoy from the rest of Lakshadweep group                            | Nine Degree is within Lakshadweep; Eight Degree is between Lakshadweep and Maldives — commonly swapped       |
+| **Coco Channel**                  | Coco Islands (Myanmar) & Andaman Islands        | Northern tip of Andaman group            | Separates Indian territory from Myanmar's Coco Islands                          | India's northernmost maritime boundary point in this region                                                  |
+| **11° Channel** _(if it appears)_ | —                                               | —                                        | Less frequently tested — verify against your papers                             | Not a major recurring one; low priority unless seen in your extracted data                                   |
+
+**Core comparison to lock in (very high-yield pattern):**
+
+|Latitude channel|Separates|
+|---|---|
+|8° Channel|Minicoy — Maldives|
+|9° Channel|Minicoy — Lakshadweep (rest)|
+|10° Channel|Little Andaman — Car Nicobar|
+
+**Memory anchor:** Latitude number roughly matches degree North — 8°, 9°, 10° channels all lie near their namesake latitudes. Question pattern is almost always "which channel separates X from Y" — the location logic (not just the name) is what's tested.
+
+Want this cross-linked with your Andaman-Nicobar and Lakshadweep facts in the Obsidian vault, or should I pull actual frequency counts from your extracted GK question set to confirm which of these have appeared most?
 ### Extreme points of India
 
 - Southernmost point → Indira Point, Great Nicobar
