@@ -11,14 +11,17 @@
             "id": "c365556c86f37cdd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "General Knowledge/India_Geography/01 — Physical Geography.md",
-                "mode": "source",
-                "source": false
+                "file": "Physical geography canvas.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "01 — Physical Geography"
+              "icon": "lucide-layout-dashboard",
+              "title": "Physical geography canvas"
             }
           }
         ]
@@ -194,6 +197,8 @@
   },
   "active": "c365556c86f37cdd",
   "lastOpenFiles": [
+    "General Knowledge/India_Geography/01 — Physical Geography.md",
+    "Physical geography canvas.canvas",
     "General Knowledge/India_Geography/🌏 India Geography — INDEX.md",
     "General Knowledge/Modern_Indian_History/01 — British Governors & Viceroys.md",
     "General Knowledge/Modern_Indian_History/🇮🇳 Modern Indian History — INDEX.md",
@@ -208,7 +213,6 @@
     "General Knowledge/India_Geography/gk canvas/Pasted image 20260720163427.png",
     "General Knowledge/India_Geography/gk canvas/Pasted image 20260720153917.png",
     "maths brain/bbgun.canvas",
-    "General Knowledge/India_Geography/01 — Physical Geography.md",
     "General Knowledge/India_Geography/gk canvas/Pasted image 20260717182710.png",
     "GK_Missing_Topics/📌 GK Missing Topics — INDEX.md",
     "GK_Missing_Topics/01 — Science & Physics.md",
@@ -236,7 +240,6 @@
     "Krishna.md",
     "Godavari.md",
     "Subcontinent.md",
-    "Brahmaputra.md",
     "General Knowledge/India_Geography/brain",
     "Dictionary",
     "General Knowledge/Indian_Polity_Constitution/note",
