@@ -99,7 +99,7 @@
 - **Straits, Channels & Water Passages** — Palk Strait, Ten Degree Channel, Duncan Passage
 - **Islands & Archipelagos** — Andaman & Nicobar, Lakshadweep
 - **Coastline features** — Konkan coast, Coromandel coast, deltas (as landform, not river-flow)
-- **Volcanoes** — Barren Island
+- **Volcanoes** — Barren Island //
 - **Extreme points** — northernmost/southernmost/easternmost/westernmost
 - **Basic country facts** — total area, world rank by area, latitude/longitude basics
 
