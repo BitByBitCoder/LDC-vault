@@ -249,26 +249,25 @@ Want this added as the anchor note tying together your Islands, Straits/Channels
 
 ## India — Basic Physical Facts
 
-| Question                            | Answer                                                   |
-| ----------------------------------- | -------------------------------------------------------- |
-| Total area of India                 | \|\|32,87,263 sq km\|\|                                  |
-| India's rank in world by area       | **7th**                                                  |
-| India's rank in world by population | **1st** (surpassed China 2023)                           |
-| India's only active volcano         | **Barren Island (Andaman)**                              |
-| Tropic of Cancer — 8 states         | **Gujarat, Rajasthan, MP, CG, JH, WB, Tripura, Mizoram** |
-|Fact|Detail|Exam trap|
-|---|---|---|
-|**Total area**|32,87,263 sq km (3,287,263 km²)|Exact figure sometimes asked in sq km vs sq miles — know sq km version cold|
-|**World rank by area**|7th largest country in the world|Confused with population rank (India is 1st/2nd in population, ~2nd most populous historically, now often cited as 1st) — area rank and population rank are different lists|
-|**Latitude extent**|8°4'N (Kanyakumari) to 37°6'N (northernmost point)|~30° of latitude spread|
-|**Longitude extent**|68°7'E (Gujarat) to 97°25'E (Arunachal Pradesh)|~30° of longitude spread — same numeric range as latitude, easy to mix up which is which|
-|**Standard Meridian**|82°30'E, passing through Mirzapur (UP)|Used to calculate Indian Standard Time (IST = GMT +5:30)|
-|**Time zones**|Single time zone for the whole country (IST)|Despite huge east-west spread (~2 hours of actual sun-time difference), India uses only ONE time zone — frequently tested "why/how" fact|
-|**Land frontier length**|~15,200 km|Often confused with coastline length|
-|**Coastline length**|~7,516.6 km (mainland + islands)|Sometimes only mainland figure (~6,100 km) is cited — check which version your paper uses|
-|**Number of countries bordering India**|7 (Pakistan, China, Nepal, Bhutan, Bangladesh, Myanmar, Afghanistan via PoK)|Afghanistan border is via Pakistan-occupied Kashmir — a trap on "which countries share a direct border"|
-|**Tropic of Cancer**|Passes through India (23°30'N)|Passes through 8 states: Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram|
-|**Southernmost latitude reference**|Equator is south of India — India lies entirely in Northern Hemisphere|India does NOT touch the equator — common false-option in MCQs|
+| Question                                | Answer                                                                       |                                                                                                                                                                             |
+| --------------------------------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Total area of India                     | \|\|32,87,263 sq km\|\|                                                      |                                                                                                                                                                             |
+| India's rank in world by area           | **7th**                                                                      |                                                                                                                                                                             |
+| India's rank in world by population     | **1st** (surpassed China 2023)                                               |                                                                                                                                                                             |
+| India's only active volcano             | **Barren Island (Andaman)**                                                  |                                                                                                                                                                             |
+| Tropic of Cancer — 8 states             | **Gujarat, Rajasthan, MP, CG, JH, WB, Tripura, Mizoram**                     |                                                                                                                                                                             |
+| Fact                                    | Detail                                                                       | Exam trap                                                                                                                                                                   |
+| **Total area**                          | 32,87,263 sq km (3,287,263 km²)                                              | Exact figure sometimes asked in sq km vs sq miles — know sq km version cold                                                                                                 |
+| **World rank by area**                  | 7th largest country in the world                                             | Confused with population rank (India is 1st/2nd in population, ~2nd most populous historically, now often cited as 1st) — area rank and population rank are different lists |
+| **Latitude extent**                     | 8°4'N (Kanyakumari) to 37°6'N (northernmost point)                           | ~30° of latitude spread                                                                                                                                                     |
+| **Longitude extent**                    | 68°7'E (Gujarat) to 97°25'E (Arunachal Pradesh)                              | ~30° of longitude spread — same numeric range as latitude, easy to mix up which is which                                                                                    |
+| **Standard Meridian**                   | 82°30'E, passing through Mirzapur (UP)                                       | Used to calculate Indian Standard Time (IST = GMT +5:30)                                                                                                                    |
+| **Time zones**                          | Single time zone for the whole country (IST)                                 | Despite huge east-west spread (~2 hours of actual sun-time difference), India uses only ONE time zone — frequently tested "why/how" fact                                    |
+| **Land frontier length**                | ~15,200 km                                                                   | Often confused with coastline length                                                                                                                                        |
+| **Coastline length**                    | ~7,516.6 km (mainland + islands)                                             | Sometimes only mainland figure (~6,100 km) is cited — check which version your paper uses                                                                                   |
+| **Number of countries bordering India** | 7 (Pakistan, China, Nepal, Bhutan, Bangladesh, Myanmar, Afghanistan via PoK) | Afghanistan border is via Pakistan-occupied Kashmir — a trap on "which countries share a direct border"                                                                     |
+| **Tropic of Cancer**                    | Passes through India (23°30'N)                                               | Passes through 8 states: Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram                                                                     |
+| **Southernmost latitude reference**     | Equator is south of India — India lies entirely in Northern Hemisphere       | India does NOT touch the equator — common false-option in MCQs                                                                                                              |
 
 **Core comparison to lock in (very high-yield):**
 
@@ -279,8 +278,7 @@ Want this added as the anchor note tying together your Islands, Straits/Channels
 
 **Memory anchor:** India spans roughly 30° both in latitude and longitude — same number, easy trick question ("is India's east-west spread wider than north-south?" — no, they're nearly equal).
 
-Since Mizoram is one of the 8 Tropic of Cancer states, want me to flag that connection in your Mizoram GK byheart sheet too?
----
+
 
 ## Exam Traps ⚠️
 > Highest in India = **Kanchenjunga** (Sikkim) — NOT Everest (Nepal)

@@ -17,7 +17,7 @@
  
 ---
 
-## Major Rivers — Complete Table
+## Major Rivers
 
 ### Himalayan Rivers (Perennial — fed by glaciers)
 
