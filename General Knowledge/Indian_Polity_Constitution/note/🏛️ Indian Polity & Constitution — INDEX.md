@@ -181,7 +181,7 @@ Given the scope (18 topics), here's a high-yield table for each — sized to mat
 |101st|2016|GST|
 |Exam trap|42nd Amendment is the single most-tested amendment — memorize its 3 Preamble additions cold||
 
-## 7. Articles 🔴 (highest weight — 15 Qs)
+7. Articles 🔴 (highest weight — 15 Qs)
 
 |Article|Subject|
 |---|---|
@@ -197,17 +197,17 @@ Given the scope (18 topics), here's a high-yield table for each — sized to mat
 |372|Continuance of existing laws|
 |Exam trap|**Article 371G** is Mizoram-specific — protects Mizo customary law/religion/social practices from Parliament override without State Assembly consent — very high priority for you specifically|
 
-## 8. Judiciary 🟡
+8. Judiciary 🟡
 
-|Fact|Detail|
-|---|---|
-|SC established|28 January 1950|
-|Judges|CJI + up to 33 other judges|
-|Retirement age|SC: 65 years; High Court: 62 years|
-|Judicial review|Power to strike down unconstitutional laws|
-|Exam trap|India follows "Procedure Established by Law" (not US "Due Process of Law") — though judicial interpretation has blurred this since Maneka Gandhi case|
+| Fact            | Detail                                                                                                                                                |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| SC established  | 28 January 1950                                                                                                                                       |
+| Judges          | CJI + up to 33 other judges                                                                                                                           |
+| Retirement age  | SC: 65 years; High Court: 62 years                                                                                                                    |
+| Judicial review | Power to strike down unconstitutional laws                                                                                                            |
+| Exam trap       | India follows "Procedure Established by Law" (not US "Due Process of Law") — though judicial interpretation has blurred this since Maneka Gandhi case |
 
-## 9. Panchayati Raj & Local Bodies 🟡
+9. Panchayati Raj & Local Bodies 🟡
 
 |Fact|Detail|
 |---|---|
@@ -216,7 +216,7 @@ Given the scope (18 topics), here's a high-yield table for each — sized to mat
 |Reserved seats|1/3rd seats reserved for women (some states 50%)|
 |Exam trap|73rd/74th Amendments do NOT apply automatically to some tribal/hill areas — Mizoram has its own District Councils under **Sixth Schedule**, not standard Panchayati Raj|
 
-## 10. Governor & State Government 🟡
+10. Governor & State Government 🟡
 
 |Fact|Detail|
 |---|---|
@@ -225,7 +225,7 @@ Given the scope (18 topics), here's a high-yield table for each — sized to mat
 |Discretionary powers|Reserving bills for President, recommending President's Rule|
 |Exam trap|Governor can be common to 2+ states (one Governor for multiple states is allowed)|
 
-## 11. Schedules of Constitution 🟡
+11. Schedules of Constitution 🟡
 
 |Schedule|Covers|
 |---|---|
@@ -239,7 +239,7 @@ Given the scope (18 topics), here's a high-yield table for each — sized to mat
 |10th|Anti-defection law|
 |Exam trap|**6th Schedule directly governs Mizoram's autonomous district councils** — high personal relevance, cross-link to Mizo History notes|
 
-## 12. Writs 🟡
+12. Writs 🟡
 
 |Writ|Meaning|
 |---|---|
