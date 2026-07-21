@@ -7,14 +7,16 @@
 		{"id":"bfc1809b0e81e71f","x":-1048,"y":-715,"width":400,"height":308,"type":"file","file":"Pasted image 20260721123103.png"},
 		{"id":"5df285b73ef8bc1c","x":-1320,"y":-260,"width":400,"height":400,"type":"file","file":"Pasted image 20260721123150.png"},
 		{"id":"e78b3055ec097273","x":-782,"y":-128,"width":250,"height":60,"type":"text","text":"sikkim pass"},
-		{"id":"93ce86f5f0fa9512","x":-1056,"y":352,"width":400,"height":350,"type":"file","file":"Pasted image 20260721123431.png"},
-		{"id":"d15c265e13afb1f3","x":-472,"y":234,"width":250,"height":60,"type":"text","text":"Arunachal"}
+		{"id":"d15c265e13afb1f3","x":-472,"y":234,"width":250,"height":60,"type":"text","text":"Arunachal"},
+		{"id":"93ce86f5f0fa9512","x":-1289,"y":313,"width":400,"height":350,"type":"file","file":"Pasted image 20260721123431.png"},
+		{"id":"5d72a86c9c5659c9","x":-659,"y":425,"width":400,"height":274,"type":"file","file":"Pasted image 20260721123640.png"}
 	],
 	"edges":[
 		{"id":"80851367917d57fc","fromNode":"febcf50c02c0078e","fromSide":"right","toNode":"05062173a3c3aa53","toSide":"left"},
 		{"id":"4c1d5a7e4c4b44ef","fromNode":"febcf50c02c0078e","fromSide":"right","toNode":"8f1da7c985b74b03","toSide":"left"},
 		{"id":"87fddd52b3e02eaf","fromNode":"febcf50c02c0078e","fromSide":"right","toNode":"177effa11e22079a","toSide":"left"},
 		{"id":"4c7334a09fe1045d","fromNode":"e78b3055ec097273","fromSide":"left","toNode":"bfc1809b0e81e71f","toSide":"right"},
-		{"id":"52b271bab5854360","fromNode":"e78b3055ec097273","fromSide":"left","toNode":"5df285b73ef8bc1c","toSide":"right"}
+		{"id":"52b271bab5854360","fromNode":"e78b3055ec097273","fromSide":"left","toNode":"5df285b73ef8bc1c","toSide":"right"},
+		{"id":"6683f6feaa2a0e7a","fromNode":"d15c265e13afb1f3","fromSide":"left","toNode":"5d72a86c9c5659c9","toSide":"top"}
 	]
 }

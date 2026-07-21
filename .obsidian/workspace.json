@@ -38,7 +38,8 @@
               "title": "01 — Physical Geography"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,11 +210,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c365556c86f37cdd",
+  "active": "23c50d0fbbfdbac7",
   "lastOpenFiles": [
+    "Physical geography canvas.canvas",
+    "Pasted image 20260721123640.png",
     "Pasted image 20260721123431.png",
     "General Knowledge/India_Geography/01 — Physical Geography.md",
-    "Physical geography canvas.canvas",
     "Pasted image 20260721123150.png",
     "Pasted image 20260721123103.png",
     "Pasted image 20260721122916.png",
@@ -233,12 +235,10 @@
     "General Knowledge/India_Geography/gk canvas/Pasted image 20260720163427.png",
     "General Knowledge/India_Geography/gk canvas/Pasted image 20260720153917.png",
     "maths brain/bbgun.canvas",
-    "General Knowledge/India_Geography/gk canvas/Pasted image 20260717182710.png",
     "GK_Missing_Topics/📌 GK Missing Topics — INDEX.md",
     "GK_Missing_Topics/01 — Science & Physics.md",
     "Indus.md",
     "Ganga.md",
-    "Pasted image 20260717182424.png",
     "General Knowledge/India_Geography/gk canvas",
     "Computer_Knowledge/01 — Hardware & Computer Basics.md",
     "Physical_Geography_Mindmap.canvas",
