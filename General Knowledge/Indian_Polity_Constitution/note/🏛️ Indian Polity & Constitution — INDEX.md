@@ -25,7 +25,7 @@ Its the blueprint for everyting run---
 | 4   | [[04 — President & Vice President]]            | 8 Qs      | 🔴 High   |
 | 5   | [[05 — Prime Minister & Council of Ministers]] | 6 Qs      | 🔴 High   |
 | 6   | [[06 — Constitutional Amendments]]             | 8 Qs      | 🔴 High   |
-| 7   | [[07 — Articles]]              | 15 Qs     | 🔴 High   |
+| 7   | [[07 — Articles]]                              | 15 Qs     | 🔴 High   |
 | 8   | [[08 — Judiciary]]                             | 6 Qs      | 🟡 Medium |
 | 9   | [[09 — Panchayati Raj & Local Bodies]]         | 5 Qs      | 🟡 Medium |
 | 10  | [[10 — Governor & State Government]]           | 5 Qs      | 🟡 Medium |
