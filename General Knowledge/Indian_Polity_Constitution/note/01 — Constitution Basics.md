@@ -5,16 +5,16 @@
 
 ## Questions From Your Papers
 
-| Question                                  | Answer                                     |
-| ----------------------------------------- | ------------------------------------------ |
-| Constitution framed by                    | \|\|Constituent Assembly\|\|               |
-| Constitution adopted on                   | \|\|26 November 1949\|\|                   |
-| Constitution came into force              | **26 January 1950**                        |
-| Originally had                            | **22 parts, 395 articles, 8 schedules**    |
-| Current schedules                         | **12**                                     |
-| Country with unwritten constitution       | **UK (Britain)**                           |
-| Which country has no written constitution | UK                                         |
-| Total articles currently                  | 448 (approximately — original 395 + added) |
+| Question                                  | Answer                                             |
+| ----------------------------------------- | -------------------------------------------------- |
+| Constitution framed by                    | \|\|Constituent Assembly\|\|                       |
+| Constitution adopted on                   | \|\|26 November 1949\|\|                           |
+| Constitution came into force              | \|\|26 January 1950\|\|                            |
+| Originally had                            | \|\|22 parts, 395 articles, 8 schedules\|\|        |
+| Current schedules                         | \|\|12\|\|                                         |
+| Country with unwritten constitution       | \|\|UK (Britain)\|\|                               |
+| Which country has no written constitution | \|\|UK\|\|                                         |
+| Total articles currently                  | \|\|448 (approximately — original 395 + added)\|\| |
 
 ## Constitutional Structure
 
