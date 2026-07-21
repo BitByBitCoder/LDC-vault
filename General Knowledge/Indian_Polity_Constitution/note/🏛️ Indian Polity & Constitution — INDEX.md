@@ -250,7 +250,7 @@ Given the scope (18 topics), here's a high-yield table for each — sized to mat
 |Quo Warranto|"By what authority" — challenges holding of public office|
 |Exam trap|Prohibition = preventive (before order); Certiorari = corrective (after order) — most repeated writ confusion|
 
-## 13. Emergency Provisions 🟡
+13. Emergency Provisions 🟡
 
 |Type|Article|Grounds|
 |---|---|---|
@@ -259,7 +259,7 @@ Given the scope (18 topics), here's a high-yield table for each — sized to mat
 |Financial Emergency|360|Threat to financial stability (never invoked so far)|
 |Exam trap|National Emergency invoked 3 times (1962, 1971, 1975) — 1975 (internal disturbance ground, since changed to "armed rebellion" by 44th Amendment) is most tested||
 
-## 14. Borrowed Features (Source Countries) 🟡
+14. Borrowed Features (Source Countries) 🟡
 
 |Feature|Borrowed from|
 |---|---|
@@ -273,7 +273,7 @@ Given the scope (18 topics), here's a high-yield table for each — sized to mat
 |Procedure Established by Law|Japan|
 |Exam trap|Directive Principles ↔ Ireland is the single most repeated "borrowed feature" question|
 
-## 15. Directive Principles & Duties 🟢
+15. Directive Principles & Duties 🟢
 
 |Fact|Detail|
 |---|---|
@@ -282,7 +282,7 @@ Given the scope (18 topics), here's a high-yield table for each — sized to mat
 |Number of duties|Originally 10, now 11 (86th Amendment added one on education)|
 |Exam trap|DPSPs are non-justiciable (not enforceable in court) — commonly confused with Fundamental Rights which ARE justiciable|
 
-## 16. Citizenship 🟢
+16. Citizenship 🟢
 
 |Fact|Detail|
 |---|---|
