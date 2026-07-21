@@ -291,7 +291,7 @@ Given the scope (18 topics), here's a high-yield table for each — sized to mat
 |Acquiring citizenship|Birth, descent, registration, naturalization|
 |Exam trap|Constitution doesn't allow dual citizenship — "Overseas Citizen of India (OCI)" is NOT full citizenship|
 
-## 17. Election Commission & Voting 🟢
+17. Election Commission & Voting 🟢
 
 |Fact|Detail|
 |---|---|
@@ -300,7 +300,7 @@ Given the scope (18 topics), here's a high-yield table for each — sized to mat
 |Voting age|18 years (61st Amendment, 1989)|
 |Exam trap|ECI conducts elections for President, VP, Parliament, State Legislatures — but NOT Panchayat/Municipal elections (those are State Election Commissions)|
 
-## 18. UPSC & Constitutional Bodies 🟢
+18. UPSC & Constitutional Bodies 🟢
 
 |Body|Article/Feature|
 |---|---|
