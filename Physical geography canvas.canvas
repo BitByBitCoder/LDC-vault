@@ -4,11 +4,15 @@
 		{"id":"05062173a3c3aa53","x":40,"y":-519,"width":300,"height":400,"type":"file","file":"Pasted image 20260721122817.png"},
 		{"id":"8f1da7c985b74b03","x":71,"y":-49,"width":400,"height":228,"type":"file","file":"Pasted image 20260721122852.png"},
 		{"id":"177effa11e22079a","x":75,"y":245,"width":400,"height":267,"type":"file","file":"Pasted image 20260721122916.png"},
-		{"id":"bfc1809b0e81e71f","x":-1048,"y":-715,"width":400,"height":308,"type":"file","file":"Pasted image 20260721123103.png"}
+		{"id":"bfc1809b0e81e71f","x":-1048,"y":-715,"width":400,"height":308,"type":"file","file":"Pasted image 20260721123103.png"},
+		{"id":"5df285b73ef8bc1c","x":-1320,"y":-260,"width":400,"height":400,"type":"file","file":"Pasted image 20260721123150.png"},
+		{"id":"e78b3055ec097273","x":-782,"y":-128,"width":250,"height":60,"type":"text","text":"sikkim pass"}
 	],
 	"edges":[
 		{"id":"80851367917d57fc","fromNode":"febcf50c02c0078e","fromSide":"right","toNode":"05062173a3c3aa53","toSide":"left"},
 		{"id":"4c1d5a7e4c4b44ef","fromNode":"febcf50c02c0078e","fromSide":"right","toNode":"8f1da7c985b74b03","toSide":"left"},
-		{"id":"87fddd52b3e02eaf","fromNode":"febcf50c02c0078e","fromSide":"right","toNode":"177effa11e22079a","toSide":"left"}
+		{"id":"87fddd52b3e02eaf","fromNode":"febcf50c02c0078e","fromSide":"right","toNode":"177effa11e22079a","toSide":"left"},
+		{"id":"4c7334a09fe1045d","fromNode":"e78b3055ec097273","fromSide":"left","toNode":"bfc1809b0e81e71f","toSide":"right"},
+		{"id":"52b271bab5854360","fromNode":"e78b3055ec097273","fromSide":"left","toNode":"5df285b73ef8bc1c","toSide":"right"}
 	]
 }
