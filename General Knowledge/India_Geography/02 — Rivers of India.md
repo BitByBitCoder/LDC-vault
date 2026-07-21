@@ -102,6 +102,33 @@ A perennial river ==flows continuously throughout the year, even during the dry 
 
 ## **River basins & drainage patterns**
 
+|Pattern|Description|Formed where|Indian example|
+|---|---|---|---|
+|**Dendritic**|Tree-branch-like; tributaries join main stream at acute angles, irregular branching|Uniform rock resistance, flat terrain/alluvium|Ganga plains — tributaries Gomti, Ghaghara, Gandak, Kosi|
+|**Trellis**|Tributaries join at near-right angles; parallel main streams, grid-like|Folded mountains — alternating hard/soft rock bands|Singhbhum (Chotanagpur), Jhelum system in Kashmir Valley, Subarnarekha (Jharkhand)|
+|**Radial**|Streams flow outward in all directions from a central high point|Domes, volcanic cones, isolated hill masses|**Amarkantak** — Narmada flows west, Son flows east-northeast from the same source point|
+|**Rectangular**|Streams bend at right angles; joint/fault-controlled, geometric grid|Strongly jointed/faulted rocky terrain|Streams in the Vindhyan mountains|
+|**Parallel**|Streams flow in straight, evenly spaced parallel lines down a steep uniform slope|Steep regional slope, uniform rock resistance|Short west-flowing streams of the Western Ghats|
+|**Centripetal**|All streams converge toward a central low point (opposite of radial)|Basins, craters, closed depressions|**Loktak Lake** (Manipur valley)|
+
+**Core comparison to lock in (highest-yield pair — very commonly tested):**
+
+|Amarkantak drainage|Direction|Pattern type|
+|---|---|---|
+|Narmada|West → Arabian Sea|Radial (from same central point as Son)|
+|Son|East-northeast → joins Ganga|Radial (opposite direction, same source)|
+
+**Exam traps:**
+
+|Trap|Correct fact|
+|---|---|
+|Radial = centripetal|Opposite: radial flows OUT from a point; centripetal flows IN toward a point|
+|Trellis only exists abroad (Appalachians)|India has real examples — Chotanagpur/Singhbhum, Jhelum in Kashmir|
+|Dendritic pattern needs slope irregularity|Actually needs uniform resistance — dendritic forms specifically because there's NO structural control|
+
+**Memory anchor:** Amarkantak is the single most tested drainage-pattern location in Indian GK — one hill, two rivers (Narmada + Son), opposite directions, textbook radial pattern. If only one fact from this table sticks, make it this one.
+
+Want this linked with your River Systems and Individual Rivers notes, since Narmada/Son/Amarkantak now ties together radial pattern + rift valley + west-flowing exception in one place?
 ## Important Dams & Projects
 Higest-->Longest-->Largest
 

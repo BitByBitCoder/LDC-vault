@@ -99,7 +99,7 @@
 - **Straits, Channels & Water Passages** — Palk Strait, Ten Degree Channel, Duncan Passage
 - **Islands & Archipelagos** — Andaman & Nicobar, Lakshadweep
 - **Coastline features** — Konkan coast, Coromandel coast, deltas (as landform, not river-flow)
-- **Volcanoes** — Barren Island //
+- **Volcanoes** — Barren Island 
 - **Extreme points** — northernmost/southernmost/easternmost/westernmost
 - **Basic country facts** — total area, world rank by area, latitude/longitude basics
 
@@ -109,7 +109,7 @@
 - **Individual rivers** — origin, length, tributaries, states passed through
 - **River basins & drainage patterns**
 - **Dams & reservoirs on specific rivers**
-- **River-linked cities** ("which river does city X sit on")
+- **River-linked cities** ("which river does city X sit on")//
 - **Waterfalls** (since they're river-dependent features)
 - **Lakes fed by/connected to rivers** (as distinct from standalone lakes — judgment call, could also sit in 01 if the lake is more of a static landform fact like Palak Lake)
 
