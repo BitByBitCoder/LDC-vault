@@ -65,8 +65,8 @@
 
 | Pass              | State/Location | Key Fact                                          |
 | ----------------- | -------------- | ------------------------------------------------- |
-| **Umling La**     | Ladakh         | Highest motorable pass — 19,024 ft                |
-| Mig La            |                |                                                   |
+| Mig La            | Ladakh         | higest pass19,400                                 |
+| **Umling La**     | Ladakh         | motorable pass — 19,024 ft                        |
 | **Khardung La**   | Ladakh         | Earlier claimed highest motorable — now Umling La |
 | **Nathu La**      | **Sikkim**     | Trade route with China                            |
 | **Jelep La**      | Sikkim         | —                                                 |
