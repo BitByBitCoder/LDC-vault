@@ -110,7 +110,7 @@
 |**Eastern Coastal Plain**|From West Bengal to Tamil Nadu (east coast)|Broader, emergent coastline|Northern Circars (Odisha-AP), Coromandel Coast (TN-AP)|Wider than west coast; major deltas — Mahanadi, Godavari, Krishna, Kaveri|Wider because it's an **emergent** coast (land rose) — opposite mechanism from west coast|
 
 
-## - **Islands & Archipelagos** — Andaman & Nicobar, Lakshadweep
+## **Islands & Archipelagos** — Andaman & Nicobar, Lakshadweep
 
 |Group|Location|Origin|Key facts|Capital/HQ|Exam trap|
 |---|---|---|---|---|---|
