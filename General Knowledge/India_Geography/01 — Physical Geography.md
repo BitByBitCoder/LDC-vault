@@ -98,7 +98,7 @@
 | **Meghalaya (Shillong) Plateau** | Meghalaya                                         | Khasi, Garo, Jaintia Hills; site of Mawsynram / Cherrapunji                                                       | Extension of Peninsular shield, separated by **Garo-Rajmahal Gap (Malda Gap)** | **Trap 1:** Frequently misgrouped with the Himalayas (it is purely Peninsular block).<br><br>  <br><br>**Trap 2:** Believing the Malda Gap is structural; it was filled by Ganga-Brahmaputra silt.         |
 | **Karnataka (Mysore) Plateau**   | Karnataka & parts of Kerala/TN                    | Divided into **Malnad** (hilly forest) and **Maidan** (rolling plain); home to Bababudan Hills (Iron ore, Coffee) | Archaean gneisses & granites (northern part has some basaltic lava)            | **Trap 1:** Divided into two distinct physiographic zones (Malnad vs Maidan).<br><br>  <br><br>**Trap 2:** Origin of major east-flowing rivers (Kaveri, Tungabhadra)                                       |
 
-## Plains
+## **Plains** — Indo-Gangetic plain, coastal plains
 
 |Plain|Location|Formed by|Key sub-regions/rivers|Key facts|Exam trap|
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 |**Western Coastal Plain**|From Gujarat to Kerala (west coast)|Narrow, submergent coastline|Konkan coast (Maharashtra-Goa), Kannad coast (Karnataka), Malabar coast (Kerala)|Narrower than east coast; few large deltas; Western Ghats close to coast|Narrow because it's a **submerged** coast (land sank)|
 |**Eastern Coastal Plain**|From West Bengal to Tamil Nadu (east coast)|Broader, emergent coastline|Northern Circars (Odisha-AP), Coromandel Coast (TN-AP)|Wider than west coast; major deltas — Mahanadi, Godavari, Krishna, Kaveri|Wider because it's an **emergent** coast (land rose) — opposite mechanism from west coast|
 
-## Straits & Water Bodies (India)
+## Straits & Water Bodies (India **Straits, Channels & Water Passages** )
 A **strait is a narrow passage of water that connects two larger water bodies** (such as two seas, a sea and an ocean, or a bay and a sea).
 
 | Strait/Channel           | Between                                              |     |
