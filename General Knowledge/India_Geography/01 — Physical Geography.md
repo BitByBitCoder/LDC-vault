@@ -97,6 +97,8 @@
 | **Marwar / Mewar Plateau**       | Eastern Rajasthan (East of Aravallis)             | Rolling plain carved out by Banas River & tributaries                                                             | Vindhyan sedimentary rocks (sandstone, shale, limestone)                       | **Trap 1:** Confused with the **Marwar Plain**, which lies _west_ of the Aravallis (Thar Desert).<br><br>  <br><br>**Trap 2:** Streams flow into Chambal, not directly into the sea.                       |
 | **Meghalaya (Shillong) Plateau** | Meghalaya                                         | Khasi, Garo, Jaintia Hills; site of Mawsynram / Cherrapunji                                                       | Extension of Peninsular shield, separated by **Garo-Rajmahal Gap (Malda Gap)** | **Trap 1:** Frequently misgrouped with the Himalayas (it is purely Peninsular block).<br><br>  <br><br>**Trap 2:** Believing the Malda Gap is structural; it was filled by Ganga-Brahmaputra silt.         |
 | **Karnataka (Mysore) Plateau**   | Karnataka & parts of Kerala/TN                    | Divided into **Malnad** (hilly forest) and **Maidan** (rolling plain); home to Bababudan Hills (Iron ore, Coffee) | Archaean gneisses & granites (northern part has some basaltic lava)            | **Trap 1:** Divided into two distinct physiographic zones (Malnad vs Maidan).<br><br>  <br><br>**Trap 2:** Origin of major east-flowing rivers (Kaveri, Tungabhadra)                                       |
+
+## 
 ## Straits & Water Bodies (India)
 A **strait is a narrow passage of water that connects two larger water bodies** (such as two seas, a sea and an ocean, or a bay and a sea).
 
