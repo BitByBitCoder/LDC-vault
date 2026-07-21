@@ -37,15 +37,15 @@
 
 ## Mountain Peaks 
 
-| Peak                   | Height  | Location                                 |
-| ---------------------- | ------- | ---------------------------------------- |
-| **Mt. Everest**        | 8,849 m | Nepal/Tibet — world's highest            |
-| **K2 (Godwin-Austen)** | 8,611 m | Karakoram — 2nd highest world            |
-| **Kanchenjunga**       | 8,586 m | Sikkim — **highest peak in India**       |
-| **Nanda Devi**         | 7,816 m | Uttarakhand — 2nd highest in India       |
-| **Anaimudi**           | 2,695 m | Kerala — **highest in Peninsular India** |
-| **Dodabetta**          | 2,637 m | Tamil Nadu — highest in Nilgiris         |
-| **Phawngpui**          | 2,157 m | Mizoram — highest in Mizoram             |
+| Peak                       | Height  | Location                                 |
+| -------------------------- | ------- | ---------------------------------------- |
+| \|\|Mt. Everest\|\|        | 8,849 m | Nepal/Tibet — world's highest            |
+| \|\|K2 (Godwin-Austen)\|\| | 8,611 m | Karakoram — 2nd highest world            |
+| \|\|Kanchenjunga\|\|       | 8,586 m | Sikkim — **highest peak in India**       |
+| \|\|Nanda Devi\|\|         | 7,816 m | Uttarakhand — 2nd highest in India       |
+| \|\|Anaimudi\|\|           | 2,695 m | Kerala — **highest in Peninsular India** |
+| \|\|Dodabetta\|\|          | 2,637 m | Tamil Nadu — highest in Nilgiris         |
+| \|\|Phawngpui\|\|          | 2,157 m | Mizoram — highest in Mizoram             |
 [17 -- Mountain Peaks in India](17%20--%20Mountain%20Peaks%20in%20India.md)
 
 | Peak             | Memory Trick                                                                                                                                  |
