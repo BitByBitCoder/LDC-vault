@@ -160,26 +160,8 @@ Want this linked into your India Geography vault alongside the Straits/Channels 
 
 Want this coastline features table with the Plains table into a single "Coastal Geography" note in the exam vault its Obsidian vault, so this comparison chain fits so it fits your frequency-ranked structure?Let me clean that last bit up — want me to merge this coastline table with the Plains table into a single "Coastal Geography" note in your vault, since the submergent/emergent → estuary/delta reasoning chain links them directly?
 
-## volcano
-|Feature|Detail|Exam trap|
-|---|---|---|
-|**Location**|Barren Island, Andaman group, Bay of Bengal|Sometimes confused as being in Nicobar group — it's in the Andaman group|
-|**Status**|India's only confirmed **active volcano**|Narcondam (also Andaman group) is dormant, not active — frequently swapped|
-|**Type**|Composite/stratovolcano|—|
-|**Recent activity**|Has erupted multiple times in recent decades (most notably 1991, and intermittently since)|Exact eruption year sometimes asked — verify latest activity if it appears in your papers|
-|**Ownership/administration**|Uninhabited; part of Andaman & Nicobar Islands UT|—|
-|**Geological context**|Sits on the same subduction zone/volcanic arc that also produced Narcondam Island|Explains why two of India's only volcanic islands are both in the Andaman group|
 
-**Core comparison to lock in:**
 
-|Island|Volcanic status|
-|---|---|
-|Barren Island|Active|
-|Narcondam Island|Dormant|
-
-**Memory anchor:** Barren = burning (active), Narcondam = napping (dormant). This active/dormant pair is the single most repeated volcano question in Indian geography GK.
-
-Want this merged into the Islands & Archipelagos note in your vault, since Barren and Narcondam already sit there as sub-entries?
 ## Straits & Water Bodies (India **Straits, Channels & Water Passages** )
 A **strait is a narrow passage of water that connects two larger water bodies** (such as two seas, a sea and an ocean, or a bay and a sea).
 
@@ -222,6 +204,28 @@ Want this cross-linked with your Andaman-Nicobar and Lakshadweep facts in the Ob
 - Northernmost point → Indira Col, Siachen (J&K)
 - Easternmost point → Kibithu, Arunachal Pradesh
 - Westernmost point → Ghuar Mota / Sir Creek area, Gujarat
+## **Volcanoes** — Barren Island 
+
+|Feature|Detail|Exam trap|
+|---|---|---|
+|**Location**|Barren Island, Andaman group, Bay of Bengal|Sometimes confused as being in Nicobar group — it's in the Andaman group|
+|**Status**|India's only confirmed **active volcano**|Narcondam (also Andaman group) is dormant, not active — frequently swapped|
+|**Type**|Composite/stratovolcano|—|
+|**Recent activity**|Has erupted multiple times in recent decades (most notably 1991, and intermittently since)|Exact eruption year sometimes asked — verify latest activity if it appears in your papers|
+|**Ownership/administration**|Uninhabited; part of Andaman & Nicobar Islands UT|—|
+|**Geological context**|Sits on the same subduction zone/volcanic arc that also produced Narcondam Island|Explains why two of India's only volcanic islands are both in the Andaman group|
+
+**Core comparison to lock in:**
+
+|Island|Volcanic status|
+|---|---|
+|Barren Island|Active|
+|Narcondam Island|Dormant|
+
+**Memory anchor:** Barren = burning (active), Narcondam = napping (dormant). This active/dormant pair is the single most repeated volcano question in Indian geography GK.
+
+Want this merged into the Islands & Archipelagos note in your vault, since Barren and Narcondam already sit there as sub-entries?
+
 ## India — Basic Physical Facts
 
 | Question                            | Answer                                                   |
