@@ -134,6 +134,8 @@
 **Memory anchor:** Bay of Bengal islands = mountains poking through water (volcanic/tectonic); Arabian Sea islands = coral built up from the seafloor. Origin-type questions ("which island group is of coral origin") are the single most repeated pattern here.
 
 Want this linked into your India Geography vault alongside the Straits/Channels note, since Ten Degree Channel and Eight/Nine Degree Channel connect directly to these island groups?
+
+
 ## Straits & Water Bodies (India **Straits, Channels & Water Passages** )
 A **strait is a narrow passage of water that connects two larger water bodies** (such as two seas, a sea and an ocean, or a bay and a sea).
 
