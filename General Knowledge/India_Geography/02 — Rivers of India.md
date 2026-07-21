@@ -65,6 +65,7 @@ A perennial river ==flows continuously throughout the year, even during the dry 
 
 > 💡 **Exam tip:** Narmada and Tapti are the only major rivers flowing **West → Arabian Sea** through peninsular India
 
+
 ---
 
 ## Important Dams & Projects
