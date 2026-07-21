@@ -63,17 +63,17 @@
 
 ## Important Passes [Passes in India](../../Passes%20in%20India.md)
 
-| Pass              | State/Location  | Key Fact                                                          |
-| ----------------- | --------------- | ----------------------------------------------------------------- |
-| **Mig La**        | Ladakh          | **Highest motorable pass globally** at 19,400 ft.                 |
-| **Umling La**     | Ladakh          | Certified Guinness Record pass at 19,024 ft.                      |
-| **Khardung La**   | Ladakh          | Earlier claimed highest; gateway to Nubra Valley.                 |
-| **Nathu La**      | Sikkim          | Crucial historical and active Indo-China trade route.             |
-| **Jelep La**      | Sikkim          | Part of the ancient Silk Route, connects Sikkim to Lhasa.         |
-| **Diphu Pass**    | Arunachal       | Strategic border tri-point between India, China, and Myanmar.     |
-| **Bara Lacha La** | Himachal        | High pass connecting Himachal's Lahaul to Leh in Ladakh.          |
-| **Rohtang Pass**  | Himachal        | Gateway to Lahaul and Spiti; located on the Pir Panjal Range.     |
-| **Banihal Pass**  | Jammu & Kashmir | Connects Kashmir Valley to Jammu; location of the Jawahar Tunnel. |
+| Pass                | State/Location  | Key Fact                                                          |
+| ------------------- | --------------- | ----------------------------------------------------------------- |
+| \|\|Mig La\|\|      | Ladakh          | **Highest motorable pass globally** at 19,400 ft.                 |
+| \|\|Umling La\|\|   | Ladakh          | Certified Guinness Record pass at 19,024 ft.                      |
+| \|\|Khardung La\|\| | Ladakh          | Earlier claimed highest; gateway to Nubra Valley.                 |
+| Nathu La\|\|        | Sikkim          | Crucial historical and active Indo-China trade route.             |
+| \|\|Jelep La\|\|    | Sikkim          | Part of the ancient Silk Route, connects Sikkim to Lhasa.         |
+| Diphu Pass\|\|      | Arunachal       | Strategic border tri-point between India, China, and Myanmar.     |
+| \|\|Bara Lacha La   | Himachal        | High pass connecting Himachal's Lahaul to Leh in Ladakh.          |
+| Rohtang Pass\|\|    | Himachal        | Gateway to Lahaul and Spiti; located on the Pir Panjal Range.     |
+| \|\|Banihal Pass**  | Jammu & Kashmir | Connects Kashmir Valley to Jammu; location of the Jawahar Tunnel. |
 ### passes trick
 | Pass              | Trigger            |
 | ----------------- | ------------------ |
