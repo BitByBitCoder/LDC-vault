@@ -28,17 +28,14 @@
             "id": "23c50d0fbbfdbac7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "General Knowledge/Indian_Polity_Constitution/note/indian polity canvas/Fundamental Rights.canvas",
-                "viewState": {
-                  "x": 295,
-                  "y": 40,
-                  "zoom": -0.47400441972456975
-                }
+                "file": "General Knowledge/Indian_Polity_Constitution/note/02 — Fundamental Rights.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Fundamental Rights"
+              "icon": "lucide-file",
+              "title": "02 — Fundamental Rights"
             }
           },
           {
@@ -229,15 +226,15 @@
   },
   "active": "23c50d0fbbfdbac7",
   "lastOpenFiles": [
+    "General Knowledge/Indian_Polity_Constitution/note/indian polity canvas/Fundamental Rights.canvas",
+    "Physical geography canvas.canvas",
     "General Knowledge/Indian_Polity_Constitution/note/02 — Fundamental Rights.md",
     "General Knowledge/Indian_Polity_Constitution/note/🏛️ Indian Polity & Constitution — INDEX.md",
     "General Knowledge/Indian_Polity_Constitution/note/00 - Important Dates Chronological order.md",
-    "General Knowledge/Indian_Polity_Constitution/note/indian polity canvas/Fundamental Rights.canvas",
     "General Knowledge/Indian_Polity_Constitution/note/01 — Constitution Basics.md",
     "General Knowledge/India_Geography/🌏 India Geography — INDEX.md",
     "General Knowledge/India_Geography/01 — India Basic Facts & Superlatives.md",
     "General Knowledge/India_Geography/02 — Rivers of India.md",
-    "Physical geography canvas.canvas",
     "General Knowledge/India_Geography/01 — Physical Geography.md",
     "General Knowledge/India_Geography/03 — Mountains, Passes & Peaks.md",
     "GK_Missing_Topics/04 — Geography Gaps.md",
@@ -273,7 +270,6 @@
     "Untitled.base",
     "General Knowledge/India_Geography/09 -- Geographical Sobriquets.md",
     "General Knowledge/India_Geography/15 -- Cordinial Direction.md",
-    "General Knowledge/India_Geography/06 — World Geography.md",
     "General Knowledge/India_Geography/brain",
     "Dictionary",
     "General Knowledge/Indian_Polity_Constitution/note",
