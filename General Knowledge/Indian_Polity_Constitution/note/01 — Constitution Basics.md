@@ -18,11 +18,11 @@
 
 ## Constitutional Structure
 
-| Element | Original | Current |
-|---------|---------|---------|
-| Parts | 22 | 25 |
-| Articles | 395 | ~448 |
-| Schedules | 8 | **12** |
+| Element   | Original | Current |
+| --------- | -------- | ------- |
+| Parts     | 22       | 25      |
+| Articles  | 395      | ~448    |
+| Schedules | 8        | **12**  |
 
 ## Important Dates
 
