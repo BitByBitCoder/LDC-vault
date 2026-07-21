@@ -136,11 +136,11 @@ more
 
 **Core comparison to lock in (very high-yield pattern):**
 
-|Latitude channel|Separates|
-|---|---|
-|8° Channel|Minicoy — Maldives|
-|9° Channel|Minicoy — Lakshadweep (rest)|
-|10° Channel|Little Andaman — Car Nicobar|
+| Latitude channel | Separates                    |
+| ---------------- | ---------------------------- |
+| 8° Channel       | Minicoy — Maldives           |
+| 9° Channel       | Minicoy — Lakshadweep (rest) |
+| 10° Channel      | Little Andaman — Car Nicobar |
 
 **Memory anchor:** Latitude number roughly matches degree North — 8°, 9°, 10° channels all lie near their namesake latitudes. Question pattern is almost always "which channel separates X from Y" — the location logic (not just the name) is what's tested.
 
