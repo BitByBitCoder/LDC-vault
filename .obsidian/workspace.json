@@ -38,7 +38,8 @@
               "title": "01 — Physical Geography"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,11 +210,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c365556c86f37cdd",
+  "active": "23c50d0fbbfdbac7",
   "lastOpenFiles": [
+    "Physical geography canvas.canvas",
     "Pasted image 20260721123150.png",
     "General Knowledge/India_Geography/01 — Physical Geography.md",
-    "Physical geography canvas.canvas",
     "Pasted image 20260721123103.png",
     "Pasted image 20260721122916.png",
     "Pasted image 20260721122852.png",
@@ -241,7 +242,6 @@
     "General Knowledge/India_Geography/gk canvas",
     "Computer_Knowledge/01 — Hardware & Computer Basics.md",
     "Physical_Geography_Mindmap.canvas",
-    "maths brain/ChatGPT Image Jun 30, 2026, 07_31_55 PM 2.png",
     "Obsidian_Learning_System.md",
     "first canvas.canvas",
     "learn/the think framework.md",
