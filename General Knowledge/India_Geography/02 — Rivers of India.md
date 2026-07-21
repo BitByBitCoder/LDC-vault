@@ -21,23 +21,21 @@
 
 ### Himalayan Rivers (Perennial — fed by glaciers)
 
-
-
-## Individual river
-| **River**              | **Origin (A lo chhuahna)**                    | **Drains Into (A luah luhna)**     | **Key Fact**                                                                | **Mizo Hrilhfiahna / Exam Focus**                                                                                                                                                               |
-| ---------------------- | --------------------------------------------- | ---------------------------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ==Indus system==       |                                               |                                    |                                                                             |                                                                                                                                                                                                 |
-| [[Indus]]              | \|\|Tibet (near Mansarovar)\|\|               | \|\|Arabian Sea\|\|                | \|\|Longest overall river in the subcontinent.\|\| [ view](Subcontinent%20) | Himadri piah lam ațanga lo chhuak a ni a, a dung a sei em em a, mahse a thui zawk hi Pakistan chhungah a luang thung.                                                                           |
-| Jhelum                 | Verniag Spring (J&K)                          | chenab River                       | Flows through Srinagar & Wular Lake. Ancient name: **_Vitasta_**.           | J&K khawpui **Srinagar** leh **Wular Lake** (India tui thianghlim dil lian ber) paltlangtu a ni. History-ah Alexander-a leh Lal Porus-a te indanna hmun (**Battle of Hydaspes**) kha a ni bawk. |
-| **Chenab**             | Bara-lacha La Pass (HP)                       | Indus River                        | **Largest of the 5 Punjab rivers by volume**.                               | Punjab lui 5 zinga **tui hnem ber** (volume) la a ni thung.                                                                                                                                     |
-| **Ravi**               | Rohtang Pass (HP)                             | Chenab River                       | Border river between India and Pakistan.                                    | Himachal leh Punjab rorualna paltlangin Chenab lui a va zawm leh a ni.                                                                                                                          |
-| **Beas**               | Rohtang Pass (HP)                             | Sutlej River (at Harike)           | Flows entirely within India.                                                | Punjab lui 5 zinga **India ram chhung chauhva luang** (Pakistan-ah a phei ve lo) awmchhun a ni.                                                                                                 |
-| **Sutlej**             | Tibet (Lake Rakshastal)                       | Indus River (via Panjnad)          | Trans-Himalayan; **Longest of the 5 Punjab rivers**.                        | Trans-Himalayan river a ni a (Tibet-ah a lo chhuak). Punjab lui 5 zinga **a dung sei ber** a ni.                                                                                                |
-| ==Ganga system==       |                                               |                                    |                                                                             |                                                                                                                                                                                                 |
-| [[Ganga]]              | \|\|Gangotri Glacier (Uttarakhand)\|\|        | \|\|Bay of Bengal\|\|              | \|\|Longest river in India (2,525 km).\|\|                                  | India ram chhunga lui dung sei ber a ni.                                                                                                                                                        |
-| [[Yamuna]]             | \|\|Yamunotri Glacier (Uttarakhand)\|\|       | \|\|Ganga River (at Prayagraj)\|\| | \|\|Ganga's largest tributary.\|\|                                          | Ganga lui nena fin (tributary) lian ber a ni. **Triveni Sangam** (Prayagraj)-ah an i fin țhin.                                                                                                  |
+| **River**          | **Origin (A lo chhuahna)**                    | **Drains Into (A luah luhna)**     | **Key Fact**                                                                | **Mizo Hrilhfiahna / Exam Focus**                                                                                                                                                               |
+| ------------------ | --------------------------------------------- | ---------------------------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ==Indus system==   |                                               |                                    |                                                                             |                                                                                                                                                                                                 |
+| [[Indus]]          | \|\|Tibet (near Mansarovar)\|\|               | \|\|Arabian Sea\|\|                | \|\|Longest overall river in the subcontinent.\|\| [ view](Subcontinent%20) | Himadri piah lam ațanga lo chhuak a ni a, a dung a sei em em a, mahse a thui zawk hi Pakistan chhungah a luang thung.                                                                           |
+| Jhelum             | Verniag Spring (J&K)                          | chenab River                       | Flows through Srinagar & Wular Lake. Ancient name: **_Vitasta_**.           | J&K khawpui **Srinagar** leh **Wular Lake** (India tui thianghlim dil lian ber) paltlangtu a ni. History-ah Alexander-a leh Lal Porus-a te indanna hmun (**Battle of Hydaspes**) kha a ni bawk. |
+| **Chenab**         | Bara-lacha La Pass (HP)                       | Indus River                        | **Largest of the 5 Punjab rivers by volume**.                               | Punjab lui 5 zinga **tui hnem ber** (volume) la a ni thung.                                                                                                                                     |
+| **Ravi**           | Rohtang Pass (HP)                             | Chenab River                       | Border river between India and Pakistan.                                    | Himachal leh Punjab rorualna paltlangin Chenab lui a va zawm leh a ni.                                                                                                                          |
+| **Beas**           | Rohtang Pass (HP)                             | Sutlej River (at Harike)           | Flows entirely within India.                                                | Punjab lui 5 zinga **India ram chhung chauhva luang** (Pakistan-ah a phei ve lo) awmchhun a ni.                                                                                                 |
+| **Sutlej**         | Tibet (Lake Rakshastal)                       | Indus River (via Panjnad)          | Trans-Himalayan; **Longest of the 5 Punjab rivers**.                        | Trans-Himalayan river a ni a (Tibet-ah a lo chhuak). Punjab lui 5 zinga **a dung sei ber** a ni.                                                                                                |
+| ==Ganga system==   |                                               |                                    |                                                                             |                                                                                                                                                                                                 |
+| [[Ganga]]          | \|\|Gangotri Glacier (Uttarakhand)\|\|        | \|\|Bay of Bengal\|\|              | \|\|Longest river in India (2,525 km).\|\|                                  | India ram chhunga lui dung sei ber a ni.                                                                                                                                                        |
+| [[Yamuna]]         | \|\|Yamunotri Glacier (Uttarakhand)\|\|       | \|\|Ganga River (at Prayagraj)\|\| | \|\|Ganga's largest tributary.\|\|                                          | Ganga lui nena fin (tributary) lian ber a ni. **Triveni Sangam** (Prayagraj)-ah an i fin țhin.                                                                                                  |
 | ==Brahmaputra system== |                                               |                                    |                                                                             |                                                                                                                                                                                                 |
-| [[Brahmaputra]]        | \|\|Angsi Glacier Tibet (near Mansarovar)\|\| | \|\|Bay of Bengal\|\|              | \|\|Largest by water volume in India.\|\|                                   | India rama tui luang hnem ber (volume) lui a ni. Tibet ramah chuan **Tsangpo** an ti țhin. **Majuli Island** awmna kha a ni bawk.                                                               |
+| [[Brahmaputra]]    | \|\|Angsi Glacier Tibet (near Mansarovar)\|\| | \|\|Bay of Bengal\|\|              | \|\|Largest by water volume in India.\|\|                                   | India rama tui luang hnem ber (volume) lui a ni. Tibet ramah chuan **Tsangpo** an ti țhin. **Majuli Island** awmna kha a ni bawk.                                                               |
+
 ### Peninsular Rivers (Seasonal — rain fed)
 #### East flowing river system
 
@@ -59,7 +57,7 @@
 
 A perennial river ==flows continuously throughout the year, even during the dry season==.
 
-### Rivers Draining into Arabian Sea vs Bay of Bengal
+## Rivers Draining into Arabian Sea vs Bay of Bengal
 
 | Arabian Sea                                           | Bay of Bengal                                                   |
 | ----------------------------------------------------- | --------------------------------------------------------------- |
@@ -67,37 +65,6 @@ A perennial river ==flows continuously throughout the year, even during the dry 
 
 > 💡 **Exam tip:** Narmada and Tapti are the only major rivers flowing **West → Arabian Sea** through peninsular India
 
-
-
-|Feature|Himalayan Rivers|Peninsular Rivers|
-|---|---|---|
-|**Nature**|Perennial — fed by rainfall + snowmelt/glaciers|Seasonal — fed mainly by rainfall (monsoon-dependent)|
-|**Origin**|Young fold mountains (Himalayas)|Old, stable peninsular plateau (Gondwana block)|
-|**Course**|Long, winding course with meanders in upper/middle stages|Shorter, fixed, rigid courses — follow old fault lines/cracks|
-|**Erosion pattern**|Youthful stage erosion — deep gorges, V-shaped valleys|Shallow valleys, broad and shallow river beds|
-|**Drainage type**|Antecedent/consequent — older than the mountains themselves in places (cut gorges as Himalayas rose)|Follows structural/geological control — rivers flow along cracks, faults, or fold lines|
-|**Major rivers**|Indus, Ganga, Brahmaputra (and tributaries: Yamuna, Ghaghara, Gandak, Kosi, Chenab, Sutlej, etc.)|Godavari, Krishna, Kaveri, Narmada, Tapi, Mahanadi|
-|**Mouth landform**|Deltas (Ganga-Brahmaputra delta — largest in world)|East-flowing rivers → deltas (Godavari, Krishna, Kaveri, Mahanadi); west-flowing (Narmada, Tapi) → estuaries|
-|**Direction of flow**|Mostly flow into Bay of Bengal (except Indus → Arabian Sea)|Most flow east into Bay of Bengal (Godavari, Krishna, Kaveri, Mahanadi); Narmada & Tapi flow west into Arabian Sea|
-|**Basin size**|Very large basins|Comparatively smaller basins|
-|**Water flow**|Continuous year-round due to glacier/snowmelt supplementing monsoon|Dries up significantly in summer — heavily monsoon-dependent|
-
-**Exam traps:**
-
-|Trap|Correct fact|
-|---|---|
-|"All peninsular rivers flow east"|Narmada & Tapi are major exceptions — flow WEST into Arabian Sea via rift valleys|
-|"Himalayan rivers are older than the mountains"|Actually true for some — antecedent drainage (Indus, Brahmaputra, Sutlej) predates the Himalayan uplift, cutting gorges as the mountains rose|
-|Ganga-Brahmaputra system called one river|Often tested as separate systems that merge only near the delta|
-|Narmada/Tapi flow through rift valleys, not river valleys|These are **fault-guided rift valleys**, not typical erosional valleys — unlike most other rivers|
-
-**Core comparison to lock in (the single highest-yield fact in this whole topic):**
-
-> Himalayan = perennial (snow+rain) + young mountains + deltas at mouth Peninsular = seasonal (rain only) + old plateau + mostly deltas, but Narmada/Tapi = estuaries + west-flowing exceptions
-
-**Memory anchor:** Narmada and Tapi are the double exception in Indian rivers — they're peninsular (should be seasonal + east-flowing like others) but behave differently: they flow **west** through **rift valleys** and form **estuaries**, not deltas. This one pair of rivers is tested from at least 4 different angles (direction, valley type, mouth landform, perennial vs seasonal).
-
-Want this cross-linked with your Plains and Coastline notes, since the delta/estuary distinction already lives there?
 
 ---
 
