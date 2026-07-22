@@ -34,7 +34,7 @@
                 "viewState": {
                   "x": -502,
                   "y": -240,
-                  "zoom": 0
+                  "zoom": -1.0607625325520833
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -227,8 +227,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23c50d0fbbfdbac7",
+  "active": "fae9520d72428e28",
   "lastOpenFiles": [
+    "English/recording",
     "General Knowledge/Indian_Polity_Constitution/note/02 — Fundamental Rights.md",
     "General Knowledge/Indian_Polity_Constitution/note/indian polity canvas/Fundamental Rights.canvas",
     "Physical geography canvas.canvas",
