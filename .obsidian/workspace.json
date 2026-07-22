@@ -28,17 +28,14 @@
             "id": "23c50d0fbbfdbac7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "General Knowledge/Indian_Polity_Constitution/note/indian polity canvas/Fundamental Rights.canvas",
-                "viewState": {
-                  "x": -502,
-                  "y": -240,
-                  "zoom": -1.0607625325520833
-                }
+                "file": "English/📝 English — INDEX.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Fundamental Rights"
+              "icon": "lucide-file",
+              "title": "📝 English — INDEX"
             }
           },
           {
@@ -227,11 +224,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fae9520d72428e28",
+  "active": "23c50d0fbbfdbac7",
   "lastOpenFiles": [
+    "General Knowledge/Indian_Polity_Constitution/note/indian polity canvas/Fundamental Rights.canvas",
     "English/recording",
     "General Knowledge/Indian_Polity_Constitution/note/02 — Fundamental Rights.md",
-    "General Knowledge/Indian_Polity_Constitution/note/indian polity canvas/Fundamental Rights.canvas",
     "Physical geography canvas.canvas",
     "General Knowledge/Indian_Polity_Constitution/note/🏛️ Indian Polity & Constitution — INDEX.md",
     "General Knowledge/Indian_Polity_Constitution/note/00 - Important Dates Chronological order.md",
@@ -280,7 +277,6 @@
     "General Knowledge/note",
     "General Knowledge/Indian_Polity_Constitution/brain/Fundamental Rights/Aticles",
     "General Knowledge/Indian_Polity_Constitution/brain/Fundamental Rights",
-    "General Knowledge/Indian_Polity_Constitution/brain",
-    "learn"
+    "General Knowledge/Indian_Polity_Constitution/brain"
   ]
 }
