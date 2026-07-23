@@ -20,23 +20,23 @@
 
 ## 📊 Topic Frequency (Real Data From Your Papers)
 
-| Topic | Questions | % | Priority |
-|-------|-----------|---|---------|
-| Prepositions | 17 | 8.3% | 🔴 High |
-| Tenses | 16 | 7.8% | 🔴 High |
-| Parts of Speech | 15 | 7.4% | 🔴 High |
-| Sentence Correction | 14 | 6.9% | 🔴 High |
-| Active & Passive Voice | 8 | 3.9% | 🔴 High |
-| Antonyms | 8 | 3.9% | 🔴 High |
-| Synonyms | 7 | 3.4% | 🔴 High |
-| Direct & Indirect Speech | 7 | 3.4% | 🔴 High |
-| One Word Substitution | 7 | 3.4% | 🟡 Medium |
-| Conjunctions & Connectors | 7 | 3.4% | 🟡 Medium |
-| Idioms & Phrases | 8+ | 4.0% | 🟡 Medium |
-| Spelling | 4 | 2.0% | 🟡 Medium |
-| Articles (a/an/the) | 2 | 1.0% | 🟢 Low |
-| Essay Writing | Part B | 20 marks | 🔴 High |
-| Comprehension | Part B | 20 marks | 🔴 High |
+| Topic                     | Questions | %        | Priority  |
+| ------------------------- | --------- | -------- | --------- |
+| Prepositions              | 17        | 8.3%     | 🔴 High   |
+| Tenses                    | 16        | 7.8%     | 🔴 High   |
+| Parts of Speech           | 15        | 7.4%     | 🔴 High   |
+| Sentence Correction       | 14        | 6.9%     | 🔴 High   |
+| Active & Passive Voice    | 8         | 3.9%     | 🔴 High   |
+| Antonyms                  | 8         | 3.9%     | 🔴 High   |
+| Synonyms                  | 7         | 3.4%     | 🔴 High   |
+| Direct & Indirect Speech  | 7         | 3.4%     | 🔴 High   |
+| One Word Substitution     | 7         | 3.4%     | 🟡 Medium |
+| Conjunctions & Connectors | 7         | 3.4%     | 🟡 Medium |
+| Idioms & Phrases          | 8+        | 4.0%     | 🟡 Medium |
+| Spelling                  | 4         | 2.0%     | 🟡 Medium |
+| Articles (a/an/the)       | 2         | 1.0%     | 🟢 Low    |
+| Essay Writing             | Part B    | 20 marks | 🔴 High   |
+| Comprehension             | Part B    | 20 marks | 🔴 High   |
 
 ---
 
