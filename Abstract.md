@@ -26,6 +26,7 @@ Examples:
 ## The 5 Categories Rule
 
 Almost every abstract noun belongs to one of these categories:
+**idea, quality, feeling, state, or concept**.
 
 1. **Emotion (Feelings)**
     
