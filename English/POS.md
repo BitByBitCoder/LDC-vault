@@ -39,19 +39,19 @@ Most-missed distinction:
 
 Subtypes commonly tested:
 
-- **Descriptive** — ||tall, blue, difficult
-- **Quantitative** — some, few, many, much
-- **Demonstrative** — this, that (when before a noun — overlaps with Determiner debate)
-- **Possessive** — my, your, his (also overlaps with Determiner)
-- **Degrees of comparison** — big → bigger → biggest (Positive/Comparative/Superlative — very high-frequency exam topic, often tested as its own section)
+- **Descriptive** — ||tall, blue, difficult||
+- **Quantitative** — ||some, few, many, much||
+- **Demonstrative** — ||this, that (when before a noun — overlaps with Determiner debate)||
+- **Possessive** — ||my, your, his (also overlaps with Determiner)||
+- **Degrees of comparison** —|| big → bigger → biggest (Positive/Comparative/Superlative — very high-frequency exam topic, often tested as its own section)||
 
 ### 5. Adverb
 
 Types:
 
-- **Manner** — quickly, well, loudly (how)
-- **Time** — now, yesterday, soon (when)
-- **Place** — here, there, outside (where)
+- **Manner** — ||quickly, well, loudly (how)||
+- **Time** — ||now, yesterday, soon (when)||
+- **Place** — ||here, there, outside (where)||
 - **Frequency** — always, often, never (how often)
 - **Degree** — very, too, quite, almost (how much)
 - **Interrogative** — why, where, how (in questions)
