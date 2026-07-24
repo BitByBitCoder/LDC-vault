@@ -1,4 +1,4 @@
-**idea, quality, feeling, state, or concept**.
+**idea, quality, feeling, state time, or concept**.
 
 ## Formula
 
