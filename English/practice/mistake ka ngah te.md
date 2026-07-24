@@ -4,10 +4,10 @@ Here is the complete breakdown of conjunctions, determiners, and prepositions, c
 
 Conjunctions link words, phrases, or clauses together to show how ideas relate to each other. [3]
 
-- Coordinating Conjunctions: Connect equal grammatical elements using the FANBOYS acronym (_for, and, nor, but, or, yet, so_). [4, 5, 6]
-- Subordinating Conjunctions: Join an independent clause to a dependent clause (_because, although, since, if, while, until, unless, before_). [7, 8, 9, 10, 11]
-- Correlative Conjunctions: Work in pairs to join grammatically equal elements (_either/or, neither/nor, both/and, not only/but also_). [12, 13, 14, 15, 16]
-- Conjunctive Adverbs: Transition words that connect two independent clauses after a semicolon (_however, therefore, meanwhile, furthermore, consequently_). [17, 18, 19, 20, 21]
+- Coordinating Conjunctions: Connect equal grammatical elements using the FANBOYS acronym (_for, and, nor, but, or, yet, so_). 
+- Subordinating Conjunctions: Join an independent clause to a dependent clause (_because, although, since, if, while, until, unless, before_). 
+- Correlative Conjunctions: Work in pairs to join grammatically equal elements (_either/or, neither/nor, both/and, not only/but also_). 
+- Conjunctive Adverbs: Transition words that connect two independent clauses after a semicolon (_however, therefore, meanwhile, furthermore, consequently_). 
 
 ## Determiners
 
