@@ -5,15 +5,15 @@
 
 ## Questions From Your Papers
 
-| Question | Answer |
-|----------|--------|
-| She _____ to church everyday | **goes** (Simple Present — habitual) |
-| By the time we reached, everyone _____ | **had left** (Past Perfect) |
-| He _________ tea every morning | **drinks** (Simple Present) |
-| She jumped off the bus while it _________ | **was moving** (Past Continuous) |
-| She studies hard, lest she _______ | **fail** (Subjunctive — lest + base verb) |
-| It's high time they _______ planning | **started** (It's high time + past tense) |
-| Were he _______ the offer | **to accept** (Conditional — were + to + verb) |
+| Question                                  | Answer                                         |
+| ----------------------------------------- | ---------------------------------------------- |
+| She _____ to church everyday              | **goes** (Simple Present — habitual)           |
+| By the time we reached, everyone _____    | **had left** (Past Perfect)                    |
+| He _________ tea every morning            | **drinks** (Simple Present)                    |
+| She jumped off the bus while it _________ | **was moving** (Past Continuous)               |
+| She studies hard, lest she _______        | **fail** (Subjunctive — lest + base verb)      |
+| It's high time they _______ planning      | **started** (It's high time + past tense)      |
+| Were he _______ the offer                 | **to accept** (Conditional — were + to + verb) |
 
 ---
 
