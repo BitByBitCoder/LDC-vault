@@ -10,20 +10,20 @@ Types you'll be tested on:
 - **Proper** — ||Mizoram, Ram||
 - **Abstract** — ||honesty, happiness (can't touch it)||
 - **Collective** — ||team, herd, committee||
-- **Countable/Uncountable** — ||books (countable) vs. water (uncountable)
-- **Material** — gold, wood||
+- **Countable/Uncountable** — ||books (countable) vs. water (uncountable)||
+- **Material** — ||gold, wood||
 
 ### 2. Pronoun
 
 Often missed subtypes:
 
-- **Personal** — I, you, he, she, it, they
-- **Possessive** — mine, yours, his, hers
-- **Reflexive** — myself, himself, themselves
-- **Demonstrative** — this, that, these, those
-- **Relative** — who, which, that (connects clauses: "the man **who** came")
-- **Interrogative** — who, what, which (in questions)
-- **Indefinite** — someone, anybody, everything, none
+- **Personal** — ||I, you, he, she, it, they||
+- **Possessive** — ||mine, yours, his, hers||
+- **Reflexive** — ||myself, himself, themselves||
+- **Demonstrative** — ||this, that, these, those||
+- **Relative** — ||who, which, that (connects clauses: "the man **who** came")||
+- **Interrogative** — ||who, what, which (in questions)||
+- **Indefinite** — ||someone, anybody, everything, none||
 
 ### 3. Verb
 
