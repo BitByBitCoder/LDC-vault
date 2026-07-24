@@ -52,16 +52,16 @@ Types:
 - **Manner** — ||quickly, well, loudly (how)||
 - **Time** — ||now, yesterday, soon (when)||
 - **Place** — ||here, there, outside (where)||
-- **Frequency** — always, often, never (how often)
-- **Degree** — very, too, quite, almost (how much)
-- **Interrogative** — why, where, how (in questions)
+- **Frequency** — ||always, often, never (how often)||
+- **Degree** — ||very, too, quite, almost (how much)||
+- **Interrogative** — ||why, where, how (in questions)||
 
 ### 6. Preposition
 
 Missed forms:
 
-- **Simple** — in, on, at, by
-- **Compound** — into, onto, within
+- **Simple** — ||in, on, at, by||
+- **Compound** — ||into, onto, within||
 - **Phrasal (group prepositions)** — in front of, in spite of, because of, according to — **very commonly tested**, easy to miss since they're multi-word
 - Prepositions of time (at, on, in), place (at, on, in), and direction (to, into, onto) each have their own confusing rule sets
 
@@ -69,7 +69,7 @@ Missed forms:
 
 Types:
 
-- **Coordinating** — and, but, or, so, yet (FANBOYS) — joins equal things
+- **Coordinating** — ||and, but, or, so, yet (FANBOYS) — joins equal things||
 - **Subordinating** — because, although, since, if, when — joins a dependent clause
 - **Correlative** — either...or, neither...nor, both...and, not only...but also — **frequently tested and frequently missed**
 
