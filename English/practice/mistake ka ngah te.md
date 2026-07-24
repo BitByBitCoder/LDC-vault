@@ -6,7 +6,7 @@ Conjunctions link words, phrases, or clauses together to show how ideas relate t
 
 - Coordinating Conjunctions: Connect equal grammatical elements using the FANBOYS acronym 
 - 
-- (_for, and, nor, but, or, yet, so_). 
+- ==(_for, and, nor, but, or, yet, so_).== 
 - Subordinating Conjunctions: Join an independent clause to a dependent clause (_because, although, since, if, while, until, unless, before_). 
 - Correlative Conjunctions: Work in pairs to join grammatically equal elements (_either/or, neither/nor, both/and, not only/but also_). 
 - Conjunctive Adverbs: Transition words that connect two independent clauses after a semicolon (_however, therefore, meanwhile, furthermore, consequently_). 
@@ -15,7 +15,7 @@ Conjunctions link words, phrases, or clauses together to show how ideas relate t
 
 Determiners come at the beginning of a noun phrase to clarify what the noun refers to. [22, 23]
 
-- Articles: Define whether a noun is specific or unspecific (_the, a, an_).
+- Articles: Define whether a noun is specific or unspecific ==(_the, a, an_).==
 - Demonstratives: Point to specific nouns based on physical or temporal distance (_this, that, these, those_).
 - Possessives: Show ownership or possession of a noun (_my, your, his, her, its, our, their_).
 - Quantifiers: Indicate the unspecific quantity or amount of a noun (_some, any, few, little, many, much, all, every_).
@@ -25,7 +25,7 @@ Determiners come at the beginning of a noun phrase to clarify what the noun refe
 
 Prepositions sit before a noun or pronoun to show time, direction, place, or spatial relationships. [29, 30, 31, 32, 33]
 
-- Prepositions of Place: Show where something is located (_in, on, at, under, over, inside, between, behind, next to_).
+- Prepositions of Place: Show where something is located ==(_in, on, at, under, over, inside, between, behind, next to_).==
 - Prepositions of Time: Show when something happens (_on, at, in, before, after, during, since, until, for_).
 - Prepositions of Direction: Show movement toward a destination (_to, into, onto, through, toward, across, past_).
 - Prepositions of Agent/Instrument: Show how or by what an action is done (_by, with, on_). [34, 35, 36, 37, 38]
