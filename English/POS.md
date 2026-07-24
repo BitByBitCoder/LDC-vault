@@ -6,12 +6,12 @@ Here's the full picture — the 8 core categories, plus the subcategories exams 
 
 Types you'll be tested on:
 
-- **Common** — dog, city
-- **Proper** — Mizoram, Ram
-- **Abstract** — honesty, happiness (can't touch it)
-- **Collective** — team, herd, committee
-- **Countable/Uncountable** — books (countable) vs. water (uncountable)
-- **Material** — gold, wood
+- **Common** — ||dog, city||
+- **Proper** — ||Mizoram, Ram||
+- **Abstract** — ||honesty, happiness (can't touch it)||
+- **Collective** — ||team, herd, committee||
+- **Countable/Uncountable** — ||books (countable) vs. water (uncountable)
+- **Material** — gold, wood||
 
 ### 2. Pronoun
 
