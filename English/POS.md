@@ -9,7 +9,7 @@ Types you'll be tested on:
 - **Common** — ||dog, city||
 - **Proper** — ||Mizoram, Ram||
 - [[../Abstract]] — ||honesty, happiness (can't touch it)||
-- **Collective** — ||team, herd, committee||
+- [[Collective]] — ||team, herd, committee||
 - **Countable/Uncountable** — ||books (countable) vs. water (uncountable)||
 - **Material** — ||gold, wood||
 
