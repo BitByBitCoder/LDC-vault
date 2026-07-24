@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collective.md",
+                "file": "Abstract.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Collective"
+              "title": "Abstract"
             }
           },
           {
@@ -239,8 +239,8 @@
   "lastOpenFiles": [
     "English/POS.md",
     "Collective.md",
-    "Abstract.md",
     "English/recording/roadmap.md",
+    "Abstract.md",
     "English/📝 English — INDEX.md",
     "English/01 — Tenses.md",
     "General Knowledge/India_Geography/02 — Rivers of India.md",
