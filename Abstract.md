@@ -1,4 +1,4 @@
-Yes. There isn't a **100% foolproof formula**, but there is a very reliable way to identify abstract nouns.
+**idea, quality, feeling, state, or concept**.
 
 ## Formula
 
