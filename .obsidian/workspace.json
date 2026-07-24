@@ -67,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,10 +238,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2909264cfe15e261",
+  "active": "23c50d0fbbfdbac7",
   "lastOpenFiles": [
-    "English/practice/mistake ka ngah te.md",
     "English/practice/one.md",
+    "English/practice/mistake ka ngah te.md",
     "English/POS.md",
     "English/recording/roadmap.md",
     "English/gg.md",
