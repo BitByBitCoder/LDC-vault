@@ -11,17 +11,14 @@
             "id": "c365556c86f37cdd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Physical geography canvas.canvas",
-                "viewState": {
-                  "x": -210.45895458366726,
-                  "y": 228.06696581325357,
-                  "zoom": -0.8734985351562499
-                }
+                "file": "English/recording/roadmap.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Physical geography canvas"
+              "icon": "lucide-file",
+              "title": "roadmap"
             }
           },
           {
@@ -240,13 +237,15 @@
   },
   "active": "23c50d0fbbfdbac7",
   "lastOpenFiles": [
-    "English/📝 English — INDEX.md",
+    "General Knowledge/India_Geography/02 — Rivers of India.md",
     "English/01 — Tenses.md",
+    "English/practice/one.md",
+    "English/recording/roadmap.md",
+    "Physical geography canvas.canvas",
+    "English/📝 English — INDEX.md",
     "English/02 — Prepositions.md",
     "English/POS.md",
     "English/practice/mistake ka ngah te.md",
-    "English/practice/one.md",
-    "English/recording/roadmap.md",
     "English/gg.md",
     "English/practice",
     "English/Untitled.md",
@@ -259,13 +258,11 @@
     "General Knowledge/Indian_Polity_Constitution/note/indian polity canvas/Fundamental Rights.canvas",
     "English/recording",
     "General Knowledge/Indian_Polity_Constitution/note/02 — Fundamental Rights.md",
-    "Physical geography canvas.canvas",
     "General Knowledge/Indian_Polity_Constitution/note/🏛️ Indian Polity & Constitution — INDEX.md",
     "General Knowledge/Indian_Polity_Constitution/note/00 - Important Dates Chronological order.md",
     "General Knowledge/Indian_Polity_Constitution/note/01 — Constitution Basics.md",
     "General Knowledge/India_Geography/🌏 India Geography — INDEX.md",
     "General Knowledge/India_Geography/01 — India Basic Facts & Superlatives.md",
-    "General Knowledge/India_Geography/02 — Rivers of India.md",
     "General Knowledge/India_Geography/01 — Physical Geography.md",
     "General Knowledge/India_Geography/03 — Mountains, Passes & Peaks.md",
     "General Knowledge/India_Geography/03 — States & Superlatives.md",
@@ -276,7 +273,6 @@
     "Pasted image 20260721122916.png",
     "Pasted image 20260721122852.png",
     "Pasted image 20260721122817.png",
-    "General Knowledge/Modern_Indian_History/01 — British Governors & Viceroys.md",
     "General Knowledge/India_Geography/gk canvas/State and superlative canvas.canvas",
     "General Knowledge/India_Geography/gk canvas/River India canvas.canvas",
     "capitals.png",

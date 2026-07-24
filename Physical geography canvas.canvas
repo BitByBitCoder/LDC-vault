@@ -1,15 +1,15 @@
 {
 	"nodes":[
-		{"id":"febcf50c02c0078e","x":-395,"y":-52,"width":226,"height":60,"type":"text","text":"Ladakh pass"},
-		{"id":"05062173a3c3aa53","x":40,"y":-519,"width":300,"height":400,"type":"file","file":"Pasted image 20260721122817.png"},
-		{"id":"8f1da7c985b74b03","x":71,"y":-49,"width":400,"height":228,"type":"file","file":"Pasted image 20260721122852.png"},
-		{"id":"177effa11e22079a","x":75,"y":245,"width":400,"height":267,"type":"file","file":"Pasted image 20260721122916.png"},
-		{"id":"bfc1809b0e81e71f","x":-1048,"y":-715,"width":400,"height":308,"type":"file","file":"Pasted image 20260721123103.png"},
-		{"id":"5df285b73ef8bc1c","x":-1320,"y":-260,"width":400,"height":400,"type":"file","file":"Pasted image 20260721123150.png"},
-		{"id":"e78b3055ec097273","x":-782,"y":-128,"width":250,"height":60,"type":"text","text":"sikkim pass"},
-		{"id":"d15c265e13afb1f3","x":-472,"y":234,"width":250,"height":60,"type":"text","text":"Arunachal"},
-		{"id":"93ce86f5f0fa9512","x":-1289,"y":313,"width":400,"height":350,"type":"file","file":"Pasted image 20260721123431.png"},
-		{"id":"5d72a86c9c5659c9","x":-659,"y":425,"width":400,"height":274,"type":"file","file":"Pasted image 20260721123640.png"}
+		{"id":"febcf50c02c0078e","type":"text","text":"Ladakh pass","x":-395,"y":-52,"width":226,"height":60},
+		{"id":"05062173a3c3aa53","type":"file","file":"Pasted image 20260721122817.png","x":40,"y":-519,"width":300,"height":400},
+		{"id":"8f1da7c985b74b03","type":"file","file":"Pasted image 20260721122852.png","x":71,"y":-49,"width":400,"height":228},
+		{"id":"177effa11e22079a","type":"file","file":"Pasted image 20260721122916.png","x":75,"y":245,"width":400,"height":267},
+		{"id":"bfc1809b0e81e71f","type":"file","file":"Pasted image 20260721123103.png","x":-1048,"y":-715,"width":400,"height":308},
+		{"id":"5df285b73ef8bc1c","type":"file","file":"Pasted image 20260721123150.png","x":-1320,"y":-260,"width":400,"height":400},
+		{"id":"e78b3055ec097273","type":"text","text":"sikkim pass","x":-782,"y":-128,"width":250,"height":60},
+		{"id":"d15c265e13afb1f3","type":"text","text":"Arunachal","x":-472,"y":234,"width":250,"height":60},
+		{"id":"93ce86f5f0fa9512","type":"file","file":"Pasted image 20260721123431.png","x":-1289,"y":313,"width":400,"height":350},
+		{"id":"5d72a86c9c5659c9","type":"file","file":"Pasted image 20260721123640.png","x":-659,"y":425,"width":400,"height":274}
 	],
 	"edges":[
 		{"id":"80851367917d57fc","fromNode":"febcf50c02c0078e","fromSide":"right","toNode":"05062173a3c3aa53","toSide":"left"},
