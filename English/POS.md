@@ -32,8 +32,8 @@ Most-missed distinction:
 - **Main/Action verb** — || run, eat, write||
 - **Linking verb** — ||is, am, are, was, seem, become (links subject to a description, no action)||
 - **Auxiliary/Helping verb** —|| is, has, will, must, can, should (helps the main verb)||
-- **Transitive** (needs an object: "she **ate** rice") vs. **Intransitive** (no object: "she slept")||
-- **Modal verbs** — can, could, may, might, must, shall, should, will, would (huge exam topic on their own)
+- **Transitive** || (needs an object: "she ate  rice") vs. Intransitive(no object: "she slept")||
+- **Modal verbs** — ||can, could, may, might, must, shall, should, will, would (huge exam topic on their own)||
 
 ### 4. Adjective
 
