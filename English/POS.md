@@ -39,7 +39,7 @@ Most-missed distinction:
 
 Subtypes commonly tested:
 
-- **Descriptive** — tall, blue, difficult
+- **Descriptive** — ||tall, blue, difficult
 - **Quantitative** — some, few, many, much
 - **Demonstrative** — this, that (when before a noun — overlaps with Determiner debate)
 - **Possessive** — my, your, his (also overlaps with Determiner)
