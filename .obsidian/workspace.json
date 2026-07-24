@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/📝 English — INDEX.md",
+                "file": "English/POS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📝 English — INDEX"
+              "title": "POS"
             }
           },
           {
@@ -238,10 +238,10 @@
   "active": "23c50d0fbbfdbac7",
   "lastOpenFiles": [
     "English/recording/roadmap.md",
+    "English/📝 English — INDEX.md",
     "English/POS.md",
     "Abstract.md",
     "Collective.md",
-    "English/📝 English — INDEX.md",
     "English/01 — Tenses.md",
     "General Knowledge/India_Geography/02 — Rivers of India.md",
     "English/practice/one.md",
