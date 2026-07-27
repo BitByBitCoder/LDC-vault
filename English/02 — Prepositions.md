@@ -7,15 +7,15 @@
 
 ## Questions From Your Papers
 
-| Sentence | Answer | Rule |
-|----------|--------|------|
-| There was a bridge _____ the river | **across** | across = from one side to other |
-| Mumbai is famous _____ its textiles | **for** | famous for |
-| He lives _____ Peter's Street | **on** | live on a street |
-| He did not go _____ foot | **on** | on foot |
-| The guests are sitting _____ an arm-chair | **in** | sit in a chair |
-| Always live _____ your means | **within** | live within means |
-| Are you confident _____ a scholarship | **of getting** | confident of |
+| Sentence                                  | Answer         | Rule                            |
+| ----------------------------------------- | -------------- | ------------------------------- |
+| There was a bridge _____ the river        | **across**     | across = from one side to other |
+| Mumbai is famous _____ its textiles       | **for**        | famous for                      |
+| He lives _____ Peter's Street             | **on**         | live on a street                |
+| He did not go _____ foot                  | **on**         | on foot                         |
+| The guests are sitting _____ an arm-chair | **in**         | sit in a chair                  |
+| Always live _____ your means              | **within**     | live within means               |
+| Are you confident _____ a scholarship     | **of getting** | confident of                    |
 
 ---
 
