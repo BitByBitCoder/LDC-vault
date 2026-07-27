@@ -37,7 +37,7 @@
 
 ---
 
-**4. Past Continuous** — action in progress at a past moment, often interrupted Signal words: _while, when...(another past action interrupted it), at that time_ Structure: was/were + verb-ing
+**[[4. Past Continuous]]** — action in progress at a past moment, often interrupted Signal words: _while, when...(another past action interrupted it), at that time_ Structure: was/were + verb-ing
 
 > Q: I _____ TV when the phone rang. a) watch b) watched c) was watching d) had watched **Identify:** Two past actions, one interrupts the other. The _longer, ongoing_ one takes Past Continuous → **was watching** (the ringing interrupted it)
 
