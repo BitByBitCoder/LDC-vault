@@ -35,7 +35,7 @@
 | **Future Perfect Continuous**  | will have been + V-ing    | She **will have been going**     |
 
 ---
-
+![](Screenshot%202026-07-27%20at%2010.25.37%20PM.png)
 ## Key Tense Rules (Most Tested)
 
 ### Rule 1 — Simple Present (Habits & Facts)
