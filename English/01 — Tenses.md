@@ -66,7 +66,7 @@
 
 ---
 
-**9. Past Perfect Continuous** — an ongoing action that was happening before another past action/point, emphasizing duration Signal words: _for, since (in a past context), before + past event_ Structure: had + been + verb-ing
+**[[9. Past Perfect Continuous]]** — an ongoing action that was happening before another past action/point, emphasizing duration Signal words: _for, since (in a past context), before + past event_ Structure: had + been + verb-ing
 
 > Q: She _____ for three hours before the rain stopped. a) had been running b) has been running c) was running d) ran **Identify:** Duration ("for three hours") happening _before_ another past event ("before the rain stopped") → Past Perfect Continuous → **had been running**
 
