@@ -49,7 +49,7 @@
 
 ---
 
-**6. Past Perfect]]** — the earlier of two past actions Signal words: _by the time, before, after, already (in past context)_ Structure: had + past participle
+**[[6. Past Perfect]]** — the earlier of two past actions Signal words: _by the time, before, after, already (in past context)_ Structure: had + past participle
 
 > Q: By the time we reached, the movie _____. a) started b) starts c) had started d) has started **Identify:** Two past events; "by the time" flags a sequence → the one that happened FIRST → **had started**
 
