@@ -27,7 +27,7 @@
 | **Present Perfect Continuous** | has/have been + V-ing     | She **has been going** for 2 hrs |
 | **Simple Past**                | subject + verb(past / v2) | She **went** to school           |
 | **Past Continuous**            | was/were + V-ing          | She **was going** to school      |
-| **Past Perfect**               | had + V3                  | She **had gone** before I came   |
+| **Past Perfect**               | subject+ had + V          | She **had gone** before I came   |
 | **Past Perfect Continuous**    | had been + V-ing          | She **had been going** for 2 hrs |
 | **Simple Future**              | will/shall + V1           | She **will go** to school        |
 | **Future Continuous**          | will be + V-ing           | She **will be going** to school  |
