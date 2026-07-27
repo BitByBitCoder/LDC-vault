@@ -59,6 +59,63 @@
 
 > Q: I think it _____ rain tomorrow. a) will b) is c) was d) has **Identify:** "tomorrow" + prediction → **will** (rain)
 
+
+**8. Present Perfect Continuous** — an action that started in the past and is still continuing now, with emphasis on the ongoing duration Signal words: _since, for, all day, lately, recently_ Structure: has/have + been + verb-ing
+
+> Q: I _____ for two hours. a) study b) studied c) have been studying d) am studying **Identify:** "for two hours" = duration continuing up to now → Present Perfect Continuous → **have been studying**
+
+---
+
+**9. Past Perfect Continuous** — an ongoing action that was happening before another past action/point, emphasizing duration Signal words: _for, since (in a past context), before + past event_ Structure: had + been + verb-ing
+
+> Q: She _____ for three hours before the rain stopped. a) had been running b) has been running c) was running d) ran **Identify:** Duration ("for three hours") happening _before_ another past event ("before the rain stopped") → Past Perfect Continuous → **had been running**
+
+---
+
+**10. Future Continuous** — an action that will be in progress at a specific future time Signal words: _at this time tomorrow, at 5 PM tomorrow, this time next week_ Structure: will + be + verb-ing
+
+> Q: This time tomorrow, I _____ on a plane. a) will be b) am c) was d) will **Identify:** "This time tomorrow" = a specific point in the future when the action will be ongoing → Future Continuous → **will be** (flying)
+
+---
+
+**11. Future Perfect** — an action that will be completed before a specific future time Signal words: _by tomorrow, by next week, by the time (+ future event)_ Structure: will + have + past participle (V3)
+
+> Q: By next year, I _____ my degree. a) will complete b) will have completed c) complete d) had completed **Identify:** "By next year" = a deadline in the future by which the action will be finished → Future Perfect → **will have completed**
+
+---
+
+**12. Future Perfect Continuous** — an ongoing action that will continue up until a specific point in the future, emphasizing duration Signal words: _by next year...for, for the past __ years by the time_ Structure: will + have + been + verb-ing
+
+> Q: By next month, I _____ here for five years. a) will work b) will have worked c) will have been working d) worked **Identify:** "By next month...for five years" = duration continuing right up to a future deadline → Future Perfect Continuous → **will have been working**
+
+---
+
+## Full 12-tense cheat sheet
+
+|#|Tense|Structure|Key signal|
+|---|---|---|---|
+|1|Simple Present|V1 (+s/es)|every day, always|
+|2|Present Continuous|am/is/are + V-ing|now, look!|
+|3|Present Perfect|has/have + V3|already, since, for|
+|4|Present Perfect Continuous|has/have + been + V-ing|for/since + still ongoing|
+|5|Simple Past|V2|yesterday, ago|
+|6|Past Continuous|was/were + V-ing|while, when (interrupted)|
+|7|Past Perfect|had + V3|by the time, before (past)|
+|8|Past Perfect Continuous|had + been + V-ing|for/since + before a past event|
+|9|Simple Future|will + V1|tomorrow, next week|
+|10|Future Continuous|will + be + V-ing|at [time] tomorrow|
+|11|Future Perfect|will + have + V3|by [future time]|
+|12|Future Perfect Continuous|will + have + been + V-ing|by [future time] + for [duration]|
+
+**The core trick that ties all 12 together:**
+
+- **Simple** = the action itself (just V1/V2/will+V1)
+- **Continuous** = ongoing/in progress (be + V-ing)
+- **Perfect** = completed before a reference point (have + V3)
+- **Perfect Continuous** = ongoing duration up to a reference point (have + been + V-ing)
+- The reference point just shifts between **present, past, or future**.
+
+Want 10 practice questions covering all 12 tenses mixed together (randomized, no labels) so you can test whether you can identify each one cold?
 ---
 
 ## The master rule
