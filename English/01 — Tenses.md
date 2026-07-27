@@ -60,7 +60,7 @@
 > Q: I think it _____ rain tomorrow. a) will b) is c) was d) has **Identify:** "tomorrow" + prediction → **will** (rain)
 
 
-**8. Present Perfect Continuous** — an action that started in the past and is still continuing now, with emphasis on the ongoing duration Signal words: _since, for, all day, lately, recently_ Structure: has/have + been + verb-ing
+**[[8. Present Perfect Continuous]]** — an action that started in the past and is still continuing now, with emphasis on the ongoing duration Signal words: _since, for, all day, lately, recently_ Structure: has/have + been + verb-ing
 
 > Q: I _____ for two hours. a) study b) studied c) have been studying d) am studying **Identify:** "for two hours" = duration continuing up to now → Present Perfect Continuous → **have been studying**
 
