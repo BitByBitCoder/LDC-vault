@@ -92,20 +92,20 @@
 
 ## Full 12-tense cheat sheet
 
-|#|Tense|Structure|Key signal|
-|---|---|---|---|
-|1|Simple Present|V1 (+s/es)|every day, always|
-|2|Present Continuous|am/is/are + V-ing|now, look!|
-|3|Present Perfect|has/have + V3|already, since, for|
-|4|Present Perfect Continuous|has/have + been + V-ing|for/since + still ongoing|
-|5|Simple Past|V2|yesterday, ago|
-|6|Past Continuous|was/were + V-ing|while, when (interrupted)|
-|7|Past Perfect|had + V3|by the time, before (past)|
-|8|Past Perfect Continuous|had + been + V-ing|for/since + before a past event|
-|9|Simple Future|will + V1|tomorrow, next week|
-|10|Future Continuous|will + be + V-ing|at [time] tomorrow|
-|11|Future Perfect|will + have + V3|by [future time]|
-|12|Future Perfect Continuous|will + have + been + V-ing|by [future time] + for [duration]|
+| #   | Tense                      | Structure                  | Key signal                        |
+| --- | -------------------------- | -------------------------- | --------------------------------- |
+| 1   | Simple Present             | V1 (+s/es)                 | every day, always                 |
+| 2   | Present Continuous         | am/is/are + V-ing          | now, look!                        |
+| 3   | Present Perfect            | has/have + V3              | already, since, for               |
+| 4   | Present Perfect Continuous | has/have + been + V-ing    | for/since + still ongoing         |
+| 5   | Simple Past                | V2                         | yesterday, ago                    |
+| 6   | Past Continuous            | was/were + V-ing           | while, when (interrupted)         |
+| 7   | Past Perfect               | had + V3                   | by the time, before (past)        |
+| 8   | Past Perfect Continuous    | had + been + V-ing         | for/since + before a past event   |
+| 9   | Simple Future              | will + V1                  | tomorrow, next week               |
+| 10  | Future Continuous          | will + be + V-ing          | at [time] tomorrow                |
+| 11  | Future Perfect             | will + have + V3           | by [future time]                  |
+| 12  | Future Perfect Continuous  | will + have + been + V-ing | by [future time] + for [duration] |
 
 **The core trick that ties all 12 together:**
 
