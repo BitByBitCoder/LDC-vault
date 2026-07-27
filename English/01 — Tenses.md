@@ -21,7 +21,7 @@
 
 | Tense                          | Formula                | Example                          |
 | ------------------------------ | ---------------------- | -------------------------------- |
-| **Simple Present**             | V1 / V1+s              | She **goes** to school           |
+| **Simple Present**             | subject + v            | She **goes** to school           |
 | **Present Continuous**         | am/is/are + V-ing      | She **is going** to school       |
 | **Present Perfect**            | has/have + V3          | She **has gone** to school       |
 | **Present Perfect Continuous** | has/have been + V-ing  | She **has been going** for 2 hrs |
