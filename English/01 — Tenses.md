@@ -19,20 +19,20 @@
 
 ## All 12 Tenses — Complete Table
 
-| Tense                          | Formula                | Example                          |
-| ------------------------------ | ---------------------- | -------------------------------- |
-| **Simple Present**             | subject + v            | She **goes** to school           |
-| **Present Continuous**         | am/is/are + V-ing      | She **is going** to school       |
-| **Present Perfect**            | has/have + V3          | She **has gone** to school       |
-| **Present Perfect Continuous** | has/have been + V-ing  | She **has been going** for 2 hrs |
-| **Simple Past**                | V2                     | She **went** to school           |
-| **Past Continuous**            | was/were + V-ing       | She **was going** to school      |
-| **Past Perfect**               | had + V3               | She **had gone** before I came   |
-| **Past Perfect Continuous**    | had been + V-ing       | She **had been going** for 2 hrs |
-| **Simple Future**              | will/shall + V1        | She **will go** to school        |
-| **Future Continuous**          | will be + V-ing        | She **will be going** to school  |
-| **Future Perfect**             | will have + V3         | She **will have gone** by 9am    |
-| **Future Perfect Continuous**  | will have been + V-ing | She **will have been going**     |
+| Tense                          | Formula                   | Example                          |
+| ------------------------------ | ------------------------- | -------------------------------- |
+| **Simple Present**             | subject + v               | She **goes** to school           |
+| **Present Continuous**         | am/is/are + V-ing         | She **is going** to school       |
+| **Present Perfect**            | has/have + V3             | She **has gone** to school       |
+| **Present Perfect Continuous** | has/have been + V-ing     | She **has been going** for 2 hrs |
+| **Simple Past**                | subject + verb(past / v2) | She **went** to school           |
+| **Past Continuous**            | was/were + V-ing          | She **was going** to school      |
+| **Past Perfect**               | had + V3                  | She **had gone** before I came   |
+| **Past Perfect Continuous**    | had been + V-ing          | She **had been going** for 2 hrs |
+| **Simple Future**              | will/shall + V1           | She **will go** to school        |
+| **Future Continuous**          | will be + V-ing           | She **will be going** to school  |
+| **Future Perfect**             | will have + V3            | She **will have gone** by 9am    |
+| **Future Perfect Continuous**  | will have been + V-ing    | She **will have been going**     |
 
 ---
 
