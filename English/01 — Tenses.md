@@ -17,6 +17,58 @@
 
 ---
 
+## How to identify each tense
+
+**1. Simple Present** — habits, facts, routines Signal words: _every day, always, usually, often, never_ Structure: base verb (+s/es for he/she/it)
+
+> Q: She _____ to school every day. a) go b) goes c) going d) gone **Identify:** "every day" = habit → Simple Present. Subject "She" = 3rd person singular → add -s → **goes**
+
+---
+
+**2. Present Continuous** — happening right now Signal words: _now, right now, at the moment, currently, look!, listen!_ Structure: am/is/are + verb-ing
+
+> Q: Look! The baby _____. a) cries b) cried c) is crying d) cry **Identify:** "Look!" = it's happening as we speak → **is crying**
+
+---
+
+**3. Simple Past** — finished action, specific past time Signal words: _yesterday, last week, ago, in 2020, when I was a child_ Structure: verb + ed (or irregular past form)
+
+> Q: She _____ to Delhi last year. a) go b) goes c) went d) has gone **Identify:** "last year" = a finished, specific point in the past → **went**
+
+---
+
+**4. Past Continuous** — action in progress at a past moment, often interrupted Signal words: _while, when...(another past action interrupted it), at that time_ Structure: was/were + verb-ing
+
+> Q: I _____ TV when the phone rang. a) watch b) watched c) was watching d) had watched **Identify:** Two past actions, one interrupts the other. The _longer, ongoing_ one takes Past Continuous → **was watching** (the ringing interrupted it)
+
+---
+
+**5. Present Perfect** — past action with a result/relevance NOW; no exact time given Signal words: _already, yet, just, ever, never, since, for_ Structure: has/have + past participle
+
+> Q: I _____ my homework already. a) finish b) finished c) have finished d) am finishing **Identify:** "already" + no specific time stated → connects past to present → **have finished**
+
+---
+
+**6. Past Perfect** — the earlier of two past actions Signal words: _by the time, before, after, already (in past context)_ Structure: had + past participle
+
+> Q: By the time we reached, the movie _____. a) started b) starts c) had started d) has started **Identify:** Two past events; "by the time" flags a sequence → the one that happened FIRST → **had started**
+
+---
+
+**7. Future Simple** — prediction or decision made now Signal words: _tomorrow, next week, will_ Structure: will + base verb
+
+> Q: I think it _____ rain tomorrow. a) will b) is c) was d) has **Identify:** "tomorrow" + prediction → **will** (rain)
+
+---
+
+## The master rule
+
+Ask yourself two questions in order:
+
+1. **When did/does/will it happen?** → find the time signal word → this tells you which "family" of tense (present/past/future) and which type (simple/continuous/perfect)
+2. **Is there a second action nearby?** → if two actions are being compared (one interrupts another, or one happens before another) → the earlier/longer one usually needs perfect or continuous, and the shorter/later one stays simple
+
+Want a drill set that mixes all 7 tenses randomly (no labels), so you practice spotting the signal word cold, the way it'll appear on the actual exam?
 ## All 12 Tenses — Complete Table
 
 | Tense                          | Formula                   | Example                          |
