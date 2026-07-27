@@ -31,7 +31,7 @@
 
 ---
 
-**3. Simple Past** — finished action, specific past time Signal words: _yesterday, last week, ago, in 2020, when I was a child_ Structure: verb + ed (or irregular past form)
+**[[3. Simple Past]]** — finished action, specific past time Signal words: _yesterday, last week, ago, in 2020, when I was a child_ Structure: verb + ed (or irregular past form)
 
 > Q: She _____ to Delhi last year. a) go b) goes c) went d) has gone **Identify:** "last year" = a finished, specific point in the past → **went**
 
