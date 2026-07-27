@@ -84,7 +84,7 @@
 
 ---
 
-**12. Future Perfect Continuous** — an ongoing action that will continue up until a specific point in the future, emphasizing duration Signal words: _by next year...for, for the past __ years by the time_ Structure: will + have + been + verb-ing
+**[[12. Future Perfect Continuous** — an ongoing action that will continue up until a specific point in the future, emphasizing duration Signal words: _by next year...for, for the past __ years by the time_ Structure: will + have + been + verb-ing
 
 > Q: By next month, I _____ here for five years. a) will work b) will have worked c) will have been working d) worked **Identify:** "By next month...for five years" = duration continuing right up to a future deadline → Future Perfect Continuous → **will have been working**
 
