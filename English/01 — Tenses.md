@@ -89,7 +89,38 @@
 > Q: By next month, I _____ here for five years. a) will work b) will have worked c) will have been working d) worked **Identify:** "By next month...for five years" = duration continuing right up to a future deadline → Future Perfect Continuous → **will have been working**
 
 ---
+## Here's a consolidated list of signal words for all 12 tenses.
 
+|Tense|Signal Words|
+|---|---|
+|**Simple Present**|every day, every morning/night, always, usually, often, sometimes, rarely, never, generally, normally|
+|**Present Continuous**|now, right now, at the moment, currently, at present, Look!, Listen!, these days|
+|**Present Perfect**|already, yet, just, ever, never, since, for, so far, up to now, recently, lately|
+|**Present Perfect Continuous**|since, for, all day, all week, lately, recently, how long|
+|**Simple Past**|yesterday, last night/week/month/year, ... ago, in [past year], when I was a child, once, in the past|
+|**Past Continuous**|while, when (interrupted action), as, at that time, all day yesterday|
+|**Past Perfect**|by the time, before, after, already (in past context), just, when (sequence of two past events), no sooner...than, hardly...when|
+|**Past Perfect Continuous**|for, since (in past context), before + past event, how long (in past questions)|
+|**Simple Future**|tomorrow, next week/month/year, soon, later, in the future, will, shall|
+|**Future Continuous**|at this time tomorrow, at [time] tomorrow, this time next week, tomorrow at [time]|
+|**Future Perfect**|by [future time], by tomorrow, by next week, by the time (+ future event)|
+|**Future Perfect Continuous**|by [future time] + for [duration], by next year...for|
+
+---
+
+**A few extra signal words that don't fit neatly in one row but matter for the exam:**
+
+|Word/Phrase|Tense it usually signals|
+|---|---|
+|still|Present tenses (something ongoing)|
+|just now|Simple Past (British English) / Present Perfect (American) — context matters|
+|lest|followed by base verb / subjunctive ("lest she fail")|
+|it's high time|followed by past tense form ("it's high time he left")|
+|if / unless / suppose|Conditionals (not one of the 12, but often tested alongside)|
+|wish / if only|Subjunctive|
+|would rather|followed by past tense ("I'd rather you left")|
+
+Want a single-page reference card combining this signal-word table with the structure formulas, formatted so you can paste it straight into your Obsidian English vault?
 ## Full 12-tense cheat sheet
 
 | #   | Tense                      | Structure                  | Key signal                        |
