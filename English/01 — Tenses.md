@@ -55,7 +55,7 @@
 
 ---
 
-**7. Future Simple** — prediction or decision made now Signal words: _tomorrow, next week, will_ Structure: will + base verb
+**[[7. Future Simple]]** — prediction or decision made now Signal words: _tomorrow, next week, will_ Structure: will + base verb
 
 > Q: I think it _____ rain tomorrow. a) will b) is c) was d) has **Identify:** "tomorrow" + prediction → **will** (rain)
 
