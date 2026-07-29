@@ -5,10 +5,10 @@
 
 ## Questions From Your Papers
 
-| Direct | Indirect (Answer) |
-|--------|-----------------|
+| Direct                                        | Indirect (Answer)                                  |
+| --------------------------------------------- | -------------------------------------------------- |
 | Rami said, "Most people have breakfast daily" | Rami said that most people **had** breakfast daily |
-| "I am happy" | He said that he **was** happy |
+| "I am happy"                                  | He said that he **was** happy                      |
 
 ---
 
