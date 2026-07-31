@@ -19,14 +19,14 @@
 
 ## How to identify each tense
 
-[[**1. Simple Present**]] ||habits, facts, routines Signal words: _every day, always, usually\\
-often never_ Structure: base verb (+s/es for he/she/it)||
+[[**1. Simple Present**]] ||habits, facts, routines Signal wordsevery day, always, usually||
+||often never_ Structure base verb (+s/es for he/she/it)||
 
 > Q: She _____ to school every day. a) go b) goes c) going d) gone **Identify:** "every day" = habit → Simple Present. Subject "She" = 3rd person singular → add -s → **goes**
 
 ---
 
-**[[2. Present Continuous]]** — happening right now Signal words: _now, right now, at the moment, currently, look!, listen!_ Structure: am/is/are + verb-ing
+**[[2. Present Continuous]]** — ||happening right now Signal words: _now, right now, at the moment,|| currently, look!, listen!_ Structure: am/is/are + verb-ing
 
 > Q: Look! The baby _____. a) cries b) cried c) is crying d) cry **Identify:** "Look!" = it's happening as we speak → **is crying**
 
