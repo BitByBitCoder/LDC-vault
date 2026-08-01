@@ -7,14 +7,14 @@
 
 ## 📊 Overview
 
-| Metric | Value |
-|--------|-------|
-| Total English questions analyzed | 204 |
-| Grammar topics combined | ~55% |
-| Vocabulary topics combined | ~25% |
-| Writing (Essay/Comprehension) | ~20% |
-| Controllable with study | ~80% |
-| Realistic score with study | 65–75 / 100 |
+| Metric                           | Value       |
+| -------------------------------- | ----------- |
+| Total English questions analyzed | 204         |
+| Grammar topics combined          | ~55%        |
+| Vocabulary topics combined       | ~25%        |
+| Writing (Essay/Comprehension)    | ~20%        |
+| Controllable with study          | ~80%        |
+| Realistic score with study       | 65–75 / 100 |
 
 ---
 
