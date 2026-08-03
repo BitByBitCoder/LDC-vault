@@ -14,7 +14,7 @@ Formulas
  3. 75% of a number when added to 75 is equal to that number. what is the number - basic
  4. if 16% of 40% of a number is 8 the number is  - basic
  5. A number exceeds 20% itself by 40. The number is - basic exceed = -
- 6. what  percentage of 2/7 is 1/35? of kha pawimawh percentage of fraction
+ 6. what  percentage of 2/7 is 1/35? of kha pawimawh percentage of fraction formula
  7. 30% of 140 = x% of 840 ? -basic
  8. solve x% of 250  + 25%  of 68 = 67 find the value of x - basic trick percent chhut phot tur
  9. The number 0.5 is how many percent of 20? of chu chungah
