@@ -19,7 +19,7 @@
 
 ## How to identify each tense
 
-[[**1. Simple Present**]] ||habits, facts, routines Signal wordsevery day, always, usually||
+[[**1. Simple Present**]] ||habits, facts, routines Signal words every day, always, usually||
 ||often never_ Structure base verb (+s/es for he/she/it)||
 
 > Q: She _____ to school every day. a) go b) goes c) going d) gone **Identify:** "every day" = habit → Simple Present. Subject "She" = 3rd person singular → add -s → **goes**
