@@ -7,7 +7,7 @@ convert the following fraction to percentage 1/10 5/5 7/25 29/50 5/4 45/50
 decimal percentage to fraction 0.15% 0.25
 
 Formulas
-Percentage of a Fraction
+## Percentage of a Fraction
  1. **8 hours is what % of 3 days?** - Percentage of a Fraction
  2. **35% of a number is 112. Find the number.** -basic
  3. 75% of a number when added to 75 is equal to that number. what is the number - basic
