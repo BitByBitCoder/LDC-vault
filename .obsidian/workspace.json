@@ -24,15 +24,17 @@
           {
             "id": "1a7c88a82ca9f5a3",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/01 — Tenses.md",
+                "file": "Daily tracker.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "01 — Tenses"
+              "title": "Daily tracker"
             }
           }
         ],
@@ -211,9 +213,9 @@
   },
   "active": "1a7c88a82ca9f5a3",
   "lastOpenFiles": [
+    "English/01 — Tenses.md",
     "English/📝 English — INDEX.md",
     "Daily tracker.md",
-    "English/01 — Tenses.md",
     "English/recording/roadmap.md",
     "English/02 — Prepositions.md",
     "**1. Simple Present**.md",
