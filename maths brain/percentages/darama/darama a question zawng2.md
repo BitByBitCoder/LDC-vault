@@ -1,4 +1,6 @@
 
+## simple question
+
 Formulas
 Percentage of a Fraction
  1. **8 hours is what % of 3 days?** - Percentage of a Fraction
