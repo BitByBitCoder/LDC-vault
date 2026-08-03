@@ -5,6 +5,7 @@ convert the following fraction to percentage 12/5 9/25  1*2/10
 percentage to fraction 140%
 convert the following fraction to percentage 1/10 5/5 7/25 29/50 5/4 45/50
 decimal percentage to fraction 0.15% 0.25
+45% of 800
 
 Formulas
 ## Percentage of a Fraction
