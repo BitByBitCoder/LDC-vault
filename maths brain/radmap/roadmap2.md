@@ -6,22 +6,22 @@ I'll analyze the full combined document to give you an accurate pattern breakdow
 
 **SIMPLE ARITHMETIC** (376 classified questions)
 
-|Topic|Count|% of Maths|
-|---|---|---|
-|Percentage|42|11.2%|
-|Profit/Loss/Discount|42|11.2%|
-|Number System (LCM/HCF/divisibility/digits)|26|6.9%|
-|Average|25|6.6%|
-|Ratio & Proportion|24|6.4%|
-|Geometry/Mensuration|24|6.4%|
-|Simplification/Fractions/Surds/Algebra|21|5.6%|
-|Speed/Distance/Time (trains, boats)|21|5.6%|
-|Time & Work (incl. pipes/cisterns)|18|4.8%|
-|Simple Interest|9|2.4%|
-|Compound Interest|3|0.8%|
-|Ages|5|1.3%|
-|Probability|4|1.1%|
-|Mixed word problems / one-offs|~27%|residual, no single pattern|
+| Topic                                       | Count | % of Maths                  |
+| ------------------------------------------- | ----- | --------------------------- |
+| Percentage                                  | 42    | 11.2%                       |
+| Profit/Loss/Discount                        | 42    | 11.2%                       |
+| Number System (LCM/HCF/divisibility/digits) | 26    | 6.9%                        |
+| Average                                     | 25    | 6.6%                        |
+| Ratio & Proportion                          | 24    | 6.4%                        |
+| Geometry/Mensuration                        | 24    | 6.4%                        |
+| Simplification/Fractions/Surds/Algebra      | 21    | 5.6%                        |
+| Speed/Distance/Time (trains, boats)         | 21    | 5.6%                        |
+| Time & Work (incl. pipes/cisterns)          | 18    | 4.8%                        |
+| Simple Interest                             | 9     | 2.4%                        |
+| Compound Interest                           | 3     | 0.8%                        |
+| Ages                                        | 5     | 1.3%                        |
+| Probability                                 | 4     | 1.1%                        |
+| Mixed word problems / one-offs              | ~27%  | residual, no single pattern |
 
 **GENERAL INTELLIGENCE & REASONING** (162 classified questions)
 
