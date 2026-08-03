@@ -1,7 +1,9 @@
 
 ## simple question
 convert percentage into fractions
-convert the following fraction to percentage 12/5 9/25  1
+convert the following fraction to percentage 12/5 9/25  1*2/10
+percentage to fraction 140%
+convert the following fraction to percentage 1/10 5/5 7/25 29/50 
 
 Formulas
 Percentage of a Fraction
