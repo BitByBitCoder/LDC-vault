@@ -83,14 +83,14 @@ Registers → Cache → RAM → Hard Disk → Optical → Magnetic Tape
 
 ## Storage Devices
 
-| Device | Type | Access |
-|--------|------|--------|
-| Hard Disk (HDD) | Magnetic | **Random access** |
-| SSD (Solid State Drive) | Electronic | **Random access** |
-| CD/DVD/Blu-ray | Optical | Random access |
-| USB Flash Drive | Electronic | Random access |
-| **Magnetic Tape** | Magnetic | **Sequential access ONLY** |
-| Floppy Disk | Magnetic | Random access (obsolete) |
+| Device                  | Type               | Access                       |
+| ----------------------- | ------------------ | ---------------------------- |
+| Hard Disk (HDD)         | \|\|Magnetic\|\|   | \|\|Random access\|\|        |
+| SSD (Solid State Drive) | \|\|Electronic\|\| | \|\|Random access\|\|        |
+| CD/DVD/Blu-ray          | \|\|Optical\|\|    | \|\|Random access\|\|        |
+| USB Flash Drive         | \|\|Electronic\|\| | \|\|Random access\|\|        |
+| **Magnetic Tape**       | \|\|Magnetic\|\|   | \|\|Sequential access ONLY** |
+| Floppy Disk             | \|\|Magnetic\|\|   | Random access (obsolete)     |
 
 > 💡 **Sequential access** = must read from beginning to reach any point = **Magnetic Tape**
 > 💡 **Random access** = can jump directly to any location = Hard Disk, RAM, CD
