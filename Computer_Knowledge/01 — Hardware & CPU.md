@@ -7,26 +7,26 @@
 
 ## Computer Basics
 
-| Question                    | Answer                                             |
-| --------------------------- | -------------------------------------------------- |
-| Computer works on principle | \|\|Input → Process → Output\|\|                   |
-| Processing takes place in   | \|\|CPU (Central Processing Unit)\|\|              |
-| Father of computers         | \|\|Charles Babbage\|\|                            |
-| Father of computer science  | \|\|Alan Turing\|\|                                |
-| A computer is               | \|\|Electronic device that processes data\|\|      |
-| Data vs Information         | \|\|Data = raw facts; Information = processed data |
+| Question                    | Answer                                                 |
+| --------------------------- | ------------------------------------------------------ |
+| Computer works on principle | \|\|Input → Process → Output\|\|                       |
+| Processing takes place in   | \|\|CPU (Central Processing Unit)\|\|                  |
+| Father of computers         | \|\|Charles Babbage\|\|                                |
+| Father of computer science  | \|\|Alan Turing\|\|                                    |
+| A computer is               | \|\|Electronic device that processes data\|\|          |
+| Data vs Information         | \|\|Data = raw facts; Information = processed data\|\| |
 
 ---
 
 ## Generations of Computers
 
-| Generation | Period | Technology | Example |
-|-----------|--------|-----------|---------|
-| **1st** | 1940s–50s | **Vacuum Tubes** | ENIAC, UNIVAC |
-| **2nd** | 1950s–60s | **Transistors** | IBM 1401 |
-| **3rd** | 1960s–70s | **Integrated Circuits (IC)** | IBM 360 |
-| **4th** | 1970s–now | **Microprocessors** | Intel, AMD |
-| **5th** | Now–future | **AI / VLSI** | — |
+| Generation | Period     | Technology                   | Example       |
+| ---------- | ---------- | ---------------------------- | ------------- |
+| **1st**    | 1940s–50s  | **Vacuum Tubes**             | ENIAC, UNIVAC |
+| **2nd**    | 1950s–60s  | **Transistors**              | IBM 1401      |
+| **3rd**    | 1960s–70s  | **Integrated Circuits (IC)** | IBM 360       |
+| **4th**    | 1970s–now  | **Microprocessors**          | Intel, AMD    |
+| **5th**    | Now–future | **AI / VLSI**                | —             |
 
 ---
 
