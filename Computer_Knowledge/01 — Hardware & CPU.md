@@ -99,21 +99,21 @@ Registers → Cache → RAM → Hard Disk → Optical → Magnetic Tape
 
 ## Input Devices
 
-| Device                          | What it does                                      |
-| ------------------------------- | ------------------------------------------------- |
-| Keyboard                        | \|\|Text input\|\|                                |
-| Mouse                           | \|\|Pointing/clicking\|\|                         |
-| Scanner                         | \|\|Digitizes paper documents\|\|                 |
-| **Digitizer / Graphics Tablet** | **Converts graphical drawings into digital form** |
-| Joystick                        | Gaming/control input                              |
-| Microphone                      | Audio input                                       |
-| Webcam                          | Video input                                       |
-| Barcode Reader                  | Reads barcodes                                    |
-| OMR                             | Reads marked circles (exam answer sheets)         |
-| OCR                             | Reads printed text                                |
-| MICR                            | Reads magnetic ink (bank cheques)                 |
-| Light Pen                       | Input on screen                                   |
-| Touch Screen                    | Input by touch                                    |
+| Device                          | What it does                                          |
+| ------------------------------- | ----------------------------------------------------- |
+| Keyboard                        | \|\|Text input\|\|                                    |
+| Mouse                           | \|\|Pointing/clicking\|\|                             |
+| Scanner                         | \|\|Digitizes paper documents\|\|                     |
+| **Digitizer / Graphics Tablet** | \|\|Converts graphical drawings into digital form\|\| |
+| Joystick                        | \|\|Gaming/control input\|\|                          |
+| Microphone                      | \|\|Audio input\|\|                                   |
+| Webcam                          | \|\|Video input\|\|                                   |
+| Barcode Reader                  | \|\|Reads barcodes\|\|                                |
+| OMR                             | \|\|Reads marked circles (exam answer sheets)\|\|     |
+| OCR                             | \|\|Reads printed text\|\|                            |
+| MICR                            | \|\|Reads magnetic ink (bank cheques)\|\|             |
+| Light Pen                       | \|\|Input on screen\|\|                               |
+| Touch Screen                    | \|\|Input by touch\|\|                                |
 
 > 💡 **Digitizer** = converts graphical/drawing to digital — NOT text scanning (that's OCR)
 
