@@ -45,7 +45,7 @@ Fetch → Decode → Execute → Store
 ```
 
 ### Processor Speed
-- Measured in **MHz or GHz**
+- Measured in ||MHz or GHz||
 - Means: **number of instructions executed per second**
 - Higher GHz = faster processor
 
