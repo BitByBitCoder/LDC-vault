@@ -83,14 +83,14 @@ Registers → Cache → RAM → Hard Disk → Optical → Magnetic Tape
 
 ## Storage Devices
 
-| Device                  | Type               | Access                       |
-| ----------------------- | ------------------ | ---------------------------- |
-| Hard Disk (HDD)         | \|\|Magnetic\|\|   | \|\|Random access\|\|        |
-| SSD (Solid State Drive) | \|\|Electronic\|\| | \|\|Random access\|\|        |
-| CD/DVD/Blu-ray          | \|\|Optical\|\|    | \|\|Random access\|\|        |
-| USB Flash Drive         | \|\|Electronic\|\| | \|\|Random access\|\|        |
-| **Magnetic Tape**       | \|\|Magnetic\|\|   | \|\|Sequential access ONLY** |
-| Floppy Disk             | \|\|Magnetic\|\|   | Random access (obsolete)     |
+| Device                  | Type               | Access                           |
+| ----------------------- | ------------------ | -------------------------------- |
+| Hard Disk (HDD)         | \|\|Magnetic\|\|   | \|\|Random access\|\|            |
+| SSD (Solid State Drive) | \|\|Electronic\|\| | \|\|Random access\|\|            |
+| CD/DVD/Blu-ray          | \|\|Optical\|\|    | \|\|Random access\|\|            |
+| USB Flash Drive         | \|\|Electronic\|\| | \|\|Random access\|\|            |
+| **Magnetic Tape**       | \|\|Magnetic\|\|   | \|\|Sequential access ONLY\|\|   |
+| Floppy Disk             | \|\|Magnetic\|\|   | \|\|Random access (obsolete)\|\| |
 
 > 💡 **Sequential access** = must read from beginning to reach any point = **Magnetic Tape**
 > 💡 **Random access** = can jump directly to any location = Hard Disk, RAM, CD
@@ -99,21 +99,21 @@ Registers → Cache → RAM → Hard Disk → Optical → Magnetic Tape
 
 ## Input Devices
 
-| Device | What it does |
-|--------|-------------|
-| Keyboard | Text input |
-| Mouse | Pointing/clicking |
-| Scanner | Digitizes paper documents |
+| Device                          | What it does                                      |
+| ------------------------------- | ------------------------------------------------- |
+| Keyboard                        | Text input                                        |
+| Mouse                           | Pointing/clicking                                 |
+| Scanner                         | Digitizes paper documents                         |
 | **Digitizer / Graphics Tablet** | **Converts graphical drawings into digital form** |
-| Joystick | Gaming/control input |
-| Microphone | Audio input |
-| Webcam | Video input |
-| Barcode Reader | Reads barcodes |
-| OMR | Reads marked circles (exam answer sheets) |
-| OCR | Reads printed text |
-| MICR | Reads magnetic ink (bank cheques) |
-| Light Pen | Input on screen |
-| Touch Screen | Input by touch |
+| Joystick                        | Gaming/control input                              |
+| Microphone                      | Audio input                                       |
+| Webcam                          | Video input                                       |
+| Barcode Reader                  | Reads barcodes                                    |
+| OMR                             | Reads marked circles (exam answer sheets)         |
+| OCR                             | Reads printed text                                |
+| MICR                            | Reads magnetic ink (bank cheques)                 |
+| Light Pen                       | Input on screen                                   |
+| Touch Screen                    | Input by touch                                    |
 
 > 💡 **Digitizer** = converts graphical/drawing to digital — NOT text scanning (that's OCR)
 
