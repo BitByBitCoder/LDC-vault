@@ -17,7 +17,7 @@ Formulas
  6. what  percentage of 2/7 is 1/35? of kha pawimawh percentage of fraction formula
  7. 30% of 140 = x% of 840 ? -basic
  8. solve x% of 250  + 25%  of 68 = 67 find the value of x - basic trick percent chhut phot tur
- 9. The number 0.5 is how many percent of 20? of chu chungah
+ 9. The number 0.5 is how many percent of 20? 
  10. what percent is 3% of 5%? - percentage of a fraction of chu hnuaiah
  11. If 37(1/2)% of a number is 900, then  62(1/2)% of a number is? basic 2 part Q
  12. 96% population of the village is 23040. The total population of the village is? - basic
