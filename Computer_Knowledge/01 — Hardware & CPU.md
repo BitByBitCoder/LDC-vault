@@ -67,7 +67,7 @@ Fetch → Decode → Execute → Store
 | **Hard Disk**                  | \|\|Non-volatile\|\| | \|\|Permanent storage\|\|               |
 | **Flash Drive / USB**          | \|\|Non-volatile\|\| | \|\|Portable storage\|\|                |
 | **Magnetic Tape**              | \|\|Non-volatile\|\| | \|\|Sequential access\|\|               |
-| **CD/DVD**                     | \|\|Non-volatile\|\| | Optical disk                            |
+| **CD/DVD**                     | \|\|Non-volatile\|\| | \|\|Optical disk\|\|                    |
 
 ### Memory Speed Order (Fastest → Slowest)
 ```
