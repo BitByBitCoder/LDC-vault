@@ -32,12 +32,12 @@
 
 ## CPU — Central Processing Unit
 
-| Component                       | Function                                        |
-| ------------------------------- | ----------------------------------------------- |
-| **ALU** (Arithmetic Logic Unit) | Performs calculations and logical operations    |
-| **Control Unit (CU)**           | Directs operations — fetches, decodes, executes |
-| **Registers**                   | Fastest temporary storage inside CPU            |
-| **Cache Memory**                | Between CPU and RAM — fastest after registers   |
+| Component                       | Function                                                |
+| ------------------------------- | ------------------------------------------------------- |
+| **ALU** (Arithmetic Logic Unit) | \|\|Performs calculations and logical operations\|\|    |
+| **Control Unit (CU)**           | \|\|Directs operations — fetches, decodes, executes\|\| |
+| **Registers**                   | \|\|Fastest temporary storage inside CPU\|\|            |
+| **Cache Memory**                | \|\|Between CPU and RAM — fastest after registers\|\|   |
 
 ### CPU Cycle
 ```
