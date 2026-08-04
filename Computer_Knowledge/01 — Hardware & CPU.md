@@ -20,13 +20,13 @@
 
 ## Generations of Computers
 
-|**Generation**|**Period**|**Core Technology**|**Examples**|
-|---|---|---|---|
-|**1st**|1940s–1950s|Vacuum Tubes|ENIAC, UNIVAC, EDVAC|
-|**2nd**|1950s–1960s|Transistors|IBM 1401, CDC 1604|
-|**3rd**|1960s–1970s|Integrated Circuits (IC)|IBM 360, PDP-8|
-|**4th**|1970s–Present|Microprocessors (**VLSI**)|IBM PC, Apple II|
-|**5th**|Present–Future|AI, **ULSI**, Quantum Computing|Supercomputers, AI Assistants, Robotics|
+| **Generation** | **Period**     | **Core Technology**                     | **Examples**                            |
+| -------------- | -------------- | --------------------------------------- | --------------------------------------- |
+| **1st**        | 1940s–1950s    | \|\|Vacuum Tubes\|\|                    | ENIAC, UNIVAC, EDVAC                    |
+| **2nd**        | 1950s–1960s    | \|\|Transistors\|\|                     | IBM 1401, CDC 1604                      |
+| **3rd**        | 1960s–1970s    | \|\| Integrated Circuits(IC) \|\|       | IBM 360, PDP-8                          |
+| **4th**        | 1970s–Present  | \|\|Microprocessors (**VLSI**)\|\|      | IBM PC, Apple II                        |
+| **5th**        | Present–Future | \|\|AI, **ULSI**, Quantum Computing\|\| | Supercomputers, AI Assistants, Robotics |
 
 ---
 
