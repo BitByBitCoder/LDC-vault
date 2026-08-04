@@ -46,11 +46,11 @@ Fetch → Decode → Execute → Store
 
 ### Processor Speed
 - Measured in ||MHz or GHz||
-- Means: **number of instructions executed per second**
-- Higher GHz = faster processor
+- Which Means: **number of instructions executed per second**
+- Higher GHz = faster ||processor||
 
 ### Cache Memory
-- Located **between CPU and Main Memory (RAM)**
+- Located **||between CPU and Main Memory (RAM)**
 - Faster than RAM, smaller in size
 - **L1 Cache** (fastest, smallest) → L2 → L3 (slowest of cache, largest)
 
