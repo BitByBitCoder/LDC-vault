@@ -8,5 +8,6 @@
 4 august 2026
 morning maths
 english
-exercise
 computer
+exercise
+gk
