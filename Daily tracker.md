@@ -4,3 +4,9 @@
 2. 10:30 to 12:00 english
 3. 1:00 to 2:00 maths
 4. 3:00 to 4 excer
+
+4 august 2026
+morning maths
+english
+exercise
+computer
