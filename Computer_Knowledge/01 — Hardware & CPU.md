@@ -7,14 +7,14 @@
 
 ## Computer Basics
 
-| Question | Answer |
-|----------|--------|
-| Computer works on principle | **Input → Process → Output** |
-| Processing takes place in | **CPU (Central Processing Unit)** |
-| Father of computers | **Charles Babbage** |
-| Father of computer science | **Alan Turing** |
-| A computer is | Electronic device that processes data |
-| Data vs Information | Data = raw facts; Information = processed data |
+| Question                    | Answer                                         |
+| --------------------------- | ---------------------------------------------- |
+| Computer works on principle | **Input → Process → Output**                   |
+| Processing takes place in   | **CPU (Central Processing Unit)**              |
+| Father of computers         | **Charles Babbage**                            |
+| Father of computer science  | **Alan Turing**                                |
+| A computer is               | Electronic device that processes data          |
+| Data vs Information         | Data = raw facts; Information = processed data |
 
 ---
 
