@@ -101,9 +101,9 @@ Registers → Cache → RAM → Hard Disk → Optical → Magnetic Tape
 
 | Device                          | What it does                                      |
 | ------------------------------- | ------------------------------------------------- |
-| Keyboard                        | Text input                                        |
-| Mouse                           | Pointing/clicking                                 |
-| Scanner                         | Digitizes paper documents                         |
+| Keyboard                        | \|\|Text input\|\|                                |
+| Mouse                           | \|\|Pointing/clicking\|\|                         |
+| Scanner                         | \|\|Digitizes paper documents\|\|                 |
 | **Digitizer / Graphics Tablet** | **Converts graphical drawings into digital form** |
 | Joystick                        | Gaming/control input                              |
 | Microphone                      | Audio input                                       |
