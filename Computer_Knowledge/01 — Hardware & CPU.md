@@ -50,7 +50,7 @@ Fetch → Decode → Execute → Store
 - Higher GHz = faster ||processor||
 
 ### Cache Memory
-- Located **||between CPU and Main Memory (RAM)**
+- Located **||between CPU and Main Memory (RAM)||**
 - Faster than RAM, smaller in size
 - **L1 Cache** (fastest, smallest) → L2 → L3 (slowest of cache, largest)
 
@@ -58,16 +58,16 @@ Fetch → Decode → Execute → Store
 
 ## Memory Types
 
-| Memory | Type | Key Fact |
-|--------|------|---------|
-| **Registers** | Volatile | Fastest — inside CPU |
-| **Cache** | Volatile | Between CPU and RAM |
-| **RAM** (Random Access Memory) | **Volatile** | Temporary — lost when power off |
-| **ROM** (Read Only Memory) | **Non-volatile** | Permanent — stores BIOS |
-| **Hard Disk** | Non-volatile | Permanent storage |
-| **Flash Drive / USB** | Non-volatile | Portable storage |
-| **Magnetic Tape** | Non-volatile | **Sequential access** |
-| **CD/DVD** | Non-volatile | Optical disk |
+| Memory                         | Type             | Key Fact                        |
+| ------------------------------ | ---------------- | ------------------------------- |
+| **Registers**                  | Volatile         | Fastest — inside CPU            |
+| **Cache**                      | Volatile         | Between CPU and RAM             |
+| **RAM** (Random Access Memory) | **Volatile**     | Temporary — lost when power off |
+| **ROM** (Read Only Memory)     | **Non-volatile** | Permanent — stores BIOS         |
+| **Hard Disk**                  | Non-volatile     | Permanent storage               |
+| **Flash Drive / USB**          | Non-volatile     | Portable storage                |
+| **Magnetic Tape**              | Non-volatile     | **Sequential access**           |
+| **CD/DVD**                     | Non-volatile     | Optical disk                    |
 
 ### Memory Speed Order (Fastest → Slowest)
 ```
