@@ -85,31 +85,31 @@
 
 ## File Operations
 
-| Operation                 | How                                |
-| ------------------------- | ---------------------------------- |
-| Select adjacent files     | \|\|Shift + click first and last** |
-| Select non-adjacent files | **Ctrl + click each file**         |
-| Select all files          | **Ctrl+A**                         |
-| Copy file                 | Ctrl+C → Ctrl+V                    |
-| Cut and move              | Ctrl+X → Ctrl+V                    |
-| Delete (to Recycle Bin)   | **Delete key**                     |
-| Permanent delete          | **Shift+Delete**                   |
-| Rename                    | F2 or right-click → Rename         |
+| Operation                 | How                                  |
+| ------------------------- | ------------------------------------ |
+| Select adjacent files     | \|\|Shift + click first and last\|\| |
+| Select non-adjacent files | \|\|Ctrl + click each file\|\|       |
+| Select all files          | \|\|Ctrl+A\|\|                       |
+| Copy file                 | \|\|Ctrl+C → Ctrl+V\|\|              |
+| Cut and move              | \|\|Ctrl+X → Ctrl+V\|\|              |
+| Delete (to Recycle Bin)   | \|\|Delete key\|\|                   |
+| Permanent delete          | \|\|Shift+Delete\|\|                 |
+| Rename                    | \|\|F2 or right-click → Rename\|\|   |
 
 ---
 
 ## Windows Special Features
 
-| Feature | What it does |
-|---------|-------------|
-| **Log Off** | **Ends user session — computer stays ON** |
-| **Shutdown** | Turns computer off completely |
-| **Restart** | Turns off then on |
-| **Sleep** | Low power state — RAM preserved |
-| **Hibernate** | Saves RAM to disk — powers off |
-| **Safe Mode** | Starts Windows with **minimal drivers only** — for troubleshooting |
-| **Shortcut** | **Link pointing to original file** — NOT a copy |
-| **Recycle Bin** | Holds deleted files — can be restored until emptied |
+| Feature         | What it does                                                       |
+| --------------- | ------------------------------------------------------------------ |
+| **Log Off**     | **Ends user session — computer stays ON**                          |
+| **Shutdown**    | Turns computer off completely                                      |
+| **Restart**     | Turns off then on                                                  |
+| **Sleep**       | Low power state — RAM preserved                                    |
+| **Hibernate**   | Saves RAM to disk — powers off                                     |
+| **Safe Mode**   | Starts Windows with **minimal drivers only** — for troubleshooting |
+| **Shortcut**    | **Link pointing to original file** — NOT a copy                    |
+| **Recycle Bin** | Holds deleted files — can be restored until emptied                |
 
 ---
 
