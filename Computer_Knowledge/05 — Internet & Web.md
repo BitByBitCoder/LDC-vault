@@ -17,7 +17,15 @@
 | HTML image tag                      | **img**                                                 |
 | IP address currently                | **4 bytes (IPv4)**                                      |
 
----
+| Question                              | Answer                                                  |
+| ------------------------------------- | ------------------------------------------------------- |
+| World Wide Web is a service on top of | **Internet infrastructure**                             |
+| WWW consists of                       | **Interconnected web pages accessed through browsers**  |
+| Search engine works by                | **Indexing and retrieving web pages based on keywords** |
+| Body of email contains                | **Main message content**                                |
+| Email encryption ensures              | **Protection of message confidentiality**               |
+| During email routing messages are     | **Transferred through a series of mail servers**        |
+| Using strong passwords helps in       | **Preventing cyber crime**                              |
 
 ## Internet Basics
 
@@ -37,7 +45,23 @@
 | Includes email, FTP, VoIP etc. | Only web pages |
 | Started 1969 (ARPANET) | Started 1991 (Tim Berners-Lee) |
 
----
+
+
+
+| Term                     | Meaning                                                      |
+| ------------------------ | ------------------------------------------------------------ |
+| **Internet**             | Global network of interconnected computers                   |
+| **WWW (World Wide Web)** | Service running on internet — web pages accessed via browser |
+| **Web page**             | Document on WWW                                              |
+| **Website**              | Collection of web pages                                      |
+| **Web browser**          | Software to access WWW (Chrome, Firefox, Safari, Edge)       |
+| **URL**                  | **Uniform Resource Locator** — web address                   |
+| **HTTP**                 | **HyperText Transfer Protocol** — web communication          |
+| **HTTPS**                | HTTP + **Secure** (encrypted)                                |
+| **ISP**                  | **Internet Service Provider**                                |
+| **IP Address**           | Unique numerical address for each device                     |
+| **Domain name**          | Human-readable web address (google.com)                      |
+| **DNS**                  | **Domain Name System** — converts domain to IP address       |
 
 ## URLs and Protocols
 
@@ -154,20 +178,7 @@ Protocol  Domain      Path
 
 ## Internet Basics
 
-| Term | Meaning |
-|------|---------|
-| **Internet** | Global network of interconnected computers |
-| **WWW (World Wide Web)** | Service running on internet — web pages accessed via browser |
-| **Web page** | Document on WWW |
-| **Website** | Collection of web pages |
-| **Web browser** | Software to access WWW (Chrome, Firefox, Safari, Edge) |
-| **URL** | **Uniform Resource Locator** — web address |
-| **HTTP** | **HyperText Transfer Protocol** — web communication |
-| **HTTPS** | HTTP + **Secure** (encrypted) |
-| **ISP** | **Internet Service Provider** |
-| **IP Address** | Unique numerical address for each device |
-| **Domain name** | Human-readable web address (google.com) |
-| **DNS** | **Domain Name System** — converts domain to IP address |
+
 
 ---
 
