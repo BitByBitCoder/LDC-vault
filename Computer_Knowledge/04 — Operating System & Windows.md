@@ -127,25 +127,25 @@
 
 ## Key Keyboard Shortcuts — Windows
 
-| Shortcut | Action |
-|----------|--------|
-| **Ctrl+C** | Copy |
-| **Ctrl+X** | Cut |
-| **Ctrl+V** | Paste |
-| **Ctrl+Z** | Undo |
-| **Ctrl+A** | Select all |
-| **Ctrl+S** | Save |
-| **Ctrl+P** | Print |
-| **Alt+F4** | Close window/program |
-| **Alt+Tab** | Switch between open windows |
-| **Win+D** | Show desktop |
-| **Win+E** | Open File Explorer |
-| **Win+L** | Lock computer |
-| **Win+R** | Run dialog |
-| **F2** | Rename selected file |
-| **F5** | Refresh |
-| **Delete** | Move to Recycle Bin |
-| **Shift+Delete** | Permanently delete |
+| Shortcut         | Action                      |
+| ---------------- | --------------------------- |
+| **Ctrl+C**       | Copy                        |
+| **Ctrl+X**       | Cut                         |
+| **Ctrl+V**       | Paste                       |
+| **Ctrl+Z**       | Undo                        |
+| **Ctrl+A**       | Select all                  |
+| **Ctrl+S**       | Save                        |
+| **Ctrl+P**       | Print                       |
+| **Alt+F4**       | Close window/program        |
+| **Alt+Tab**      | Switch between open windows |
+| **Win+D**        | Show desktop                |
+| **Win+E**        | Open File Explorer          |
+| **Win+L**        | Lock computer               |
+| **Win+R**        | Run dialog                  |
+| **F2**           | Rename selected file        |
+| **F5**           | Refresh                     |
+| **Delete**       | Move to Recycle Bin         |
+| **Shift+Delete** | Permanently delete          |
 
 ---
 
