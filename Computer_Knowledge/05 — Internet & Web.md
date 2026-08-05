@@ -46,8 +46,6 @@
 | Started 1969 (ARPANET) | Started 1991 (Tim Berners-Lee) |
 
 
-
-
 | Term                     | Meaning                                                      |
 | ------------------------ | ------------------------------------------------------------ |
 | **Internet**             | Global network of interconnected computers                   |
@@ -180,17 +178,6 @@ Protocol  Domain      Path
 
 
 
----
-
-## Internet vs WWW
-
-| Internet | WWW |
-|----------|-----|
-| Physical network infrastructure | Service running on top of internet |
-| Cables, routers, servers | Web pages, browsers |
-| Like the highway system | Like the cars on the highway |
-
-> ⚠️ WWW operates on top of **internet infrastructure** — they are NOT the same thing
 
 ---
 
