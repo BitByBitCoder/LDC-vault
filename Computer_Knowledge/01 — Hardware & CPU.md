@@ -121,13 +121,13 @@ Registers → Cache → RAM → Hard Disk → Optical → Magnetic Tape
 
 ## Output Devices
 
-| Device | Type | Output |
-|--------|------|--------|
-| Monitor/VDU | Softcopy | Visual display |
-| Printer | Hardcopy | Printed paper |
-| Plotter | Hardcopy | Large drawings/designs |
-| Speaker | Softcopy | Audio |
-| Projector | Softcopy | Projected display |
+| Device      | Type             | Output                         |
+| ----------- | ---------------- | ------------------------------ |
+| Monitor/VDU | \|\|Softcopy\|\| | \|\|Visual display\|\|         |
+| Printer     | \|\|Hardcopy\|\| | \|\|Printed paper\|\|          |
+| Plotter     | \|\|Hardcopy\|\| | \|\|Large drawings/designs\|\| |
+| Speaker     | \|\|Softcopy\|\| | \|\|Audio\|\|                  |
+| Projector   | \|\|Softcopy\|\| | \|\|Projected display\|\|      |
 
 ### Printer Types
 | Type | Mechanism |
