@@ -21,14 +21,14 @@
 
 ## Internet Basics
 
-| Question             | Answer                                                 |
-| -------------------- | ------------------------------------------------------ |
-| Internet is          | \|\|Global network of computers\|\|                    |
-| WWW (World Wide Web) | \|\|Service running on top of Internet — web pages\|\| |
-| Browser              | \|\|Software to access websites\|\|                    |
-| Search Engine        | \|\|Indexes and retrieves web pages\|\|                |
-| ISP                  | \|\|Internet Service Provider\|\|                      |
-| Bandwidth            | \|\|Data transfer capacity — measured in Mbps/Gbps\|\| |
+| Question             | Answer                                                 |     |
+| -------------------- | ------------------------------------------------------ | --- |
+| Internet is          | \|\|Global network of computers\|\|                    |     |
+| WWW (World Wide Web) | \|\|Service running on top of Internet — web pages\|\| |     |
+| Browser              | \|\|Software to access websites\|\|                    |     |
+| Search Engine        | \|\|Indexes and retrieves web pages\|\|                |     |
+| ISP                  | \|\|Internet Service Provider\|\|                      |     |
+| Bandwidth            | \|\|Data transfer capacity — measured in Mbps/Gbps\|\| |     |
 
 ### WWW vs Internet
 | Internet                            | WWW                                                  |
