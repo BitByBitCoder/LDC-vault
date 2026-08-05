@@ -59,9 +59,9 @@
 
 | Concept              | Explanation                                             |
 | -------------------- | ------------------------------------------------------- |
-| **File**             | Basic unit of storage — contains data                   |
-| **Folder/Directory** | Container for files and subfolders                      |
-| **File name**        | **Name + dot + extension** (e.g., report.docx)          |
+| **File**             | \|\|Basic unit of storage — contains data\|\|           |
+| **Folder/Directory** | \|\|Container for files and subfolders\|\|              |
+| **File name**        | \|\|Name + dot + extension (e.g., report.docx)          |
 | **File extension**   | Tells OS what type of file it is                        |
 | **Path**             | Full location of file (e.g., C:\Users\Desktop\file.txt) |
 | **Root directory**   | Top-level directory (C:\)                               |
