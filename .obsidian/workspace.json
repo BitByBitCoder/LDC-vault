@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer_Knowledge/💻 Computer Knowledge — INDEX.md",
+                "file": "Computer_Knowledge/06 — Operating System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "💻 Computer Knowledge — INDEX"
+              "title": "06 — Operating System"
             }
           },
           {
@@ -240,8 +240,8 @@
   },
   "active": "23c50d0fbbfdbac7",
   "lastOpenFiles": [
-    "Computer_Knowledge/01 — Hardware & CPU.md",
     "Computer_Knowledge/💻 Computer Knowledge — INDEX.md",
+    "Computer_Knowledge/01 — Hardware & CPU.md",
     "Computer_Knowledge/05 — Internet & Web.md",
     "Computer_Knowledge/11 — Internet & Networking.md",
     "Computer_Knowledge/10 — Programming & Sec.md",
