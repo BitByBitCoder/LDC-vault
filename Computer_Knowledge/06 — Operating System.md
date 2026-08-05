@@ -5,20 +5,29 @@
 
 ## Questions From Your Papers
 
-| Question | Answer |
-|----------|--------|
-| OS can be defined as | **Program that manages hardware and provides services to programs** |
-| Windows provides file management through | **File Explorer** |
-| Taskbar typically contains | **Buttons for running applications and system notifications** |
-| Select group of adjacent files | **Hold Shift + click first and last file** |
-| Select non-adjacent files | **Hold Ctrl + click each file** |
-| File names composed of | **Name and extension separated by a dot** |
-| Log off option | **Switches current user session without turning off computer** |
-| Shortcut on desktop contains | **A link that points to the original file or program** |
-| Delete a shortcut | **Does NOT affect the original file** |
-| NOT a version of Windows | **Windows UltraX** |
-| Folder containing another folder | **Parent folder** |
-| Memory resident portion of OS | **Kernel** |
+| Question                                      | Answer                                                              |
+| --------------------------------------------- | ------------------------------------------------------------------- |
+| OS can be defined as                          | **Program that manages hardware and provides services to programs** |
+| Windows provides file management through      | **File Explorer**                                                   |
+| Taskbar typically contains                    | **Buttons for running applications and system notifications**       |
+| Select group of adjacent files                | **Hold Shift + click first and last file**                          |
+| Select non-adjacent files                     | **Hold Ctrl + click each file**                                     |
+| File names composed of                        | **Name and extension separated by a dot**                           |
+| Log off option                                | **Switches current user session without turning off computer**      |
+| Shortcut on desktop contains                  | **A link that points to the original file or program**              |
+| Delete a shortcut                             | **Does NOT affect the original file**                               |
+| NOT a version of Windows                      | **Windows UltraX**                                                  |
+| Folder containing another folder              | **Parent folder**                                                   |
+| Memory resident portion of OS                 | **Kernel**                                                          |
+| OS can be defined as                          | \|\|Manages hardware and provides services to programs\|\|          |
+| Windows provides file management through      | \|\|File Explorer\|\|                                               |
+| Taskbar typically contains                    | \|\|Buttons for running apps and system notifications\|\|           |
+| Select group of adjacent files                | \|\|Hold Shift + click first and last file\|\|                      |
+| File names composed of                        | \|\|Name and extension separated by a dot\|\|                       |
+| Log off option                                | \|\|Switch current user session without turning off\|\|             |
+| Shortcut on desktop                           | \|\|Link that points to original file or program\|\|                |
+| Creating document first time must be saved to | \|\|Assign file name and storage location\|\|                       |
+| Safe mode loads                               | \|\|Minimal drivers only\|\|                                        |
 
 ---
 
@@ -120,23 +129,6 @@
 
 ---
 
-
-
-## Questions From Your Papers
-
-| Question                                      | Answer                                                     |
-| --------------------------------------------- | ---------------------------------------------------------- |
-| OS can be defined as                          | \|\|Manages hardware and provides services to programs\|\| |
-| Windows provides file management through      | \|\|File Explorer\|\|                                      |
-| Taskbar typically contains                    | \|\|Buttons for running apps and system notifications\|\|  |
-| Select group of adjacent files                | \|\|Hold Shift + click first and last file\|\|             |
-| File names composed of                        | \|\|Name and extension separated by a dot\|\|              |
-| Log off option                                | \|\|Switch current user session without turning off\|\|    |
-| Shortcut on desktop                           | \|\|Link that points to original file or program\|\|       |
-| Creating document first time must be saved to | \|\|Assign file name and storage location\|\|              |
-| Safe mode loads                               | \|\|Minimal drivers only\|\|                               |
-
----
 
 ## Operating System — Core Concepts
 
