@@ -65,7 +65,8 @@
               "title": "Daily tracker"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,8 +239,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23c50d0fbbfdbac7",
+  "active": "b2eebd81d62b9676",
   "lastOpenFiles": [
+    "maths brain/radmap/roadmap2.md",
     "maths brain/radmap/new roadmap.md",
     "Computer_Knowledge/05 — Internet & Web.md",
     "Computer_Knowledge/08 — Networking.md",
@@ -268,7 +270,6 @@
     "maths brain/percentages/darama/hriat ture flip.md",
     "maths brain/percentages/darama/formulas.md",
     "maths brain/Screenshot 2026-07-02 at 12.50.50 AM.png",
-    "maths brain/radmap/roadmap2.md",
     "English/Screenshot 2026-07-27 at 11.04.09 PM.png",
     "English/Screenshot 2026-07-27 at 10.25.37 PM.png",
     "Physical geography canvas.canvas",
