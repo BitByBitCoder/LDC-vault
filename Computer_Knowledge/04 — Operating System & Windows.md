@@ -100,28 +100,28 @@
 
 ## Windows Special Features
 
-| Feature         | What it does                                                       |
-| --------------- | ------------------------------------------------------------------ |
-| **Log Off**     | \|\|Ends user session — computer stays ON**                        |
-| **Shutdown**    | Turns computer off completely                                      |
-| **Restart**     | Turns off then on                                                  |
-| **Sleep**       | Low power state — RAM preserved                                    |
-| **Hibernate**   | Saves RAM to disk — powers off                                     |
-| **Safe Mode**   | Starts Windows with **minimal drivers only** — for troubleshooting |
-| **Shortcut**    | **Link pointing to original file** — NOT a copy                    |
-| **Recycle Bin** | Holds deleted files — can be restored until emptied                |
+| Feature         | What it does                                                               |
+| --------------- | -------------------------------------------------------------------------- |
+| **Log Off**     | \|\|Ends user session — computer stays ON\|\|                              |
+| **Shutdown**    | \|\|Turns computer off completely\|\|                                      |
+| **Restart**     | \|\|Turns off then on\|\|                                                  |
+| **Sleep**       | \|\|Low power state — RAM preserved\|\|                                    |
+| **Hibernate**   | \|\|Saves RAM to disk — powers off\|\|                                     |
+| **Safe Mode**   | \|\|Starts Windows with **minimal drivers only** — for troubleshooting\|\| |
+| **Shortcut**    | \|\|Link pointing to original file — NOT a copy\|\|                        |
+| **Recycle Bin** | \|\|Holds deleted files — can be restored until emptied\|\|                |
 
 ---
 
 ## Control Panel & Settings
 
-| Setting | Location |
-|---------|---------|
-| Add/remove programs | Control Panel → Programs |
-| Change display settings | Control Panel → Display |
-| Network settings | Control Panel → Network and Internet |
-| User accounts | Control Panel → User Accounts |
-| Date and Time | Control Panel → Date and Time |
+| Setting                 | Location                                     |
+| ----------------------- | -------------------------------------------- |
+| Add/remove programs     | \|\|Control Panel → Programs\|\|             |
+| Change display settings | \|\|Control Panel → Display\|\|              |
+| Network settings        | \|\|Control Panel → Network and Internet\|\| |
+| User accounts           | \|\|Control Panel → User Accounts\|\|        |
+| Date and Time           | \|\|Control Panel → Date and Time\|\|        |
 
 ---
 
