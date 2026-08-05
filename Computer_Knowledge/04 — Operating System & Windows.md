@@ -102,7 +102,7 @@
 
 | Feature         | What it does                                                       |
 | --------------- | ------------------------------------------------------------------ |
-| **Log Off**     | **Ends user session — computer stays ON**                          |
+| **Log Off**     | \|\|Ends user session — computer stays ON**                        |
 | **Shutdown**    | Turns computer off completely                                      |
 | **Restart**     | Turns off then on                                                  |
 | **Sleep**       | Low power state — RAM preserved                                    |
