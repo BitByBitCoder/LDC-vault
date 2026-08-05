@@ -120,26 +120,7 @@
 
 ---
 
-## Exam Traps ⚠️
-> File management in Windows = **File Explorer** — NOT Task Manager or Control Panel
-> Shortcut = **link to original** — NOT a copy — deleting shortcut = original SAFE
-> Log off = **ends session** — computer does NOT shut down
-> Calculator does **arithmetic AND scientific** — NOT just arithmetic
-> Notepad = NO formatting; WordPad = **has formatting**
-> Kernel = **memory resident part of OS** — NOT the whole OS
-> Adjacent files = **Shift + Click**; Non-adjacent = **Ctrl + Click**
-> File name = **name.extension** (separated by dot)
-> Virtual memory = **hard disk acts as extra RAM** — NOT a type of RAM
 
-
-
-
-# 04 — Operating System & Windows
-[[💻 Computer Knowledge — INDEX|← Back to Index]]
-
-> 43 questions (8.2%)
-
----
 
 ## Questions From Your Papers
 
@@ -320,3 +301,15 @@
 > Safe mode = **minimal drivers** — for troubleshooting problems
 > Shift+Delete = **permanent delete** — bypasses Recycle Bin
 > Adjacent files = **Shift+click** — non-adjacent = **Ctrl+click**
+
+
+## Exam Traps ⚠️
+> File management in Windows = **File Explorer** — NOT Task Manager or Control Panel
+> Shortcut = **link to original** — NOT a copy — deleting shortcut = original SAFE
+> Log off = **ends session** — computer does NOT shut down
+> Calculator does **arithmetic AND scientific** — NOT just arithmetic
+> Notepad = NO formatting; WordPad = **has formatting**
+> Kernel = **memory resident part of OS** — NOT the whole OS
+> Adjacent files = **Shift + Click**; Non-adjacent = **Ctrl + Click**
+> File name = **name.extension** (separated by dot)
+> Virtual memory = **hard disk acts as extra RAM** — NOT a type of RAM
