@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer_Knowledge/01 — Hardware & CPU.md",
-                "mode": "preview",
+                "file": "Computer_Knowledge/02 — MS Word.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 — Hardware & CPU"
+              "title": "02 — MS Word"
             }
           },
           {
@@ -226,12 +226,12 @@
   },
   "active": "23c50d0fbbfdbac7",
   "lastOpenFiles": [
+    "Computer_Knowledge/01 — Hardware & CPU.md",
     "Computer_Knowledge/💻 Computer Knowledge — INDEX.md",
     "Computer_Knowledge/Computer CPU.canvas",
     "English/01 — Tenses.md",
     "English/📝 English — INDEX.md",
     "Personal Constitution/first.md",
-    "Computer_Knowledge/01 — Hardware & CPU.md",
     "Personal Constitution",
     "computer/Address/Address.md",
     "Daily tracker.md",

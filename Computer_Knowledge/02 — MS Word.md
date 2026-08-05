@@ -7,26 +7,26 @@
 
 ## Questions From Your Papers
 
-| Question | Answer |
-|----------|--------|
-| Print a document | **File → Print** |
-| Increase/decrease text size | **Font Size Box** |
-| Font style options | **Bold, Italic, Underline** |
-| AutoCorrect options found under | **File → Options → Proofing** |
-| Readability statistics provides | **How easy/difficult document is to read** |
-| Replace all option | **Replaces every occurrence in document** |
-| Shading in document | **Adds background color to selected text/paragraphs** |
-| Superscript used in | **Mathematical powers (x³)** |
-| WordArt used to | **Create decorative text with special effects** |
-| Table AutoFormat | **Automatically applies predefined design to table** |
-| Mail merge master document contains | **Fixed text that remains same in all copies** |
-| Close current worksheet but keep Excel running | **File → Close** |
-| WordPad differs from Notepad because | **WordPad supports basic text formatting** |
-| Save document first time | **Assign file name and storage location** |
-| Changing font type affects | **Appearance of characters** |
-| Justified alignment | **Aligns evenly on both left and right margins** |
-| Paragraph spacing refers to | **Space before and after a paragraph** |
-| AutoCorrect activated when | **Press spacebar or Enter after typing a word** |
+| Question                                       | Answer                                                |
+| ---------------------------------------------- | ----------------------------------------------------- |
+| Print a document                               | **File → Print**                                      |
+| Increase/decrease text size                    | **Font Size Box**                                     |
+| Font style options                             | **Bold, Italic, Underline**                           |
+| AutoCorrect options found under                | **File → Options → Proofing**                         |
+| Readability statistics provides                | **How easy/difficult document is to read**            |
+| Replace all option                             | **Replaces every occurrence in document**             |
+| Shading in document                            | **Adds background color to selected text/paragraphs** |
+| Superscript used in                            | **Mathematical powers (x³)**                          |
+| WordArt used to                                | **Create decorative text with special effects**       |
+| Table AutoFormat                               | **Automatically applies predefined design to table**  |
+| Mail merge master document contains            | **Fixed text that remains same in all copies**        |
+| Close current worksheet but keep Excel running | **File → Close**                                      |
+| WordPad differs from Notepad because           | **WordPad supports basic text formatting**            |
+| Save document first time                       | **Assign file name and storage location**             |
+| Changing font type affects                     | **Appearance of characters**                          |
+| Justified alignment                            | **Aligns evenly on both left and right margins**      |
+| Paragraph spacing refers to                    | **Space before and after a paragraph**                |
+| AutoCorrect activated when                     | **Press spacebar or Enter after typing a word**       |
 
 ---
 
