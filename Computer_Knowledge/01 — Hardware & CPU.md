@@ -128,14 +128,15 @@ Registers → Cache → RAM → Hard Disk → Optical → Magnetic Tape
 | Plotter     | \|\|Hardcopy\|\| | \|\|Large drawings/designs\|\| |
 | Speaker     | \|\|Softcopy\|\| | \|\|Audio\|\|                  |
 | Projector   | \|\|Softcopy\|\| | \|\|Projected display\|\|      |
+|             |                  |                                |
 
 ### Printer Types
-| Type | Mechanism |
-|------|-----------|
-| **Laser** | Best quality, fast, uses toner |
-| **Inkjet** | Color photos, uses ink |
+| Type           | Mechanism                           |
+| -------------- | ----------------------------------- |
+| **Laser**      | \|Best quality, fast, uses toner    |
+| **Inkjet**     | Color photos, uses ink              |
 | **Dot Matrix** | Impact printer — carbon copy — loud |
-| **Thermal** | Heat-sensitive paper |
+| **Thermal**    | Heat-sensitive paper                |
 
 ---
 
