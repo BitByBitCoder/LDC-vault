@@ -10,14 +10,14 @@
 | Search engine works by              | \|\|Indexing and retrieving web pages based on keywords\|\| |
 | WWW consists of                     | \|\|Interconnected web pages accessed through browsers\|\|  |
 | Using strong passwords helps in     | \|\|Preventing cyber crime\|\|                              |
-| HTTPS more secure than HTTP because | **Uses encryption to protect data**                         |
-| Bandwidth measures                  | **Amount of information transmitted at given time**         |
-| Hyperlinks found in webpages        | **Yes — commonly found**                                    |
-| HTML image tag                      | **img**                                                     |
-| IP address currently                | **4 bytes (IPv4)**                                          |
-| Body of email contains              | **Main message content**                                    |
-| Email encryption ensures            | **Protection of message confidentiality**                   |
-| During email routing messages are   | **Transferred through a series of mail servers**            |
+| HTTPS more secure than HTTP because | \|\|Uses encryption to protect data\|\|                     |
+| Bandwidth measures                  | \|\|Amount of information transmitted at given time\|\|     |
+| Hyperlinks found in webpages        | \|\|Yes — commonly found\|\|                                |
+| HTML image tag                      | \|\|img\|\|                                                 |
+| IP address currently                | \|\|4 bytes (IPv4)\|\|                                      |
+| Body of email contains              | \|\|Main message content\|\|                                |
+| Email encryption ensures            | \|\|Protection of message confidentiality\|\|               |
+| During email routing messages are   | \|\|Transferred through a series of mail servers\|\|        |
 
 ## Internet Basics
 
