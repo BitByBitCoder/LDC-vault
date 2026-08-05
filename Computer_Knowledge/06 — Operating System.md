@@ -53,32 +53,6 @@
 
 ## Windows — File Management
 
-| Feature | What it does |
-|---------|-------------|
-| **File Explorer** | **Browse and manage files and folders** |
-| **Recycle Bin** | Holds deleted files temporarily |
-| **Desktop** | Main working area |
-| **Taskbar** | **Running apps + system notifications** |
-| **Start Menu** | Access programs and settings |
-| **Control Panel** | System settings |
-| **Task Manager** | View running processes and performance |
-
-### File Selection
-| Action | How |
-|--------|-----|
-| Select adjacent files | **Shift + Click first and last** |
-| Select non-adjacent | **Ctrl + Click each** |
-| Select all | Ctrl + A |
-| Deselect all | Click empty area |
-
-### File Names
-| Component | Example |
-|-----------|---------|
-| Name | document |
-| Extension | .docx |
-| Full name | **document.docx** |
-| Separated by | **A dot (.)** |
-
 ---
 
 ## Desktop Features
