@@ -57,44 +57,44 @@
 
 ## File Management
 
-| Concept              | Explanation                                             |
-| -------------------- | ------------------------------------------------------- |
-| **File**             | \|\|Basic unit of storage — contains data\|\|           |
-| **Folder/Directory** | \|\|Container for files and subfolders\|\|              |
-| **File name**        | \|\|Name + dot + extension (e.g., report.docx)          |
-| **File extension**   | Tells OS what type of file it is                        |
-| **Path**             | Full location of file (e.g., C:\Users\Desktop\file.txt) |
-| **Root directory**   | Top-level directory (C:\)                               |
+| Concept              | Explanation                                                     |
+| -------------------- | --------------------------------------------------------------- |
+| **File**             | \|\|Basic unit of storage — contains data\|\|                   |
+| **Folder/Directory** | \|\|Container for files and subfolders\|\|                      |
+| **File name**        | \|\|Name + dot + extension (e.g., report.docx)\|\|              |
+| **File extension**   | \|\|Tells OS what type of file it is\|\|                        |
+| **Path**             | \|\|Full location of file (e.g., C:\Users\Desktop\file.txt)\|\| |
+| **Root directory**   | \|\|Top-level directory (C:\)\|\|                               |
 
 ### Common File Extensions
 
-| Extension | File Type |
-|-----------|----------|
-| **.docx** | MS Word document |
-| **.xlsx** | MS Excel spreadsheet |
-| **.pptx** | MS PowerPoint presentation |
-| **.pdf** | PDF document |
-| **.txt** | Plain text file |
-| **.jpg/.png** | Image files |
-| **.mp3** | Audio file |
-| **.mp4** | Video file |
-| **.exe** | Executable/program file |
-| **.zip** | Compressed archive |
+| Extension     | File Type                          |
+| ------------- | ---------------------------------- |
+| **.docx**     | \|\|MS Word document\|\|           |
+| **.xlsx**     | \|\|MS Excel spreadsheet\|\|       |
+| **.pptx**     | \|\|MS PowerPoint presentation\|\| |
+| **.pdf**      | \|\|PDF document\|\|               |
+| **.txt**      | \|\|Plain text file\|\|            |
+| **.jpg/.png** | \|\|Image files\|\|                |
+| **.mp3**      | \|\|Audio file\|\|                 |
+| **.mp4**      | \|\|Video file\|\|                 |
+| **.exe**      | \|\|Executable/program file\|\|    |
+| **.zip**      | \|\|Compressed archive\|\|         |
 
 ---
 
 ## File Operations
 
-| Operation | How |
-|-----------|-----|
-| Select adjacent files | **Shift + click first and last** |
-| Select non-adjacent files | **Ctrl + click each file** |
-| Select all files | **Ctrl+A** |
-| Copy file | Ctrl+C → Ctrl+V |
-| Cut and move | Ctrl+X → Ctrl+V |
-| Delete (to Recycle Bin) | **Delete key** |
-| Permanent delete | **Shift+Delete** |
-| Rename | F2 or right-click → Rename |
+| Operation                 | How                                |
+| ------------------------- | ---------------------------------- |
+| Select adjacent files     | \|\|Shift + click first and last** |
+| Select non-adjacent files | **Ctrl + click each file**         |
+| Select all files          | **Ctrl+A**                         |
+| Copy file                 | Ctrl+C → Ctrl+V                    |
+| Cut and move              | Ctrl+X → Ctrl+V                    |
+| Delete (to Recycle Bin)   | **Delete key**                     |
+| Permanent delete          | **Shift+Delete**                   |
+| Rename                    | F2 or right-click → Rename         |
 
 ---
 
