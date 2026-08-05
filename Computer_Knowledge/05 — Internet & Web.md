@@ -1,5 +1,4 @@
-# 05 — Internet & Web
-[[💻 Computer Knowledge — INDEX|← Back to Index]]
+
 
 ---
 
@@ -19,7 +18,6 @@
 
 | Question                              | Answer                                                  |
 | ------------------------------------- | ------------------------------------------------------- |
-| World Wide Web is a service on top of | **Internet infrastructure**                             |
 | WWW consists of                       | **Interconnected web pages accessed through browsers**  |
 | Search engine works by                | **Indexing and retrieving web pages based on keywords** |
 | Body of email contains                | **Main message content**                                |
