@@ -65,7 +65,8 @@
               "title": "Daily tracker"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,16 +239,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23c50d0fbbfdbac7",
+  "active": "b2eebd81d62b9676",
   "lastOpenFiles": [
+    "Computer_Knowledge/05 — Operating System & Windows.md",
     "Computer_Knowledge/04 — Operating System & Windows.md",
-    "Computer_Knowledge/01 — Hardware & Computer Basics.md",
     "Computer_Knowledge/💻 Computer Knowledge — INDEX.md",
+    "Computer_Knowledge/01 — Hardware & Computer Basics.md",
     "Computer_Knowledge/01 — Hardware & CPU.md",
     "Daily tracker.md",
     "maths brain/percentages/darama/darama a question zawng2.md",
     "Computer_Knowledge/05 — Internet & Networking.md",
-    "Computer_Knowledge/05 — Operating System & Windows.md",
     "Computer_Knowledge/04 — MS PowerPoint.md",
     "Computer_Knowledge/06 — Internet & Web.md",
     "Computer_Knowledge/02 — MS Word.md",
