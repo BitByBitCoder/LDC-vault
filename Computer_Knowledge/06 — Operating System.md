@@ -30,10 +30,10 @@
 | OS is             | \|\|System software\|\|                            |
 | OS main functions | \|\|Manages hardware, memory, files, processes\|\| |
 | Examples of OS    | \|\|Windows, macOS, Linux, Android, iOS\|\|        |
-| Kernel            | \|\|Core of OS — memory resident portion**         |
-| Shell             | Interface between user and OS                      |
-| GUI               | Graphical User Interface                           |
-| CLI               | Command Line Interface                             |
+| Kernel            | \|\|Core of OS — memory resident portion\|\|       |
+| Shell             | \|\|Interface between user and OS\|\|              |
+| GUI               | \|\|Graphical User Interface\|\|                   |
+| CLI               | \|\|Command Line Interface\|\|                     |
 
 ---
 
