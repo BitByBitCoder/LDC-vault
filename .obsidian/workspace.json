@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -249,7 +249,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "59172ca0498d01e9",
+  "active": "b2eebd81d62b9676",
   "lastOpenFiles": [
     "Daily tracker.md",
     "Computer_Knowledge/05 — Internet & Web.md",
