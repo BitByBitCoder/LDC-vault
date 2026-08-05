@@ -31,30 +31,30 @@
 | Bandwidth            | \|\|Data transfer capacity — measured in Mbps/Gbps\|\| |
 
 ### WWW vs Internet
-| Internet                            | WWW                                              |
-| ----------------------------------- | ------------------------------------------------ |
-| The physical network infrastructure | **A service/application on top of the Internet** |
-| Includes email, FTP, VoIP etc.      | Only web pages                                   |
-| Started 1969 (ARPANET)              | Started 1991 (Tim Berners-Lee)                   |
-| Physical network infrastructure     | Service running on top of internet               |
-| Cables, routers, servers            | Web pages, browsers                              |
-| Like the highway system             | Like the cars on the highway                     |
+| Internet                            | WWW                                                  |
+| ----------------------------------- | ---------------------------------------------------- |
+| The physical network infrastructure | \|\|A service/application on top of the Internet\|\| |
+| Includes email, FTP, VoIP etc.      | \|\|Only web pages\|\|                               |
+| Started 1969 (ARPANET)              | \|\|Started 1991 (Tim Berners-Lee)\|\|               |
+| Physical network infrastructure     | \|\|Service running on top of internet\|\|           |
+| Cables, routers, servers            | \|\|Web pages, browsers\|\|                          |
+| Like the highway system             | \|\|Like the cars on the highway\|\|                 |
 
 
-| Term                     | Meaning                                                      |
-| ------------------------ | ------------------------------------------------------------ |
-| **Internet**             | Global network of interconnected computers                   |
-| **WWW (World Wide Web)** | Service running on internet — web pages accessed via browser |
-| **Web page**             | Document on WWW                                              |
-| **Website**              | Collection of web pages                                      |
-| **Web browser**          | Software to access WWW (Chrome, Firefox, Safari, Edge)       |
-| **URL**                  | **Uniform Resource Locator** — web address                   |
-| **HTTP**                 | **HyperText Transfer Protocol** — web communication          |
-| **HTTPS**                | HTTP + **Secure** (encrypted)                                |
-| **ISP**                  | **Internet Service Provider**                                |
-| **IP Address**           | Unique numerical address for each device                     |
-| **Domain name**          | Human-readable web address (google.com)                      |
-| **DNS**                  | **Domain Name System** — converts domain to IP address       |
+| Term                     | Meaning                                                              |
+| ------------------------ | -------------------------------------------------------------------- |
+| **Internet**             | \|\|Global network of interconnected computers\|\|                   |
+| **WWW (World Wide Web)** | \|\|Service running on internet — web pages accessed via browser\|\| |
+| **Web page**             | \|\|Document on WWW\|\|                                              |
+| **Website**              | \|\|Collection of web pages\|\|                                      |
+| **Web browser**          | \|\|Software to access WWW (Chrome, Firefox, Safari, Edge)\|\|       |
+| **URL**                  | \|\|Uniform Resource Locator** — web address                         |
+| **HTTP**                 | **HyperText Transfer Protocol** — web communication                  |
+| **HTTPS**                | HTTP + **Secure** (encrypted)                                        |
+| **ISP**                  | **Internet Service Provider**                                        |
+| **IP Address**           | Unique numerical address for each device                             |
+| **Domain name**          | Human-readable web address (google.com)                              |
+| **DNS**                  | **Domain Name System** — converts domain to IP address               |
 
 ## URLs and Protocols
 
