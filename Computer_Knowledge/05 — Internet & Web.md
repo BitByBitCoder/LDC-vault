@@ -145,37 +145,12 @@ Protocol  Domain      Path
 
 ---
 
-## Exam Traps ⚠️
-> WWW = **service ON TOP of Internet** — NOT the same as Internet
-> HTTPS more secure = **uses encryption** — NOT faster or different port
-> Search engine = **indexes and retrieves** — NOT creates or stores websites
-> Bandwidth = **data transfer capacity** (Mbps) — NOT storage capacity
-> HTML image tag = **img** — NOT pic or src or dispic
-> IP address = **4 bytes for IPv4** — NOT 2 bytes or 6 bytes
-> FTP = **file transfer** — NOT email (email = SMTP)
-> Hyperlinks = **clickable links** — found in webpages
 
 
-# 11 — Internet & Networking
-[[💻 Computer Knowledge — INDEX|← Back to Index]]
 
-> 40 questions (7.6%)
 
 ---
 
-## Questions From Your Papers
-
-| Question                              | Answer                                                  |
-| ------------------------------------- | ------------------------------------------------------- |
-| World Wide Web is a service on top of | **Internet infrastructure**                             |
-| WWW consists of                       | **Interconnected web pages accessed through browsers**  |
-| Search engine works by                | **Indexing and retrieving web pages based on keywords** |
-| Body of email contains                | **Main message content**                                |
-| Email encryption ensures              | **Protection of message confidentiality**               |
-| During email routing messages are     | **Transferred through a series of mail servers**        |
-| Using strong passwords helps in       | **Preventing cyber crime**                              |
-
----
 
 ## Internet Basics
 
@@ -299,3 +274,14 @@ Protocol  Domain      Path
 > VPN = **encrypted** connection — NOT just faster connection
 > Router = **connects networks** — Switch = connects devices in same network
 > DNS = **domain name to IP address** — like a phone book for the internet
+
+
+## Exam Traps ⚠️
+> WWW = **service ON TOP of Internet** — NOT the same as Internet
+> HTTPS more secure = **uses encryption** — NOT faster or different port
+> Search engine = **indexes and retrieves** — NOT creates or stores websites
+> Bandwidth = **data transfer capacity** (Mbps) — NOT storage capacity
+> HTML image tag = **img** — NOT pic or src or dispic
+> IP address = **4 bytes for IPv4** — NOT 2 bytes or 6 bytes
+> FTP = **file transfer** — NOT email (email = SMTP)
+> Hyperlinks = **clickable links** — found in webpages
