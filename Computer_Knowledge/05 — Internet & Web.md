@@ -39,11 +39,14 @@
 | Bandwidth | **Data transfer capacity — measured in Mbps/Gbps** |
 
 ### WWW vs Internet
-| Internet | WWW |
-|---------|-----|
+| Internet                            | WWW                                              |
+| ----------------------------------- | ------------------------------------------------ |
 | The physical network infrastructure | **A service/application on top of the Internet** |
-| Includes email, FTP, VoIP etc. | Only web pages |
-| Started 1969 (ARPANET) | Started 1991 (Tim Berners-Lee) |
+| Includes email, FTP, VoIP etc.      | Only web pages                                   |
+| Started 1969 (ARPANET)              | Started 1991 (Tim Berners-Lee)                   |
+| Physical network infrastructure     | Service running on top of internet               |
+| Cables, routers, servers            | Web pages, browsers                              |
+| Like the highway system             | Like the cars on the highway                     |
 
 
 | Term                     | Meaning                                                      |
@@ -173,8 +176,6 @@ Protocol  Domain      Path
 
 ---
 
-
-## Internet Basics
 
 
 
