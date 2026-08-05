@@ -7,17 +7,17 @@
 
 ## Questions From Your Papers
 
-| Question                                      | Answer                                                 |
-| --------------------------------------------- | ------------------------------------------------------ |
-| OS can be defined as                          | **Manages hardware and provides services to programs** |
-| Windows provides file management through      | **File Explorer**                                      |
-| Taskbar typically contains                    | **Buttons for running apps and system notifications**  |
-| Select group of adjacent files                | **Hold Shift + click first and last file**             |
-| File names composed of                        | **Name and extension separated by a dot**              |
-| Log off option                                | **Switch current user session without turning off**    |
-| Shortcut on desktop                           | **Link that points to original file or program**       |
-| Creating document first time must be saved to | **Assign file name and storage location**              |
-| Safe mode loads                               | **Minimal drivers only**                               |
+| Question                                      | Answer                                                     |
+| --------------------------------------------- | ---------------------------------------------------------- |
+| OS can be defined as                          | \|\|Manages hardware and provides services to programs\|\| |
+| Windows provides file management through      | \|\|File Explorer\|\|                                      |
+| Taskbar typically contains                    | \|\|Buttons for running apps and system notifications\|\|  |
+| Select group of adjacent files                | \|\|Hold Shift + click first and last file\|\|             |
+| File names composed of                        | \|\|Name and extension separated by a dot\|\|              |
+| Log off option                                | \|\|Switch current user session without turning off\|\|    |
+| Shortcut on desktop                           | \|\|Link that points to original file or program\|\|       |
+| Creating document first time must be saved to | \|\|Assign file name and storage location\|\|              |
+| Safe mode loads                               | \|\|Minimal drivers only\|\|                               |
 
 ---
 
