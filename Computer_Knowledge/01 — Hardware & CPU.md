@@ -162,12 +162,12 @@ Bit → Nibble → Byte → KB → MB → GB → TB → PB
 
 ## Number Systems
 
-| System | Base | Digits Used |
-|--------|------|------------|
-| Binary | 2 | 0, 1 |
-| Octal | 8 | 0–7 |
-| Decimal | 10 | 0–9 |
-| Hexadecimal | 16 | 0–9, A–F |
+| System      | Base | Digits Used |
+| ----------- | ---- | ----------- |
+| Binary      | 2    | 0, 1        |
+| Octal       | 8    | 0–7         |
+| Decimal     | 10   | 0–9         |
+| Hexadecimal | 16   | 0–9, A–F    |
 
 ### ASCII & Unicode
 | Code | Purpose |
