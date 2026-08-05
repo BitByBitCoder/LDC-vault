@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer_Knowledge/05 — Operating System & Windows.md",
+                "file": "Computer_Knowledge/💻 Computer Knowledge — INDEX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 — Operating System & Windows"
+              "title": "💻 Computer Knowledge — INDEX"
             }
           },
           {
@@ -51,7 +51,8 @@
               "title": "darama a question zawng2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,14 +225,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23c50d0fbbfdbac7",
+  "active": "1a7c88a82ca9f5a3",
   "lastOpenFiles": [
-    "Computer_Knowledge/05 — Internet & Networking.md",
+    "maths brain/percentages/darama/darama a question zawng2.md",
+    "Daily tracker.md",
     "Computer_Knowledge/💻 Computer Knowledge — INDEX.md",
+    "Computer_Knowledge/05 — Internet & Networking.md",
+    "Computer_Knowledge/05 — Operating System & Windows.md",
     "Computer_Knowledge/04 — Operating System & Windows.md",
     "Computer_Knowledge/04 — MS PowerPoint.md",
     "Computer_Knowledge/06 — Internet & Web.md",
-    "Computer_Knowledge/05 — Operating System & Windows.md",
     "Computer_Knowledge/02 — MS Word.md",
     "Computer_Knowledge/01 — Hardware & CPU.md",
     "Computer_Knowledge/Computer CPU.canvas",
@@ -240,8 +243,6 @@
     "Personal Constitution/first.md",
     "Personal Constitution",
     "computer/Address/Address.md",
-    "Daily tracker.md",
-    "maths brain/percentages/darama/darama a question zawng2.md",
     "maths brain/percentages/darama/darama filter.md",
     "maths brain/percentages/darama/hriat ture flip.md",
     "maths brain/percentages/darama/formulas.md",
