@@ -48,13 +48,13 @@
 | **Web page**             | \|\|Document on WWW\|\|                                              |
 | **Website**              | \|\|Collection of web pages\|\|                                      |
 | **Web browser**          | \|\|Software to access WWW (Chrome, Firefox, Safari, Edge)\|\|       |
-| **URL**                  | \|\|Uniform Resource Locator** — web address                         |
-| **HTTP**                 | **HyperText Transfer Protocol** — web communication                  |
-| **HTTPS**                | HTTP + **Secure** (encrypted)                                        |
-| **ISP**                  | **Internet Service Provider**                                        |
-| **IP Address**           | Unique numerical address for each device                             |
-| **Domain name**          | Human-readable web address (google.com)                              |
-| **DNS**                  | **Domain Name System** — converts domain to IP address               |
+| **URL**                  | \|\|Uniform Resource Locator — web address\|\|                       |
+| **HTTP**                 | \|\|HyperText Transfer Protocol — web communication\|\|              |
+| **HTTPS**                | \|\|HTTP + Secure (encrypted)\|\|                                    |
+| **ISP**                  | \|\|Internet Service Provider\|\|                                    |
+| **IP Address**           | \|\|Unique numerical address for each device\|\|                     |
+| **Domain name**          | \|\|Human-readable web address (google.com)\|\|                      |
+| **DNS**                  | \|\|Domain Name System — converts domain to IP address\|\|           |
 
 ## URLs and Protocols
 
