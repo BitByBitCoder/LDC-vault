@@ -5,15 +5,15 @@
 
 ## Questions From Your Papers
 
-| Question | Answer |
-|----------|--------|
-| Software instructs hardware to | **Perform specific tasks** |
-| Application software example | **Spreadsheet program** |
-| Client-server — server does | **Stores and manages shared resources** |
-| Inventory control — computers mainly | **Monitor stock levels and manage reordering** |
-| COBOL widely used in | **Commercial applications** |
-| Software designed for specific purpose | **Application Software** |
-| NOT antivirus software | **Oracle** (Oracle is a database) |
+| Question                               | Answer                                         |
+| -------------------------------------- | ---------------------------------------------- |
+| Software instructs hardware to         | **Perform specific tasks**                     |
+| Application software example           | **Spreadsheet program**                        |
+| Client-server — server does            | **Stores and manages shared resources**        |
+| Inventory control — computers mainly   | **Monitor stock levels and manage reordering** |
+| COBOL widely used in                   | **Commercial applications**                    |
+| Software designed for specific purpose | **Application Software**                       |
+| NOT antivirus software                 | **Oracle** (Oracle is a database)              |
 
 ---
 

@@ -1,4 +1,4 @@
-# 01 — Hardware & Computer Basics & CPU
+# 01 — Hardware & CPU
 [[💻 Computer Knowledge — INDEX|← Back to Index]]
 
 > Biggest topic — 137 questions (26%). Your CS background covers most of this.

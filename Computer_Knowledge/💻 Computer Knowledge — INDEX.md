@@ -20,6 +20,7 @@
 | Software Concepts | 10        | 1.9%  | 🟡 #9    |
 | Number Systems    | 6         | 0.8%  | 🟢 Low   |
 | Cyber Security    | 3         | 0.6%  | 🟢 Low   |
+|                   |           |       |          |
 
 ---
 
@@ -31,12 +32,12 @@
 | 2 | [[02 — MS Word]] | 94 Qs | 🔴 Must master |
 | 3 | [[03 — MS Excel]] | 72 Qs | 🔴 Must master |
 | 4 | [[04 — MS PowerPoint]] | 40 Qs | 🔴 High |
-| 5 | [[05 — Operating System & Windows]] | 35 Qs | 🔴 High |
-| 6 | [[06 — Internet & Web]] | 38 Qs | 🔴 High |
+| 5 | [[06 — Operating System]] | 35 Qs | 🔴 High |
+| 6 | [[05 — Internet & Web]] | 38 Qs | 🔴 High |
 | 7 | [[07 — Email]] | 26 Qs | 🟡 Medium |
 | 8 | [[08 — Networking]] | 18 Qs | 🟡 Medium |
-| 9 | [[09 — Software Concepts]] | 10 Qs | 🟡 Medium |
-| 10 | [[10 — Number Systems & Units]] | 6 Qs | 🟢 Low |
+| 9 | [[08 — Software Concepts]] | 10 Qs | 🟡 Medium |
+| 10 | [[09 — Number Systems & Units]] | 6 Qs | 🟢 Low |
 
 ---
 
@@ -107,12 +108,12 @@
 3. [[02 — MS Word]] — 17.8%, many small facts
 4. [[03 — MS Excel]] — formulas, referencing, functions
 5. [[04 — MS PowerPoint]] — views, animations, layouts
-6. [[05 — Operating System & Windows]] — Windows features
-7. [[06 — Internet & Web]] — protocols, browsers, HTML
+6. [[06 — Operating System]] — Windows features
+7. [[05 — Internet & Web]] — protocols, browsers, HTML
 8. [[07 — Email]] — components, protocols
 9. [[08 — Networking]] — LAN/WAN, devices
-10. [[09 — Software Concepts]] — types, compilers
-11. [[10 — Number Systems & Units]] — bits, bytes, binary
+10. [[08 — Software Concepts]] — types, compilers
+11. [[09 — Number Systems & Units]] — bits, bytes, binary
 
 ---
 
