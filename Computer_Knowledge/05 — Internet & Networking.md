@@ -7,15 +7,15 @@
 
 ## Questions From Your Papers
 
-| Question | Answer |
-|----------|--------|
-| World Wide Web is a service on top of | **Internet infrastructure** |
-| WWW consists of | **Interconnected web pages accessed through browsers** |
-| Search engine works by | **Indexing and retrieving web pages based on keywords** |
-| Body of email contains | **Main message content** |
-| Email encryption ensures | **Protection of message confidentiality** |
-| During email routing messages are | **Transferred through a series of mail servers** |
-| Using strong passwords helps in | **Preventing cyber crime** |
+| Question                              | Answer                                                  |
+| ------------------------------------- | ------------------------------------------------------- |
+| World Wide Web is a service on top of | **Internet infrastructure**                             |
+| WWW consists of                       | **Interconnected web pages accessed through browsers**  |
+| Search engine works by                | **Indexing and retrieving web pages based on keywords** |
+| Body of email contains                | **Main message content**                                |
+| Email encryption ensures              | **Protection of message confidentiality**               |
+| During email routing messages are     | **Transferred through a series of mail servers**        |
+| Using strong passwords helps in       | **Preventing cyber crime**                              |
 
 ---
 
