@@ -7,19 +7,19 @@
 
 ## 📊 Topic Frequency (Real Data)
 
-| Topic | Questions | % | Priority |
-|-------|-----------|---|---------|
-| Hardware & CPU | 124 | 23.5% | 🔴 #1 |
-| MS Word | 94 | 17.8% | 🔴 #2 |
-| MS Excel | 72 | 13.7% | 🔴 #3 |
-| MS PowerPoint | 40 | 7.6% | 🔴 #4 |
-| Internet & Web | 38 | 7.2% | 🔴 #5 |
-| Operating System | 35 | 6.6% | 🔴 #6 |
-| Email | 26 | 4.9% | 🟡 #7 |
-| Networking | 18 | 3.4% | 🟡 #8 |
-| Software Concepts | 10 | 1.9% | 🟡 #9 |
-| Number Systems | 6 | 0.8% | 🟢 Low |
-| Cyber Security | 3 | 0.6% | 🟢 Low |
+| Topic             | Questions | %     | Priority |
+| ----------------- | --------- | ----- | -------- |
+| Hardware & CPU    | 124       | 23.5% | 🔴 #1    |
+| MS Word           | 94        | 17.8% | 🔴 #2    |
+| MS Excel          | 72        | 13.7% | 🔴 #3    |
+| MS PowerPoint     | 40        | 7.6%  | 🔴 #4    |
+| Internet & Web    | 38        | 7.2%  | 🔴 #5    |
+| Operating System  | 35        | 6.6%  | 🔴 #6    |
+| Email             | 26        | 4.9%  | 🟡 #7    |
+| Networking        | 18        | 3.4%  | 🟡 #8    |
+| Software Concepts | 10        | 1.9%  | 🟡 #9    |
+| Number Systems    | 6         | 0.8%  | 🟢 Low   |
+| Cyber Security    | 3         | 0.6%  | 🟢 Low   |
 
 ---
 

@@ -1,399 +1,48 @@
 {
-  "nodes": [
-    {
-      "id": "central",
-      "type": "text",
-      "x": 950,
-      "y": 1050,
-      "width": 400,
-      "height": 260,
-      "text": "# 🖥️ CPU\n**Central Processing Unit**\n\nThe \"brain\" of the computer. Executes program instructions by performing arithmetic, logical, control, and input/output (I/O) operations.\n\nAlso called the **Microprocessor** when fabricated on a single IC chip.",
-      "color": "1"
-    },
-    {
-      "id": "g1",
-      "type": "group",
-      "x": 0,
-      "y": 0,
-      "width": 900,
-      "height": 650,
-      "label": "🔧 Core Components",
-      "color": "2"
-    },
-    {
-      "id": "alu",
-      "type": "text",
-      "x": 40,
-      "y": 80,
-      "width": 380,
-      "height": 220,
-      "color": "2",
-      "text": "**ALU**\n(Arithmetic Logic Unit)\n\nPerforms all arithmetic (+, −, ×, ÷) and logical (AND, OR, NOT, comparisons) operations."
-    },
-    {
-      "id": "cu",
-      "type": "text",
-      "x": 460,
-      "y": 80,
-      "width": 380,
-      "height": 220,
-      "color": "2",
-      "text": "**CU**\n(Control Unit)\n\nDirects/coordinates all CPU activity — fetches, decodes & directs execution of instructions.\n\n⚠️ Exam trap: CU does **NOT** itself process data, it only controls."
-    },
-    {
-      "id": "registers",
-      "type": "text",
-      "x": 40,
-      "y": 340,
-      "width": 380,
-      "height": 260,
-      "color": "2",
-      "text": "**Registers**\n\nSmall, very high-speed storage locations inside the CPU.\n\nKey registers:\n• Accumulator (AC)\n• Program Counter (PC)\n• Instruction Register (IR)\n• Memory Address Register (MAR)\n• Memory Buffer/Data Register (MBR/MDR)"
-    },
-    {
-      "id": "cache",
-      "type": "text",
-      "x": 460,
-      "y": 340,
-      "width": 380,
-      "height": 260,
-      "color": "2",
-      "text": "**Cache Memory**\n\nUltra-fast memory sitting between CPU and RAM; stores frequently used data/instructions.\n\nLevels (fastest→slowest, smallest→largest):\nL1 → L2 → L3\n\n⚠️ Cache ≠ RAM (cache is smaller & faster, closer to CPU)."
-    },
-    {
-      "id": "g2",
-      "type": "group",
-      "x": 1000,
-      "y": 0,
-      "width": 1700,
-      "height": 340,
-      "label": "🔄 Fetch–Decode–Execute Cycle (Machine Cycle)",
-      "color": "5"
-    },
-    {
-      "id": "fetch",
-      "type": "text",
-      "x": 1040,
-      "y": 90,
-      "width": 380,
-      "height": 220,
-      "color": "5",
-      "text": "**1. Fetch**\n\nCU retrieves the next instruction from memory (address held in the Program Counter) and loads it into the Instruction Register."
-    },
-    {
-      "id": "decode",
-      "type": "text",
-      "x": 1460,
-      "y": 90,
-      "width": 380,
-      "height": 220,
-      "color": "5",
-      "text": "**2. Decode**\n\nCU interprets the fetched instruction to determine what operation is required and which data/registers are involved."
-    },
-    {
-      "id": "execute",
-      "type": "text",
-      "x": 1880,
-      "y": 90,
-      "width": 380,
-      "height": 220,
-      "color": "5",
-      "text": "**3. Execute**\n\nALU (or other unit) actually carries out the instruction — a calculation, data move, comparison, etc."
-    },
-    {
-      "id": "store",
-      "type": "text",
-      "x": 2300,
-      "y": 90,
-      "width": 380,
-      "height": 220,
-      "color": "5",
-      "text": "**4. Store**\n\nResult of execution is written back to a register or memory. PC updates to point to the next instruction."
-    },
-    {
-      "id": "g3",
-      "type": "group",
-      "x": 0,
-      "y": 750,
-      "width": 900,
-      "height": 650,
-      "label": "🏗️ Architecture Types",
-      "color": "6"
-    },
-    {
-      "id": "vonneumann",
-      "type": "text",
-      "x": 40,
-      "y": 830,
-      "width": 380,
-      "height": 220,
-      "color": "6",
-      "text": "**Von Neumann Architecture**\n\nSingle shared memory & bus for both data AND instructions. Most common CPU design.\n\nLimitation: \"Von Neumann bottleneck\" — can't fetch data & instructions at the same time."
-    },
-    {
-      "id": "harvard",
-      "type": "text",
-      "x": 460,
-      "y": 830,
-      "width": 380,
-      "height": 220,
-      "color": "6",
-      "text": "**Harvard Architecture**\n\nSeparate memory & buses for data and instructions → can access both simultaneously (faster).\n\nUsed in many microcontrollers/DSPs."
-    },
-    {
-      "id": "risc",
-      "type": "text",
-      "x": 40,
-      "y": 1090,
-      "width": 380,
-      "height": 260,
-      "color": "6",
-      "text": "**RISC**\nReduced Instruction Set Computer\n\nSmall set of simple, fast instructions. Power-efficient.\n\nExample: **ARM** — used in most smartphones."
-    },
-    {
-      "id": "cisc",
-      "type": "text",
-      "x": 460,
-      "y": 1090,
-      "width": 380,
-      "height": 260,
-      "color": "6",
-      "text": "**CISC**\nComplex Instruction Set Computer\n\nLarge set of complex instructions; does more work per instruction.\n\nExample: **Intel/AMD x86** processors."
-    },
-    {
-      "id": "g4",
-      "type": "group",
-      "x": 1000,
-      "y": 400,
-      "width": 1700,
-      "height": 550,
-      "label": "📊 Specifications & Performance",
-      "color": "4"
-    },
-    {
-      "id": "clockspeed",
-      "type": "text",
-      "x": 1040,
-      "y": 480,
-      "width": 380,
-      "height": 200,
-      "color": "4",
-      "text": "**Clock Speed**\n(Clock Rate)\n\nMeasured in GHz (billion cycles/sec). Higher = more instruction cycles per second.\n\n⚠️ Not the only factor in real-world performance."
-    },
-    {
-      "id": "cores",
-      "type": "text",
-      "x": 1460,
-      "y": 480,
-      "width": 380,
-      "height": 200,
-      "color": "4",
-      "text": "**Cores**\n\nIndependent processing units on one chip.\nDual-core = 2, Quad-core = 4, Octa-core = 8.\n\nMore cores → better multitasking/parallel processing."
-    },
-    {
-      "id": "wordlength",
-      "type": "text",
-      "x": 1880,
-      "y": 480,
-      "width": 380,
-      "height": 200,
-      "color": "4",
-      "text": "**Word Length**\n\nNumber of bits the CPU processes in one operation (e.g., 32-bit, 64-bit).\n\nDetermines data handled per cycle & max addressable memory."
-    },
-    {
-      "id": "perfunits",
-      "type": "text",
-      "x": 1040,
-      "y": 720,
-      "width": 380,
-      "height": 200,
-      "color": "4",
-      "text": "**Performance Units**\n\n• MIPS — Million Instructions Per Second\n• FLOPS — Floating Point Operations Per Second"
-    },
-    {
-      "id": "hyperthreading",
-      "type": "text",
-      "x": 1460,
-      "y": 720,
-      "width": 380,
-      "height": 200,
-      "color": "4",
-      "text": "**Hyper-Threading / SMT**\n\nLets one physical core act as two logical cores, improving multitasking efficiency."
-    },
-    {
-      "id": "g5",
-      "type": "group",
-      "x": 2050,
-      "y": 1150,
-      "width": 900,
-      "height": 650,
-      "label": "🏭 Manufacturers & Examples",
-      "color": "3"
-    },
-    {
-      "id": "intel",
-      "type": "text",
-      "x": 2090,
-      "y": 1230,
-      "width": 380,
-      "height": 220,
-      "color": "3",
-      "text": "**Intel**\n\nFounded 1968. Lines: Pentium, Celeron, Core i3/i5/i7/i9.\n\nMade the **4004** (1971) — world's first commercial microprocessor."
-    },
-    {
-      "id": "amd",
-      "type": "text",
-      "x": 2510,
-      "y": 1230,
-      "width": 380,
-      "height": 220,
-      "color": "3",
-      "text": "**AMD**\nAdvanced Micro Devices\n\nMajor Intel competitor. Known for Ryzen, Athlon, EPYC series."
-    },
-    {
-      "id": "arm",
-      "type": "text",
-      "x": 2090,
-      "y": 1490,
-      "width": 380,
-      "height": 260,
-      "color": "3",
-      "text": "**ARM**\n\nDesigns RISC-based CPU architecture, licensed to many manufacturers.\n\nPowers most smartphones & tablets — known for low power use."
-    },
-    {
-      "id": "apple",
-      "type": "text",
-      "x": 2510,
-      "y": 1490,
-      "width": 380,
-      "height": 260,
-      "color": "3",
-      "text": "**Apple Silicon**\n\nARM-based chips (M1, M2, M3…) designed in-house by Apple, replacing Intel chips in Macs since 2020."
-    },
-    {
-      "id": "g6",
-      "type": "group",
-      "x": 0,
-      "y": 1450,
-      "width": 1900,
-      "height": 400,
-      "label": "⭐ LDC Exam Quick Facts",
-      "color": "1"
-    },
-    {
-      "id": "quickfacts",
-      "type": "text",
-      "x": 40,
-      "y": 1530,
-      "width": 900,
-      "height": 300,
-      "color": "1",
-      "text": "**Quick Facts**\n\n• CPU = \"Brain of the Computer\"\n• First microprocessor: **Intel 4004 (1971)**\n• Speed measured in Hertz (Hz)/GHz\n• 3 main parts: ALU + CU + Registers\n• **Moore's Law**: transistor count doubles ~every 2 years\n• Motherboard houses & connects the CPU\n• Socket types: LGA, PGA, BGA"
-    },
-    {
-      "id": "mcqtraps",
-      "type": "text",
-      "x": 980,
-      "y": 1530,
-      "width": 880,
-      "height": 300,
-      "color": "1",
-      "text": "**Common MCQ Traps**\n\n• CU does NOT process data — only controls/directs\n• RAM ≠ Cache (cache is faster, smaller, closer to CPU)\n• Microprocessor = CPU on a single IC chip\n• Clock speed alone ≠ performance (cores, cache, architecture also matter)"
-    }
-  ],
-  "edges": [
-    {
-      "id": "e-fd",
-      "fromNode": "fetch",
-      "fromSide": "right",
-      "toNode": "decode",
-      "toSide": "left"
-    },
-    {
-      "id": "e-de",
-      "fromNode": "decode",
-      "fromSide": "right",
-      "toNode": "execute",
-      "toSide": "left"
-    },
-    {
-      "id": "e-es",
-      "fromNode": "execute",
-      "fromSide": "right",
-      "toNode": "store",
-      "toSide": "left"
-    },
-    {
-      "id": "e-sf",
-      "fromNode": "store",
-      "fromSide": "bottom",
-      "toNode": "fetch",
-      "toSide": "bottom",
-      "label": "cycle repeats"
-    },
-    {
-      "id": "e-vh",
-      "fromNode": "vonneumann",
-      "fromSide": "right",
-      "toNode": "harvard",
-      "toSide": "left",
-      "label": "vs"
-    },
-    {
-      "id": "e-rc",
-      "fromNode": "risc",
-      "fromSide": "right",
-      "toNode": "cisc",
-      "toSide": "left",
-      "label": "vs"
-    },
-    {
-      "id": "e-c1",
-      "fromNode": "central",
-      "fromSide": "left",
-      "toNode": "g1",
-      "toSide": "right",
-      "label": "components"
-    },
-    {
-      "id": "e-c2",
-      "fromNode": "central",
-      "fromSide": "top",
-      "toNode": "g2",
-      "toSide": "bottom",
-      "label": "how it works"
-    },
-    {
-      "id": "e-c3",
-      "fromNode": "central",
-      "fromSide": "left",
-      "toNode": "g3",
-      "toSide": "right",
-      "label": "architecture"
-    },
-    {
-      "id": "e-c4",
-      "fromNode": "central",
-      "fromSide": "top",
-      "toNode": "g4",
-      "toSide": "bottom",
-      "label": "specs"
-    },
-    {
-      "id": "e-c5",
-      "fromNode": "central",
-      "fromSide": "right",
-      "toNode": "g5",
-      "toSide": "left",
-      "label": "examples"
-    },
-    {
-      "id": "e-c6",
-      "fromNode": "central",
-      "fromSide": "bottom",
-      "toNode": "g6",
-      "toSide": "top",
-      "label": "exam facts"
-    }
-  ]
+	"nodes":[
+		{"id":"central","type":"text","x":950,"y":1050,"width":400,"height":260,"text":"# 🖥️ CPU\n**Central Processing Unit**\n\nThe \"brain\" of the computer. Executes program instructions by performing arithmetic, logical, control, and input/output (I/O) operations.\n\nAlso called the **Microprocessor** when fabricated on a single IC chip.","color":"1"},
+		{"id":"g1","type":"group","x":0,"y":0,"width":900,"height":650,"label":"🔧 Core Components","color":"2"},
+		{"id":"alu","type":"text","x":40,"y":80,"width":380,"height":220,"color":"2","text":"**ALU**\n(Arithmetic Logic Unit)\n\nPerforms all arithmetic (+, −, ×, ÷) and logical (AND, OR, NOT, comparisons) operations."},
+		{"id":"cu","type":"text","x":460,"y":80,"width":380,"height":220,"color":"2","text":"**CU**\n(Control Unit)\n\nDirects/coordinates all CPU activity — fetches, decodes & directs execution of instructions.\n\n⚠️ Exam trap: CU does **NOT** itself process data, it only controls."},
+		{"id":"registers","type":"text","x":40,"y":340,"width":380,"height":260,"color":"2","text":"**Registers**\n\nSmall, very high-speed storage locations inside the CPU.\n\nKey registers:\n• Accumulator (AC)\n• Program Counter (PC)\n• Instruction Register (IR)\n• Memory Address Register (MAR)\n• Memory Buffer/Data Register (MBR/MDR)"},
+		{"id":"cache","type":"text","x":460,"y":340,"width":380,"height":260,"color":"2","text":"**Cache Memory**\n\nUltra-fast memory sitting between CPU and RAM; stores frequently used data/instructions.\n\nLevels (fastest→slowest, smallest→largest):\nL1 → L2 → L3\n\n⚠️ Cache ≠ RAM (cache is smaller & faster, closer to CPU)."},
+		{"id":"g2","type":"group","x":1000,"y":0,"width":1700,"height":340,"label":"🔄 Fetch–Decode–Execute Cycle (Machine Cycle)","color":"5"},
+		{"id":"fetch","type":"text","x":1040,"y":90,"width":380,"height":220,"color":"5","text":"**1. Fetch**\n\nCU retrieves the next instruction from memory (address held in the Program Counter) and loads it into the Instruction Register."},
+		{"id":"decode","type":"text","x":1460,"y":90,"width":380,"height":220,"color":"5","text":"**2. Decode**\n\nCU interprets the fetched instruction to determine what operation is required and which data/registers are involved."},
+		{"id":"execute","type":"text","x":1880,"y":90,"width":380,"height":220,"color":"5","text":"**3. Execute**\n\nALU (or other unit) actually carries out the instruction — a calculation, data move, comparison, etc."},
+		{"id":"store","type":"text","x":2300,"y":90,"width":380,"height":220,"color":"5","text":"**4. Store**\n\nResult of execution is written back to a register or memory. PC updates to point to the next instruction."},
+		{"id":"g3","type":"group","x":0,"y":750,"width":900,"height":650,"label":"🏗️ Architecture Types","color":"6"},
+		{"id":"vonneumann","type":"text","x":40,"y":830,"width":380,"height":220,"color":"6","text":"**Von Neumann Architecture**\n\nSingle shared memory & bus for both data AND instructions. Most common CPU design.\n\nLimitation: \"Von Neumann bottleneck\" — can't fetch data & instructions at the same time."},
+		{"id":"harvard","type":"text","x":460,"y":830,"width":380,"height":220,"color":"6","text":"**Harvard Architecture**\n\nSeparate memory & buses for data and instructions → can access both simultaneously (faster).\n\nUsed in many microcontrollers/DSPs."},
+		{"id":"risc","type":"text","x":40,"y":1090,"width":380,"height":260,"color":"6","text":"**RISC**\nReduced Instruction Set Computer\n\nSmall set of simple, fast instructions. Power-efficient.\n\nExample: **ARM** — used in most smartphones."},
+		{"id":"cisc","type":"text","x":460,"y":1090,"width":380,"height":260,"color":"6","text":"**CISC**\nComplex Instruction Set Computer\n\nLarge set of complex instructions; does more work per instruction.\n\nExample: **Intel/AMD x86** processors."},
+		{"id":"g4","type":"group","x":1000,"y":400,"width":1700,"height":550,"label":"📊 Specifications & Performance","color":"4"},
+		{"id":"clockspeed","type":"text","x":1040,"y":480,"width":380,"height":200,"color":"4","text":"**Clock Speed**\n(Clock Rate)\n\nMeasured in GHz (billion cycles/sec). Higher = more instruction cycles per second.\n\n⚠️ Not the only factor in real-world performance."},
+		{"id":"cores","type":"text","x":1460,"y":480,"width":380,"height":200,"color":"4","text":"**Cores**\n\nIndependent processing units on one chip.\nDual-core = 2, Quad-core = 4, Octa-core = 8.\n\nMore cores → better multitasking/parallel processing."},
+		{"id":"wordlength","type":"text","x":1880,"y":480,"width":380,"height":200,"color":"4","text":"**Word Length**\n\nNumber of bits the CPU processes in one operation (e.g., 32-bit, 64-bit).\n\nDetermines data handled per cycle & max addressable memory."},
+		{"id":"perfunits","type":"text","x":1040,"y":720,"width":380,"height":200,"color":"4","text":"**Performance Units**\n\n• MIPS — Million Instructions Per Second\n• FLOPS — Floating Point Operations Per Second"},
+		{"id":"hyperthreading","type":"text","x":1460,"y":720,"width":380,"height":200,"color":"4","text":"**Hyper-Threading / SMT**\n\nLets one physical core act as two logical cores, improving multitasking efficiency."},
+		{"id":"g5","type":"group","x":2050,"y":1150,"width":900,"height":650,"label":"🏭 Manufacturers & Examples","color":"3"},
+		{"id":"intel","type":"text","x":2090,"y":1230,"width":380,"height":220,"color":"3","text":"**Intel**\n\nFounded 1968. Lines: Pentium, Celeron, Core i3/i5/i7/i9.\n\nMade the **4004** (1971) — world's first commercial microprocessor."},
+		{"id":"amd","type":"text","x":2510,"y":1230,"width":380,"height":220,"color":"3","text":"**AMD**\nAdvanced Micro Devices\n\nMajor Intel competitor. Known for Ryzen, Athlon, EPYC series."},
+		{"id":"arm","type":"text","x":2090,"y":1490,"width":380,"height":260,"color":"3","text":"**ARM**\n\nDesigns RISC-based CPU architecture, licensed to many manufacturers.\n\nPowers most smartphones & tablets — known for low power use."},
+		{"id":"apple","type":"text","x":2510,"y":1490,"width":380,"height":260,"color":"3","text":"**Apple Silicon**\n\nARM-based chips (M1, M2, M3…) designed in-house by Apple, replacing Intel chips in Macs since 2020."},
+		{"id":"g6","type":"group","x":0,"y":1450,"width":1900,"height":400,"label":"⭐ LDC Exam Quick Facts","color":"1"},
+		{"id":"quickfacts","type":"text","x":40,"y":1530,"width":900,"height":300,"color":"1","text":"**Quick Facts**\n\n• CPU = \"Brain of the Computer\"\n• First microprocessor: **Intel 4004 (1971)**\n• Speed measured in Hertz (Hz)/GHz\n• 3 main parts: ALU + CU + Registers\n• **Moore's Law**: transistor count doubles ~every 2 years\n• Motherboard houses & connects the CPU\n• Socket types: LGA, PGA, BGA"},
+		{"id":"mcqtraps","type":"text","x":980,"y":1530,"width":880,"height":300,"color":"1","text":"**Common MCQ Traps**\n\n• CU does NOT process data — only controls/directs\n• RAM ≠ Cache (cache is faster, smaller, closer to CPU)\n• Microprocessor = CPU on a single IC chip\n• Clock speed alone ≠ performance (cores, cache, architecture also matter)"}
+	],
+	"edges":[
+		{"id":"e-fd","fromNode":"fetch","fromSide":"right","toNode":"decode","toSide":"left"},
+		{"id":"e-de","fromNode":"decode","fromSide":"right","toNode":"execute","toSide":"left"},
+		{"id":"e-es","fromNode":"execute","fromSide":"right","toNode":"store","toSide":"left"},
+		{"id":"e-sf","fromNode":"store","fromSide":"bottom","toNode":"fetch","toSide":"bottom","label":"cycle repeats"},
+		{"id":"e-vh","fromNode":"vonneumann","fromSide":"right","toNode":"harvard","toSide":"left","label":"vs"},
+		{"id":"e-rc","fromNode":"risc","fromSide":"right","toNode":"cisc","toSide":"left","label":"vs"},
+		{"id":"e-c1","fromNode":"central","fromSide":"left","toNode":"g1","toSide":"right","label":"components"},
+		{"id":"e-c2","fromNode":"central","fromSide":"top","toNode":"g2","toSide":"bottom","label":"how it works"},
+		{"id":"e-c3","fromNode":"central","fromSide":"left","toNode":"g3","toSide":"right","label":"architecture"},
+		{"id":"e-c4","fromNode":"central","fromSide":"top","toNode":"g4","toSide":"bottom","label":"specs"},
+		{"id":"e-c5","fromNode":"central","fromSide":"right","toNode":"g5","toSide":"left","label":"examples"},
+		{"id":"e-c6","fromNode":"central","fromSide":"bottom","toNode":"g6","toSide":"top","label":"exam facts"}
+	]
 }

@@ -11,17 +11,14 @@
             "id": "23c50d0fbbfdbac7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Computer_Knowledge/Computer CPU.canvas",
-                "viewState": {
-                  "x": 1137.158275446776,
-                  "y": 1167.8084402023578,
-                  "zoom": -1.0029759206563371
-                }
+                "file": "Computer_Knowledge/01 — Hardware & CPU.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Computer CPU"
+              "icon": "lucide-file",
+              "title": "01 — Hardware & CPU"
             }
           },
           {
@@ -229,13 +226,13 @@
   },
   "active": "23c50d0fbbfdbac7",
   "lastOpenFiles": [
-    "English/01 — Tenses.md",
+    "Computer_Knowledge/💻 Computer Knowledge — INDEX.md",
     "Computer_Knowledge/Computer CPU.canvas",
+    "English/01 — Tenses.md",
     "English/📝 English — INDEX.md",
     "Personal Constitution/first.md",
     "Computer_Knowledge/01 — Hardware & CPU.md",
     "Personal Constitution",
-    "Computer_Knowledge/💻 Computer Knowledge — INDEX.md",
     "computer/Address/Address.md",
     "Daily tracker.md",
     "maths brain/percentages/darama/darama a question zawng2.md",
