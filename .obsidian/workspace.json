@@ -75,8 +75,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,10 +248,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b2eebd81d62b9676",
+  "active": "23c50d0fbbfdbac7",
   "lastOpenFiles": [
-    "Daily tracker.md",
     "Computer_Knowledge/05 — Internet & Web.md",
+    "Daily tracker.md",
     "maths brain/radmap/roadmap2.md",
     "maths brain/radmap/new roadmap.md",
     "Computer_Knowledge/08 — Networking.md",
