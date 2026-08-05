@@ -180,13 +180,13 @@ Bit → Nibble → Byte → KB → MB → GB → TB → PB
 
 ## Computer Types
 
-| Type | Description |
-|------|-------------|
-| **Supercomputer** | Fastest, most powerful — weather forecasting |
-| **Mainframe** | Large organizations — banks |
-| **Minicomputer** | Mid-range |
-| **Microcomputer/PC** | Personal use |
-| **Embedded** | Built into devices (washing machine, car) |
+| Type                 | Description                                  |
+| -------------------- | -------------------------------------------- |
+| **Supercomputer**    | Fastest, most powerful — weather forecasting |
+| **Mainframe**        | Large organizations — banks                  |
+| **Minicomputer**     | Mid-range                                    |
+| **Microcomputer/PC** | Personal use                                 |
+| **Embedded**         | Built into devices (washing machine, car)    |
 
 ---
 
