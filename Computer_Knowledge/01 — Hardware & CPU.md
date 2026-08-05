@@ -131,12 +131,12 @@ Registers → Cache → RAM → Hard Disk → Optical → Magnetic Tape
 |             |                  |                                |
 
 ### Printer Types
-| Type           | Mechanism                           |
-| -------------- | ----------------------------------- |
-| **Laser**      | \|Best quality, fast, uses toner    |
-| **Inkjet**     | Color photos, uses ink              |
-| **Dot Matrix** | Impact printer — carbon copy — loud |
-| **Thermal**    | Heat-sensitive paper                |
+| Type           | Mechanism                                   |
+| -------------- | ------------------------------------------- |
+| **Laser**      | \|\|Best quality, fast, uses toner\|\|      |
+| **Inkjet**     | \|\|Color photos, uses ink\|\|              |
+| **Dot Matrix** | \|\|Impact printer — carbon copy — loud\|\| |
+| **Thermal**    | \|\|Heat-sensitive paper\|\|                |
 
 ---
 
