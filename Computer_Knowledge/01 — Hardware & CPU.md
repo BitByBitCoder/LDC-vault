@@ -144,8 +144,8 @@ Registers → Cache → RAM → Hard Disk → Optical → Magnetic Tape
 
 | Unit                | Value                  |
 | ------------------- | ---------------------- |
-| \|\|**1 Bit**       | Smallest unit — 0 or 1 |
-| **1 Nibble**        | **4 bits**             |
+| \|\|1 Bit\|\|       | Smallest unit — 0 or 1 |
+| \|\|1 Nibble\|\|    | **4 bits**             |
 | **1 Byte**          | **8 bits**             |
 | **1 KB** (Kilobyte) | 1024 Bytes             |
 | **1 MB** (Megabyte) | 1024 KB                |
