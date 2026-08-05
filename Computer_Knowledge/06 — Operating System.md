@@ -44,8 +44,19 @@
 | GUI               | \|\|Graphical User Interface\|\|                   |
 | CLI               | \|\|Command Line Interface\|\|                     |
 
----
-
+| Question         | Answer                                                              |
+| ---------------- | ------------------------------------------------------------------- |
+| OS definition    | Program that **manages hardware and provides services to programs** |
+| OS types         | Windows, Linux, macOS, Unix, Android                                |
+| GUI stands for   | **Graphical User Interface**                                        |
+| CLI stands for   | **Command Line Interface**                                          |
+| MS-DOS           | **Microsoft Disk Operating System** — CLI based                     |
+| Windows          | GUI-based OS by Microsoft                                           |
+| Linux            | Open-source OS — used in servers                                    |
+| Multi-tasking    | Running **multiple programs** simultaneously                        |
+| Multi-user       | Multiple users share one system                                     |
+| Multi-processing | Multiple CPUs work together                                         |
+| Real-time OS     | Responds within guaranteed time — used in flight control            |
 ## Types of Operating Systems
 
 | Type | Meaning | Example |
@@ -129,24 +140,6 @@
 
 ---
 
-
-## Operating System — Core Concepts
-
-| Question | Answer |
-|----------|--------|
-| OS definition | Program that **manages hardware and provides services to programs** |
-| OS types | Windows, Linux, macOS, Unix, Android |
-| GUI stands for | **Graphical User Interface** |
-| CLI stands for | **Command Line Interface** |
-| MS-DOS | **Microsoft Disk Operating System** — CLI based |
-| Windows | GUI-based OS by Microsoft |
-| Linux | Open-source OS — used in servers |
-| Multi-tasking | Running **multiple programs** simultaneously |
-| Multi-user | Multiple users share one system |
-| Multi-processing | Multiple CPUs work together |
-| Real-time OS | Responds within guaranteed time — used in flight control |
-
----
 
 ## Windows Interface
 
