@@ -64,9 +64,19 @@
               "icon": "lucide-file",
               "title": "Daily tracker"
             }
+          },
+          {
+            "id": "59172ca0498d01e9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -239,11 +249,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b2eebd81d62b9676",
+  "active": "59172ca0498d01e9",
   "lastOpenFiles": [
+    "Daily tracker.md",
+    "Computer_Knowledge/05 — Internet & Web.md",
     "maths brain/radmap/roadmap2.md",
     "maths brain/radmap/new roadmap.md",
-    "Computer_Knowledge/05 — Internet & Web.md",
     "Computer_Knowledge/08 — Networking.md",
     "Computer_Knowledge/06 — Operating System.md",
     "Computer_Knowledge/💻 Computer Knowledge — INDEX.md",
@@ -258,7 +269,6 @@
     "Computer_Knowledge/07 — Email & Communication.md",
     "Computer_Knowledge/06 — MS PowerPoint.md",
     "Computer_Knowledge/04 — Operating System & Windows.md",
-    "Daily tracker.md",
     "maths brain/percentages/darama/darama a question zawng2.md",
     "Computer_Knowledge/Computer CPU.canvas",
     "English/01 — Tenses.md",
