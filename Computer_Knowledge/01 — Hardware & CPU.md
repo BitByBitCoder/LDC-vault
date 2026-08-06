@@ -134,12 +134,12 @@ Optical Disk / Magnetic Tape (slowest)
 
 ## Number Systems (Computer)
 
-| System | Base | Digits |
-|--------|------|--------|
-| **Binary** | 2 | 0, 1 |
-| **Octal** | 8 | 0–7 |
-| **Decimal** | 10 | 0–9 |
-| **Hexadecimal** | 16 | 0–9, A–F |
+| System          | Base       | Digits           |
+| --------------- | ---------- | ---------------- |
+| **Binary**      | \|\|2\|\|  | \|\|0, 1\|\|     |
+| **Octal**       | \|\|8\|\|  | \|\|0–7\|\|      |
+| **Decimal**     | \|\|10\|\| | \|\|0–9\|\|      |
+| **Hexadecimal** | \|\|16\|\| | \|\|0–9, A–F\|\| |
 
 | Decimal | Binary | Hex |
 |---------|--------|-----|
