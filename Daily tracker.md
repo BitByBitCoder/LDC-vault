@@ -18,3 +18,8 @@ morning english
 afternoon computer
 exercise
 night computer
+
+
+6 aug 2026
+mor- maths
+a

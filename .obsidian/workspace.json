@@ -75,7 +75,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -248,8 +249,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23c50d0fbbfdbac7",
+  "active": "1a7c88a82ca9f5a3",
   "lastOpenFiles": [
+    "Computer_Knowledge/01 — Hardware & CPU.md",
     "English/01 — Tenses.md",
     "Dictionary/citizen.md",
     "maths brain/radmap/roadmap2.md",
@@ -259,7 +261,6 @@
     "Computer_Knowledge/08 — Networking.md",
     "Computer_Knowledge/06 — Operating System.md",
     "Computer_Knowledge/💻 Computer Knowledge — INDEX.md",
-    "Computer_Knowledge/01 — Hardware & CPU.md",
     "Computer_Knowledge/11 — Internet & Networking.md",
     "Computer_Knowledge/10 — Programming & Sec.md",
     "Computer_Knowledge/09 — Number Systems & Units.md",
