@@ -5,12 +5,10 @@ of zawh chiah mi kha a hnuai lamah
  
  percentage change
  change hi initial - new phot a ngai
-  ![[Screenshot 2026-07-01 at 8.26.28 PM.png]]
- percentage zawng ngaih chuan
- 
- 
-![[Screenshot 2026-07-01 at 8.26.28 PM 3.png]]
-
+  
+	  Percentage change=  final - initial
+                        ------------    x 100 
+							initial
 
 unatery method t find 1 percent![[Screenshot 2026-07-01 at 9.21.39 PM 2.png]]
 
