@@ -138,10 +138,10 @@ Protocol  Domain      Path
 | Search engine main function | Crawl → Index → Retrieve results                    |
 ## IP Address
 
-| Type | Size | Example |
-|------|------|---------|
-| **IPv4** | **4 bytes (32 bits)** | 192.168.1.1 |
-| **IPv6** | 16 bytes (128 bits) | 2001:db8::1 |
+| Type     | Size                        | Example     |
+| -------- | --------------------------- | ----------- |
+| **IPv4** | \|\|4 bytes (32 bits)\|\|   | 192.168.1.1 |
+| **IPv6** | \|\|16 bytes (128 bits)\|\| | 2001:db8::1 |
 
 ---
 
