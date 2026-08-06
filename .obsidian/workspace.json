@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -277,10 +277,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ec9f55bdca113db",
+  "active": "7483307953fa01a4",
   "lastOpenFiles": [
-    "maths brain/percentages/darama/darama a question zawng2.md",
     "maths brain/percentages/darama/formulas.md",
+    "maths brain/percentages/darama/darama a question zawng2.md",
     "maths brain/percentages/darama/darama filter.md",
     "maths brain/percentages/darama/hriat ture flip.md",
     "Daily tracker.md",
