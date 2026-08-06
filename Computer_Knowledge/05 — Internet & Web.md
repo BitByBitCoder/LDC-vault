@@ -154,11 +154,11 @@ Protocol  Domain      Path
 | **Cookie**       | \|\|Small file stored on browser by website\|\|       |
 | **Cache**        | \|\|Stored copies of web pages for faster loading\|\| |
 | **Download**     | \|\|Get file from internet to your computer\|\|       |
-| **Upload**       | \|\|Send file from your computer to internet          |
-| **Streaming**    | Watch/listen without downloading                      |
-| **VPN**          | Virtual Private Network — secure connection           |
-| **Firewall**     | Security system blocking unauthorized access          |
-| **Proxy Server** | Intermediate server between user and internet         |
+| **Upload**       | \|\|Send file from your computer to internet\|\|      |
+| **Streaming**    | \|\|Watch/listen without downloading\|\|              |
+| **VPN**          | \|\|Virtual Private Network — secure connection\|\|   |
+| **Firewall**     | \|\|Security system blocking unauthorized access\|\|  |
+| **Proxy Server** | \|\|Intermediate server between user and internet\|\| |
 
 ---
 
