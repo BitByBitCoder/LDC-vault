@@ -58,16 +58,16 @@
 
 ## URLs and Protocols
 
-| Protocol | Full Form | Used For |
-|---------|-----------|---------|
-| **HTTP** | HyperText Transfer Protocol | Web pages |
-| **HTTPS** | HTTP Secure | **Encrypted web pages** |
-| **FTP** | File Transfer Protocol | File transfer |
-| **SMTP** | Simple Mail Transfer Protocol | Sending email |
-| **POP3** | Post Office Protocol 3 | Receiving email |
-| **IMAP** | Internet Message Access Protocol | Email from server |
-| **DNS** | Domain Name System | Converts domain to IP |
-| **DHCP** | Dynamic Host Configuration Protocol | Assigns IP addresses |
+| Protocol  | Full Form                           | Used For                |
+| --------- | ----------------------------------- | ----------------------- |
+| **HTTP**  | \|\|HyperText Transfer Protocol\|\| | Web pages               |
+| **HTTPS** | \|\|HTTP Secure\|\|                 | **Encrypted web pages** |
+| **FTP**   | \|\|File Transfer Protocol          | File transfer           |
+| **SMTP**  | Simple Mail Transfer Protocol       | Sending email           |
+| **POP3**  | Post Office Protocol 3              | Receiving email         |
+| **IMAP**  | Internet Message Access Protocol    | Email from server       |
+| **DNS**   | Domain Name System                  | Converts domain to IP   |
+| **DHCP**  | Dynamic Host Configuration Protocol | Assigns IP addresses    |
 
 
 | Protocol | Purpose |
