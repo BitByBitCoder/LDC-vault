@@ -119,16 +119,16 @@ Optical Disk / Magnetic Tape (slowest)
 
 ## Data Storage Units
 
-| Unit | Size |
-|------|------|
-| 1 Bit | Smallest unit (0 or 1) |
-| 1 Nibble | **4 bits** |
-| 1 Byte | **8 bits** |
-| 1 KB (Kilobyte) | **1024 bytes** |
-| 1 MB (Megabyte) | **1024 KB** |
-| 1 GB (Gigabyte) | **1024 MB** |
-| 1 TB (Terabyte) | **1024 GB** |
-| 1 PB (Petabyte) | **1024 TB** |
+| Unit            | Size                       |
+| --------------- | -------------------------- |
+| 1 Bit           | \|\|Smallest unit (0 or 1) |
+| 1 Nibble        | **4 bits**                 |
+| 1 Byte          | **8 bits**                 |
+| 1 KB (Kilobyte) | **1024 bytes**             |
+| 1 MB (Megabyte) | **1024 KB**                |
+| 1 GB (Gigabyte) | **1024 MB**                |
+| 1 TB (Terabyte) | **1024 GB**                |
+| 1 PB (Petabyte) | **1024 TB**                |
 
 ---
 
