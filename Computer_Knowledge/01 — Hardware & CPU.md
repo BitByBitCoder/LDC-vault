@@ -108,12 +108,12 @@ Optical Disk / Magnetic Tape (slowest)
 
 ## Printer Types
 
-| Printer | How it works | Key Fact |
-|---------|-------------|---------|
-| **Inkjet** | Sprays ink | Home use, color |
-| **Laser** | Toner + heat | Office use, fast |
-| **Dot Matrix** | Pins hit ribbon | Oldest type — impact printer |
-| **Plotter** | Pens on paper | Large engineering drawings |
+| Printer        | How it works         | Key Fact                     |
+| -------------- | -------------------- | ---------------------------- |
+| **Inkjet**     | \|\|Sprays ink\|\|   | Home use, color              |
+| **Laser**      | \|\|Toner + heat\|\| | Office use, fast             |
+| **Dot Matrix** | Pins hit ribbon      | Oldest type — impact printer |
+| **Plotter**    | Pens on paper        | Large engineering drawings   |
 
 ---
 
