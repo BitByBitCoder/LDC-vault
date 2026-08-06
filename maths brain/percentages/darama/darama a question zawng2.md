@@ -21,7 +21,7 @@ Formulas
  10. what percent is 3% of 5%? - percentage of a fraction of chu hnuaiah
  11. If 37(1/2)% of a number is 900, then  62(1/2)% of a number is? basic 2 part Q
  12. 96% population of the village is 23040. The total population of the village is? - basic
- 13. ==After deducting== a commission of 5% a TV. set cost Rs 9595. Its gross value is? - basic and percentage decrease for
+ 13. ==After deducting== a commission of 5% a TV. set cost Rs 9595. Its gross value is? - basic and percentage decrease for(gross value == original price)
  14. A fruit seller had some apples. He sells 40% and still has 420 apples. Originally he had?(percentage inc and dec  original cost zawng chhuah)
  15. A person's salary has increased from  rs7200 to  rs 8100. What is the percentage increase in his salary? we use percentage change formula = 
  16. A man spends rs 3500 per month and saves 12(1/2)% of his  income his monthly income is. 1 percent formulas  (full)
