@@ -22,4 +22,7 @@ night computer
 
 6 aug 2026
 mor- maths
-a
+afternoon - hna submit ruah sur nasat loh chuan/nih loh chuan computer
+night gk n english
+Bible chiar
+power chiar
