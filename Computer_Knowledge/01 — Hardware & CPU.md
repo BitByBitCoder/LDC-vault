@@ -184,21 +184,21 @@ Optical Disk / Magnetic Tape (slowest)
 
 ## Important Computer Terms
 
-| Term | Meaning |
-|------|---------|
-| **Firmware** | Software embedded into hardware (ROM-based) |
-| **Instruction set** | All instructions a processor can execute |
-| **On-line storage** | Immediately available to CPU |
-| **Off-line storage** | Not directly accessible — needs human action |
-| **Bus** | Communication pathway between components |
-| **Port** | Interface to connect external devices |
-| **GUI** | Graphical User Interface |
-| **CLI** | Command Line Interface |
-| **Multitasking** | Running multiple programs simultaneously |
-| **Multiprocessing** | Multiple CPUs working together |
-| **Booting** | Starting up the computer |
-| **Cold boot** | Starting from power off |
-| **Warm boot** | Restarting while powered on |
+| Term                 | Meaning                                             |
+| -------------------- | --------------------------------------------------- |
+| **Firmware**         | \|\|Software embedded into hardware (ROM-based)\|\| |
+| **Instruction set**  | All instructions a processor can execute            |
+| **On-line storage**  | Immediately available to CPU                        |
+| **Off-line storage** | Not directly accessible — needs human action        |
+| **Bus**              | Communication pathway between components            |
+| **Port**             | Interface to connect external devices               |
+| **GUI**              | Graphical User Interface                            |
+| **CLI**              | Command Line Interface                              |
+| **Multitasking**     | Running multiple programs simultaneously            |
+| **Multiprocessing**  | Multiple CPUs working together                      |
+| **Booting**          | Starting up the computer                            |
+| **Cold boot**        | Starting from power off                             |
+| **Warm boot**        | Restarting while powered on                         |
 
 ---
 
