@@ -19,23 +19,23 @@
 
 ## Computer System — Basic Concepts
 
-| Question | Answer |
-|----------|--------|
-| Computer works on principle | **Input → Process → Output** |
-| Processing happens in | **CPU (Central Processing Unit)** |
-| CPU contains | ALU + Control Unit + Registers |
-| ALU stands for | **Arithmetic Logic Unit** |
-| Control Unit does | Directs all computer operations |
+| Question                    | Answer                                 |
+| --------------------------- | -------------------------------------- |
+| Computer works on principle | **Input → Process → Output**           |
+| Processing happens in       | **CPU (Central Processing Unit)**      |
+| CPU contains                | ALU + Control Unit + Registers         |
+| ALU stands for              | **Arithmetic Logic Unit**              |
+| Control Unit does           | Directs all computer operations        |
 | Processor speed measured in | **Hz (GHz)** = instructions per second |
-| Main memory types | RAM and ROM |
-| RAM full form | **Random Access Memory** |
-| ROM full form | **Read Only Memory** |
-| RAM is | Volatile — loses data when power off |
-| ROM is | Non-volatile — retains data |
-| Cache memory placed between | **CPU and Main Memory** |
-| Fastest memory | **Cache memory** |
-| Firmware | **Software embedded into hardware** |
-| BIOS stored in | **ROM/CMOS** |
+| Main memory types           | RAM and ROM                            |
+| RAM full form               | **Random Access Memory**               |
+| ROM full form               | **Read Only Memory**                   |
+| RAM is                      | Volatile — loses data when power off   |
+| ROM is                      | Non-volatile — retains data            |
+| Cache memory placed between | **CPU and Main Memory**                |
+| Fastest memory              | **Cache memory**                       |
+| Firmware                    | **Software embedded into hardware**    |
+| BIOS stored in              | **ROM/CMOS**                           |
 
 ---
 
