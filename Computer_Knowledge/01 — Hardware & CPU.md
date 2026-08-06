@@ -72,20 +72,20 @@ Optical Disk / Magnetic Tape (slowest)
 
 ## Input Devices
 
-| Device | What it does |
-|--------|-------------|
-| **Keyboard** | Text input |
-| **Mouse** | Pointing device |
-| **Scanner** | Converts physical docs to digital |
-| **Digitizer** | **Converts graphical drawings into digital form** |
-| **Microphone** | Audio input |
-| **Webcam** | Video input |
-| **Barcode reader** | Reads barcodes |
-| **OCR** | Optical Character Recognition — reads printed text |
-| **OMR** | Optical Mark Recognition — reads marks (MCQ sheets) |
-| **Joystick** | Game input |
-| **Light pen** | Draw on screen |
-| **Touch screen** | Both input and output |
+| Device             | What it does                                        |
+| ------------------ | --------------------------------------------------- |
+| **Keyboard**       | \|\|Text input\|\|                                  |
+| **Mouse**          | \|\|Pointing device\|\|                             |
+| **Scanner**        | \|\|Converts physical docs to digital\|\|           |
+| **Digitizer**      | \|\|Converts graphical drawings into digital form** |
+| **Microphone**     | Audio input                                         |
+| **Webcam**         | Video input                                         |
+| **Barcode reader** | Reads barcodes                                      |
+| **OCR**            | Optical Character Recognition — reads printed text  |
+| **OMR**            | Optical Mark Recognition — reads marks (MCQ sheets) |
+| **Joystick**       | Game input                                          |
+| **Light pen**      | Draw on screen                                      |
+| **Touch screen**   | Both input and output                               |
 
 > ⚠️ **Digitizer = converts graphical drawings** — NOT scan printed text (that's Scanner/OCR)
 
