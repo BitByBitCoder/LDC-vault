@@ -93,14 +93,14 @@ Optical Disk / Magnetic Tape (slowest)
 
 ## Output Devices
 
-| Device | What it does |
-|--------|-------------|
-| **Monitor** | Display output |
-| **Printer** | Hard copy output |
-| **Plotter** | Large drawings/blueprints |
-| **Speaker** | Audio output |
-| **Projector** | Screen image projection — **output device** |
-| **Headphones** | Audio output |
+| Device         | What it does                                    |
+| -------------- | ----------------------------------------------- |
+| **Monitor**    | \|\|Display output\|\|                          |
+| **Printer**    | \|\|Hard copy output\|\|                        |
+| **Plotter**    | \|\|Large drawings/blueprints\|\|               |
+| **Speaker**    | \|\|Audio output\|\|                            |
+| **Projector**  | \|\|Screen image projection — output device\|\| |
+| **Headphones** | \|\|Audio output\|\|                            |
 
 > ⚠️ **Projector = output device** — appeared directly in papers
 
