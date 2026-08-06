@@ -7,7 +7,7 @@ of zawh chiah mi kha a hnuai lamah
  change hi initial - new phot a ngai
   
 	  Percentage change=  final - initial
-                        ------------    x 100 
+                          . ------------    x 100 
 							initial
 
 unatery method t find 1 percent![[Screenshot 2026-07-01 at 9.21.39 PM 2.png]]
