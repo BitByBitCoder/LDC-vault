@@ -25,7 +25,7 @@ Formulas
  14. A fruit seller had some apples. He sells 40% and still has 420 apples. Originally he had?(percentage inc and dec  original cost zawng chhuah)
  15. A person's salary has increased from  rs7200 to  rs 8100. What is the percentage increase in his salary? we use percentage change formula = 
  16. A man spends rs 3500 per month and saves 12(1/2)% of his  income his monthly income is. 1 percent formulas  (full)
- 17. 1100 boys and 700 girls are examined in a test; 42% of  the boys and 30% of the girls pass. The percentage of the total who failed is : percentage formula
+ 17. 1100 boys and 700 girls are examined in a test; 42% of  the boys and 30% of the girls pass. The percentage of the total who failed is : percentage formula find 1%
  18. A batsman scored 110 runs which included 3 boundaries and 8 sixes. What percent of his total score did he made by running between the wickets - skipt
  19. In a  big garden 60% of the tree are coconut trees, 25% of the number  of a coconut trees and mango trees and 20% of the number  of mango trees are apple trees. If the number  of apple trees are 1500, then the number  of tree in. the garden is. - skipt
  20. When 35 is subtracted from  a number , it reduced to its 80%. What  is 4/5th of the number
