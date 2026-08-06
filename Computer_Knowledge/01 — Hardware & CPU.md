@@ -57,14 +57,14 @@ Optical Disk / Magnetic Tape (slowest)
 
 ## Storage Devices
 
-| Device              | Type      | Access                              |
-| ------------------- | --------- | ----------------------------------- |
-| **Magnetic Tape**   | Secondary | **Sequential** (must read in order) |
-| **Hard Disk (HDD)** | Secondary | Random access                       |
-| **SSD**             | Secondary | Random access (faster than HDD)     |
-| **CD/DVD**          | Secondry  | Random access                       |
-| **USB Flash Drive** | Secondary | Random access                       |
-| **RAM**             | Primary   | Random access                       |
+| Device              | Type(primary/sec) | Access                                  |
+| ------------------- | ----------------- | --------------------------------------- |
+| **Magnetic Tape**   | \|\|Secondary\|\| | \|\|Sequential (must read in order)\|\| |
+| **Hard Disk (HDD)** | \|\|Secondary\|\| | \|\|Random access\|\|                   |
+| **SSD**             | \|\|Secondary\|\| | \|\|Random access (faster than HDD)\|\| |
+| **CD/DVD**          | \|\|Secondry\|\|  | \|\|Random access\|\|                   |
+| **USB Flash Drive** | \|\|Secondary\|\| | \|\|Random access\|\|                   |
+| **RAM**             | \|\|Primary\|\|   | \|\|Random access\|\|                   |
 
 > ⚠️ **Sequential access = Magnetic Tape** — this appears directly in every paper
 
