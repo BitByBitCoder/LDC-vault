@@ -21,8 +21,8 @@
 
 | Question                    | Answer                                 |
 | --------------------------- | -------------------------------------- |
-| Computer works on principle | **Input → Process → Output**           |
-| Processing happens in       | **CPU (Central Processing Unit)**      |
+| Computer works on principle | \|\|Input → Process → Output\|\|       |
+| Processing happens in       | \|\|CPU (Central Processing Unit)\|\|  |
 | CPU contains                | ALU + Control Unit + Registers         |
 | ALU stands for              | **Arithmetic Logic Unit**              |
 | Control Unit does           | Directs all computer operations        |
