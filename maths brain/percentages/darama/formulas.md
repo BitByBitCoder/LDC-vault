@@ -17,4 +17,6 @@ percentage formula![[Screenshot 2026-07-01 at 9.38.44 PM.png]]
 
 
 
-finding 1%.        total
+finding 1%.  =       total
+			 -----
+			 100
