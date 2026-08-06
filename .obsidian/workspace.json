@@ -95,16 +95,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "maths brain/percentages/darama/formulas.md",
+                "file": "maths brain/percentages/darama/darama filter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "formulas"
+              "title": "darama filter"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -277,10 +277,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7483307953fa01a4",
+  "active": "7ec9f55bdca113db",
   "lastOpenFiles": [
-    "maths brain/percentages/darama/formulas.md",
     "maths brain/percentages/darama/darama a question zawng2.md",
+    "maths brain/percentages/darama/hriat ture flip.md",
+    "maths brain/percentages/darama/formulas.md",
     "maths brain/percentages/darama/darama filter.md",
     "Daily tracker.md",
     "Computer_Knowledge/01 — Hardware & CPU.md",
@@ -306,7 +307,6 @@
     "English/📝 English — INDEX.md",
     "Personal Constitution/first.md",
     "Personal Constitution",
-    "computer/Address/Address.md",
     "maths brain/Screenshot 2026-07-02 at 12.50.50 AM.png",
     "English/Screenshot 2026-07-27 at 11.04.09 PM.png",
     "English/Screenshot 2026-07-27 at 10.25.37 PM.png",
