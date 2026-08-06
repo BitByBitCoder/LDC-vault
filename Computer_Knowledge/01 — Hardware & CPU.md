@@ -173,12 +173,12 @@ Optical Disk / Magnetic Tape (slowest)
 
 ## Computer Uses in Industry
 
-| Industry | Computer Used For |
-|----------|-----------------|
-| Inventory control | **Monitor stock levels and manage reordering** |
-| Banking | Transaction processing |
-| Healthcare | Patient records, diagnostics |
-| Education | Learning management |
+| Industry          | Computer Used For                                |
+| ----------------- | ------------------------------------------------ |
+| Inventory control | \|\|Monitor stock levels and manage reordering** |
+| Banking           | Transaction processing                           |
+| Healthcare        | Patient records, diagnostics                     |
+| Education         | Learning management                              |
 
 ---
 
