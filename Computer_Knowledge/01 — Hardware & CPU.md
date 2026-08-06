@@ -152,11 +152,11 @@ Optical Disk / Magnetic Tape (slowest)
 
 ## Software Classification
 
-| Type | Examples |
-|------|---------|
-| **System Software** | OS (Windows, Linux), Device drivers, BIOS |
-| **Application Software** | MS Word, Excel, Spreadsheet, Browser |
-| **Utility Software** | Antivirus, Disk defragmenter, Backup |
+| Type                     | Examples                                          |
+| ------------------------ | ------------------------------------------------- |
+| **System Software**      | \|\|OS (Windows, Linux), Device drivers, BIOS\|\| |
+| **Application Software** | \|\|MS Word, Excel, Spreadsheet, Browser\|\|      |
+| **Utility Software**     | \|\|Antivirus, Disk defragmenter, Backup\|\|      |
 
 > ⚠️ **Spreadsheet = Application software** — NOT system software
 
