@@ -28,7 +28,7 @@ Formulas
  17. 1100 boys and 700 girls are examined in a test; 42% of  the boys and 30% of the girls pass. The percentage of the total who failed is : percentage formula find 1%
  18. A batsman scored 110 runs which included 3 boundaries and 8 sixes. What percent of his total score did he made by running between the wickets - skipt
  19. In a  big garden 60% of the tree are coconut trees, 25% of the number  of a coconut trees and mango trees and 20% of the number  of mango trees are apple trees. If the number  of apple trees are 1500, then the number  of tree in. the garden is. - skipt
- 20. When 35 is subtra cted from  a number , it reduced to its 80%. What  is 4/5th of the number
+ 20. When 35 is subtra cted from  a number , it reduced to its 80%. What  is 4/5th of the number (find 1% of35)
  21. Monthly Income of a person is 8000 If his income  is increase by 20% 
  22. Percentage increase formula - Percentage Increase =  Increase Value / Origin Value *100
  23. 30% of A = 50 % of K. If K is 72 what is the value of 15% of A - basic
