@@ -164,10 +164,10 @@ Optical Disk / Magnetic Tape (slowest)
 
 ## Client-Server Model
 
-| Role | What it does |
-|------|-------------|
-| **Server** | **Stores and manages shared resources** |
-| **Client** | Requests services from server |
+| Role       | What it does                                |
+| ---------- | ------------------------------------------- |
+| **Server** | \|\|Stores and manages shared resources\|\| |
+| **Client** | \|\|Requests services from server\|\|       |
 
 ---
 
