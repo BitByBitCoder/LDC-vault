@@ -2,6 +2,38 @@
 
 **Your home state — fastest to learn. 95% controllable.**
 [[MIZO Our History And Calture]]
+
+
+
+
+[[Governor]]
+[[Important Year Dates]]
+
+[[Geography]]
+[Mizo Awardees](Mizo%20Awardees.md)
+[[ADC]]
+[[first of]]
+
+[[Traditional months]]
+[[Laentur]]
+
+
+[[Mythology & Folklore]]
+//he ta tang hian start leh tur
+[[Political party]]
+[[Mizo Literature & Awards]]
+[[Culture and tradition]]
+
+[[Legislature & Governance]]
+[[Language and phrase]]
+
+[[Important Places]]
+
+[[Scheme]]
+[[Christinaty]]
+[[General Awearness]]
+[Mizoram Assembly Constituency](sub%20topic/Mizoram%20Assembly%20Constituency.md)
+[[Ministers]]
 #### Sub-categories
 
 |Sub-topic|Questions|
