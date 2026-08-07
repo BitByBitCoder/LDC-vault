@@ -59,15 +59,15 @@
 | Real-time OS     | Responds within guaranteed time — used in flight control            |
 ## Types of Operating Systems
 
-| Type | Meaning | Example |
-|------|---------|---------|
-| **Single User** | One user at a time | MS-DOS |
-| **Multi User** | Multiple users simultaneously | Unix, Linux |
-| **Multitasking** | Multiple tasks at once | Windows |
-| **Multiprocessing** | Multiple processors | Server OS |
-| **Real-time** | Immediate response | Embedded systems |
-| **Batch** | Processes jobs in batches | Early mainframe |
-| **Time Sharing** | CPU time shared among users | Unix |
+| Type                | Meaning                               | Example          |
+| ------------------- | ------------------------------------- | ---------------- |
+| **Single User**     | \|\|One user at a time\|\|            | MS-DOS           |
+| **Multi User**      | \|\|Multiple users simultaneously\|\| | Unix, Linux      |
+| **Multitasking**    | \|\|Multiple tasks at once\|\|        | Windows          |
+| **Multiprocessing** | \|\|Multiple processors\|\|           | Server OS        |
+| **Real-time**       | \|\|Immediate response\|\|            | Embedded systems |
+| **Batch**           | \|\|Processes jobs in batches\|\|     | Early mainframe  |
+| **Time Sharing**    | \|\|CPU time shared among users\|\|   | Unix             |
 
 ---
 
