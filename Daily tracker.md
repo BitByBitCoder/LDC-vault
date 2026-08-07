@@ -26,3 +26,7 @@ afternoon - hna submit ruah sur nasat loh chuan/nih loh chuan computer
 night gk n english
 Bible chiar
 power chiar
+
+7 augest 2026
+
+morning retual 

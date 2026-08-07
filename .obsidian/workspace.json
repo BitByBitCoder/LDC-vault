@@ -103,7 +103,8 @@
               "title": "formulas"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -276,8 +277,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23c50d0fbbfdbac7",
+  "active": "1a7c88a82ca9f5a3",
   "lastOpenFiles": [
+    "Computer_Knowledge/05 — Internet & Web.md",
     "Computer_Knowledge/02 — MS Word.md",
     "Computer_Knowledge/01 — Hardware & CPU.md",
     "Daily tracker.md",
@@ -288,7 +290,6 @@
     "English/01 — Tenses.md",
     "Dictionary/citizen.md",
     "maths brain/radmap/roadmap2.md",
-    "Computer_Knowledge/05 — Internet & Web.md",
     "maths brain/radmap/new roadmap.md",
     "Computer_Knowledge/08 — Networking.md",
     "Computer_Knowledge/06 — Operating System.md",
