@@ -8,45 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "23c50d0fbbfdbac7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer_Knowledge/05 — Internet & Web.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "05 — Internet & Web"
-            }
-          },
-          {
-            "id": "b2eebd81d62b9676",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer_Knowledge/05 — Internet & Web.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "05 — Internet & Web"
-            }
-          },
-          {
             "id": "0d4f01074a681cbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "maths brain/percentages/darama/darama a question zawng2.md",
+                "file": "English/01 — Tenses.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "darama a question zawng2"
+              "title": "01 — Tenses"
             }
           },
           {
@@ -117,8 +89,7 @@
               "title": "06 — Operating System"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -291,15 +262,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "470ec0fc64bb8267",
+  "active": "0d4f01074a681cbc",
   "lastOpenFiles": [
+    "maths brain/percentages/darama/darama a question zawng2.md",
     "Computer_Knowledge/05 — Internet & Web.md",
+    "Computer_Knowledge/06 — Operating System.md",
     "Daily tracker.md",
     "Computer_Knowledge/04 — MS PowerPoint.md",
     "Computer_Knowledge/03 — MS Excel.md",
     "Computer_Knowledge/02 — MS Word.md",
     "Computer_Knowledge/01 — Hardware & CPU.md",
-    "maths brain/percentages/darama/darama a question zawng2.md",
     "maths brain/percentages/darama/formulas.md",
     "maths brain/percentages/darama/darama filter.md",
     "maths brain/percentages/darama/hriat ture flip.md",
@@ -308,7 +280,6 @@
     "maths brain/radmap/roadmap2.md",
     "maths brain/radmap/new roadmap.md",
     "Computer_Knowledge/08 — Networking.md",
-    "Computer_Knowledge/06 — Operating System.md",
     "Computer_Knowledge/💻 Computer Knowledge — INDEX.md",
     "Computer_Knowledge/11 — Internet & Networking.md",
     "Computer_Knowledge/10 — Programming & Sec.md",

@@ -87,14 +87,14 @@
 
 ## Windows Accessories
 
-| Accessory | Purpose |
-|-----------|---------|
-| **Notepad** | Simple text editor — NO formatting |
-| **WordPad** | Basic word processor — **supports formatting** |
-| **Paint** | Simple image editor |
-| **Calculator** | **Arithmetic AND scientific calculations** |
-| **Snipping Tool** | Take screenshots |
-| **Command Prompt** | Text-based interface |
+| ==Accessory==          | ==Purpose==                                        |
+| ------------------ | ---------------------------------------------- |
+| **Notepad**        | Simple text editor — NO formatting             |
+| **WordPad**        | Basic word processor — **supports formatting** |
+| **Paint**          | Simple image editor                            |
+| **Calculator**     | **Arithmetic AND scientific calculations**     |
+| **Snipping Tool**  | Take screenshots                               |
+| **Command Prompt** | Text-based interface                           |
 
 ---
 
