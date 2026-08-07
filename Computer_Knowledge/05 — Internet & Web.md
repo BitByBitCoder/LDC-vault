@@ -177,15 +177,6 @@ Protocol  Domain      Path
 | **Antivirus**         | \|\|Detects and removes malware\|\|                 |
 | **IT Act Section 66** | \|\|Punishment for hacking in India\|\|             |
 
----
-
-
-
-
-
----
-
-
 
 ## Networking Concepts
 
