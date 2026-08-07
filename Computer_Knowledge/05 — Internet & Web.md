@@ -70,17 +70,17 @@
 | **DHCP**  | \|\|Dynamic Host Configuration Protocol\|\| | Assigns IP addresses    |
 
 
-| Protocol   | Purpose                                                                   |
-| ---------- | ------------------------------------------------------------------------- |
-| **HTTP**   | Web browsing\|                                                            |
-| **HTTPS**  | Secure web browsing                                                       |
-| **FTP**    | **File Transfer Protocol** — transfer files                               |
-| **SMTP**   | **Simple Mail Transfer Protocol** — **sending** email                     |
-| **POP3**   | **Post Office Protocol 3** — **receiving** email (downloads)              |
-| **IMAP**   | **Internet Message Access Protocol** — **receiving** email (server-based) |
-| **TCP/IP** | Main internet communication protocol                                      |
-| **DNS**    | Domain name to IP address resolution                                      |
-| **DHCP**   | Automatically assigns IP addresses                                        |
+| Protocol   | Purpose                                                                         |
+| ---------- | ------------------------------------------------------------------------------- |
+| **HTTP**   | \|\|Web browsing\|\|                                                            |
+| **HTTPS**  | \|\|Secure web browsing\|\|                                                     |
+| **FTP**    | \|\|File Transfer Protocol** — transfer files\|\|                               |
+| **SMTP**   | \|\|Simple Mail Transfer Protocol** — **sending** email\|\|                     |
+| **POP3**   | \|\|Post Office Protocol 3** — **receiving** email (downloads)\|\|              |
+| **IMAP**   | \|\|Internet Message Access Protocol** — **receiving** email (server-based)\|\| |
+| **TCP/IP** | \|\|Main internet communication protocol\|\|                                    |
+| **DNS**    | \|\|Domain name to IP address resolution\|\|                                    |
+| **DHCP**   | \|\|Automatically assigns IP addresses\|\|                                      |
 
 > ⚠️ SMTP = **sending** — POP3/IMAP = **receiving**
 ### URL Structure
