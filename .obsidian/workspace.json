@@ -85,12 +85,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Knowledge/Mizo/MIZO Our History And Calture.md",
+                "file": "General Knowledge/Roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MIZO Our History And Calture"
+              "title": "Roadmap"
             }
           }
         ],
@@ -269,9 +269,10 @@
   },
   "active": "ba0473e51e80ff39",
   "lastOpenFiles": [
-    "General Knowledge/Mizo/sub topic/Geography.md",
-    "General Knowledge/Mizo/MIZO Our History And Calture.md",
     "General Knowledge/Mizo/glance.md",
+    "General Knowledge/Mizo/mai mai.md",
+    "General Knowledge/Mizo/MIZO Our History And Calture.md",
+    "General Knowledge/Mizo/sub topic/Geography.md",
     "Daily tracker.md",
     "maths brain/percentages/darama/darama a question zawng2.md",
     "maths brain/percentages/darama/formulas.md",
@@ -294,7 +295,6 @@
     "Computer_Knowledge/09 — Number Systems & Units.md",
     "Computer_Knowledge/08 — Software Concepts.md",
     "Computer_Knowledge/07 — Email.md",
-    "Computer_Knowledge/07 — Email & Communication.md",
     "Computer_Knowledge/Computer CPU.canvas",
     "Personal Constitution",
     "maths brain/Screenshot 2026-07-02 at 12.50.50 AM.png",
