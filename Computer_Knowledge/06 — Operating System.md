@@ -14,11 +14,11 @@
 | Select non-adjacent files                     | \|\|Hold Ctrl + click each file\|\|                                     |
 | File names composed of                        | \|\|Name and extension separated by a dot\|\|                           |
 | Log off option                                | \|\|Switches current user session without turning off computer\|\|      |
-| Shortcut on desktop contains                  | \|\|A link that points to the original file or program**                |
-| Delete a shortcut                             | **Does NOT affect the original file**                                   |
-| NOT a version of Windows                      | **Windows UltraX**                                                      |
-| Folder containing another folder              | **Parent folder**                                                       |
-| Memory resident portion of OS                 | **Kernel**                                                              |
+| Shortcut on desktop contains                  | \|\|A link that points to the original file or program\|\|              |
+| Delete a shortcut                             | \|\|Does NOT affect the original file\|\|                               |
+| NOT a version of Windows                      | \|\|Windows UltraX\|\|                                                  |
+| Folder containing another folder              | \|\|Parent folder\|\|                                                   |
+| Memory resident portion of OS                 | \|\|Kernel\|\|                                                          |
 | OS can be defined as                          | \|\|Manages hardware and provides services to programs\|\|              |
 | Windows provides file management through      | \|\|File Explorer\|\|                                                   |
 | Taskbar typically contains                    | \|\|Buttons for running apps and system notifications\|\|               |
