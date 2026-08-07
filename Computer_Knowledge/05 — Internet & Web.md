@@ -172,10 +172,10 @@ Protocol  Domain      Path
 | **Ransomware**        | \|\|Encrypts files, demands payment\|\|             |
 | **Phishing**          | \|\|Fake emails/sites to steal credentials\|\|      |
 | **Hacking**           | \|\|Unauthorized access to systems\|\|              |
-| **Encryption**        | \|\|Converting data to unreadable format            |
-| **Firewall**          | Blocks unauthorized access                          |
-| **Antivirus**         | Detects and removes malware                         |
-| **IT Act Section 66** | Punishment for hacking in India                     |
+| **Encryption**        | \|\|Converting data to unreadable format\|\|        |
+| **Firewall**          | \|\|Blocks unauthorized access\|\|                  |
+| **Antivirus**         | \|\|Detects and removes malware\|\|                 |
+| **IT Act Section 66** | \|\|Punishment for hacking in India\|\|             |
 
 ---
 
