@@ -29,4 +29,7 @@ power chiar
 
 7 augest 2026
 
-morning retual 
+morning ritual - read prey
+maths - morning 1 hr
+gk - 1 hour
+afternoon - sub
