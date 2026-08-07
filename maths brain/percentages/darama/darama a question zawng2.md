@@ -38,7 +38,7 @@ Formulas
  27. On increasing the price of a bed - sheet by 20% it become 420 what is its original price
  28. A fruit seller used to sell banana for rs 40 per dozen now he reduced the cost of a dozen bananas by 10% what is the price of a dozen bananas now?
  29. The cost of a member card of a club was reduced by 20% and cost Rs. 440 now. What was the original price of membership card before its cost reduced?
- 30. If 10% of a bill is deducted still rs 27000 is left to be paid how much is th bill (27000 is a final result tur anih avangin = 2700)
+ 30. If 10% of a bill is deducted still rs 27000 is left to be paid how much is th bill (27000 is a final result tur anih avangin x%/100 = 27000)
  31. Ruatdiki buys good worth rs 6650 she get a rebate of 6% an it. After getting the rebate, she pays sales tax @ 10% find the amount she will have to pay for goods
  32. Different type of question-- helai thleng hi chawk tawh
  33. The population of a village is 25000. One fifth are females and  the rest are males. 5% of male and 40% of females are uneducated. What percentage on the whole are educated?
