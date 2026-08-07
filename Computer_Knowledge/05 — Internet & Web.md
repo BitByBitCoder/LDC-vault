@@ -188,7 +188,7 @@ Protocol  Domain      Path
 | **Router**    | \|\|Connects different networks — directs data packets\|\| |
 | **Modem**     | \|\|Converts digital signal to analog for transmission\|\| |
 | **Switch**    | \|\|Connects devices within a LAN\|\|                      |
-| **Hub**       | \|\|Older device — broadcasts to all connected devices     |
+| **Hub**       | \|\|Older device — broadcasts to all connected devices\|\| |
 | **Bandwidth** | Amount of data that can be transmitted per second          |
 | **Protocol**  | Rules for communication between computers                  |
 | **TCP/IP**    | Main protocol for internet communication                   |
