@@ -1,7 +1,7 @@
 
 | Question                | Answer                                                      |     |
 | ----------------------- | ----------------------------------------------------------- | --- |
-| MLA seats               | **40**                                                      |     |
+| MLA seats               | \|\|40\|\|                                                  |     |
 | Districts               | **11**                                                      |     |
 | Border states           | **Assam, Manipur, Tripura**                                 |     |
 | Border countries        | **Myanmar, Bangladesh**                                     |     |
