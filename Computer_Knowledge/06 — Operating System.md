@@ -75,15 +75,13 @@
 
 ## Desktop Features
 
-| Feature               | What it does                                      |
-| --------------------- | ------------------------------------------------- |
-| **Shortcut**          | \|\|Link pointing to original file — NOT a copy** |
-| **Deleting shortcut** | **Does NOT delete original file**                 |
-| **Log Off**           | **Ends user session — computer stays ON**         |
-| **Shut Down**         | Turns off computer                                |
-| **Restart**           | Turns off and starts again                        |
-| **Sleep**             | Low power mode — resumes quickly                  |
-| **Hibernate**         | Saves state to disk — fully powers off            |
+| Feature       | What it does                                   |
+| ------------- | ---------------------------------------------- |
+| **Log Off**   | \|\|Ends user session — computer stays ON\|\|  |
+| **Shut Down** | \|\|Turns off computer\|\|                     |
+| **Restart**   | \|\|Turns off and starts again\|\|             |
+| **Sleep**     | \|\|Low power mode — resumes quickly\|\|       |
+| **Hibernate** | \|\|Saves state to disk — fully powers off\|\| |
 
 ---
 
