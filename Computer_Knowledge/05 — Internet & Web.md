@@ -164,18 +164,18 @@ Protocol  Domain      Path
 
 ## Cyber Security — Key Terms
 
-| Term | Meaning |
-|------|---------|
-| **Virus** | Malicious program that replicates |
-| **Worm** | Self-replicating — spreads through networks |
-| **Trojan Horse** | Looks legitimate but is malicious |
-| **Ransomware** | Encrypts files, demands payment |
-| **Phishing** | Fake emails/sites to steal credentials |
-| **Hacking** | Unauthorized access to systems |
-| **Encryption** | Converting data to unreadable format |
-| **Firewall** | Blocks unauthorized access |
-| **Antivirus** | Detects and removes malware |
-| **IT Act Section 66** | Punishment for hacking in India |
+| Term                  | Meaning                                             |
+| --------------------- | --------------------------------------------------- |
+| **Virus**             | \|\|Malicious program that replicates\|\|           |
+| **Worm**              | \|\|Self-replicating — spreads through networks\|\| |
+| **Trojan Horse**      | \|\|Looks legitimate but is malicious\|\|           |
+| **Ransomware**        | \|\|Encrypts files, demands payment\|\|             |
+| **Phishing**          | \|\|Fake emails/sites to steal credentials\|\|      |
+| **Hacking**           | \|\|Unauthorized access to systems\|\|              |
+| **Encryption**        | \|\|Converting data to unreadable format            |
+| **Firewall**          | Blocks unauthorized access                          |
+| **Antivirus**         | Detects and removes malware                         |
+| **IT Act Section 66** | Punishment for hacking in India                     |
 
 ---
 
