@@ -32,7 +32,7 @@ Formulas
  21. Monthly Income of a person is 8000 If his income  is increase by 20% (Percentage increase formula - Percentage Increase =  Increase Value / Origin Value *100)
  22. 30% of A = 50 % of K. If K is 72 what is the value of 15% of A - basic
  23. A man got 10% increase in his salary if his new salary is 55000 find his previous salary- percentage increase
- 24. ==What is the percentage change in the rent of the house if on the month of january it ==was rs 10000 and in the month of march it is rs 15,000
+ 24. ==What is the percentage change in the rent of the house if on the month of january it ==was rs 10000 and in the month of march it is rs 15,000 - (percentage change formula)
  25. In a state the number of village electrified in the first year was 13600 it rose to 17000 in the second year, Find the percentage increase in the number of village electrified in the second year.
  26. A man got 10% increase in his salary if his new salary is 55000, find his previous salary.
  27. On increasing the price of a bed - sheet by 20% it become 420 what is its original price
