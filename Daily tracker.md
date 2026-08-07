@@ -32,4 +32,5 @@ power chiar
 morning ritual - read prey
 maths - morning 1 hr
 gk - 1 hour
-afternoon - sub
+afternoon - submit job application & books lei
+zanah computer ms word n english
