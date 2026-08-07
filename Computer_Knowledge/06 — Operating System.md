@@ -9,7 +9,7 @@
 | --------------------------------------------- | ----------------------------------------------------------------------- |
 | OS can be defined as                          | \|\|Program that manages hardware and provides services to programs\|\| |
 | Windows provides file management through      | \|\|File Explorer\|\|                                                   |
-| Taskbar typically contains                    | \|\|Buttons for running applications and system notifications\|\|       |
+| Taskbar typically contains                    | \|\| running applications and system notifications\|\|                  |
 | Select group of adjacent files                | \|\|Hold Shift + click first and last file\|\|                          |
 | Select non-adjacent files                     | \|\|Hold Ctrl + click each file\|\|                                     |
 | File names composed of                        | \|\|Name and extension separated by a dot\|\|                           |
