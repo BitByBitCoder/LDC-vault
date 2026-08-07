@@ -38,16 +38,6 @@
             }
           },
           {
-            "id": "59172ca0498d01e9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "7483307953fa01a4",
             "type": "leaf",
             "state": {
@@ -89,7 +79,8 @@
               "title": "06 — Operating System"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -262,20 +253,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d4f01074a681cbc",
+  "active": "1a7c88a82ca9f5a3",
   "lastOpenFiles": [
     "maths brain/percentages/darama/darama a question zawng2.md",
-    "Computer_Knowledge/05 — Internet & Web.md",
-    "Computer_Knowledge/06 — Operating System.md",
     "Daily tracker.md",
+    "maths brain/percentages/darama/formulas.md",
+    "Computer_Knowledge/06 — Operating System.md",
+    "English/01 — Tenses.md",
+    "Computer_Knowledge/05 — Internet & Web.md",
     "Computer_Knowledge/04 — MS PowerPoint.md",
     "Computer_Knowledge/03 — MS Excel.md",
     "Computer_Knowledge/02 — MS Word.md",
     "Computer_Knowledge/01 — Hardware & CPU.md",
-    "maths brain/percentages/darama/formulas.md",
     "maths brain/percentages/darama/darama filter.md",
     "maths brain/percentages/darama/hriat ture flip.md",
-    "English/01 — Tenses.md",
     "Dictionary/citizen.md",
     "maths brain/radmap/roadmap2.md",
     "maths brain/radmap/new roadmap.md",
