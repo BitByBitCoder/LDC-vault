@@ -41,4 +41,6 @@ zanah computer ms word n english
 mor-english
 mor - maths
 
-af
+afernoon - gk
+night - computer
+test question siam planning and organize
