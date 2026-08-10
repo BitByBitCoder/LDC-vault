@@ -32,7 +32,7 @@ Formulas
  21. Monthly Income of a person is 8000 If his income  is increase by 20% (Percentage increase formula - Percentage Increase =  Increase Value / Origin Value *100)
  22. 30% of A = 50 % of K. If K is 72 what is the value of 15% of A - basic
  23. A man got 10% increase in his salary if his new salary is 55000 find his previous salary- percentage increase
- 24. ==What is the percentage change in the rent of the house if on the month of january it ==was rs 10000 and in the month of march it is rs 15,000 - (percentage change formula)
+ 24. What is the percentage change in the rent of the house if on the month of january it was rs 10000 and in the month of march it is rs 15,000 - (percentage change formula)
  25. In a state the number of village electrified in the first year was 13600 it rose to 17000 in the second year, Find the percentage increase in the number of village electrified in the second year.
  26. A man got 10% increase in his salary if his new salary is 55000, find his previous salary.
  27. On increasing the price of a bed - sheet by 20% it become 420 what is its original price
@@ -42,7 +42,7 @@ Formulas
  31. Ruatdiki buys good worth rs 6650 she get a rebate of 6% an it. After getting the rebate, she pays sales tax @ 10% find the amount she will have to pay for goods (sales tax chu a pay ngai zawk original price ah khan 10% kan add zawk tur ani minus loin)
  32. Different type of question-- helai thleng hi chawk tawh
  33. The population of a village is 25000. One fifth are females and  the rest are males. 5% of male and 40% of females are uneducated. What percentage on the whole are educated?(step by step harsalo)
- 34. ==Christy donated 10% of his income to an orphanage and deposit 20% of the remainder in his bank. If he has now Rs 7200 left what is his income:==
+ 34. ==Christy donated 10% of his income to an orphanage and deposit 20% of the remainder in his bank. If he has now Rs 7200 left what is his income:
  35. A person gave 20% of his income to his elder son, 30% of the remaining to the younger son and 10% of the  balance, he donated to a trust. He is left with 10080. His income was:
  36. In a school there are 1500 student, 44% of them are girls monthly fee of each boy is rs 540 and the fee of each girl is 25% less than that of a boy The sum of fees of boys and girls both is.
  37. The average monthly salary of all the employees in a factory is Rs. 8840. If the average salary of all the officers is Rs. 15000 and that of the remaining employees is Rs. 8000, then what is the percent- age of the officers among the employees?(1) 10% (2) 12% (3) 8 1/3 % (4) 11% - hard 
