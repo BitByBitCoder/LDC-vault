@@ -45,7 +45,7 @@ Formulas
  34. Christy donated 10% of his income to an orphanage and deposit 20% of the remainder in his bank. If he has now Rs 7200 left what is his income:
  35. A person gave 20% of his income to his elder son, 30% of the remaining to the younger son and 10% of the  balance, he donated to a trust. He is left with 10080. His income was:
  36. In a school there are 1500 student, 44% of them are girls monthly fee of each boy is rs 540 and the fee of each girl is 25% less than that of a boy The sum of fees of boys and girls both is. - basic
- 37. The average monthly salary of all the employees in a factory is Rs. 8840. If the average salary of all the officers is Rs. 15000 and that of the remaining employees is Rs. 8000, then what is the percent- age of the officers among the employees?(1) 10% (2) 12% (3) 8 1/3 % (4) 11% - hard 
+ 37. ==The average monthly salary of all the employees in a factory is Rs. 8840. If the average salary of all the officers is Rs. 15000 and that of the remaining employees is Rs. 8000, then what is the percent- age of the officers among the employees?(1) 10% (2) 12% (3) 8 1/3 % (4) 11% - hard==
  38. Seats for mathematics, Physics and Biology in a school are in the ratio 5:7:8. There is a proposal to increase these seats by 40%, 50% and 75% respectively. What will be the ratio of increased seats?
  39. The average weight of first 11 persons among 12 persons is 95 kg. The weight of 12th person is 33 kg more than the average weight of all the 12 persons. The weight of the 12th person is- hard
  40. If the value of  no is 1st increased by a % and later decreased by a % then the net  effect will be.
