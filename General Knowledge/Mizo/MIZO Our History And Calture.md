@@ -3,7 +3,7 @@
 | ----------------------- | ------------------------------------------------------------------- | --- |
 | MLA seats               | \|\|40\|\|                                                          |     |
 | Districts               | \|\|11\|\|                                                          |     |
-| Border states           | \|\|Assam, Manipur, Tripura\|\|                                     |     |
+| Border states           | \|\|Tripura,Assam, Manipur\|\|                                      |     |
 | Border countries        | \|\|Myanmar, Bangladesh\|\|                                         |     |
 | State bird              | \|\|Mrs. Hume's Pheasant (Vavu)\|\|                                 |     |
 | Mizoram no of state     | \|\|23 state of india\|\|                                           |     |
