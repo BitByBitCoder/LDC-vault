@@ -34,6 +34,31 @@
 [[General Awearness]]
 [Mizoram Assembly Constituency](sub%20topic/Mizoram%20Assembly%20Constituency.md)
 [[Ministers]]
+
+## Mizo History, Culture & General Knowledge Study Outline
+
+| **#**  | **Topic / Subject**                       | **Category**        | **Key Focus Areas & Content**                                                                                                     |
+| ------ | ----------------------------------------- | ------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| **1**  | **Governor**                              | Governance          | Constitutional heads, historical list of Governors in Mizoram, roles, and current Governor                                        |
+| **2**  | **Important Year Dates**                  | History             | Major timeline events: 1894 (Gospel Entry), 1954 (District Council), 1972 (UT Status), 1986 (Mizo Peace Accord), 1987 (Statehood) |
+| **3**  | **Geography**                             | Geography           | Geographic position, borders, hill ranges, river systems, climate zones, Phawngpui (Blue Mountain), land area                     |
+| **4**  | **Mizo Awardees**                         | Achievements        | Padma Awardees, Sahitya Akademi winners, Gallantry award recipients, and State-level honors                                       |
+| **5**  | **ADC (Autonomous District Councils)**    | Governance          | 6th Schedule Autonomous Councils: Lai (LADC), Mara (MADC), and Chakma (CADC)                                                      |
+| **6**  | **First in Mizoram ("First of...")**      | General Knowledge   | First Chief Minister, Governor, IAS officer, school, newspaper, hospital, university, and graduates                               |
+| **7**  | **Traditional Months**                    | Culture             | Mizo traditional calendar months (_Pawltlak_, _Pawlhlak_, _Thlafam_, _Ramlop_, etc.) and seasonal activities                      |
+| **8**  | **Laentur (Essential Topics/Highlights)** | Study Guide         | Core reference materials, key study areas, notable historical landmarks, and essential facts                                      |
+| **9**  | **Mythology & Folklore**                  | Heritage            | Folk tales, myths, legendary characters (_Chawngchilhi_, _Mauruangi_, _Thasiama Seno Neihna_, _Lalruanga_)                        |
+| **10** | **Political Parties**                     | Politics            | History and roles of major political entities in Mizoram (MNF, ZPM, INC, MPC, BJP)                                                |
+| **11** | **Mizo Literature & Awards**              | Literature          | Prominent writers, classic literature, Mizo Academy of Letters (MAL) Book of the Year awardees                                    |
+| **12** | **Culture & Tradition**                   | Heritage            | Major festivals (_Chapchar Kut_, _Mim Kut_, _Pawl Kut_), traditional dances (_Cheraw_, _Khullam_, _Chheihlam_), and customs       |
+| **13** | **Legislature & Governance**              | Governance          | Unicameral Mizoram Legislative Assembly structure, Secretariat, administrative districts, and sub-divisions                       |
+| **14** | **Language & Phrases**                    | Culture & Language  | Mizo language origins, idioms (_Thufing_), common proverbs, and traditional terms                                                 |
+| **15** | **Important Places**                      | Geography & Tourism | Historical landmarks and tourist sites (_Rih Dil_, _Tamdil_, _Vantawng Falls_, _Reiek_, _Solomon's Temple_, _Lunglei_)            |
+| **16** | **Government Schemes**                    | Policy & Economy    | Key State and Central government welfare schemes, agricultural, and socio-economic policies                                       |
+| **17** | **Christianity**                          | History & Religion  | Arrival of Pioneer Missionaries (J.H. Lorrain & F.W. Savidge in 1894), Welsh Mission, Gospel expansion, and Church history        |
+| **18** | **General Awareness**                     | General Knowledge   | State symbols (Bird, Animal, Tree, Flower), population census, current affairs, and state demography                              |
+| **19** | **Mizoram Assembly Constituencies**       | Politics            | 40 Legislative Assembly constituencies, reserved ST seats, and electoral demographics                                             |
+| **20** | **Ministers**                             | Governance          | Chief Minister, Cabinet Ministers, portfolios, and executive council hierarchy                                                    |
 #### Sub-categories
 
 |Sub-topic|Questions|
