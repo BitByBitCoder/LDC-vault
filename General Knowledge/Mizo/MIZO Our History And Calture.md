@@ -1,27 +1,27 @@
 
-| Question                | Answer                                                      |     |
-| ----------------------- | ----------------------------------------------------------- | --- |
-| MLA seats               | \|\|40\|\|                                                  |     |
-| Districts               | **11**                                                      |     |
-| Border states           | **Assam, Manipur, Tripura**                                 |     |
-| Border countries        | **Myanmar, Bangladesh**                                     |     |
-| State bird              | **Mrs. Hume's Pheasant (Vavu)**                             |     |
-| Mizoram                 | 23 state of india                                           |     |
-| Total population 2011   | 10,97,206                                                   |     |
-| **Meaning of Mizoram:** | Mi (people) + Zo (hills) + Ram (land) = Land of Hill People |     |
-| **Official languages:** | Mizo and English                                            |     |
-| Literacy rate           | 91.85% 2 highest                                            |     |
-| State motto             | Satyameva Jayate Truth alone triumphs                       |     |
-|                         |                                                             |     |
+| Question                | Answer                                                              |     |
+| ----------------------- | ------------------------------------------------------------------- | --- |
+| MLA seats               | \|\|40\|\|                                                          |     |
+| Districts               | \|\|11\|\|                                                          |     |
+| Border states           | \|\|Assam, Manipur, Tripura\|\|                                     |     |
+| Border countries        | \|\|Myanmar, Bangladesh\|\|                                         |     |
+| State bird              | \|\|Mrs. Hume's Pheasant (Vavu)\|\|                                 |     |
+| Mizoram                 | \|\|23 state of india\|\|                                           |     |
+| Total population 2011   | \|\|10,97,206\|\|                                                   |     |
+| **Meaning of Mizoram:** | \|\|Mi (people) + Zo (hills) + Ram (land) = Land of Hill People\|\| |     |
+| **Official languages:** | \|\|Mizo and English\|\|                                            |     |
+| Literacy rate           | \|\|91.85% 2 highest\|\|                                            |     |
+| State motto             | \|\|Satyameva Jayate Truth alone triumphs\|\|                       |     |
+|                         |                                                                     |     |
 
-| Symbol       | Name                            | Mizo Name | Scientific Name         |
-| ------------ | ------------------------------- | --------- | ----------------------- |
-| State Animal | Himalayan Serow                 | Saza      | Capricornis thar        |
-| State Bird   | Mrs. Hume's Pheasant            | Vavu      | Syrmaticus humiae       |
-| State Flower | Red Vanda (orchid)              | Senhri    | Renanthera imschootiana |
-| State Tree   | Indian Rose Chestnut / Ironwood | Herhse    | Mesua ferrea            |
-| State Fish   | Burmese Kingfish                | Ngahvang  | Semiplotus modestus     |
-| State Motto  | Satyameva Jayate                | —         | Truth alone triumphs    |
+| Symbol       | Name                                | Mizo Name | Scientific Name         |
+| ------------ | ----------------------------------- | --------- | ----------------------- |
+| State Animal | \|\|Himalayan Serow                 | Saza      | Capricornis thar        |
+| State Bird   | \|\|Mrs. Hume's Pheasant            | Vavu      | Syrmaticus humiae       |
+| State Flower | \|\|Red Vanda (orchid)              | Senhri    | Renanthera imschootiana |
+| State Tree   | \|\|Indian Rose Chestnut / Ironwood | Herhse    | Mesua ferrea            |
+| State Fish   | \|\|Burmese Kingfish                | Ngahvang  | Semiplotus modestus     |
+| State Motto  | Satyameva Jayate                    | —         | Truth alone triumphs    |
 ### Exam Trap Notes on Symbols
 
 - State bird shared with **Manipur** (both have Mrs. Hume's Pheasant)
