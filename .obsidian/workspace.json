@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Knowledge/Mizo/MIZO Our History And Calture.md",
+                "file": "General Knowledge/Mizo/Mizo index.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MIZO Our History And Calture"
+              "title": "Mizo index"
             }
           }
         ],
@@ -265,8 +265,8 @@
   },
   "active": "ba0473e51e80ff39",
   "lastOpenFiles": [
-    "General Knowledge/Mizo/Mizo index.md",
     "General Knowledge/Mizo/MIZO Our History And Calture.md",
+    "General Knowledge/Mizo/Mizo index.md",
     "maths brain/Profit and loss/darama question.md",
     "maths brain/radmap/roadmap2.md",
     "maths brain/percentages/darama/darama a question zawng2.md",
