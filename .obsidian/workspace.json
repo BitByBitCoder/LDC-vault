@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Knowledge/Mizo/Mizo index.md",
+                "file": "General Knowledge/Mizo/sub topic/Governor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mizo index"
+              "title": "Governor"
             }
           }
         ],
@@ -265,8 +265,8 @@
   },
   "active": "ba0473e51e80ff39",
   "lastOpenFiles": [
-    "General Knowledge/Mizo/MIZO Our History And Calture.md",
     "General Knowledge/Mizo/Mizo index.md",
+    "General Knowledge/Mizo/MIZO Our History And Calture.md",
     "maths brain/Profit and loss/darama question.md",
     "maths brain/radmap/roadmap2.md",
     "maths brain/percentages/darama/darama a question zawng2.md",

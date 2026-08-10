@@ -1,39 +1,32 @@
 ### 🟢 1. Mizoram GK (79 Questions)
 
 **Your home state — fastest to learn. 95% controllable.**
-[[MIZO Our History And Calture]]
 
 
-
-
-[[Governor]]
-[[Important Year Dates]]
-
-[[Geography]]
-[Mizo Awardees](Mizo%20Awardees.md)
-[[ADC]]
-[[first of]]
-
-[[Traditional months]]
-[[Laentur]]
-
-
-[[Mythology & Folklore]]
-//he ta tang hian start leh tur
-[[Political party]]
-[[Mizo Literature & Awards]]
-[[Culture and tradition]]
-
-[[Legislature & Governance]]
-[[Language and phrase]]
-
-[[Important Places]]
-
-[[Scheme]]
-[[Christinaty]]
-[[General Awearness]]
-[Mizoram Assembly Constituency](sub%20topic/Mizoram%20Assembly%20Constituency.md)
-[[Ministers]]
+| **#** | Contents                            |
+| ----- | ----------------------------------- |
+| 1     | [[MIZO Our History And Calture]]    |
+| 2     | [[Governor]]                        |
+| 3     | [[Important Year Dates]]            |
+| 4     | [[Geography]]                       |
+| 5     | [[Mizo Awardees]]                   |
+| 6     | [[ADC]]                             |
+| 7     | [[first of]]                        |
+| 8     | [[Traditional months]]              |
+| 9     | [[Laentur]]                         |
+| 10    | [[Mythology & Folklore]]            |
+| 11    | [[//he ta tang hian start leh tur]] |
+| 12    | [[Political party]]                 |
+| 13    | [[Mizo Literature & Awards]]        |
+| 14    | [[Culture and tradition]]           |
+| 15    | [[Legislature & Governance]]        |
+| 16    | [[Language and phrase]]             |
+| 17    | [[Important Places]]                |
+| 18    | [[Scheme]]                          |
+| 19    | [[Christinaty]]                     |
+| 20    | [[General Awearness]]               |
+| 21    | [[Mizoram Assembly Constituency]]   |
+| 22    | [[Ministers]]                       |
 
 ## Mizo History, Culture & General Knowledge Study Outline
 
