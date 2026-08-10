@@ -10,10 +10,10 @@
 		{"id":"d50177b670c3e186","type":"text","text":"","x":-219,"y":-663,"width":250,"height":60},
 		{"id":"8353342c84d89adb","type":"text","text":"bramaputra ","x":-1475,"y":-197,"width":250,"height":50,"color":"5"},
 		{"id":"c9e5dd4b55565727","type":"file","file":"Pasted image 20260717182424.png","x":-2439,"y":-1174,"width":692,"height":374},
-		{"id":"69765d0db24e06ab","type":"file","file":"General Knowledge/India_Geography/gk canvas/Pasted image 20260717182710.png","x":-2455,"y":-637,"width":610,"height":356},
+		{"id":"69765d0db24e06ab","type":"file","file":"General Knowledge/04-India_Geography/gk canvas/Pasted image 20260717182710.png","x":-2455,"y":-637,"width":610,"height":356},
 		{"id":"e0d570e3b38682b8","type":"text","text":"East flowing river system","x":-1814,"y":111,"width":237,"height":57},
 		{"id":"912332d8b3f26c13","type":"text","text":"West flowing river system","x":-1819,"y":520,"width":250,"height":60},
-		{"id":"5edee01af740c8ff","type":"file","file":"General Knowledge/India_Geography/gk canvas/Pasted image 20260720153917.png","x":-2817,"y":106,"width":740,"height":740},
+		{"id":"5edee01af740c8ff","type":"file","file":"General Knowledge/04-India_Geography/gk canvas/Pasted image 20260720153917.png","x":-2817,"y":106,"width":740,"height":740},
 		{"id":"42c9ce20a8ec2aa1","type":"text","text":"Mizoram","x":102,"y":-147,"width":250,"height":60},
 		{"id":"e5dc28c00830e29f","type":"text","text":"Himachal pradesh/punjab","x":117,"y":-35,"width":250,"height":60},
 		{"id":"2c5d90d7ceafd8f2","x":116,"y":165,"width":250,"height":60,"type":"text","text":"Gujarat"},
@@ -23,7 +23,7 @@
 		{"id":"aa8e84571412740d","x":464,"y":208,"width":250,"height":60,"color":"2","type":"text","text":"Sadar Sarovar"},
 		{"id":"1cf6657f7b9d4d01","x":149,"y":317,"width":250,"height":60,"type":"text","text":"Telengana"},
 		{"id":"9cc91eb19ac0c399","x":473,"y":313,"width":250,"height":60,"color":"2","type":"text","text":"Nagarjuna"},
-		{"id":"ffe1b4346a3d1022","x":-249,"y":45,"width":285,"height":400,"type":"file","file":"General Knowledge/India_Geography/gk canvas/Pasted image 20260720163427.png"}
+		{"id":"ffe1b4346a3d1022","x":-249,"y":45,"width":285,"height":400,"type":"file","file":"General Knowledge/04-India_Geography/gk canvas/Pasted image 20260720163427.png"}
 	],
 	"edges":[
 		{"id":"354f848c9046d5ba","fromNode":"79bb27b220caa9f1","fromSide":"left","toNode":"19bebacc7e5af695","toSide":"right"},
