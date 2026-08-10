@@ -75,7 +75,7 @@ Courts interpret the Constitution when disputes arise.
 # 🧩 Main Parts of the Indian Constitution
 
 - [[Preamble]]
-- [[Fundamental Rights]]
+- [[General Knowledge/02-Indian_Polity_Constitution/brain/Fundamental Rights/Fundamental Rights]]
 - [[Directive Principles]]
 - [[Fundamental Duties]]
 - [[Union Government]]
@@ -105,7 +105,7 @@ Courts interpret the Constitution when disputes arise.
 
 [[Parliament]]
 
-[[Fundamental Rights]]
+[[General Knowledge/02-Indian_Polity_Constitution/brain/Fundamental Rights/Fundamental Rights]]
 
 ---
 

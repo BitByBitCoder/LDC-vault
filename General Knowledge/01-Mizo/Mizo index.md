@@ -6,26 +6,26 @@
 | **#** | Contents                            |
 | ----- | ----------------------------------- |
 | 1     | [[MIZO Our History And Calture]]    |
-| 2     | [[Governor]]                        |
-| 3     | [[Important Year Dates]]            |
-| 4     | [[Geography]]                       |
-| 5     | [[Mizo Awardees]]                   |
-| 6     | [[ADC]]                             |
-| 7     | [[first of]]                        |
-| 8     | [[Traditional months]]              |
-| 9     | [[Laentur]]                         |
-| 10    | [[Mythology & Folklore]]            |
+| 2     | [[sub topic/Governor]]                        |
+| 3     | [[sub topic/Important Year Dates]]            |
+| 4     | [[sub topic/Geography]]                       |
+| 5     | [[sub topic/Mizo Awardees]]                   |
+| 6     | [[sub topic/ADC]]                             |
+| 7     | [[sub topic/first of]]                        |
+| 8     | [[sub topic/Traditional months]]              |
+| 9     | [[sub topic/Laentur]]                         |
+| 10    | [[sub topic/Mythology & Folklore]]            |
 | 11    | [[//he ta tang hian start leh tur]] |
-| 12    | [[Political party]]                 |
-| 13    | [[Mizo Literature & Awards]]        |
-| 14    | [[Culture and tradition]]           |
-| 15    | [[Legislature & Governance]]        |
-| 16    | [[Language and phrase]]             |
-| 17    | [[Important Places]]                |
-| 18    | [[Scheme]]                          |
-| 19    | [[Christinaty]]                     |
+| 12    | [[sub topic/Political party]]                 |
+| 13    | [[sub topic/Mizo Literature & Awards]]        |
+| 14    | [[sub topic/Culture and tradition]]           |
+| 15    | [[sub topic/Legislature & Governance]]        |
+| 16    | [[sub topic/Language and phrase]]             |
+| 17    | [[sub topic/Important Places]]                |
+| 18    | [[sub topic/Scheme]]                          |
+| 19    | [[sub topic/Christinaty]]                     |
 | 20    | [[General Awearness]]               |
-| 21    | [[Mizoram Assembly Constituency]]   |
+| 21    | [[sub topic/Mizoram Assembly Constituency]]   |
 | 22    | [[Ministers]]                       |
 
 ## Mizo History, Culture & General Knowledge Study Outline

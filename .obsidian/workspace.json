@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Knowledge/Mizo/sub topic/Governor.md",
+                "file": "General Knowledge/01-Mizo/sub topic/Governor.md",
                 "mode": "preview",
                 "source": false
               },
@@ -263,11 +263,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba0473e51e80ff39",
+  "active": "fae9520d72428e28",
   "lastOpenFiles": [
-    "General Knowledge/Mizo/Mizo index.md",
-    "General Knowledge/Mizo/sub topic/Governor.md",
-    "General Knowledge/Mizo/MIZO Our History And Calture.md",
+    "General Knowledge/01-Mizo/Mizo index.md",
+    "General Knowledge/01-Mizo/sub topic/Governor.md",
+    "General Knowledge/01-Mizo/MIZO Our History And Calture.md",
     "maths brain/Profit and loss/darama question.md",
     "maths brain/radmap/roadmap2.md",
     "maths brain/percentages/darama/darama a question zawng2.md",
@@ -275,9 +275,9 @@
     "Daily tracker.md",
     "English/01 — Tenses.md",
     "General Knowledge/Roadmap.md",
-    "General Knowledge/Mizo/glance.md",
-    "General Knowledge/Mizo/mai mai.md",
-    "General Knowledge/Mizo/sub topic/Geography.md",
+    "General Knowledge/01-Mizo/glance.md",
+    "General Knowledge/01-Mizo/mai mai.md",
+    "General Knowledge/01-Mizo/sub topic/Geography.md",
     "Computer_Knowledge/06 — Operating System.md",
     "Computer_Knowledge/05 — Internet & Web.md",
     "Computer_Knowledge/04 — MS PowerPoint.md",
@@ -298,7 +298,7 @@
     "English/Screenshot 2026-07-27 at 10.25.37 PM.png",
     "Physical geography canvas.canvas",
     "English/practice",
-    "General Knowledge/Indian_Polity_Constitution/note/indian polity canvas/Fundamental Rights.canvas",
+    "General Knowledge/02-Indian_Polity_Constitution/note/indian polity canvas/Fundamental Rights.canvas",
     "English/recording",
     "Pasted image 20260721123640.png",
     "Pasted image 20260721123431.png",
@@ -316,8 +316,8 @@
     "Untitled.base",
     "General Knowledge/India_Geography/brain",
     "Dictionary",
-    "General Knowledge/Indian_Polity_Constitution/note",
+    "General Knowledge/02-Indian_Polity_Constitution/note",
     "General Knowledge/note",
-    "General Knowledge/Indian_Polity_Constitution/brain/Fundamental Rights/Aticles"
+    "General Knowledge/02-Indian_Polity_Constitution/brain/Fundamental Rights/Aticles"
   ]
 }

@@ -100,7 +100,7 @@ The [[Constitution]].
 
 [[Constitution]]
 
-[[Fundamental Rights]]
+[[General Knowledge/02-Indian_Polity_Constitution/brain/Fundamental Rights/Fundamental Rights]]
 
 [[Directive Principles]]
 
@@ -152,7 +152,7 @@ A law restricting free speech.
 
 Court considers
 
-[[Fundamental Rights]]
+[[General Knowledge/02-Indian_Polity_Constitution/brain/Fundamental Rights/Fundamental Rights]]
 
 and
 

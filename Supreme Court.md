@@ -59,7 +59,7 @@ Judgment becomes binding across India.
 
 [[Judiciary]]
 
-[[Fundamental Rights]]
+[[General Knowledge/02-Indian_Polity_Constitution/brain/Fundamental Rights/Fundamental Rights]]
 
 [[Article 32]]
 

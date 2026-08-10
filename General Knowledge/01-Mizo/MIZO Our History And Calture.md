@@ -52,31 +52,31 @@
 | Highest population density | \|\|Aizawl\|\|        |              |                                                         |
 | Lowest population density  | \|\|Mamit\|\|         |              |                                                         |
 
-[[Governor]]
-[[Important Year Dates]]
+[[sub topic/Governor]]
+[[sub topic/Important Year Dates]]
 
-[[Geography]]
-[Mizo Awardees](Mizo%20Awardees.md)
-[[ADC]]
-[[first of]]
+[[sub topic/Geography]]
+[Mizo Awardees](sub%20topic/Mizo%20Awardees.md)
+[[sub topic/ADC]]
+[[sub topic/first of]]
 
-[[Traditional months]]
-[[Laentur]]
+[[sub topic/Traditional months]]
+[[sub topic/Laentur]]
 
 
-[[Mythology & Folklore]]
+[[sub topic/Mythology & Folklore]]
 //he ta tang hian start leh tur
-[[Political party]]
-[[Mizo Literature & Awards]]
-[[Culture and tradition]]
+[[sub topic/Political party]]
+[[sub topic/Mizo Literature & Awards]]
+[[sub topic/Culture and tradition]]
 
-[[Legislature & Governance]]
-[[Language and phrase]]
+[[sub topic/Legislature & Governance]]
+[[sub topic/Language and phrase]]
 
-[[Important Places]]
+[[sub topic/Important Places]]
 
-[[Scheme]]
-[[Christinaty]]
+[[sub topic/Scheme]]
+[[sub topic/Christinaty]]
 [[General Awearness]]
 [Mizoram Assembly Constituency](sub%20topic/Mizoram%20Assembly%20Constituency.md)
 [[Ministers]]

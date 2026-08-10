@@ -54,7 +54,7 @@
 >
 > [[Social Justice]]
 >
-> [[Fundamental Rights]]
+> [[../Fundamental Rights]]
 
 ---
 

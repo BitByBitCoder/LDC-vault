@@ -24,7 +24,7 @@
 ### 🟢 1. Mizoram GK (79 Questions)
 
 **Your home state — fastest to learn. 95% controllable.**
-[[MIZO Our History And Calture]]
+[[01-Mizo/MIZO Our History And Calture]]
 #### Sub-categories
 
 |Sub-topic|Questions|

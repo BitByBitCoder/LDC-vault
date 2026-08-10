@@ -1,8 +1,8 @@
 # 09 — National Symbols & Firsts
-[[🇮🇳 Modern Indian History — INDEX|← Back to Index]]
+[[03-Modern_Indian_History/🇮🇳 Modern Indian History — INDEX|← Back to Index]]
 
 > Pure memorization. 1 hour max. No analysis needed.
-> Firsts (PMs, Presidents, Viceroys etc.) are already in [[08 — Firsts in Indian History]]
+> Firsts (PMs, Presidents, Viceroys etc.) are already in [[03-Modern_Indian_History/08 — Firsts in Indian History]]
 > This file covers ONLY what is missing from all other vaults.
 
 ---
