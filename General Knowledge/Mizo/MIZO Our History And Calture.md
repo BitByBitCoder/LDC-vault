@@ -6,7 +6,7 @@
 | Border states           | \|\|Assam, Manipur, Tripura\|\|                                     |     |
 | Border countries        | \|\|Myanmar, Bangladesh\|\|                                         |     |
 | State bird              | \|\|Mrs. Hume's Pheasant (Vavu)\|\|                                 |     |
-| Mizoram                 | \|\|23 state of india\|\|                                           |     |
+| Mizoram no of state     | \|\|23 state of india\|\|                                           |     |
 | Total population 2011   | \|\|10,97,206\|\|                                                   |     |
 | **Meaning of Mizoram:** | \|\|Mi (people) + Zo (hills) + Ram (land) = Land of Hill People\|\| |     |
 | **Official languages:** | \|\|Mizo and English\|\|                                            |     |
