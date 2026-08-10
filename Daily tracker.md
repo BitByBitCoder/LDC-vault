@@ -34,3 +34,11 @@ maths - morning 1 hr
 gk - 1 hour
 afternoon - submit job application & books lei
 zanah computer ms word n english
+
+
+10 aug 2026
+
+mor-english
+mor - maths
+
+af

@@ -94,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -267,10 +267,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba0473e51e80ff39",
+  "active": "1a7c88a82ca9f5a3",
   "lastOpenFiles": [
-    "General Knowledge/Mizo/Mizo index.md",
     "General Knowledge/Mizo/MIZO Our History And Calture.md",
+    "General Knowledge/Mizo/Mizo index.md",
     "General Knowledge/Roadmap.md",
     "General Knowledge/Mizo/glance.md",
     "General Knowledge/Mizo/mai mai.md",
