@@ -5,9 +5,9 @@
 5. The selling price of a mobile phone is 59,620 and it was sold at 8.4% profit. The cost price of the mobile phone is:
 6. A shopkeeper sold an item at a profit of 63%. If the Selling price is 1600/-. Find the cost price.
 7. If the ratio of cost price and selling price be 10 : 11 then find the profit percent? -Profit = SP − CP and profit percentage formula
-8. if a book is sold at 20% profit ratio of cost price to the selling price will be - basic cp, profit, sp, cp:sp
+8.  if a book is sold at 20% profit ratio of cost price to the selling price will be - basic cp, profit, sp, cp:sp
 9. if a book is sold at 300% profit ratio of cost price and selling price will be - basic cp, profit, sp, cp:sp
-10. if an Umbrella is sold at 25% loss, ratio of cost price and selling price will be
+10. ==if an Umbrella is sold at 25% loss, ratio of cost price and selling price will be
 11. A person by selling an article for Rs. 450, loses 20%. In order to make a profit of 20% what is the price at which he must SHORTcut formula
 12. An article is sold for Rs 810 at a loss of 10%. What should be the selling price if the loss is 20%?
 13. If an article is sold for Rs. 480 the loss is 16(2/3)%. At what price should the article be sold to make 8(1/3)% profit? shortcut formula
