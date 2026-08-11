@@ -88,8 +88,23 @@
               "icon": "lucide-file",
               "title": "Important Year Dates"
             }
+          },
+          {
+            "id": "a140deaffe1a86f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "maths brain/average/concept and question dharama.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "concept and question dharama"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -262,10 +277,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d4f01074a681cbc",
+  "active": "a140deaffe1a86f7",
   "lastOpenFiles": [
-    "Daily tracker.md",
+    "maths brain/average/average.md",
     "General Knowledge/01-Mizo/sub topic/Important Year Dates.md",
+    "English/01 — Tenses.md",
+    "Daily tracker.md",
     "General Knowledge/01-Mizo/Mizo index.md",
     "General Knowledge/01-Mizo/sub topic/Governor.md",
     "General Knowledge/01-Mizo/MIZO Our History And Calture.md",
@@ -273,7 +290,6 @@
     "maths brain/radmap/roadmap2.md",
     "maths brain/percentages/darama/darama a question zawng2.md",
     "maths brain/percentages/darama/formulas.md",
-    "English/01 — Tenses.md",
     "General Knowledge/Roadmap.md",
     "General Knowledge/01-Mizo/glance.md",
     "General Knowledge/01-Mizo/mai mai.md",
@@ -289,7 +305,6 @@
     "Dictionary/citizen.md",
     "maths brain/radmap/new roadmap.md",
     "Computer_Knowledge/08 — Networking.md",
-    "Computer_Knowledge/💻 Computer Knowledge — INDEX.md",
     "Computer_Knowledge/Computer CPU.canvas",
     "Personal Constitution",
     "maths brain/Screenshot 2026-07-02 at 12.50.50 AM.png",
