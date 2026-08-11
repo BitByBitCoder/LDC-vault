@@ -44,3 +44,11 @@ mor - maths
 afernoon - gk
 night - computer
 test question siam planning and organize
+
+
+11 aug 2026
+mor- 11:51 to 12:20 english
+afternoon - maths
+night
+
+
