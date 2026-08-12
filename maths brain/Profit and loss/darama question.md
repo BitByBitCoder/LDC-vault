@@ -12,7 +12,7 @@
 12. An article is sold for Rs 810 at a loss of 10%. What should be the selling price if the loss is 20%?
 13. If an article is sold for Rs. 480 the loss is 16(2/3)%. At what price should the article be sold to make 8(1/3)% profit? shortcut formula
 14. When an article is sold for rs 1050, there is a loss of 12(1/2) %. For a profit of 25%, it should be sold for -  shortcut formula
-15. Hriata brought a toy for Rs 1200 and spent 200 on its repairing. He sold it for Rs 1680, then his profit/loss percentage is -basic
+15. Hriata brought a toy for Rs 1200 and spent 200 on its repairing. He sold it for Rs 1680, then his profit/loss percentage is -profit formula
 16. A man bought a second-hand scooter for rs 8000. He spent rs 400 on repairing and rs 400 On re-painting. He then sold it for rs 11440. How much did he gain or lose? - basic
 17. The difference of the cost price and selling price of an article is 360 rs. If the profit is 20% then the selling price is? -  1 percent zawng chhuah
 18. The difference in selling prices of an article when sold at 15% profit and 17% loss is Rs. 96. If it is sold at 10% profit then what is the selling price? -  difference & 1 percent
