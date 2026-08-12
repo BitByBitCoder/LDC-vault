@@ -15,7 +15,7 @@
 15. Hriata brought a toy for Rs 1200 and spent 200 on its repairing. He sold it for Rs 1680, then his profit/loss percentage is -profit formula
 16. A man bought a second-hand scooter for rs 8000. He spent rs 400 on repairing and rs 400 On re-painting. He then sold it for rs 11440. How much did he gain or lose? - basic
 17. The difference of the cost price and selling price of an article is 360 rs. If the profit is 20% then the selling price is? -  1 percent zawng chhuah
-18. The difference in selling prices of an article when sold at 15% profit and 17% loss is Rs. 96. If it is sold at 10% profit then what is the selling price? -  difference & 1 percent
+18. The difference in selling prices of an article when sold at 15% profit and 17% loss is Rs. 96. If it is sold at 10% profit then what is the selling price? -  difference & 1 percent unitry method note book entur
 19. A person sold an article at a loss of 8%. Had he sold it at a gain of 10.5%, he would have received Rs. 37 more. What is the cost price of the article? -  18 nen in ang
 20. A person sold an article at a loss of 18%. Had he sold it for 960 more, he would have gained 12%. If the article is sold for 3,840, then how much is the profit percentage?
 21. If the selling price of 10 articles is equal to the cost price of 15 articles, then what is the profit percent?
