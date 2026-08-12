@@ -17,7 +17,7 @@
 17. The difference of the cost price and selling price of an article is 360 rs. If the profit is 20% then the selling price is? -  1 percent zawng chhuah
 18. The difference in selling prices of an article when sold at 15% profit and 17% loss is Rs. 96. If it is sold at 10% profit then what is the selling price? -  difference & 1 percent unitry method note book entur
 19. A person sold an article at a loss of 8%. Had he sold it at a gain of 10.5%, he would have received Rs. 37 more. What is the cost price of the article? -  18 nen in ang
-20. A person sold an article at a loss of 18%. Had he sold it for 960 more, he would have gained 12%. If the article is sold for 3,840, then how much is the profit percentage?
+20. ==A person sold an article at a loss of 18%. Had he sold it for 960 more, he would have gained 12%. If the article is sold for 3,840, then how much is the profit percentage?
 21. If the selling price of 10 articles is equal to the cost price of 15 articles, then what is the profit percent?
 22. If the cost price of 15 articles is equal to the selling price of 20 articles, then find the loss% in the transaction.
 23. By selling 33 metres of cloth one gains the cost price of 11 retres. Find the gain percent
