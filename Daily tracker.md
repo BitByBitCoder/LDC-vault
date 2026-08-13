@@ -52,10 +52,16 @@ afternoon - maths
 night gk and computer
 
 12 aug 2026
-mor-english
-afternoon excer
-night - maths
+mor-maths
+afternoon chhuak 
+night - chau zir tha thei lo
+
+13 aug 2026
+mor - maths
+after - english
+excer 
+gk before dinner
 
 
-13 a
+
 
