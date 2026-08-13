@@ -51,4 +51,11 @@ mor- 11:51 to 12:20 english
 afternoon - maths
 night gk and computer
 
+12 aug 2026
+mor-english
+afternoon excer
+night - maths
+
+
+13 a
 

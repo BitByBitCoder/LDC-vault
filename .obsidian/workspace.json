@@ -103,7 +103,8 @@
               "title": "concept and question dharama"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -276,10 +277,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d4f01074a681cbc",
+  "active": "1a7c88a82ca9f5a3",
   "lastOpenFiles": [
-    "maths brain/Profit and loss/darama question.md",
     "English/01 — Tenses.md",
+    "maths brain/Profit and loss/darama question.md",
     "maths brain/average/concept and question dharama.md",
     "maths brain/average/average.md",
     "General Knowledge/01-Mizo/sub topic/Important Year Dates.md",
