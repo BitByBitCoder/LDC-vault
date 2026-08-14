@@ -67,3 +67,4 @@ night computer
 mor - english
 afternoon - maths
 evening - computer
+night - gk
