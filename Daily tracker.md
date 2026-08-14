@@ -61,7 +61,9 @@ mor - maths
 after - english
 excer 
 gk before dinner
+night computer
 
-	night computer
-
-
+14 aug 2026
+mor - english
+afternoon - maths
+evening - computer

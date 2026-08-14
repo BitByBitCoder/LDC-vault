@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -277,8 +277,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a140deaffe1a86f7",
+  "active": "1a7c88a82ca9f5a3",
   "lastOpenFiles": [
+    "Computer_Knowledge/06 — Operating System.md",
     "Computer_Knowledge/05 — Internet & Web.md",
     "Computer_Knowledge/04 — MS PowerPoint.md",
     "maths brain/average/concept and question dharama.md",
@@ -298,7 +299,6 @@
     "General Knowledge/01-Mizo/glance.md",
     "General Knowledge/01-Mizo/mai mai.md",
     "General Knowledge/01-Mizo/sub topic/Geography.md",
-    "Computer_Knowledge/06 — Operating System.md",
     "Computer_Knowledge/03 — MS Excel.md",
     "Computer_Knowledge/02 — MS Word.md",
     "Computer_Knowledge/01 — Hardware & CPU.md",
