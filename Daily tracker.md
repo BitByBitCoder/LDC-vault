@@ -65,6 +65,7 @@ night computer
 
 14 aug 2026
 mor - english
+
 afternoon - maths
 evening - computer
 night - gk
