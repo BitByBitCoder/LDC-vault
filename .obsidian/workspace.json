@@ -109,12 +109,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Past Continuous.md",
+                "file": "3. Simple Past.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Past Continuous"
+              "title": "3. Simple Past"
             }
           }
         ],
@@ -294,6 +294,7 @@
   "active": "f4b9f8761011ed38",
   "lastOpenFiles": [
     "English/01 — Tenses.md",
+    "4. Past Continuous.md",
     "3. Simple Past.md",
     "2. Present Continuous.md",
     "**1. Simple Present**.md",
@@ -318,7 +319,6 @@
     "General Knowledge/01-Mizo/sub topic/Geography.md",
     "Computer_Knowledge/03 — MS Excel.md",
     "Computer_Knowledge/02 — MS Word.md",
-    "Computer_Knowledge/01 — Hardware & CPU.md",
     "Computer_Knowledge/Computer CPU.canvas",
     "Personal Constitution",
     "maths brain/Screenshot 2026-07-02 at 12.50.50 AM.png",
