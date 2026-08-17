@@ -118,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -291,8 +291,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a7c88a82ca9f5a3",
+  "active": "7483307953fa01a4",
   "lastOpenFiles": [
+    "Daily tracker.md",
     "maths brain/Profit and loss/darama question.md",
     "English/01 — Tenses.md",
     "6. Past Perfect.md",
@@ -302,7 +303,6 @@
     "2. Present Continuous.md",
     "**1. Simple Present**.md",
     "Computer_Knowledge/06 — Operating System.md",
-    "Daily tracker.md",
     "English/📝 English — INDEX.md",
     "Computer_Knowledge/05 — Internet & Web.md",
     "Computer_Knowledge/04 — MS PowerPoint.md",
