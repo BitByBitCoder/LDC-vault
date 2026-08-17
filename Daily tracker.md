@@ -1,4 +1,13 @@
 
+| Part              | Approximate time | Example                         |
+| ----------------- | ---------------- | ------------------------------- |
+| **Midnight**      | 12:00 AM         | I went to bed at midnight.      |
+| **Early morning** | 12 AM–6 AM       | I woke up early in the morning. |
+| **Morning**       | 6 AM–12 PM       | I study in the morning.         |
+| **Noon / midday** | 12 PM            | We eat lunch at noon.           |
+| **Afternoon**     | 12 PM–5 PM       | I work in the afternoon.        |
+| **Evening**       | 5 PM–8/9 PM      | I go for a walk in the evening. |
+| **Night**         | 8/9 PM–12 AM     | I read at night.                |
 3 august 2026
 1. 10:16 to 10:30 read
 2. 10:30 to 12:00 english
