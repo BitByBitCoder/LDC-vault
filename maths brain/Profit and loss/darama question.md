@@ -31,6 +31,7 @@
 31. A trader brought some oranges at Rs.7 for 11. He sold all at 2 for Rs 3/-. Thereby he losses 30/-. Find the number of oranges he sold.
 32. A man bought three articles for Rs. 3,000 each. He sold the articles respectively at 15% profit, 10% profit and 15% loss. The total percentage profit/loss he earned is
 33. A person purchased some articles he sold 1/3 at profit of 14% 3/5 articles at  profit 17 (1/2)% and rest at profit of 20% Find his total profit%
+	1. 
 34. A fruit merchant bought some bananas. One fifth of them got rotten and were thrown away. He sold two-fifth of the remaining bananas with him at 15% profit and the rest remaining bananas at 10% profit. Find his overall loss or profit percent?
 35. A person bought 50 pens for Rs. 50 each. He sold 40 of them at a loss of 5%. he wants to gain 10% on the whole. Then his gain percent on the remaining pens should be
 36. A shopkeeper bought 120 quintals of wheat. 20% of it was sold at 25% loss. At what percent gain should he sell the rest to gain 25% on the whole transaction?
