@@ -69,3 +69,7 @@ mor - english
 afternoon - maths
 evening - computer
 night - gk
+
+17 aug 2026
+morning - maths
+
