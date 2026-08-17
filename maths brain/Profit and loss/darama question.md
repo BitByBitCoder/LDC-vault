@@ -30,17 +30,18 @@
 30. A person bought some article at rate of 36 for Rs. 189 and sold them at the rate of 45 for Rs. 189. Find the profit or loss %.
 31. A trader brought some oranges at Rs.7 for 11. He sold all at 2 for Rs 3/-. Thereby he losses 30/-. Find the number of oranges he sold.
 32. A man bought three articles for Rs. 3,000 each. He sold the articles respectively at 15% profit, 10% profit and 15% loss. The total percentage profit/loss he earned is
-33. A fruit merchant bought some bananas. One fifth of them got rotten and were thrown away. He sold two-fifth of the remaining bananas with him at 15% profit and the rest remaining bananas at 10% profit. Find his overall loss or profit percent?
-34. A person bought 50 pens for Rs. 50 each. He sold 40 of them at a loss of 5%. he wants to gain 10% on the whole. Then his gain percent on the remaining pens should be
-35. A shopkeeper bought 120 quintals of wheat. 20% of it was sold at 25% loss. At what percent gain should he sell the rest to gain 25% on the whole transaction?
-36. A man sold a table at 12% loss and a chair at 19% profit and earns a profit of Rs.160. If he sold the table at 12% profit and chair at 16% loss then he incurred a loss of Rs.40. Find the cost price of the
-37. On selling a pen at 5% loss and a book at 15% gain, Karim gains Rs.7 If he sells the pen at 5% gain and the book at 10% gain, he gains Rs. 13. What is the cost price of the book in Rupees?
-38. A man sold two horses for Rs 300 each. On one of them he gains 20% and on the other he losses 20%. find out his total loss or gain.
-39. Two horses were sold for Rs 1920 each. First was sold at 20% loss and second at 20% profit. Find over all profit or loss.
-40. Two Adidas shoe were sold for Rs 458727566865.52 each. First was sold at 17% loss and second at 17% profit. Find over all profit or loss.
-41. A house and a shop were sold for Rs. 1 lakh each. In this transaction, the house sale resulted into 28% loss whereas the shop sale resulted into 20% profit. The entire transaction resulted in -
-42. Aditya sells two wrist watches from his personal collection for $12,600 each. On the first watch, he gains 26% and, on the second, he loses 10%. Find the overall gain or loss percentage.
-43. A shopkeeper buys two cameras at the same price. He sells one camera at a profit of 18% and the other at a price of 10% less than the selling price of the first. His total profit or loss percent is :
-44. Two horses were sold at Rs 1599 each. First was sold at 25% profit and second at 20% loss. Find the over all profit or loss %.
-45. A man sold two horses for Rs 300 each. On one of them he gains 20% and on the other he losses 20%. find out his total loss or gain.
-46. A house and a shop were sold for Rs. 1 lakh each. In this transaction, the house sale resulted into 20% loss whereas the shop sale resulted into 20% profit. The entire transaction resulted in -
+33. A person purchased some articles he sold 1/3 at profit of 14% 3/5 articles at  profit 17 (1/2)% and rest at profit of 20% Find his total profit
+34. A fruit merchant bought some bananas. One fifth of them got rotten and were thrown away. He sold two-fifth of the remaining bananas with him at 15% profit and the rest remaining bananas at 10% profit. Find his overall loss or profit percent?
+35. A person bought 50 pens for Rs. 50 each. He sold 40 of them at a loss of 5%. he wants to gain 10% on the whole. Then his gain percent on the remaining pens should be
+36. A shopkeeper bought 120 quintals of wheat. 20% of it was sold at 25% loss. At what percent gain should he sell the rest to gain 25% on the whole transaction?
+37. A man sold a table at 12% loss and a chair at 19% profit and earns a profit of Rs.160. If he sold the table at 12% profit and chair at 16% loss then he incurred a loss of Rs.40. Find the cost price of the
+38. On selling a pen at 5% loss and a book at 15% gain, Karim gains Rs.7 If he sells the pen at 5% gain and the book at 10% gain, he gains Rs. 13. What is the cost price of the book in Rupees?
+39. A man sold two horses for Rs 300 each. On one of them he gains 20% and on the other he losses 20%. find out his total loss or gain.
+40. Two horses were sold for Rs 1920 each. First was sold at 20% loss and second at 20% profit. Find over all profit or loss.
+41. Two Adidas shoe were sold for Rs 458727566865.52 each. First was sold at 17% loss and second at 17% profit. Find over all profit or loss.
+42. A house and a shop were sold for Rs. 1 lakh each. In this transaction, the house sale resulted into 28% loss whereas the shop sale resulted into 20% profit. The entire transaction resulted in -
+43. Aditya sells two wrist watches from his personal collection for $12,600 each. On the first watch, he gains 26% and, on the second, he loses 10%. Find the overall gain or loss percentage.
+44. A shopkeeper buys two cameras at the same price. He sells one camera at a profit of 18% and the other at a price of 10% less than the selling price of the first. His total profit or loss percent is :
+45. Two horses were sold at Rs 1599 each. First was sold at 25% profit and second at 20% loss. Find the over all profit or loss %.
+46. A man sold two horses for Rs 300 each. On one of them he gains 20% and on the other he losses 20%. find out his total loss or gain.
+47. A house and a shop were sold for Rs. 1 lakh each. In this transaction, the house sale resulted into 20% loss whereas the shop sale resulted into 20% profit. The entire transaction resulted in -
