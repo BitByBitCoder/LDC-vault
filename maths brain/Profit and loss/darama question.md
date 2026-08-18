@@ -36,7 +36,7 @@
 36. A shopkeeper bought 120 quintals of wheat. 20% of it was sold at 25% loss. At what percent gain should he sell the rest to gain 25% on the whole transaction?
 37. A man sold a table at 12% loss and a chair at 19% profit and earns a profit of Rs.160. If he sold the table at 12% profit and chair at 16% loss then he incurred a loss of Rs.40. Find the cost price of the
 38. On selling a pen at 5% loss and a book at 15% gain, Karim gains Rs.7 If he sells the pen at 5% gain and the book at 10% gain, he gains Rs. 13. What is the cost price of the book in Rupees?
-39. A man sold two horses for Rs 300 each. On one of them he gains 20% and on the other he losses 20%. find out his total loss or gain.
+39. ==A man sold two horses for Rs 300 each. On one of them he gains 20% and on the other he losses 20%. find out his total loss or gain.== helai thleng hi ka en 
 40. Two horses were sold for Rs 1920 each. First was sold at 20% loss and second at 20% profit. Find over all profit or loss.
 41. Two Adidas shoe were sold for Rs 458727566865.52 each. First was sold at 17% loss and second at 17% profit. Find over all profit or loss.
 42. A house and a shop were sold for Rs. 1 lakh each. In this transaction, the house sale resulted into 28% loss whereas the shop sale resulted into 20% profit. The entire transaction resulted in -
