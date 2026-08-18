@@ -89,3 +89,4 @@ morning - english
 noon maths
 afternoon - gk
 night - computer
+.
