@@ -84,3 +84,8 @@ morning - maths
 noon - english
 afternoon gk
 
+18 aug 2026
+morning - english 
+noon maths
+afternoon - gk
+night - computer
