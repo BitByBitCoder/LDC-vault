@@ -96,3 +96,7 @@ inthlan
 
 
 21 aug 2026
+min day - english
+afternoon maths
+exercise
+night - computer practical
