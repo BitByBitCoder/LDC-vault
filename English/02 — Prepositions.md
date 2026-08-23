@@ -54,20 +54,20 @@
 | grateful    | \|\|to (person) / for (thing)\|\|  | grateful to her / grateful for help     |
 
 ### Verb + Prepo sition (Fixed Pairs)
-| Verb      | Preposition                                        | Example                                    |
-| --------- | -------------------------------------------------- | ------------------------------------------ |
-| listen    | \|\|to\|\|                                         | listen to music                            |
-| look      | \|\|at (see) / for (search) / **after** (care)\|\| | look at him / look for keys                |
-| wait      | \|\|for\|\|                                        | wait for him                               |
-| agree     | \|\|with (person) / to (proposal)\|\|              | agree with her / agree to the plan         |
-| depend    | \|\|on\|\|                                         | depend on me                               |
-| consist   | \|\|of\|\|                                         | consists of 3 parts                        |
-| insist    | \|\|on\|\|                                         | insisted on going                          |
-| arrive    | \|\|at (small place) / in (city/country)\|\|       | arrived at the station / arrived in Aizawl |
-| laugh     | \|\|at\|\|                                         | laughed at him                             |
-| apologise | \|\|for\|\|                                        | apologised for being late                  |
-| apply     | \|\|for\|\|                                        | apply for the job                          |
-| suffer    | \|\|from\|\|                                       | suffer from fever                          |
+| Verb      | Preposition                                    | Example                                    |
+| --------- | ---------------------------------------------- | ------------------------------------------ |
+| listen    | \|\|to\|\|                                     | listen to music                            |
+| look      | \|\|at (see) / for (search) / after (care)\|\| | look at him / look for keys                |
+| wait      | \|\|for\|\|                                    | wait for him                               |
+| agree     | \|\|with (person) / to (proposal)\|\|          | agree with her / agree to the plan         |
+| depend    | \|\|on\|\|                                     | depend on me                               |
+| consist   | \|\|of\|\|                                     | consists of 3 parts                        |
+| insist    | \|\|on\|\|                                     | insisted on going                          |
+| arrive    | \|\|at (small place) / in (city/country)\|\|   | arrived at the station / arrived in Aizawl |
+| laugh     | \|\|at\|\|                                     | laughed at him                             |
+| apologise | \|\|for\|\|                                    | apologised for being late                  |
+| apply     | \|\|for\|\|                                    | apply for the job                          |
+| suffer    | \|\|from\|\|                                   | suffer from fever                          |
 
 ---
 
