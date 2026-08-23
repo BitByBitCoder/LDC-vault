@@ -59,25 +59,25 @@
 | listen    | \|\|to\|\|                                         | listen to music                            |
 | look      | \|\|at (see) / for (search) / **after** (care)\|\| | look at him / look for keys                |
 | wait      | \|\|for\|\|                                        | wait for him                               |
-| agree     | \|\|with** (person) / **to** (proposal)            | agree with her / agree to the plan         |
-| depend    | **on**                                             | depend on me                               |
-| consist   | **of**                                             | consists of 3 parts                        |
-| insist    | **on**                                             | insisted on going                          |
-| arrive    | **at** (small place) / **in** (city/country)       | arrived at the station / arrived in Aizawl |
-| laugh     | **at**                                             | laughed at him                             |
-| apologise | **for**                                            | apologised for being late                  |
-| apply     | **for**                                            | apply for the job                          |
-| suffer    | **from**                                           | suffer from fever                          |
+| agree     | \|\|with (person) / to (proposal)\|\|              | agree with her / agree to the plan         |
+| depend    | \|\|on\|\|                                         | depend on me                               |
+| consist   | \|\|of\|\|                                         | consists of 3 parts                        |
+| insist    | \|\|on\|\|                                         | insisted on going                          |
+| arrive    | \|\|at (small place) / in (city/country)\|\|       | arrived at the station / arrived in Aizawl |
+| laugh     | \|\|at\|\|                                         | laughed at him                             |
+| apologise | \|\|for\|\|                                        | apologised for being late                  |
+| apply     | \|\|for\|\|                                        | apply for the job                          |
+| suffer    | \|\|from\|\|                                       | suffer from fever                          |
 
 ---
 
 ## Place Prepositions — at / in / on
 
-| Preposition | Use | Example |
-|-------------|-----|---------|
-| **at** | Specific point/address | at the door, at 10 Main Street |
-| **in** | Enclosed space / city / country | in the room, in Aizawl, in India |
-| **on** | Surface / street name | on the table, on Peter's Street |
+| Preposition | Use                                     | Example                          |
+| ----------- | --------------------------------------- | -------------------------------- |
+| **at**      | \|\|Specific point/address\|\|          | at the door, at 10 Main Street   |
+| **in**      | \|\|Enclosed space / city / country\|\| | in the room, in Aizawl, in India |
+| **on**      | \|\|Surface / street name               | on the table, on Peter's Street  |
 
 ---
 
