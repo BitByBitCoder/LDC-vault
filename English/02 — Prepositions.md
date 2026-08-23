@@ -97,15 +97,15 @@
 
 ## Phrasal Verbs (From Your Papers)
 
-| Phrasal Verb | Meaning |
-|-------------|---------|
-| **carry out** | To execute/perform | carry out orders |
-| **carry on** | To continue | carry on working |
-| **carry off** | To win / take away | carry off the prize |
-| **carry about** | To have with you | NOT standard |
-| **get the better of** | To overcome/defeat | got the better of opponents |
-| **get over** | To recover from | got over the illness |
-| **get through** | To finish / pass | got through the exam |
+| Phrasal Verb          | Meaning                    |                             |
+| --------------------- | -------------------------- | --------------------------- |
+| **carry out**         | \|\|To execute/perform\|\| | carry out orders            |
+| **carry on**          | \|\|To continue\|\|        | carry on working            |
+| **carry off**         | \|\|To win / take away\|\| | carry off the prize         |
+| **carry about**       | \|\|To have with you\|\|   | NOT standard                |
+| **get the better of** | \|\|To overcome/defeat\|\| | got the better of opponents |
+| **get over**          | \|\|To recover from\|\|    | got over the illness        |
+| **get through**       | \|\|To finish / pass\|\|   | got through the exam        |
 
 ## Exam Traps ⚠️
 > Famous **for** NOT famous **with** or **about**
