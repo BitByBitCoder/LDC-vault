@@ -53,7 +53,7 @@
 | responsible | **for** | responsible for it |
 | grateful | **to** (person) / **for** (thing) | grateful to her / grateful for help |
 
-### Verb + Preposition (Fixed Pairs)
+### Verb + Prepo sition (Fixed Pairs)
 | Verb | Preposition | Example |
 |------|-------------|---------|
 | listen | **to** | listen to music |
