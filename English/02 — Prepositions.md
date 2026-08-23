@@ -73,11 +73,11 @@
 
 ## Place Prepositions — at / in / on
 
-| Preposition | Use                                     | Example                          |
-| ----------- | --------------------------------------- | -------------------------------- |
-| **at**      | \|\|Specific point/address\|\|          | at the door, at 10 Main Street   |
-| **in**      | \|\|Enclosed space / city / country\|\| | in the room, in Aizawl, in India |
-| **on**      | \|\|Surface / street name\|\|           | on the table, on Peter's Street  |
+| Preposition | Use                                     | Example                                                             |
+| ----------- | --------------------------------------- | ------------------------------------------------------------------- |
+| **at**      | \|\|Specific point/address\|\|          | at the door, at 10 Main Street (Exact point with a building number) |
+| **in**      | \|\|Enclosed space / city / country\|\| | in the room, in Aizawl, in India                                    |
+| **on**      | \|\|Surface / street name\|\|           | on the table, on Peter's Street (Along the line of the street)      |
 
 ---
 
