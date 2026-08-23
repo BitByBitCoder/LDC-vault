@@ -77,21 +77,21 @@
 | ----------- | --------------------------------------- | -------------------------------- |
 | **at**      | \|\|Specific point/address\|\|          | at the door, at 10 Main Street   |
 | **in**      | \|\|Enclosed space / city / country\|\| | in the room, in Aizawl, in India |
-| **on**      | \|\|Surface / street name               | on the table, on Peter's Street  |
+| **on**      | \|\|Surface / street name\|\|           | on the table, on Peter's Street  |
 
 ---
 
 ## Movement Prepositions
 
-| Preposition | Meaning | Example |
-|-------------|---------|---------|
-| **across** | From one side to the other | a bridge across the river |
-| **through** | Inside from one end to other | through the tunnel |
-| **into** | Movement to inside | walked into the room |
-| **onto** | Movement to surface | jumped onto the bus |
-| **towards** | In the direction of | walked towards the door |
-| **along** | Following the length of | walked along the river |
-| **past** | Going beyond a point | walked past the school |
+| Preposition | Meaning                              | Example                   |
+| ----------- | ------------------------------------ | ------------------------- |
+| **across**  | \|\|From one side to the other\|\|   | a bridge across the river |
+| **through** | \|\|Inside from one end to other\|\| | through the tunnel        |
+| **into**    | \|\|Movement to inside\|\|           | walked into the room      |
+| **onto**    | \|\|Movement to surface\|\|          | jumped onto the bus       |
+| **towards** | \|\|In the direction of\|\|          | walked towards the door   |
+| **along**   | \|\|Following the length of\|\|      | walked along the river    |
+| **past**    | \|\|Going beyond a point\|\|         | walked past the school    |
 
 ---
 
