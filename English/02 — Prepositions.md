@@ -35,23 +35,23 @@
 | **on time** = punctual | The train left on time |
 
 ### Adjective + Preposition (Fixed Pairs)
-| Adjective   | Preposition                       | Example                                 |
-| ----------- | --------------------------------- | --------------------------------------- |
-| famous      | \|\|for\|\|                       | famous for textiles                     |
-| good        | \|\|at\|\|                        | good at maths                           |
-| interested  | \|\|in\|\|                        | interested in music                     |
-| confident   | \|\|of\|\|                        | confident of winning                    |
-| proud       | \|\|of\|\|                        | proud of her son                        |
-| afraid      | \|\|of\|\|                        | afraid of dogs                          |
-| angry       | \|\|with (person) / at (thing)    | angry with him / angry at the situation |
-| similar     | **to**                            | similar to mine                         |
-| different   | **from**                          | different from yours                    |
-| married     | **to**                            | married to him                          |
-| tired       | **of**                            | tired of waiting                        |
-| fond        | **of**                            | fond of music                           |
-| capable     | **of**                            | capable of more                         |
-| responsible | **for**                           | responsible for it                      |
-| grateful    | **to** (person) / **for** (thing) | grateful to her / grateful for help     |
+| Adjective   | Preposition                        | Example                                 |
+| ----------- | ---------------------------------- | --------------------------------------- |
+| famous      | \|\|for\|\|                        | famous for textiles                     |
+| good        | \|\|at\|\|                         | good at maths                           |
+| interested  | \|\|in\|\|                         | interested in music                     |
+| confident   | \|\|of\|\|                         | confident of winning                    |
+| proud       | \|\|of\|\|                         | proud of her son                        |
+| afraid      | \|\|of\|\|                         | afraid of dogs                          |
+| angry       | \|\|with (person) / at (thing)\|\| | angry with him / angry at the situation |
+| similar     | \|\|to\|\|                         | similar to mine                         |
+| different   | \|\|from\|\|                       | different from yours                    |
+| married     | \|\|to\|\|                         | married to him                          |
+| tired       | \|\|of\|\|                         | tired of waiting                        |
+| fond        | \|\|of\|\|                         | fond of music                           |
+| capable     | \|\|of\|\|                         | capable of more                         |
+| responsible | \|\|for\|\|                        | responsible for it                      |
+| grateful    | \|\|to (person) / for (thing)\|\|  | grateful to her / grateful for help     |
 
 ### Verb + Prepo sition (Fixed Pairs)
 | Verb | Preposition | Example |
