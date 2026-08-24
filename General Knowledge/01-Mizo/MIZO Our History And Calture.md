@@ -29,19 +29,19 @@
 - Red Vanda — **endangered** orchid species
 - Himalayan Serow — **vulnerable** on IUCN Red List
 
-| #                          | District              | Headquarters | Key Fact                                                |
+|                            | District              | Headquarters | Key Fact                                                |
 | -------------------------- | --------------------- | ------------ | ------------------------------------------------------- |
-| 1                          | Aizawl                | Aizawl       | \|\|Largest by population — state capital\|\|           |
-| 8                          | Siaha (Saiha)         | Siaha        | \|\|Least populated — Phawngpui National Park\|\|       |
-| 2                          | Lunglei               | Lunglei      | \|\|Largest by area (4,536 sq km)\|\|                   |
-| 4                          | Kolasib               | Kolasib      | \|\|Smallest by area (1,386 sq km)\|\|                  |
-| 3                          | Champhai              | Champhai     | \|\|Borders Myanmar — "Rice Bowl of Mizoram"\|\|        |
-| 5                          | Lawngtlai             | Lawngtlai    | \|\|Southernmost district\|\|                           |
-| 6                          | Mamit                 | Mamit        | \|\|Lowest population density — Dampa Tiger Reserve\|\| |
-| 7                          | Serchhip              | Serchhip     | \|\|Highest literacy rate (98%+)\|\|                    |
-| 9                          | Hnahthial             | Hnahthial    | \|\|Carved from Lunglei (2019)\|\|                      |
-| 10                         | Khawzawl              | Khawzawl     | \|\|Carved from Champhai (2019)\|\|                     |
-| 11                         | Saitual               | Saitual      | \|\|Carved from Aizawl + Champhai (2019)\|\|            |
+|                            | Aizawl                | Aizawl       | \|\|Largest by population — state capital\|\|           |
+|                            | Siaha (Saiha)         | Siaha        | \|\|Least populated — Phawngpui National Park\|\|       |
+|                            | Lunglei               | Lunglei      | \|\|Largest by area (4,536 sq km)\|\|                   |
+|                            | Kolasib               | Kolasib      | \|\|Smallest by area (1,386 sq km)\|\|                  |
+|                            | Champhai              | Champhai     | \|\|Borders Myanmar — "Rice Bowl of Mizoram"\|\|        |
+|                            | Lawngtlai             | Lawngtlai    | \|\|Southernmost district\|\|                           |
+|                            | Mamit                 | Mamit        | \|\|Lowest population density — Dampa Tiger Reserve\|\| |
+|                            | Serchhip              | Serchhip     | \|\|Highest literacy rate (98%+)\|\|                    |
+|                            | Hnahthial             | Hnahthial    | \|\|Carved from Lunglei (2019)\|\|                      |
+|                            | Khawzawl              | Khawzawl     | \|\|Carved from Champhai (2019)\|\|                     |
+|                            | Saitual               | Saitual      | \|\|Carved from Aizawl + Champhai (2019)\|\|            |
 | Superlative                | \|\|District\|\|      |              |                                                         |
 | Largest by area            | \|\|Lunglei\|\|       |              |                                                         |
 | Smallest by area           | \|\|Kolasib\|\|       |              |                                                         |
