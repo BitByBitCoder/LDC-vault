@@ -42,7 +42,8 @@
 | Hnahthial                  | Hnahthial             | \|\|Carved from Lunglei (2019)\|\|                      |
 | Khawzawl                   | Khawzawl              | \|\|Carved from Champhai (2019)\|\|                     |
 | Saitual                    | Saitual               | \|\|Carved from Aizawl + Champhai (2019)\|\|            |
-| Superlative                | \|\|District\|\|      |                                                         |
+|                            | dfdfd                 |                                                         |
+| Superlative                | District              |                                                         |
 | Largest by area            | \|\|Lunglei\|\|       |                                                         |
 | Smallest by area           | \|\|Kolasib\|\|       |                                                         |
 | Most populated             | \|\|Aizawl\|\|        |                                                         |

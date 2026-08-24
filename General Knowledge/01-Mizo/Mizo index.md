@@ -5,7 +5,7 @@
 
 | **#** | Contents                            |
 | ----- | ----------------------------------- |
-| 1     | [[MIZO Our History And Calture]]    |
+| 1     | [[Basic State Gk]]    |
 | 2     | [[sub topic/Governor]]                        |
 | 3     | [[sub topic/Important Year Dates]]            |
 | 4     | [[sub topic/Geography]]                       |
