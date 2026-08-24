@@ -100,3 +100,6 @@ min day - english
 afternoon maths
 exercise
 night - computer practical
+
+aug 24
+9 ah mahs 30 min
