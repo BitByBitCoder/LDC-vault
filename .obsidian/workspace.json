@@ -132,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -305,8 +305,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a7c88a82ca9f5a3",
+  "active": "0ea20ea015a6a047",
   "lastOpenFiles": [
+    "Daily tracker.md",
     "General Knowledge/01-Mizo/MIZO Our History And Calture.md",
     "General Knowledge/01-Mizo/Mizo index.md",
     "maths brain/radmap/roadmap2.md",
@@ -320,7 +321,6 @@
     "English/01 — Tenses.md",
     "3. Simple Past.md",
     "2. Present Continuous.md",
-    "Daily tracker.md",
     "maths brain/Profit and loss/darama question.md",
     "5. Present Perfect.md",
     "4. Past Continuous.md",
