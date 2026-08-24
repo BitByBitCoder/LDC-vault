@@ -107,4 +107,7 @@ aug 24
 1 ah englihs
 2 ah maths
 3 ah exercise
-4 ah hlu
+4 ah hlua
+5 ah revise
+
+night ah computer
