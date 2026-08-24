@@ -104,4 +104,7 @@ night - computer practical
 aug 24
 9 ah mahs 30 min
 10 :22 ah gk
-1 ah maths
+1 ah englihs
+2 ah maths
+3 ah exercise
+4 ah hlu
