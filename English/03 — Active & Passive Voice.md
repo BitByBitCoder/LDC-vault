@@ -5,13 +5,13 @@
 
 ## Questions From Your Papers
 
-| Active                                       | Passive (Answer)                              |
-| -------------------------------------------- | --------------------------------------------- |
-| They are painting the house                  | **The house is being painted by them**        |
-| The tailor was stitching my dress            | **My dress was being stitched by the tailor** |
-| Are the poor not being helped by the rich?   | **Are the rich not helping the poor?**        |
-| The book had been read by the time bell rang | The book **had been read** (already passive)  |
-| Call him in                                  | **Let him be called in**                      |
+| Active                                       | Passive (Answer)                                  |
+| -------------------------------------------- | ------------------------------------------------- |
+| They are painting the house                  | \|\|The house is being painted by them\|\|        |
+| The tailor was stitching my dress            | \|\|My dress was being stitched by the tailor\|\| |
+| Are the poor not being helped by the rich?   | \|\|Are the rich not helping the poor?\|\|        |
+| The book had been read by the time bell rang | \|\|The book had been read (already passive)\|\|  |
+| Call him in                                  | \|\|Let him be called in\|\|                      |
 
 ---
 
