@@ -40,6 +40,8 @@ Passive voice lives and dies on knowing which form of "be" matches which tense:
 | Future                   | will be              |
 | Modals (can/must/should) | can/must/should + be |
 ![](Screenshot%202026-08-27%20at%201.18.53%20PM.png)
+
+![](Screenshot%202026-08-27%20at%201.27.17%20PM.png)
 ## Passive Formula by Tense
 
 | Tense              | Active                       | Passive                                   |
