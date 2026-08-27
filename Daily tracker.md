@@ -112,4 +112,7 @@ aug 24
 
 night ah computer
 
-27 
+27 aug
+
+mumal in english leh gk  ka la zir thei tlat lo 
+vawiin chu  english leh gk concentrate teh ang
