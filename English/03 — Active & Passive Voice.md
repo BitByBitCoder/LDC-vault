@@ -23,7 +23,7 @@ PASSIVE: Object + be(correct form) + Verb + by + Subject
 ```
 
 ---
-
+![](Screenshot%202026-08-27%20at%201.18.53%20PM.png)
 ## Passive Formula by Tense
 
 | Tense              | Active                       | Passive                                   |
