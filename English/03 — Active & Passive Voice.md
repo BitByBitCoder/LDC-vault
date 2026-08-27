@@ -23,6 +23,20 @@ PASSIVE: Object + be(correct form) + Verb + by + Subject
 ```
 
 ---
+
+### Master the "be verb" table cold
+
+Passive voice lives and dies on knowing which form of "be" matches which tense:
+
+| Tense                    | Passive "be" form    |
+| ------------------------ | -------------------- |
+| Simple Present           | is/am/are            |
+| Simple Past              | was/were             |
+| Present Continuous       | is/am/are + being    |
+| Present Perfect          | has/have been        |
+| Past Perfect             | had been             |
+| Future                   | will be              |
+| Modals (can/must/should) | can/must/should + be |
 ![](Screenshot%202026-08-27%20at%201.18.53%20PM.png)
 ## Passive Formula by Tense
 
@@ -91,19 +105,7 @@ Passive: None likes him. / Nobody likes him.
 ---
 
 
-### Master the "be verb" table cold
 
-Passive voice lives and dies on knowing which form of "be" matches which tense:
-
-| Tense                    | Passive "be" form    |
-| ------------------------ | -------------------- |
-| Simple Present           | is/am/are            |
-| Simple Past              | was/were             |
-| Present Continuous       | is/am/are + being    |
-| Present Perfect          | has/have been        |
-| Past Perfect             | had been             |
-| Future                   | will be              |
-| Modals (can/must/should) | can/must/should + be |
 ## When "by" is omitted
 When the agent is unknown, unimportant, or obvious:
 - "The thief was caught" (no need to say by police — obvious)
