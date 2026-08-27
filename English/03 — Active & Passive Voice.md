@@ -14,6 +14,8 @@
 | Call him in                                  | \|\|Let him be called in\|\|                      |
 
 ---
+## videos to watch
+https://www.youtube.com/watch?v=fo46yFWIJzU
 
 ## The Formula
 
