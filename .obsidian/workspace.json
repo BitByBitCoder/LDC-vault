@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -319,8 +319,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a7c88a82ca9f5a3",
+  "active": "0ea20ea015a6a047",
   "lastOpenFiles": [
+    "Daily tracker.md",
     "English/03 — Active & Passive Voice.md",
     "English/02 — Prepositions.md",
     "English/01 — Tenses.md",
@@ -332,7 +333,6 @@
     "maths brain/radmap/roadmap2.md",
     "maths brain/average/average.md",
     "maths brain/Profit and loss/darama question.md",
-    "Daily tracker.md",
     "General Knowledge/01-Mizo/mai mai.md",
     "General Knowledge/01-Mizo/glance.md",
     "General Knowledge/01-Mizo/Basic State Gk.md",
