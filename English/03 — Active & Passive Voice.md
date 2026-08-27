@@ -25,7 +25,7 @@ PASSIVE: Object + be(correct form) + Verb + by + Subject
 ```
 
 ---
-
+![](Screenshot%202026-08-27%20at%201.47.24%20PM.png)
 ### Master the "be verb" table cold
 
 Passive voice lives and dies on knowing which form of "be" matches which tense:
