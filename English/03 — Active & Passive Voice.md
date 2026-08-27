@@ -26,16 +26,16 @@ PASSIVE: Object + be(correct form) + V3 + by + Subject
 
 ## Passive Formula by Tense
 
-| Tense | Active | Passive |
-|-------|--------|---------|
-| Simple Present | She **writes** a letter | A letter **is written** by her |
-| Present Continuous | She **is writing** a letter | A letter **is being written** by her |
-| Present Perfect | She **has written** a letter | A letter **has been written** by her |
-| Simple Past | She **wrote** a letter | A letter **was written** by her |
-| Past Continuous | She **was writing** a letter | A letter **was being written** by her |
-| Past Perfect | She **had written** a letter | A letter **had been written** by her |
-| Simple Future | She **will write** a letter | A letter **will be written** by her |
-| Modal | She **can write** a letter | A letter **can be written** by her |
+| Tense              | Active                       | Passive                                  |
+| ------------------ | ---------------------------- | ---------------------------------------- |
+| Simple Present     | She **writes** a letter      | \|\|A letter is written by her\|\|       |
+| Present Continuous | She **is writing** a letter  | \|\|A letter is being written by her\|\| |
+| Present Perfect    | She **has written** a letter | \|\|A letter has been written by her\|\| |
+| Simple Past        | She **wrote** a letter       | \|\|A letter was written** by her        |
+| Past Continuous    | She **was writing** a letter | A letter **was being written** by her    |
+| Past Perfect       | She **had written** a letter | A letter **had been written** by her     |
+| Simple Future      | She **will write** a letter  | A letter **will be written** by her      |
+| Modal              | She **can write** a letter   | A letter **can be written** by her       |
 
 ---
 
