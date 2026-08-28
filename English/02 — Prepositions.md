@@ -29,6 +29,7 @@
 | Since       | \|\|the reason for something\|\| | since ti was started raining we decided to stay indoor                                               |
 | For         | Duration / length of time        | i have been recording for about three hours, we been friends for ten years                           |
 | For         | Purpose                          | This glass is to be used for drinking water,this glass is for drinking water                         |
+| For         | Intended recipient               | This glass is for you, I am happyfor you                                                             |
 
 ### Preposition + Noun
 | Phrase | Example |
