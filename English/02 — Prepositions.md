@@ -23,9 +23,9 @@
 ## Fixed Preposition Phrases (Most Tested)
 
 
-| Preposition | Meaning                            | Example                   |
-| ----------- | ---------------------------------- | ------------------------- |
-| **Since**   | \|\|From one side to the other\|\| | a bridge across the river |
+| Preposition | Meaning                          | Example                                                           |
+| ----------- | -------------------------------- | ----------------------------------------------------------------- |
+| **Since**   | \|\|Give the starting points\|\| | since yesterday,since 2am, we have been friends since high school |
 
 ### Preposition + Noun
 | Phrase | Example |
