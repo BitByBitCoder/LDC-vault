@@ -22,6 +22,11 @@
 
 ## Fixed Preposition Phrases (Most Tested)
 
+
+| Preposition | Meaning                            | Example                   |
+| ----------- | ---------------------------------- | ------------------------- |
+| **Since**   | \|\|From one side to the other\|\| | a bridge across the river |
+
 ### Preposition + Noun
 | Phrase | Example |
 |--------|---------|
