@@ -33,7 +33,7 @@ https://www.youtube.com/watch?v=BFW6hQ2Y0dU
 | For         | Intended recipient                              | This glass is for you, I am happyfor you                                                             |
 | For         | Support / agreement                             | I am for the new policy                                                                              |
 | For         | In Exchange                                     | I bought for Rs 200                                                                                  |
-| Over        | Being directly above, covering, movement across |  The                                                                                                 |
+| Over        | Being directly above, covering, movement across |  The plane flew over the city, covering something, movement at higher level across  something        |
 
 ### Preposition + Noun
 | Phrase | Example |
