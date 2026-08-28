@@ -31,7 +31,8 @@
 | For         | Purpose                          | This glass is to be used for drinking water,this glass is for drinking water                         |
 | For         | Intended recipient               | This glass is for you, I am happyfor you                                                             |
 | For         | Support / agreement              | I am for the new policy                                                                              |
-|             | In Exchange                      |                                                                                                      |
+| For         | In Exchange                      | I bought for Rs 200                                                                                  |
+|             |                                  |                                                                                                      |
 
 ### Preposition + Noun
 | Phrase | Example |
