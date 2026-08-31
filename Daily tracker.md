@@ -116,3 +116,6 @@ night ah computer
 
 mumal in english leh gk  ka la zir thei tlat lo 
 vawiin chu  english leh gk concentrate teh ang. 
+
+1 sept 
+morning 
