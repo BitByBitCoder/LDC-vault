@@ -118,4 +118,8 @@ mumal in english leh gk  ka la zir thei tlat lo
 vawiin chu  english leh gk concentrate teh ang. 
 
 1 sept 
-morning 
+morning maths
+noon english
+afternoon gk
+late afternoon exercise
+night computer
