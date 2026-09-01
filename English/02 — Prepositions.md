@@ -38,7 +38,8 @@ https://www.youtube.com/watch?v=BFW6hQ2Y0dU
 | Above       | Higher level standard                           | Something higher level , no contact, and has a level in it                                                    |
 | Above       | Superiority                                     | The officer above is very strict,                                                                             |
 | Under       | Directly beneath                                | This mic is under the remote, can also be contact                                                             |
-| under       | Less than a certain number , Amount or age      |                                                                                                               |
+| under       | Less than a certain number , Amount or age      | We need under 100 people for the boat to float ,all the childern are under the age of 10                      |
+|             |                                                 |                                                                                                               |
 
 ### Preposition + Noun
 | Phrase | Example |
