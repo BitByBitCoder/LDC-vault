@@ -49,22 +49,22 @@ National Park and Wildlife Santuaries
 | **Phawngpui Blue Mountain National Park** | \|\|Lawngtlai\|\| | \|\|Highest peak of Mizoram — state animal Serow found here\|\| |
 
 
-| **Sanctuary**                       | **Correct District** | **Key Feature / Status**                    |
-| ----------------------------------- | -------------------- | ------------------------------------------- |
-| **Dampa Tiger Reserve**             | \|\|Mamit\|\|        | Largest protected area; only Tiger Reserve. |
-| **Ngengpui Wildlife Sanctuary**     | \|\|Lawngtlai\|\|    | Famous for the Ngengpui river.              |
-| **Tawi Wildlife Sanctuary**         | \|\|Aizawl\|\|       | Located in the Aizawl district.             |
-| **Thorangtlang Wildlife Sanctuary** | \|\|Lunglei\|\|      | Corridor for elephant migration.            |
-| **Tokalo Wildlife Sanctuary**       | \|\|Siaha\|\|        | Near Palak Lake (Palak Dil).                |
-| **Lengteng Wildlife Sanctuary**     | \|\|Champhai\|\|     | Contains the 2nd highest peak.              |
-| **Khawnglung Wildlife Sanctuary**   | **Lunglei**          | Known for historical village ruins.         |
+| **Sanctuary**                       | **Correct District** | **Key Feature / Status**                           |
+| ----------------------------------- | -------------------- | -------------------------------------------------- |
+| **Dampa Tiger Reserve**             | \|\|Mamit\|\|        | \|\|Largest protected area; only Tiger Reserve\|\| |
+| **Ngengpui Wildlife Sanctuary**     | \|\|Lawngtlai\|\|    | \|\|Famous for the Ngengpui river.\|\|             |
+| **Tawi Wildlife Sanctuary**         | \|\|Aizawl\|\|       | \|\|Located in the Aizawl district.\|\|            |
+| **Thorangtlang Wildlife Sanctuary** | \|\|Lunglei\|\|      | \|\|Corridor for elephant migration.\|\|           |
+| **Tokalo Wildlife Sanctuary**       | \|\|Siaha\|\|        | \|\|Near Palak Lake (Palak Dil).\|\|               |
+| **Lengteng Wildlife Sanctuary**     | \|\|Champhai\|\|     | \|\|Contains the 2nd highest peak.\|\|             |
+| **Khawnglung Wildlife Sanctuary**   | \|\|Lunglei\|\|      | \|\|Known for historical village ruins.\|\|        |
 Important Lakes
 
-| Lake                       | Location          | Fact                                                                      |
-| -------------------------- | ----------------- | ------------------------------------------------------------------------- |
-| **Palak Dil (Palak Lake)** | Siaha district    | Largest lake in Mizoram                                                   |
-| **Rih Dil**                | Champhai district | Sacred in Mizo tradition — believed to be where Mizo souls go after death |
-| **Tam Dil**                | Saitual district  | Natural lake — popular tourist spot                                       |
+| Lake                       | Location           | Fact                                                                      |
+| -------------------------- | ------------------ | ------------------------------------------------------------------------- |
+| **Palak Dil (Palak Lake)** | Siaha district\|\| | Largest lake in Mizoram                                                   |
+| **Rih Dil**                | Champhai district  | Sacred in Mizo tradition — believed to be where Mizo souls go after death |
+| **Tam Dil**                | Saitual district   | Natural lake — popular tourist spot                                       |
 
 
 
