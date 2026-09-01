@@ -1,15 +1,15 @@
 
-| Question                        | Answer                                                                                     |
-| ------------------------------- | ------------------------------------------------------------------------------------------ |
-| Highest peak                    | Phawngpui (Blue Mountain), lawngtlai                                                       |
-| Lianchhiari Lunglen Tlang       | This legendary cliff is located in Dungtlang village within the **Champhai** district.     |
-| Tropic of Cancer passes through | Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram |
-| Latitude of Mizoram             | Around 21°58′ N – 24°35′ N; Tropic of Cancer (23°30′ N) passes through the state           |
-| Assam Rifles HQ                 | Shillong, Meghalaya                                                                        |
-| Second railway station          | Sairang                                                                                    |
-| Tuirini Hydro Electric Project  | 24 MW                                                                                      |
-| Total area mizoram:             | 21,081 sq km                                                                               |
-| Forest cover                    | 84-89% of geographical area                                                                |
+| Question                        | Answer                                                                                             |
+| ------------------------------- | -------------------------------------------------------------------------------------------------- |
+| Highest peak                    | \|\|Phawngpui (Blue Mountain), lawngtlai\|\|                                                       |
+| Lianchhiari Lunglen Tlang       | \|\|This legendary cliff is located in Dungtlang village within the Champhai district.\|\|         |
+| Tropic of Cancer passes through | \|\|Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram\|\| |
+| Latitude of Mizoram             | \|\|Around 21°58′ N – 24°35′ N; Tropic of Cancer (23°30′ N) passes through the state\|\|           |
+| Assam Rifles HQ                 | Shillong, Meghalaya                                                                                |
+| Second railway station          | Sairang                                                                                            |
+| Tuirini Hydro Electric Project  | 24 MW                                                                                              |
+| Total area mizoram:             | 21,081 sq km                                                                                       |
+| Forest cover                    | 84-89% of geographical area                                                                        |
 
 
 | **Peak**                      | **Correct Location / District** | **Rank / Status**         |
