@@ -38,6 +38,7 @@ https://www.youtube.com/watch?v=BFW6hQ2Y0dU
 | Above       | Higher level standard                           | Something higher level , no contact, and has a level in it                                                    |
 | Above       | Superiority                                     | The officer above is very strict,                                                                             |
 | Under       | Directly beneath                                | This mic is under the remote, can also be contact                                                             |
+| under       | Less than a certain number , Amount or age      |                                                                                                               |
 
 ### Preposition + Noun
 | Phrase | Example |
