@@ -51,7 +51,7 @@ https://www.youtube.com/watch?v=BFW6hQ2Y0dU
 | From        | cause or reason                                 | He was tired from the journey                                                                                                     |
 | From        | Distance                                        | the college is 5 km from here                                                                                                     |
 | Around      | Surrounding  or encompassing                    | She dance around the tree , she look around the room                                                                              |
-|             | Approximate time, number or                     |                                                                                                                                   |
+| Around      | Approximate time, number or  quatity            | ill be there around 3PM, this cost me around  Rs 100                                                                              |
 
 ### Preposition + Noun
 | Phrase | Example |
