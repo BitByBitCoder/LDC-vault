@@ -55,6 +55,8 @@ https://www.youtube.com/watch?v=BFW6hQ2Y0dU
 |             | Various Location                                | They have travelled all around europe                                                                                             |
 | Across      | Movement from one side to another               | Across the road , across the field, the shop is across the street                                                                 |
 | Through     | byhard sa                                       |                                                                                                                                   |
+| between     | Two distinct entities,                          | The book was between the two lamps                                                                                                |
+|             |                                                 |                                                                                                                                   |
 
 ### Preposition + Noun
 | Phrase | Example |
