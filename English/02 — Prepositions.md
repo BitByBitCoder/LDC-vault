@@ -53,7 +53,7 @@ https://www.youtube.com/watch?v=BFW6hQ2Y0dU
 | Around      | Surrounding  or encompassing                    | She dance around the tree , she look around the room                                                                              |
 | Around      | Approximate time, number or  quatity            | ill be there around 3PM, this cost me around  Rs 100                                                                              |
 |             | Various Location                                | They have travelled all around europe                                                                                             |
-|             |                                                 |                                                                                                                                   |
+| Across      | Movement from one side to another               | Across the road , across the field                                                                                                |
 
 ### Preposition + Noun
 | Phrase | Example |
