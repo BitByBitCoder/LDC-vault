@@ -46,6 +46,7 @@ https://www.youtube.com/watch?v=BFW6hQ2Y0dU
 | To          | Comparisation                                   | I prefer tea over coffee                                                                                                          |
 | Towards     | Direction                                       | She is going towards the school                                                                                                   |
 | Towards     | Attitude                                        | He as a positive  attitude towards work                                                                                           |
+| Towards     | Purpose of goal                                 | This donation is going towards the cricket ground of the school                                                                   |
 
 ### Preposition + Noun
 | Phrase | Example |
