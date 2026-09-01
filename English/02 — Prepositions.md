@@ -42,7 +42,8 @@ https://www.youtube.com/watch?v=BFW6hQ2Y0dU
 | under       | Lower status or authority                       | He was under the management or under the laws]                                                                                    |
 | Under       | In a state or condition                         | Under the influence of painkillers                                                                                                |
 | Below       | Standard or level                               | The temperature is dropped below freezing point or their score is below average, submarine went below sea level , lack of contact |
-| To          |                                                 |                                                                                                                                   |
+| To          | Destination                                     |                                                                                                                                   |
+| Towards     | Direction                                       |                                                                                                                                   |
 
 ### Preposition + Noun
 | Phrase | Example |
