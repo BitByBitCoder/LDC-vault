@@ -34,8 +34,8 @@ https://www.youtube.com/watch?v=BFW6hQ2Y0dU
 | For         | Support / agreement                             | I am for the new policy                                                                                       |
 | For         | In Exchange                                     | I bought for Rs 200                                                                                           |
 | Over        | Being directly above, covering, movement across | The plane flew over the city, covering something, movement at higher level across  something, directly on top |
-| Over        | greater than a specific                         |                                                                                                               |
-| Above       | Comparesion                                     | Something higher level , no contact, and has a level in it                                                    |
+| Over        | greater than a specific number age              |                                                                                                               |
+| Above       | Higher level standard                           | Something higher level , no contact, and has a level in it                                                    |
 | Above       | Superiority                                     | The officer above is very strict,                                                                             |
 |             |                                                 |                                                                                                               |
 
