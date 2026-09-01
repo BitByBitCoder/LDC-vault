@@ -24,25 +24,25 @@ https://www.youtube.com/watch?v=BFW6hQ2Y0dU
 ## Fixed Preposition Phrases (Most Tested)
 
 
-| Preposition | Meaning                                         | Example                                                                                                       |
-| ----------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| **Since**   | \|\|Give the starting points\|\|                | since 2018,since yesterday,since 2am, we have been friends since high school(starting 2018 till now)          |
-| Since       | \|\|the reason for something\|\|                | since ti was started raining we decided to stay indoor                                                        |
-| For         | Duration / length of time                       | i have been recording for about three hours, we been friends for ten years                                    |
-| For         | Purpose                                         | This glass is to be used for drinking water,this glass is for drinking water                                  |
-| For         | Intended recipient                              | This glass is for you, I am happyfor you                                                                      |
-| For         | Support / agreement                             | I am for the new policy                                                                                       |
-| For         | In Exchange                                     | I bought for Rs 200                                                                                           |
-| Over        | Being directly above, covering, movement across | The plane flew over the city, covering something, movement at higher level across  something, directly on top |
-| Over        | greater than a specific number age              |                                                                                                               |
-| Above       | Higher level standard                           | Something higher level , no contact, and has a level in it                                                    |
-| Above       | Superiority                                     | The officer above is very strict,                                                                             |
-| Under       | Directly beneath                                | This mic is under the remote, can also be contact                                                             |
-| under       | Less than a certain number , Amount or age      | We need under 100 people for the boat to float ,all the childern are under the age of 10                      |
-| under       | Lower status or authority                       | He was under the management or under the laws]                                                                |
-| Under       | In a state or condition                         | Under the influence of painkillers                                                                            |
-| Below       | Standard or level                               | The temperature is dropped below freezing point or their score is below average, submarine went below se      |
-|             |                                                 |                                                                                                               |
+| Preposition | Meaning                                         | Example                                                                                                                           |
+| ----------- | ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| **Since**   | \|\|Give the starting points\|\|                | since 2018,since yesterday,since 2am, we have been friends since high school(starting 2018 till now)                              |
+| Since       | \|\|the reason for something\|\|                | since ti was started raining we decided to stay indoor                                                                            |
+| For         | Duration / length of time                       | i have been recording for about three hours, we been friends for ten years                                                        |
+| For         | Purpose                                         | This glass is to be used for drinking water,this glass is for drinking water                                                      |
+| For         | Intended recipient                              | This glass is for you, I am happyfor you                                                                                          |
+| For         | Support / agreement                             | I am for the new policy                                                                                                           |
+| For         | In Exchange                                     | I bought for Rs 200                                                                                                               |
+| Over        | Being directly above, covering, movement across | The plane flew over the city, covering something, movement at higher level across  something, directly on top                     |
+| Over        | greater than a specific number age              |                                                                                                                                   |
+| Above       | Higher level standard                           | Something higher level , no contact, and has a level in it                                                                        |
+| Above       | Superiority                                     | The officer above is very strict,                                                                                                 |
+| Under       | Directly beneath                                | This mic is under the remote, can also be contact                                                                                 |
+| under       | Less than a certain number , Amount or age      | We need under 100 people for the boat to float ,all the childern are under the age of 10                                          |
+| under       | Lower status or authority                       | He was under the management or under the laws]                                                                                    |
+| Under       | In a state or condition                         | Under the influence of painkillers                                                                                                |
+| Below       | Standard or level                               | The temperature is dropped below freezing point or their score is below average, submarine went below sea level , lack of contact |
+|             |                                                 |                                                                                                                                   |
 
 ### Preposition + Noun
 | Phrase | Example |
