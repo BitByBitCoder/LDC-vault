@@ -41,7 +41,7 @@ https://www.youtube.com/watch?v=BFW6hQ2Y0dU
 | under       | Less than a certain number , Amount or age      | We need under 100 people for the boat to float ,all the childern are under the age of 10                      |
 | under       | Lower status or authority                       | He was under the management or under the laws]                                                                |
 | Under       | In a state or condition                         | Under the influence of painkillers                                                                            |
-| Below       | Standard or level                               | The temperature is                                                                                            |
+| Below       | Standard or level                               | The temperature is dropped below freezing point or their score is below average, submarine went below se      |
 |             |                                                 |                                                                                                               |
 
 ### Preposition + Noun
