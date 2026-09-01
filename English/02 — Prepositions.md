@@ -48,7 +48,8 @@ https://www.youtube.com/watch?v=BFW6hQ2Y0dU
 | Towards     | Attitude                                        | He as a positive  attitude towards work                                                                                           |
 | Towards     | Purpose of goal                                 | This donation is going towards the cricket ground of the school                                                                   |
 | From        | Origin                                          | She has come from brazil, I work from 9 am to  7 pm                                                                               |
-| From        | cause or reason                                 |                                                                                                                                   |
+| From        | cause or reason                                 | He was tired from the journey                                                                                                     |
+| From        | Distance                                        | the college is 5 km from here                                                                                                     |
 
 ### Preposition + Noun
 | Phrase | Example |
