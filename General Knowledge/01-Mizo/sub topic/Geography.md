@@ -5,20 +5,20 @@
 | Lianchhiari Lunglen Tlang       | \|\|This legendary cliff is located in Dungtlang village within the Champhai district.\|\|         |
 | Tropic of Cancer passes through | \|\|Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram\|\| |
 | Latitude of Mizoram             | \|\|Around 21°58′ N – 24°35′ N; Tropic of Cancer (23°30′ N) passes through the state\|\|           |
-| Assam Rifles HQ                 | Shillong, Meghalaya                                                                                |
-| Second railway station          | Sairang                                                                                            |
-| Tuirini Hydro Electric Project  | 24 MW                                                                                              |
-| Total area mizoram:             | 21,081 sq km                                                                                       |
-| Forest cover                    | 84-89% of geographical area                                                                        |
+| Assam Rifles HQ                 | \|\|Shillong, Meghalaya\|\|                                                                        |
+| Second railway station          | \|\|Sairang\|\|                                                                                    |
+| Tuirini Hydro Electric Project  | \|\|24 MW\|\|                                                                                      |
+| Total area mizoram:             | \|\|21,081 sq km\|\|                                                                               |
+| Forest cover                    | \|\|84-89% of geographical area\|\|                                                                |
 
 
 | **Peak**                      | **Correct Location / District** | **Rank / Status**         |
 | ----------------------------- | ------------------------------- | ------------------------- |
-| **Phawngpui (Blue Mountain)** | Lawngtlai district              | Highest (2,157m)          |
-| **Lengteng Tlang**            | Champhai district               | 2nd highest (2,141m)      |
-| **Sur Tlang**                 | Champhai district               | ~3th/5th highest (1,967m) |
-| **Hmuifang**                  | Aizawl district                 | Popular tourist hill      |
-| **Reiek**                     | Mamit district                  | Popular tourist hill      |
+| **Phawngpui (Blue Mountain)** | \|\|Lawngtlai district\|\|      | Highest (2,157m)          |
+| **Lengteng Tlang**            | \|\|Champhai district\|\|       | 2nd highest (2,141m)      |
+| **Sur Tlang**                 | \|\|Champhai district\|\|       | ~3th/5th highest (1,967m) |
+| **Hmuifang**                  | \|\|Aizawl district\|\|         | Popular tourist hill      |
+| **Reiek**                     | \|\|Mamit district\|\|          | Popular tourist hill      |
 River
 
 | River                      | Key Facts                                                                               |
