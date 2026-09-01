@@ -43,7 +43,9 @@ https://www.youtube.com/watch?v=BFW6hQ2Y0dU
 | Under       | In a state or condition                         | Under the influence of painkillers                                                                                                |
 | Below       | Standard or level                               | The temperature is dropped below freezing point or their score is below average, submarine went below sea level , lack of contact |
 | To          | Destination                                     |                                                                                                                                   |
-| Towards     | Direction                                       |                                                                                                                                   |
+| To          | Comparisation                                   | I prefer tea over coffee                                                                                                          |
+| Towards     | Direction                                       | She is going towards the school                                                                                                   |
+|             |                                                 |                                                                                                                                   |
 
 ### Preposition + Noun
 | Phrase | Example |
