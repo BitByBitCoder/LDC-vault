@@ -26,12 +26,12 @@ River
 | **Tlawng**                 | \|\|Longest river in Mizoram (~185 km). Also called Dhaleswari. Joins Barak River in Assam.\|\| |
 | **Chhimtuipui (Kolodyne)** | \|\|Largest river by volume. Originates in Myanmar. Flows through Lawngtlai and Saiha.\|\|      |
 | **Tuirial**                | \|\|Central Mizoram.60mw Tuirial Hydroelectric Project on it.\|\|                               |
-| **Mat (Matai)**            | Southern Mizoram                                                                                |
-| **Tiau**                   | Forms border with Myanmar                                                                       |
-| **Tuirini**                | Tuirini Hydro Project (24 MW) — appeared in your papers                                         |
-| **Serlui**                 | Northern Mizoram                                                                                |
-| **Tuivawl**                | Northern Mizoram — joins Barak River                                                            |
-| **Tuichang**               | Southern Mizoram (~120 km)                                                                      |
+| **Mat (Matai)**            | \|\|Southern Mizoram\|\|                                                                        |
+| **Tiau**                   | \|\|Forms border with Myanmar\|\|                                                               |
+| **Tuirini**                | \|\|Tuirini Hydro Project (24 MW) — appeared in your papers\|\|                                 |
+| **Serlui**                 | \|\|Northern Mizoram\|\|                                                                        |
+| **Tuivawl**                | \|\|Northern Mizoram — joins Barak River\|\|                                                    |
+| **Tuichang**               | \|\|Southern Mizoram (~120 km)\|\|                                                              |
 
 | Question                         | Answer                 |
 | -------------------------------- | ---------------------- |
