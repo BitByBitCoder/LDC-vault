@@ -109,12 +109,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Knowledge/01-Mizo/Basic State Gk.md",
+                "file": "General Knowledge/01-Mizo/sub topic/Governor.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic State Gk"
+              "title": "Governor"
             }
           },
           {
@@ -321,6 +321,7 @@
   },
   "active": "f4b9f8761011ed38",
   "lastOpenFiles": [
+    "General Knowledge/01-Mizo/Basic State Gk.md",
     "General Knowledge/01-Mizo/Mizo index.md",
     "maths brain/Times table/1Time table.md",
     "Daily tracker.md",
@@ -335,7 +336,6 @@
     "maths brain/average/average.md",
     "General Knowledge/01-Mizo/sub topic/Important Year Dates.md",
     "General Knowledge/01-Mizo/sub topic/Governor.md",
-    "General Knowledge/01-Mizo/Basic State Gk.md",
     "General Knowledge/01-Mizo/kamliana.md",
     "English/03 — Active & Passive Voice.md",
     "English/01 — Tenses.md",
