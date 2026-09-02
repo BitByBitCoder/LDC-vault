@@ -52,7 +52,7 @@ National Park and Wildlife Santuaries
 
 | **Sanctuary**                       | **Correct District** | **Key Feature / Status**                           |
 | ----------------------------------- | -------------------- | -------------------------------------------------- |
-| **Dampa Tiger Reserve**             | \|\|Mamit\|\|        | \|\|Largest protected area; only Tiger Reserve\|\| |
+| **Dampa Tiger Reserve\|\|           | \|\|Mamit\|\|        | \|\|Largest protected area; only Tiger Reserve\|\| |
 | **Ngengpui Wildlife Sanctuary**     | \|\|Lawngtlai\|\|    | \|\|Famous for the Ngengpui river.\|\|             |
 | **Tawi Wildlife Sanctuary**         | \|\|Aizawl\|\|       | \|\|Located in the Aizawl district.\|\|            |
 | **Thorangtlang Wildlife Sanctuary** | \|\|Lunglei\|\|      | \|\|Corridor for elephant migration.\|\|           |
