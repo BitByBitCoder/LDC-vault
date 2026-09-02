@@ -123,3 +123,8 @@ noon english
 afternoon gk
 late afternoon exercise
 night computer
+
+2 sept
+early morning mizo
+morning maths
+afternoon print 
