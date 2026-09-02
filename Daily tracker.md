@@ -135,3 +135,4 @@ night movie
 early morning 7:am gk mizo
 morning english
 afternoon maths
+night computer
