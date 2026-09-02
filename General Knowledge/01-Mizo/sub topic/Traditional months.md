@@ -6,7 +6,7 @@ Here is the fully corrected and verified traditional Mizo calendar:
 
 | **Gregorian Month** | **Traditional Mizo Month** | **Correct Meaning / Associated Activity**                                                                                                                                            |
 | ------------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **January**         | \|\|Pawlkut Thla\|\|       | Named after the Pawl Kut festival; a time of rest and feasting after the harvest.                                                                                                    |
+| **January**         | \|\|Pawl˛ kut Thla\|\|     | Named after the Pawl Kut festival; a time of rest and feasting after the harvest.                                                                                                    |
 | **February**        | \|\|Ramtuk Thla\|\|        | _Ramtuk_ means "forest cutting." This is the time communities select and clear land for new _jhum_ (shifting cultivation).                                                           |
 | **March**           | \|\|Vau Thla\|\|           | Named after the blooming of _Vaube_ flowers. It acts as a natural signal that the cut trees are dry enough for the slash-and-burn process.                                           |
 | **April**           | \|\|Tau Thla\|\|           | Named after the ripening of wild _hmuhtau_ berries. Gathering berries supplements diets while the earth is readied for planting.                                                     |
