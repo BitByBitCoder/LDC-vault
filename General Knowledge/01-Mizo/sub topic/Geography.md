@@ -49,16 +49,17 @@ National Park and Wildlife Santuaries
 | **Murlen National Park**                  | \|\|Champhai\|\|  | \|\|Home to hoolock gibbons, leopards\|\|                       |
 | **Phawngpui Blue Mountain National Park** | \|\|Lawngtlai\|\| | \|\|Highest peak of Mizoram — state animal Serow found here\|\| |
 
+## Sanctuary
 
-| **Sanctuary**                       | **Correct District** | **Key Feature / Status**                           |
-| ----------------------------------- | -------------------- | -------------------------------------------------- |
-| **Dampa Tiger Reserve\|\|           | \|\|Mamit\|\|        | \|\|Largest protected area; only Tiger Reserve\|\| |
-| **Ngengpui Wildlife Sanctuary**     | \|\|Lawngtlai\|\|    | \|\|Famous for the Ngengpui river.\|\|             |
-| **Tawi Wildlife Sanctuary**         | \|\|Aizawl\|\|       | \|\|Located in the Aizawl district.\|\|            |
-| **Thorangtlang Wildlife Sanctuary** | \|\|Lunglei\|\|      | \|\|Corridor for elephant migration.\|\|           |
-| **Tokalo Wildlife Sanctuary**       | \|\|Siaha\|\|        | \|\|Near Palak Lake (Palak Dil).\|\|               |
-| **Lengteng Wildlife Sanctuary**     | \|\|Champhai\|\|     | \|\|Contains the 2nd highest peak.\|\|             |
-| **Khawnglung Wildlife Sanctuary**   | \|\|Lunglei\|\|      | \|\|Known for historical village ruins.\|\|        |
+| **Sanctuary**                            | **Correct District** | **Key Feature / Status**                           |
+| ---------------------------------------- | -------------------- | -------------------------------------------------- |
+| \|\|Dampa Tiger Reserve\|\|              | \|\|Mamit\|\|        | \|\|Largest protected area; only Tiger Reserve\|\| |
+| \|\|Ngengpui Wildlife Sanctuary\|\|      | \|\|Lawngtlai\|\|    | \|\|Famous for the Ngengpui river.\|\|             |
+| \|\|Tawi Wildlife Sanctuary\|\|          | \|\|Aizawl\|\|       | \|\|Located in the Aizawl district.\|\|            |
+| \|\|Thorang tlang Wildlife Sanctuary\|\| | \|\|Lunglei\|\|      | \|\|Corridor for elephant migration.\|\|           |
+| \|\|Tokalo Wildlife Sanctuary\|\|        | \|\|Siaha\|\|        | \|\|Near Palak Lake (Palak Dil).\|\|               |
+| \|\|Lengteng Wildlife Sanctuary\|\|      | \|\|Champhai\|\|     | \|\|Contains the 2nd highest peak.\|\|             |
+| \|\|Khawnglung Wildlife Sanctuary\|\|    | \|\|Lunglei\|\|      | \|\|Known for historical village ruins.\|\|        |
 Important Lakes
 
 | Lake                       | Location                  | Fact                                                                              |
