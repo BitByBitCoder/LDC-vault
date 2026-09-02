@@ -44,10 +44,10 @@ project lian ho list
 
 ## National Park 
 
-| Park                                      | District          | Key Feature                                                     |
-| ----------------------------------------- | ----------------- | --------------------------------------------------------------- |
-| **Murlen National Park**                  | \|\|Champhai\|\|  | \|\|Home to hoolock gibbons, leopards\|\|                       |
-| **Phawngpui Blue Mountain National Park** | \|\|Lawngtlai\|\| | \|\|Highest peak of Mizoram — state animal Serow found here\|\| |
+| Park                                          | District          | Key Feature                                                     |
+| --------------------------------------------- | ----------------- | --------------------------------------------------------------- |
+| \|\|Murlen National Park\|\|                  | \|\|Champhai\|\|  | \|\|Home to hoolock gibbons, leopards\|\|                       |
+| \|\|Phawngpui Blue Mountain National Park\|\| | \|\|Lawngtlai\|\| | \|\|Highest peak of Mizoram — state animal Serow found here\|\| |
 
 ## Sanctuary
 
