@@ -42,7 +42,7 @@ project lian ho list
 | River with Tuirial Hydro project | Tuirial                |
 | Tuirini project capacity         | 24 MW                  |
 
-National Park and Wildlife Santuaries
+## National Park 
 
 | Park                                      | District          | Key Feature                                                     |
 | ----------------------------------------- | ----------------- | --------------------------------------------------------------- |
