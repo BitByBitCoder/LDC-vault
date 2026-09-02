@@ -127,4 +127,11 @@ night computer
 2 sept
 early morning mizo
 morning maths
-afternoon print 
+afternoon print hna dil
+exercise
+night movie
+
+3 sept
+early morning 7:am gk mizo
+morning english
+afternoon maths
