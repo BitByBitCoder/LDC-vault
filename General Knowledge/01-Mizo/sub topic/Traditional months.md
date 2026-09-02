@@ -16,8 +16,8 @@ Here is the fully corrected and verified traditional Mizo calendar:
 | **August**          | \|\|Thi tin Thla\|\|       | Meaning "the month the dead depart". A quieter period where agricultural intensity eases, and rituals honoring the spirits of the dead are performed with early vegetable offerings. |
 | **September**       | \|\|Mimkut Thla\|\|        | Season of the Mim Kut festival, celebrating the successful harvest of maize (_mim_).                                                                                                 |
 | **October**         | \|\|Khuangchawi Thla\|\|   | The month of festivities and bright moonlight. Wealthy citizens traditionally hosted grand community feasts (_Khuangchawi_) during this time.                                        |
-| **November**        | **Sahmulphah Thla**        | _Sahmul_ (fur) and _phah_ (lay down). It indicates the onset of winter when animals grow their thick winter coats.                                                                   |
-| **December**        | **Pawltlak Thla**          | _Pawl_ (straw) and _tlak_ (complete). Marks the final completion of the rice harvest, leaving the fields fallow and bringing the year to a close.                                    |
+| **November**        | \|\|Sahmulphah Thla\|\|    | _Sahmul_ (fur) and _phah_ (lay down). It indicates the onset of winter when animals grow their thick winter coats.                                                                   |
+| **December**        | \|\|Pawltlak Thla\|\|      | _Pawl_ (straw) and _tlak_ (complete). Marks the final completion of the rice harvest, leaving the fields fallow and bringing the year to a close.                                    |
 
 ### 📝 Key Corrections for Your Notes:
 
