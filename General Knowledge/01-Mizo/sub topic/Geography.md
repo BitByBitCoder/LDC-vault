@@ -62,11 +62,11 @@ project lian ho list
 | \|\|Khawnglung Wildlife Sanctuary\|\|    | \|\|Lunglei\|\|      | \|\|Known for historical village ruins.\|\|        |
 Important Lakes
 
-| Lake                       | Location                  | Fact                                                                              |
-| -------------------------- | ------------------------- | --------------------------------------------------------------------------------- |
-| **Palak Dil (Palak Lake)** | \|\|Siaha district\|\|    | \|\|Largest lake in Mizoram\|\|                                                   |
-| **Rih Dil**                | \|\|Champhai district\|\| | \|\|Sacred in Mizo tradition — believed to be where Mizo souls go after death\|\| |
-| **Tam Dil**                | \|\|Saitual district\|\|  | \|\|Natural lake — popular tourist spot\|\|                                       |
+| Lake                           | Location                  | Fact                                                                              |
+| ------------------------------ | ------------------------- | --------------------------------------------------------------------------------- |
+| \|\|Palak Dil (Palak Lake)\|\| | \|\|Siaha district\|\|    | \|\|Largest lake in Mizoram\|\|                                                   |
+| \|\|Rih Dil\|\|                | \|\|Champhai district\|\| | \|\|Sacred in Mizo tradition — believed to be where Mizo souls go after death\|\| |
+| \|\|Tam Dil\|\|                | \|\|Saitual district\|\|  | \|\|Natural lake — popular tourist spot\|\|                                       |
 
 
 
