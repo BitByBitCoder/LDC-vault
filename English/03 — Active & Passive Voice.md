@@ -15,7 +15,7 @@
 
 ---
 ## videos to watch
-https://www.youtube.com/watch?v=fo46yFWIJzU
+00
 
 ## The Formula
 
