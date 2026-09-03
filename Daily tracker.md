@@ -136,3 +136,9 @@ early morning 7:am gk mizo
 morning english
 afternoon maths
 night computer
+
+4 sept
+early morning gk mizo
+morning english
+afternoon maths
+night computer
