@@ -72,8 +72,8 @@ https://www.youtube.com/watch?v=BFW6hQ2Y0dU
 | off         | Physical position                                 | The cat jump off the table                                                                                                        |
 | off         | Cancellation                                      | The event was called off                                                                                                          |
 | off         | Discount or reduction                             |                                                                                                                                   |
-| beside      | Next or at the side of                            | this is beside of                                                                                                                 |
-| beside      | position                                          | she sed                                                                                                                           |
+| besides     | Next or at the side of                            | this is beside of                                                                                                                 |
+| besides     | position                                          | she set beside her friend                                                                                                         |
 
 ### Preposition + Noun
 | Phrase | Example |
