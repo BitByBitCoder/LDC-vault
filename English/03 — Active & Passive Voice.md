@@ -25,21 +25,24 @@ PASSIVE: Object + be(correct form) + Verb + by + Subject
 ```
 
 ---
-![](Screenshot%202026-08-27%20at%201.47.24%20PM.png)
+
 ### Master the "be verb" table cold
 
 Passive voice lives and dies on knowing which form of "be" matches which tense:
 
-| Tense                    | Passive "be" form    |
-| ------------------------ | -------------------- |
-| Simple Present           | is/am/are            |
-| Simple Past              | was/were             |
-| Present Continuous       | is/am/are + being    |
-| Present Perfect          | has/have been        |
-| Past Perfect             | had been             |
-| Future                   | will be              |
-| Modals (can/must/should) | can/must/should + be |
-![](Screenshot%202026-08-27%20at%201.18.53%20PM.png)
+| Tense              | Passive "be" form     |
+| ------------------ | --------------------- |
+| Active             | Passive (V3)          |
+| Simple Present     | Is / am / are         |
+| Simple Past        | Was / were            |
+| Future Tense       | Will / Shall be       |
+| Present Continuous | Is / am / are + being |
+| Past Continuous    | Was / were + being    |
+| Perfect Tense      | Been                  |
+| Modal              | Modal + be            |
+
+
+## Rule of x![](Screenshot%202026-08-27%20at%201.18.53%20PM.png)
 
 ![](Screenshot%202026-08-27%20at%201.27.17%20PM.png)
 ## Passive Formula by Tense
