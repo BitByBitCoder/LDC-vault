@@ -52,7 +52,16 @@ Passive voice lives and dies on knowing which form of "be" matches which tense:
 |2nd|Plural|You|You|
 |3rd|Singular|It|It|
 |3rd|Plural|They|Them|
-![](Screenshot%202026-08-27%20at%201.27.17%20PM.png)
+## 2. Interrogative Sentences (Questions)
+
+| **Active (Question Word)** | **Passive (Question Word)**                               |
+| -------------------------- | --------------------------------------------------------- |
+| Do/Does                    | Is/Am/Are                                                 |
+| Did                        | Was/Were                                                  |
+| Has / Have                 | Has / Have                                                |
+| Had                        | Had                                                       |
+| Modal Verb                 | Modal Verb                                                |
+| Is/Am/Are                  | Is/Am/Are<br><br>  <br>  <br><br>Depending on the subject |
 ## Passive Formula by Tense
 
 | Tense              | Active                       | Passive                                   |
