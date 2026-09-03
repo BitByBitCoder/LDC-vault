@@ -74,6 +74,8 @@ https://www.youtube.com/watch?v=BFW6hQ2Y0dU
 | off         | Discount or reduction                             |                                                                                                                                   |
 | besides     | Next or at the side of                            | this is beside of                                                                                                                 |
 | besides     | position                                          | she set beside her friend                                                                                                         |
+|             | in addition to or morover                         | Beside pizza he also like  pasta                                                                                                  |
+|             | Except forl                                       | beside jack no one                                                                                                                |
 
 ### Preposition + Noun
 | Phrase | Example |
