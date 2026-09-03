@@ -75,7 +75,7 @@ Passive Formula by Tense
 | Modal              | She **can write** a letter   | \|\|A letter can be written by her\|\|    |
 
 ---
-2 by stander
+
 ## Special Cases (From Your Papers)
 
 ### Imperative Sentences (Commands)
