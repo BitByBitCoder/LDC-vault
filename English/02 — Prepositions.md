@@ -68,10 +68,11 @@ https://www.youtube.com/watch?v=BFW6hQ2Y0dU
 | OF          | Quantity or measure                               | A cup of sugar , a tea spoon of salt                                                                                              |
 | Off         | Seperation or removal                             | take you shoes off                                                                                                                |
 | off         | Disconnection                                     | Switch the light off                                                                                                              |
-|             | Distance or displacement                          | The restaurant  off the  main highway                                                                                             |
-|             | Physical position                                 | The cat jump off the table                                                                                                        |
-|             | Cancellation                                      | The event was called off                                                                                                          |
-|             | Discount or reduction                             |                                                                                                                                   |
+| off         | Distance or displacement                          | The restaurant  off the  main highway                                                                                             |
+| off         | Physical position                                 | The cat jump off the table                                                                                                        |
+| off         | Cancellation                                      | The event was called off                                                                                                          |
+| off         | Discount or reduction                             |                                                                                                                                   |
+| beside      |                                                   |                                                                                                                                   |
 
 ### Preposition + Noun
 | Phrase | Example |
