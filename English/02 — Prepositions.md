@@ -75,25 +75,25 @@ https://www.youtube.com/watch?v=BFW6hQ2Y0dU
 | **Of**                    | \|\|Quantity or measure\|\|                                    | A cup of sugar, a teaspoon of salt                                 |
 | **Off**                   | \|\|Separation or removal\|\|                                  | Take your shoes off                                                |
 | **Off**                   | \|\|Disconnection\|\|                                          | Switch the light off                                               |
-| **Off**                   | \|\|Distance from a main point\|                               | The restaurant is off the main highway                             |
-| **Off**                   | \|Physical movement away from a surface\|                      | The cat jumped off the table                                       |
-| **Off**                   | \|Cancellation\|                                               | The event was called off                                           |
-| **Off**                   | \|Discount or reduction\|                                      | 20% off the total bill                                             |
-| **Beside**                | \|Position — next to\|                                         | She sat beside her friend                                          |
-| **Besides**               | \|In addition to / moreover\|                                  | Besides pizza, he also likes pasta                                 |
-| **Besides**               | \|Except for\|                                                 | No one came to the party besides Jack                              |
-| **With**                  | \|Accompaniment\|                                              | She went with her friend                                           |
-| **With**                  | \|Instrument / means\|                                         | He cut the paper with scissors                                     |
-| **With**                  | \|Manner\|                                                     | She spoke with confidence                                          |
-| **By**                    | \|Agent (passive voice)\|                                      | The letter was written by him                                      |
-| **By**                    | \|Means / method\|                                             | He travels by train                                                |
-| **By**                    | \|Deadline (before/at a point in time)\|                       | Submit the form by 5 PM                                            |
-| **By**                    | \|Proximity\|                                                  | She stood by the window                                            |
-| **Into**                  | \|Movement + entry\|                                           | She walked into the room                                           |
-| **Into**                  | \|Change of state\|                                            | Water turned into ice                                              |
-| **Within**                | \|Inside a time limit or boundary\|                            | Reply within a week; stay within the budget                        |
-| **During**                | \|Span of time (something happening throughout)\|              | He slept during the exam                                           |
-| **Before**                | \|Earlier in time or order\|                                   | Reach before 9 AM                                                  |
+| **Off**                   | \|\|Distance from a main point\|\|                             | The restaurant is off the main highway                             |
+| **Off**                   | \|\|Physical movement away from a surface\|\|                  | The cat jumped off the table                                       |
+| **Off**                   | \|\|Cancellation\|\|                                           | The event was called off                                           |
+| **Off**                   | \|\|Discount or reduction\|\|                                  | 20% off the total bill                                             |
+| **Beside**                | \|\|Position — next to\|\|                                     | She sat beside her friend                                          |
+| **Besides**               | \|\|In addition to / moreover\|\|                              | Besides pizza, he also likes pasta                                 |
+| **Besides**               | \|\|Except for\|\|                                             | No one came to the party besides Jack                              |
+| **With**                  | \|\|Accompaniment\|\|                                          | She went with her friend                                           |
+| **With**                  | \|\|Instrument / means\|\|                                     | He cut the paper with scissors                                     |
+| **With**                  | \|\|Manner\|\|                                                 | She spoke with confidence                                          |
+| **By**                    | \|\|Agent (passive voice)\|\|                                  | The letter was written by him                                      |
+| **By**                    | \|\|Means / method\|\|                                         | He travels by train                                                |
+| **By**                    | \|\|Deadline (before/at a point in time)\|\|                   | Submit the form by 5 PM                                            |
+| **By**                    | \|\|Proximity\|\|                                              | She stood by the window                                            |
+| **Into**                  | \|\|Movement + entry\|\|                                       | She walked into the room                                           |
+| **Into**                  | \|\|Change of state\|\|                                        | Water turned into ice                                              |
+| **Within**                | \|\|Inside a time limit or boundary\|\|                        | Reply within a week; stay within the budget                        |
+| **During**                | \|\|Span of time (something happening throughout)\|\|          | He slept during the exam                                           |
+| **Before**                | \|\|Earlier in time or order\|\|                               | Reach before 9 AM                                                  |
 | **After**                 | \|Later in time or order\|                                     | He left after the meeting                                          |
 | **Against**               | \|Physical contact / opposition\|                              | He leaned against the wall; vote against the bill                  |
 | **Despite / In spite of** | \|Contrast — although\|                                        | Despite the rain, they played the match                            |
