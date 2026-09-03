@@ -25,6 +25,7 @@ https://www.youtube.com/watch?v=BFW6hQ2Y0dU
 
 
 # Prepositions — Full Concept (LDC English Vault)
+[[categorize preposition]]
 
 | Preposition               | Use                                                            | Example                                                            |
 | ------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------ |
@@ -99,18 +100,17 @@ https://www.youtube.com/watch?v=BFW6hQ2Y0dU
 | **About**                 | \|Topic\|                                                      | We talked about the exam                                           |
 | **About**                 | \|Approximation\|                                              | The bag weighs about 5 kg                                          |
 | **Beyond**                | \|Past a limit\|                                               | This is beyond doubt                                               |
-| **Without**         | \|Absence of something\|                     | He left without water                |
-| ------------------- | -------------------------------------------- | ------------------------------------ |
-| **Till / Until**    | \|Up to a point in time\|                    | Wait till Monday; stay until 5 PM    |
-| **As**              | \|In the role/capacity of\|                  | He works as a teacher                |
-| **Like**            | \|Similarity/resemblance\|                   | She sings like a bird                |
-| **Unlike**          | \|Contrast/difference\|                      | Unlike his brother, he is shy        |
-| **Behind**          | \|Position — at the back of\|                | The car is parked behind the house   |
-| **In front of**     | \|Position — facing the front\|              | He stood in front of the class       |
-| **Near / Close to** | \|Proximity\|                                | The hotel is near the station        |
-| **Throughout**      | \|Entire duration or area\|                  | It rained throughout the year        |
-| **Upon**            | \|Formal version of "on"; time of an event\| | Upon arrival, he called his mother   |
-| **Except / But**    | \|Exclusion\|                                | Everyone came except him             |
+| **Without**               | \|Absence of something\|                                       | He left without water                                              |
+| **Till / Until**          | \|Up to a point in time\|                                      | Wait till Monday; stay until 5 PM                                  |
+| **As**                    | \|In the role/capacity of\|                                    | He works as a teacher                                              |
+| **Like**                  | \|Similarity/resemblance\|                                     | She sings like a bird                                              |
+| **Unlike**                | \|Contrast/difference\|                                        | Unlike his brother, he is shy                                      |
+| **Behind**                | \|Position — at the back of\|                                  | The car is parked behind the house                                 |
+| **In front of**           | \|Position — facing the front\|                                | He stood in front of the class                                     |
+| **Near / Close to**       | \|Proximity\|                                                  | The hotel is near the station                                      |
+| **Throughout**            | \|Entire duration or area\|                                    | It rained throughout the year                                      |
+| **Upon**                  | \|Formal version of "on"; time of an event\|                   | Upon arrival, he called his mother                                 |
+| **Except / But**          | \|Exclusion\|                                                  | Everyone came except him                                           |
 | **Opposite**        | \|Position — facing directly across\|        | The bank is opposite the post office |
 ---
 
