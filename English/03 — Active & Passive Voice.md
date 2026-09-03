@@ -39,7 +39,7 @@ Passive voice lives and dies on knowing which form of "be" matches which tense:
 | 2nd    | Plural   | You     | You    |
 | 3rd    | Singular | It      | It     |
 | 3rd    | Plural   | They    | Them   |
-**Tens table
+**Tens helping verb table
 
 | Tense              | Passive "be" form     |
 | ------------------ | --------------------- |
