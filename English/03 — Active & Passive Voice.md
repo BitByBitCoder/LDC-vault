@@ -43,7 +43,14 @@ Passive voice lives and dies on knowing which form of "be" matches which tense:
 
 
 ## Rule of x![](Screenshot%202026-08-27%20at%201.18.53%20PM.png)
-
+|Person|Number|Subject|Object|
+|---|---|---|---|
+|1st|Singular|I|Me|
+|1st|Plural|We|Us|
+|2nd|Singular|You|You|
+|2nd|Plural|You|You|
+|3rd|Singular|It|It|
+|3rd|Plural|They|Them|
 ![](Screenshot%202026-08-27%20at%201.27.17%20PM.png)
 ## Passive Formula by Tense
 
