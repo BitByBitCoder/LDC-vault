@@ -15,7 +15,7 @@
 
 ---
 ## videos to watch
-00
+https://www.youtube.com/watch?v=fo46yFWIJzU
 
 ## The Formula
 
@@ -26,7 +26,7 @@ PASSIVE: Object + be(correct form) + Verb + by + Subject
 
 ---
 
-## Byhard table "be verb" table cold
+## Byhard Formula and table 
 
 Passive voice lives and dies on knowing which form of "be" matches which tense:
  Rule of x And pronounce table
@@ -51,7 +51,7 @@ Passive voice lives and dies on knowing which form of "be" matches which tense:
 | Past Continuous    | Was / were + being    |
 | Perfect Tense      | Been                  |
 | Modal              | Modal + be            |
-**2 Interrogative Sentences
+**2 Interrogative Sentences table
 
 | **Active (Question Word)** | **Passive (Question Word)**                               |
 | -------------------------- | --------------------------------------------------------- |
