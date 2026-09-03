@@ -70,9 +70,9 @@ https://www.youtube.com/watch?v=BFW6hQ2Y0dU
 | **Amid / Amidst**         | \|\|In the middle of a situation (confusion, storm, noise)\|\| | They found themselves amid the confusion                           |
 | **Of**                    | \|\|Belonging / connection\|\|                                 | The cover of the book is red                                       |
 | **Of**                    | \|\|Made from (material)\|                                     | This ring is made of gold                                          |
-| **Of**                    | \|Cause or reason\|                                            | They died of illness                                               |
-| **Of**                    | \|Relationship or association\|                                | A friend of mine                                                   |
-| **Of**                    | \|Quantity or measure\|                                        | A cup of sugar, a teaspoon of salt                                 |
+| **Of**                    | \|\|Cause or reason\|\|                                        | They died of illness                                               |
+| **Of**                    | \|\|Relationship or association\|\|                            | A friend of mine                                                   |
+| **Of**                    | \|\|Quantity or measure\|\|                                    | A cup of sugar, a teaspoon of salt                                 |
 | **Off**                   | \|Separation or removal\|                                      | Take your shoes off                                                |
 | **Off**                   | \|Disconnection\|                                              | Switch the light off                                               |
 | **Off**                   | \|Distance from a main point\|                                 | The restaurant is off the main highway                             |
