@@ -26,79 +26,79 @@ https://www.youtube.com/watch?v=BFW6hQ2Y0dU
 
 # Prepositions — Full Concept (LDC English Vault)
 
-| Preposition               | Use                                                        | Example                                                            |
-| ------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------ |
-| **At**                    | \|\|Exact point / specific address\|\|                     | at the door, at 10 Main Street, at the bus stop                    |
-| **On**                    | \|\|Surface / street name / day/date\|\|                   | on the table, on Peter's Street, on Monday                         |
-| **In**                    | \|\|Enclosed space / city / country / month/year\|\|       | in the room, in Aizawl, in India, in July                          |
-| **Since**                 | \|\|Starting point (fixed point in time)\|\|               | since 2018, since yesterday, since 2 AM, friends since high school |
-| **Since**                 | \|\|Reason for something\|\|                               | Since it started raining, we decided to stay indoors               |
-| **For**                   | \|\|Duration / length of time\|\|                          | recording for three hours, friends for ten years                   |
-| **For**                   | \|\|Purpose\|\|                                            | This glass is for drinking water                                   |
-| **For**                   | \|\|Intended recipient\|\|                                 | This glass is for you; I am happy for you                          |
-| **For**                   | \|\|Support / agreement\|\|                                | I am for the new policy                                            |
-| **For**                   | \|\|In exchange\|\|                                        | I bought it for Rs 200                                             |
-| **Over**                  | \|\|Directly above, covering, movement across\|\|          | The plane flew over the city                                       |
-| **Over**                  | \|\|Greater than a specific number/age\|\|                 | He is over 40 years old                                            |
-| **Above**                 | \|\|Higher level/standard, no contact\|\|                  | The temperature is above normal                                    |
-| **Above**                 | \|\|Superiority (rank/authority)\|\|                       | The officer above is very strict                                   |
-| **Under**                 | \|\|Directly beneath (can have contact)\|\|                | The mic is under the remote                                        |
-| **Under**                 | \|\|Less than a number/amount/age\|\|                      | Children under the age of 10                                       |
-| **Under**                 | \|\|Lower status or authority\|\|                          | He was under the manager                                           |
-| **Under**                 | \|\|In a state or condition\|\|                            | Under the influence of painkillers                                 |
-| **Below**                 | \|\|Lower standard or level, no contact\|                  | The score is below average; temperature dropped below freezing     |
-| **To**                    | \|Destination\|                                            | She went to the market                                             |
-| **To**                    | \|Comparison\|                                             | I prefer tea to coffee                                             |
-| **Towards**               | \|Direction\|                                              | She is walking towards the school                                  |
-| **Towards**               | \|Attitude\|                                               | He has a positive attitude towards work                            |
-| **Towards**               | \|Contribution to a goal\|                                 | This donation goes towards the school ground                       |
-| **From**                  | \|Origin\|                                                 | She has come from Brazil                                           |
-| **From**                  | \|Cause or reason\|                                        | He was tired from the journey                                      |
-| **From**                  | \|Distance / starting reference\|                          | The college is 5 km from here                                      |
-| **Around**                | \|Surrounding / encompassing\|                             | She danced around the tree                                         |
-| **Around**                | \|Approximate time, number, or quantity\|                  | I'll be there around 3 PM; it cost around Rs 100                   |
-| **Around**                | \|Various locations\|                                      | They travelled all around Europe                                   |
-| **Across**                | \|Movement from one side to the other\|                    | The shop is across the street                                      |
-| **Through**               | \|Movement inside/within something, end to end\|           | The train passed through the tunnel                                |
-| **Through**               | \|By means of\|                                            | I found the job through a friend                                   |
-| **Between**               | \|Two distinct entities (position)\|                       | The book was between the two lamps                                 |
-| **Between**               | \|Relationship or comparison\|                             | A strong bond between the siblings                                 |
-| **Between**               | \|Time range\|                                             | Come anytime between 1 PM and 2 PM                                 |
-| **Between**               | \|Choice/selection (of two)\|                              | Choose between the red dress and the blue dress                    |
-| **Among**                 | \|Position within a group (3+)\|                           | She distributed sweets among the students                          |
-| **Amid / Amidst**         | \|In the middle of a situation (confusion, storm, noise)\| | They found themselves amid the confusion                           |
-| **Of**                    | \|Belonging / connection\|                                 | The cover of the book is red                                       |
-| **Of**                    | \|Made from (material)\|                                   | This ring is made of gold                                          |
-| **Of**                    | \|Cause or reason\|                                        | They died of illness                                               |
-| **Of**                    | \|Relationship or association\|                            | A friend of mine                                                   |
-| **Of**                    | \|Quantity or measure\|                                    | A cup of sugar, a teaspoon of salt                                 |
-| **Off**                   | \|Separation or removal\|                                  | Take your shoes off                                                |
-| **Off**                   | \|Disconnection\|                                          | Switch the light off                                               |
-| **Off**                   | \|Distance from a main point\|                             | The restaurant is off the main highway                             |
-| **Off**                   | \|Physical movement away from a surface\|                  | The cat jumped off the table                                       |
-| **Off**                   | \|Cancellation\|                                           | The event was called off                                           |
-| **Off**                   | \|Discount or reduction\|                                  | 20% off the total bill                                             |
-| **Beside**                | \|Position — next to\|                                     | She sat beside her friend                                          |
-| **Besides**               | \|In addition to / moreover\|                              | Besides pizza, he also likes pasta                                 |
-| **Besides**               | \|Except for\|                                             | No one came to the party besides Jack                              |
-| **With**                  | \|Accompaniment\|                                          | She went with her friend                                           |
-| **With**                  | \|Instrument / means\|                                     | He cut the paper with scissors                                     |
-| **With**                  | \|Manner\|                                                 | She spoke with confidence                                          |
-| **By**                    | \|Agent (passive voice)\|                                  | The letter was written by him                                      |
-| **By**                    | \|Means / method\|                                         | He travels by train                                                |
-| **By**                    | \|Deadline (before/at a point in time)\|                   | Submit the form by 5 PM                                            |
-| **By**                    | \|Proximity\|                                              | She stood by the window                                            |
-| **Into**                  | \|Movement + entry\|                                       | She walked into the room                                           |
-| **Into**                  | \|Change of state\|                                        | Water turned into ice                                              |
-| **Within**                | \|Inside a time limit or boundary\|                        | Reply within a week; stay within the budget                        |
-| **During**                | \|Span of time (something happening throughout)\|          | He slept during the exam                                           |
-| **Before**                | \|Earlier in time or order\|                               | Reach before 9 AM                                                  |
-| **After**                 | \|Later in time or order\|                                 | He left after the meeting                                          |
-| **Against**               | \|Physical contact / opposition\|                          | He leaned against the wall; vote against the bill                  |
-| **Despite / In spite of** | \|Contrast — although\|                                    | Despite the rain, they played the match                            |
-| **About**                 | \|Topic\|                                                  | We talked about the exam                                           |
-| **About**                 | \|Approximation\|                                          | The bag weighs about 5 kg                                          |
-| **Beyond**                | \|Past a limit\|                                           | This is beyond doubt                                               |
+| Preposition               | Use                                                            | Example                                                            |
+| ------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------ |
+| **At**                    | \|\|Exact point / specific address\|\|                         | at the door, at 10 Main Street, at the bus stop                    |
+| **On**                    | \|\|Surface / street name / day/date\|\|                       | on the table, on Peter's Street, on Monday                         |
+| **In**                    | \|\|Enclosed space / city / country / month/year\|\|           | in the room, in Aizawl, in India, in July                          |
+| **Since**                 | \|\|Starting point (fixed point in time)\|\|                   | since 2018, since yesterday, since 2 AM, friends since high school |
+| **Since**                 | \|\|Reason for something\|\|                                   | Since it started raining, we decided to stay indoors               |
+| **For**                   | \|\|Duration / length of time\|\|                              | recording for three hours, friends for ten years                   |
+| **For**                   | \|\|Purpose\|\|                                                | This glass is for drinking water                                   |
+| **For**                   | \|\|Intended recipient\|\|                                     | This glass is for you; I am happy for you                          |
+| **For**                   | \|\|Support / agreement\|\|                                    | I am for the new policy                                            |
+| **For**                   | \|\|In exchange\|\|                                            | I bought it for Rs 200                                             |
+| **Over**                  | \|\|Directly above, covering, movement across\|\|              | The plane flew over the city                                       |
+| **Over**                  | \|\|Greater than a specific number/age\|\|                     | He is over 40 years old                                            |
+| **Above**                 | \|\|Higher level/standard, no contact\|\|                      | The temperature is above normal                                    |
+| **Above**                 | \|\|Superiority (rank/authority)\|\|                           | The officer above is very strict                                   |
+| **Under**                 | \|\|Directly beneath (can have contact)\|\|                    | The mic is under the remote                                        |
+| **Under**                 | \|\|Less than a number/amount/age\|\|                          | Children under the age of 10                                       |
+| **Under**                 | \|\|Lower status or authority\|\|                              | He was under the manager                                           |
+| **Under**                 | \|\|In a state or condition\|\|                                | Under the influence of painkillers                                 |
+| **Below**                 | \|\|Lower standard or level, no contact\|\|                    | The score is below average; temperature dropped below freezing     |
+| **To**                    | \|\|Destination\|\|                                            | She went to the market                                             |
+| **To**                    | \|\|Comparison\|\|                                             | I prefer tea to coffee                                             |
+| **Towards**               | \|\|Direction\|\|                                              | She is walking towards the school                                  |
+| **Towards**               | \|\|Attitude\|\|                                               | He has a positive attitude towards work                            |
+| **Towards**               | \|\|Contribution to a goal\|\|                                 | This donation goes towards the school ground                       |
+| **From**                  | \|\|Origin\|\|                                                 | She has come from Brazil                                           |
+| **From**                  | \|\|Cause or reason\|\|                                        | He was tired from the journey                                      |
+| **From**                  | \|\|Distance / starting reference\|\|                          | The college is 5 km from here                                      |
+| **Around**                | \|\|Surrounding / encompassing\|\|                             | She danced around the tree                                         |
+| **Around**                | \|\|Approximate time, number, or quantity\|\|                  | I'll be there around 3 PM; it cost around Rs 100                   |
+| **Around**                | \|\|Various locations\|\|                                      | They travelled all around Europe                                   |
+| **Across**                | \|\|Movement from one side to the other\|\|                    | The shop is across the street                                      |
+| **Through**               | \|\|Movement inside/within something, end to end\|\|           | The train passed through the tunnel                                |
+| **Through**               | \|\|By means of\|\|                                            | I found the job through a friend                                   |
+| **Between**               | \|\|Two distinct entities (position)\|\|                       | The book was between the two lamps                                 |
+| **Between**               | \|\|Relationship or comparison\|\|                             | A strong bond between the siblings                                 |
+| **Between**               | \|\|Time range\|\|                                             | Come anytime between 1 PM and 2 PM                                 |
+| **Between**               | \|\|Choice/selection (of two)\|\|                              | Choose between the red dress and the blue dress                    |
+| **Among**                 | \|\|Position within a group (3+)\|\|                           | She distributed sweets among the students                          |
+| **Amid / Amidst**         | \|\|In the middle of a situation (confusion, storm, noise)\|\| | They found themselves amid the confusion                           |
+| **Of**                    | \|\|Belonging / connection\|                                   | The cover of the book is red                                       |
+| **Of**                    | \|Made from (material)\|                                       | This ring is made of gold                                          |
+| **Of**                    | \|Cause or reason\|                                            | They died of illness                                               |
+| **Of**                    | \|Relationship or association\|                                | A friend of mine                                                   |
+| **Of**                    | \|Quantity or measure\|                                        | A cup of sugar, a teaspoon of salt                                 |
+| **Off**                   | \|Separation or removal\|                                      | Take your shoes off                                                |
+| **Off**                   | \|Disconnection\|                                              | Switch the light off                                               |
+| **Off**                   | \|Distance from a main point\|                                 | The restaurant is off the main highway                             |
+| **Off**                   | \|Physical movement away from a surface\|                      | The cat jumped off the table                                       |
+| **Off**                   | \|Cancellation\|                                               | The event was called off                                           |
+| **Off**                   | \|Discount or reduction\|                                      | 20% off the total bill                                             |
+| **Beside**                | \|Position — next to\|                                         | She sat beside her friend                                          |
+| **Besides**               | \|In addition to / moreover\|                                  | Besides pizza, he also likes pasta                                 |
+| **Besides**               | \|Except for\|                                                 | No one came to the party besides Jack                              |
+| **With**                  | \|Accompaniment\|                                              | She went with her friend                                           |
+| **With**                  | \|Instrument / means\|                                         | He cut the paper with scissors                                     |
+| **With**                  | \|Manner\|                                                     | She spoke with confidence                                          |
+| **By**                    | \|Agent (passive voice)\|                                      | The letter was written by him                                      |
+| **By**                    | \|Means / method\|                                             | He travels by train                                                |
+| **By**                    | \|Deadline (before/at a point in time)\|                       | Submit the form by 5 PM                                            |
+| **By**                    | \|Proximity\|                                                  | She stood by the window                                            |
+| **Into**                  | \|Movement + entry\|                                           | She walked into the room                                           |
+| **Into**                  | \|Change of state\|                                            | Water turned into ice                                              |
+| **Within**                | \|Inside a time limit or boundary\|                            | Reply within a week; stay within the budget                        |
+| **During**                | \|Span of time (something happening throughout)\|              | He slept during the exam                                           |
+| **Before**                | \|Earlier in time or order\|                                   | Reach before 9 AM                                                  |
+| **After**                 | \|Later in time or order\|                                     | He left after the meeting                                          |
+| **Against**               | \|Physical contact / opposition\|                              | He leaned against the wall; vote against the bill                  |
+| **Despite / In spite of** | \|Contrast — although\|                                        | Despite the rain, they played the match                            |
+| **About**                 | \|Topic\|                                                      | We talked about the exam                                           |
+| **About**                 | \|Approximation\|                                              | The bag weighs about 5 kg                                          |
+| **Beyond**                | \|Past a limit\|                                               | This is beyond doubt                                               |
 
 ---
 
