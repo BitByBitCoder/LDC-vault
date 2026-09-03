@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=BFW6hQ2Y0dU
 ## Fixed Preposition Phrases (Most Tested)
 
 
-| Preposition | Meaning                                           | Example                                                                                                                           |
+| Preposition | Use                                               | Example                                                                                                                           |
 | ----------- | ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | **Since**   | \|\|Give the starting points\|\|                  | since 2018,since yesterday,since 2am, we have been friends since high school(starting 2018 till now)                              |
 | Since       | \|\|the reason for something\|\|                  | since ti was started raining we decided to stay indoor                                                                            |
