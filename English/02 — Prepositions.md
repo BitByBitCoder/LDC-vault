@@ -73,9 +73,9 @@ https://www.youtube.com/watch?v=BFW6hQ2Y0dU
 | **Of**                    | \|\|Cause or reason\|\|                                        | They died of illness                                               |
 | **Of**                    | \|\|Relationship or association\|\|                            | A friend of mine                                                   |
 | **Of**                    | \|\|Quantity or measure\|\|                                    | A cup of sugar, a teaspoon of salt                                 |
-| **Off**                   | \|Separation or removal\|                                      | Take your shoes off                                                |
-| **Off**                   | \|Disconnection\|                                              | Switch the light off                                               |
-| **Off**                   | \|Distance from a main point\|                                 | The restaurant is off the main highway                             |
+| **Off**                   | \|\|Separation or removal\|\|                                  | Take your shoes off                                                |
+| **Off**                   | \|\|Disconnection\|\|                                          | Switch the light off                                               |
+| **Off**                   | \|\|Distance from a main point\|                               | The restaurant is off the main highway                             |
 | **Off**                   | \|Physical movement away from a surface\|                      | The cat jumped off the table                                       |
 | **Off**                   | \|Cancellation\|                                               | The event was called off                                           |
 | **Off**                   | \|Discount or reduction\|                                      | 20% off the total bill                                             |
