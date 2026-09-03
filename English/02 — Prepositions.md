@@ -68,8 +68,8 @@ https://www.youtube.com/watch?v=BFW6hQ2Y0dU
 | **Between**               | \|\|Choice/selection (of two)\|\|                              | Choose between the red dress and the blue dress                    |
 | **Among**                 | \|\|Position within a group (3+)\|\|                           | She distributed sweets among the students                          |
 | **Amid / Amidst**         | \|\|In the middle of a situation (confusion, storm, noise)\|\| | They found themselves amid the confusion                           |
-| **Of**                    | \|\|Belonging / connection\|\|                                 | The cover of the book is red                                       |
-| **Of**                    | \|\|Made from (material)\|                                     | This ring is made of gold                                          |
+| **Of**                    | \|\|Belonging /connection\|\|                                  | The cover of the book is red                                       |
+| **Of**                    | \|\|Made from (material)\|\|                                   | This ring is made of gold                                          |
 | **Of**                    | \|\|Cause or reason\|\|                                        | They died of illness                                               |
 | **Of**                    | \|\|Relationship or association\|\|                            | A friend of mine                                                   |
 | **Of**                    | \|\|Quantity or measure\|\|                                    | A cup of sugar, a teaspoon of salt                                 |
