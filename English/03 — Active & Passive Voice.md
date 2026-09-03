@@ -42,7 +42,8 @@ Passive voice lives and dies on knowing which form of "be" matches which tense:
 | Modal              | Modal + be            |
 
 
-## Rule of x![](Screenshot%202026-08-27%20at%201.18.53%20PM.png)
+## Rule of x
+
 |Person|Number|Subject|Object|
 |---|---|---|---|
 |1st|Singular|I|Me|
