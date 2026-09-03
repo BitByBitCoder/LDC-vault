@@ -29,18 +29,6 @@ PASSIVE: Object + be(correct form) + Verb + by + Subject
 ## Byhard table "be verb" table cold
 
 Passive voice lives and dies on knowing which form of "be" matches which tense:
-
-| Tense              | Passive "be" form     |
-| ------------------ | --------------------- |
-| Active             | Passive (V3)          |
-| Simple Present     | Is / am / are         |
-| Simple Past        | Was / were            |
-| Future Tense       | Will / Shall be       |
-| Present Continuous | Is / am / are + being |
-| Past Continuous    | Was / were + being    |
-| Perfect Tense      | Been                  |
-| Modal              | Modal + be            |
-
  Rule of x
 
 | Person | Number   | Subject | Object |
@@ -75,7 +63,7 @@ Passive Formula by Tense
 | Modal              | She **can write** a letter   | \|\|A letter can be written by her\|\|    |
 
 ---
-
+2 by stander
 ## Special Cases (From Your Papers)
 
 ### Imperative Sentences (Commands)
