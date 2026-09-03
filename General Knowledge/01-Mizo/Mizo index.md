@@ -3,30 +3,30 @@
 **Your home state — fastest to learn. 95% controllable.**
 
 
-| **#** | Contents                                    |
-| ----- | ------------------------------------------- |
-| 1     | [[Basic State Gk]]                          |
-| 2     | [[Governor]]                                |
-| 3     | [[Important Year Dates]]                    |
-| 4     | [[Geography]]                               |
-| 5     | [[Mizo Awardees]]                           |
-| 6     | [[ADC]]                                     |
-| 7     | [[first of]]                                |
-| 8     | [[Traditional months]]                      |
-| 9     | [[Laentur]]                                 |
-| 10    | [[Mythology & Folklore]]                    |
-| 11    | [[//he ta tang hian start leh tur]]         |
-| 12    | [[Political party]]                         |
-| 13    | [[Mizo Literature & Awards]]                |
-| 14    | [[Culture and tradition]]                   |
-| 15    | [[Legislature & Governance]]                |
-| 16    | [[Language and phrase]]                     |
-| 17    | [[Important Places]]                        |
-| 18    | [[Scheme]]                                  |
-| 19    | [[sub topic/Christinaty]]                   |
-| 20    | [[General Awearness]]                       |
-| 21    | [[sub topic/Mizoram Assembly Constituency]] |
-| 22    | [[Ministers]]                               |
+| **#** | Contents                            |
+| ----- | ----------------------------------- |
+| 1     | [[Basic State Gk]]                  |
+| 2     | [[Governor]]                        |
+| 3     | [[Important Year Dates]]            |
+| 4     | [[Geography]]                       |
+| 5     | [[Mizo Awardees]]                   |
+| 6     | [[ADC]]                             |
+| 7     | [[first of]]                        |
+| 8     | [[Traditional months]]              |
+| 9     | [[Laentur]]                         |
+| 10    | [[Mythology & Folklore]]            |
+| 11    | [[//he ta tang hian start leh tur]] |
+| 12    | [[Political party]]                 |
+| 13    | [[Mizo Literature & Awards]]        |
+| 14    | [[Culture and tradition]]           |
+| 15    | [[Legislature & Governance]]        |
+| 16    | [[Language and phrase]]             |
+| 17    | [[Important Places]]                |
+| 18    | [[Scheme]]                          |
+| 19    | [[Christinaty]]                     |
+| 20    | [[General Awearness]]               |
+| 21    | [[Mizoram Assembly Constituency]]   |
+| 22    | [[Ministers]]                       |
 
 ## Mizo History, Culture & General Knowledge Study Outline
 
