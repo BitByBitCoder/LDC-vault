@@ -26,7 +26,7 @@ PASSIVE: Object + be(correct form) + Verb + by + Subject
 
 ---
 
-### Master the "be verb" table cold
+## Byhard table "be verb" table cold
 
 Passive voice lives and dies on knowing which form of "be" matches which tense:
 
@@ -41,17 +41,16 @@ Passive voice lives and dies on knowing which form of "be" matches which tense:
 | Perfect Tense      | Been                  |
 | Modal              | Modal + be            |
 
+ Rule of x
 
-## Rule of x
-
-|Person|Number|Subject|Object|
-|---|---|---|---|
-|1st|Singular|I|Me|
-|1st|Plural|We|Us|
-|2nd|Singular|You|You|
-|2nd|Plural|You|You|
-|3rd|Singular|It|It|
-|3rd|Plural|They|Them|
+| Person | Number   | Subject | Object |
+| ------ | -------- | ------- | ------ |
+| 1st    | Singular | I       | Me     |
+| 1st    | Plural   | We      | Us     |
+| 2nd    | Singular | You     | You    |
+| 2nd    | Plural   | You     | You    |
+| 3rd    | Singular | It      | It     |
+| 3rd    | Plural   | They    | Them   |
 **2 Interrogative Sentences
 
 | **Active (Question Word)** | **Passive (Question Word)**                               |
