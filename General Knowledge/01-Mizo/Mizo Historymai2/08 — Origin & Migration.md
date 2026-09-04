@@ -11,17 +11,17 @@ Covers the legendary origin story and the historical migration route of the Mizo
 - Migration into the Lushai Hills occurred in successive waves over centuries, generally grouped into old and new Kuki/Mizo migrations
 - Different clans (Lusei, Hmar, Paite, Ralte, etc.) associated with different migration waves and settlement areas
 
-## Q&A Table (from past papers)
+## Q&A Table
 | # | Question | Answer | Exam Trap |
 |---|----------|--------|-----------|
-| 1 | One of the most famous first large villages of the Mizo, Selesih ("Seven Thousand Houses"), existed around? (a) 1610–1650 AD (b) 1670–1700 AD (c) 1740–1750 AD (d) 1800–1850 AD | ||TBC — no answer key in source, verify|| | Selesih is pre-migration-into-Mizoram-proper — an early large settlement, not the final settlement pattern |
+| 1 | | | |
+| 2 | | | |
+| 3 | | | |
 
 ## Exam Traps
 - Chhinlung spelling variants (Chhinlung/Sinlung) sometimes used interchangeably in questions
 - Migration route order (China → Shan State → Kabaw Valley → Chin Hills → Mizoram) tested as sequencing questions
-- Selesih is a specific named settlement within the broader migration story — don't conflate its date range with the overall migration timeline
 
 ## To verify / fill in
 - Approximate century ranges for each migration wave
 - Clan-specific settlement timelines
-- Confirm Selesih's exact date range — no answer key present in source
