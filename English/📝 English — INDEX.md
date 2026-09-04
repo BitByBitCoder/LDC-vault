@@ -38,7 +38,25 @@
 | Essay Writing             | Part B    | 20 marks | 🔴 High   |
 | Comprehension             | Part B    | 20 marks | 🔴 High   |
 
----
+gemini in siam ve thung
+
+| **Section**                      | **Topic**                 | **Questions / Marks** | **% Weightage** | **Priority Level** |
+| -------------------------------- | ------------------------- | --------------------- | --------------- | ------------------ |
+| **Part B (Descriptive)**         | Essay Writing             | 20 Marks              | Fixed Weight    | 🔴 High            |
+| **Part B (Descriptive)**         | Comprehension             | 20 Marks              | Fixed Weight    | 🔴 High            |
+| **Part A (Grammar & Objective)** | Prepositions              | 17 Questions          | 8.3%            | 🔴 High            |
+| **Part A (Grammar & Objective)** | Tenses                    | 16 Questions          | 7.8%            | 🔴 High            |
+| **Part A (Grammar & Objective)** | Parts of Speech           | 15 Questions          | 7.4%            | 🔴 High            |
+| **Part A (Grammar & Objective)** | Sentence Correction       | 14 Questions          | 6.9%            | 🔴 High            |
+| **Part A (Grammar & Objective)** | Active & Passive Voice    | 8 Questions           | 3.9%            | 🔴 High            |
+| **Part A (Grammar & Objective)** | Antonyms                  | 8 Questions           | 3.9%            | 🔴 High            |
+| **Part A (Grammar & Objective)** | Synonyms                  | 7 Questions           | 3.4%            | 🔴 High            |
+| **Part A (Grammar & Objective)** | Direct & Indirect Speech  | 7 Questions           | 3.4%            | 🔴 High            |
+| **Part A (Grammar & Objective)** | Idioms & Phrases          | 8 Questions           | 4.0%            | 🟡 Medium          |
+| **Part A (Grammar & Objective)** | One Word Substitution     | 7 Questions           | 3.4%            | 🟡 Medium          |
+| **Part A (Grammar & Objective)** | Conjunctions & Connectors | 7 Questions           | 3.4%            | 🟡 Medium          |
+| **Part A (Grammar & Objective)** | Spelling                  | 4 Questions           | 2.0%            | 🟡 Medium          |
+| **Part A (Grammar & Objective)** | Articles (a/an/the)       | 2 Questions           | 1.0%            | 🟢 Low             |
 
 ## 📁 Sub-Topics — Click to Open
 
