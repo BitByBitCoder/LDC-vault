@@ -9,7 +9,7 @@ These topics carry the highest weightage in Mizoram LDC (MSSSB/MPSC) General Kno
   
 
 - **Mizoram Polity & History:** Political History (Topic 22), Chief Minister & Speaker (23), Lt. Governor & Governor (25), and Historical conflicts/battles (28).
-    
+     
       
     
 - **Mizo Culture & Heritage:** Traditional customs (26), Traditional attire (29), Marriage & divorce rules (30, 35), Religious rites/sacrifices (_Serh leh Sang_) (40, 56).
