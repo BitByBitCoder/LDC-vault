@@ -5,14 +5,14 @@
 
 ## Questions From Your Papers
 
-| Wrong Sentence | Correct Sentence | Error |
-|----------------|-----------------|-------|
-| She **don't** like coffee | She **doesn't** like coffee | She = singular → doesn't |
-| She **doesn't likes** coffee | She **doesn't like** coffee | After does/doesn't → base verb |
+| Wrong Sentence                            | Correct Sentence                          | Error                           |
+| ----------------------------------------- | ----------------------------------------- | ------------------------------- |
+| She **don't** like coffee                 | She **doesn't** like coffee               | She = singular → doesn't        |
+| She **doesn't likes** coffee              | She **doesn't like** coffee               | After does/doesn't → base verb  |
 | **Hardly had finished** he when bell rang | **Hardly had he finished** when bell rang | Inversion after negative adverb |
-| He **hardly had** finished | **Hardly had he** finished | Same — inversion |
-| The crowd left **one after one** | left **one by one** | Fixed phrase |
-| He climbed up the tree **and** plucked | **Climbing up** the tree, he plucked | Sentence combining |
+| He **hardly had** finished                | **Hardly had he** finished                | Same — inversion                |
+| The crowd left **one after one**          | left **one by one**                       | Fixed phrase                    |
+| He climbed up the tree **and** plucked    | **Climbing up** the tree, he plucked      | Sentence combining              |
 
 ---
 
