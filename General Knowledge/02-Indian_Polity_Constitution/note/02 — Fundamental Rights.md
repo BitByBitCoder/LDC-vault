@@ -10,11 +10,11 @@
 | **Part of Constitution with Fundamental Rights** | \|\|Part III (Often called the Magna Carta of India)\|\| |
 | **Fundamental Rights inspired by**               | \|\|United States Constitution (Bill of Rights)\|\|      |
 | **Right NOT a Fundamental Right**                | \|\|Right to Property\|\|                                |
-| **Right to vote is**                             | \|\|Constitutional Right / Legal Right                   |
-| **Fundamental Right enjoyed by foreigners**      | Right to Equality (Article 14)                           |
-| **Articles NOT suspended during Emergency**      | Articles 20 and 21                                       |
-| **Article 21A**                                  | Right to Education (Free & compulsory, age 6–14)         |
-| **Which part highlights secular character**      | Preamble (Also supported by Articles 25–28)              |
+| **Right to vote is**                             | \|\|Constitutional Right / Legal Right\|\|               |
+| **Fundamental Right enjoyed by foreigners**      | \|\|Right to Equality (Article 14)\|\|                   |
+| **Articles NOT suspended during Emergency**      | \|\|Articles 20 and 21\|\|                               |
+| **Article 21A**                                  | \|\|Right to Education (Free & compulsory, age 6–14)\|\| |
+| **Which part highlights secular character**      | \|\|Preamble (Also supported by Articles 25–28)\|\|      |
 |                                                  |                                                          |
 |                                                  |                                                          |
 
