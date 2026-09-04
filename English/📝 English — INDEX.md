@@ -38,7 +38,7 @@
 | Essay Writing             | Part B    | 20 marks | 🔴 High   |
 | Comprehension             | Part B    | 20 marks | 🔴 High   |
 
-gemini in siam ve thung
+gemini in siam ve thung [[english roadmap gemini]]
 
 | **Section**                      | **Topic**                 | **Questions / Marks** | **% Weightage** | **Priority Level** |
 | -------------------------------- | ------------------------- | --------------------- | --------------- | ------------------ |
