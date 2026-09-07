@@ -145,4 +145,6 @@ night computer
 
 mon 7 sept
  10 am morning maths
- gk 
+ gk polity
+ english
+ constitution - me
