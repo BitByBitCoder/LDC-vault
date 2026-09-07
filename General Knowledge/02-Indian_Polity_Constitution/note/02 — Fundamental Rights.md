@@ -33,15 +33,15 @@
 [Fundamental Rights](indian%20polity%20canvas/Fundamental%20Rights.canvas)
 ## Key Articles in Fundamental Rights
 
-| **Article.**    | **What it says (Exact Definition)**                                                                       | **Mizo Zirlai Kutchhuak (Core Concept)**                                                               |
-| --------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| **Article 14**  | \|\|Equality before law and equal protection of the laws.\|\|                                             | Dan hmaah mi zawng zawng kan intluktlân a ngai.                                                        |
-| **Article 19**  | \|\|Protection of certain rights regarding **freedom of speech**, expression, assembly, and movement.\|\| | Zalenna bulpui—tlawmngai taka thurual khawm leh duh dana chet zalenna.                                 |
-| **Article 20**  | **Protection in respect of conviction for offences**. _(Cannot be suspended in Emergency)_                | **Thil tih sual a fair taka hma lak.** Emergency hun pawha thiah theih loh.                            |
-| **Article 21**  | **Protection of life and personal liberty**. _(Cannot be suspended in Emergency)_                         | Nung dama awm leh zalenna dikna. Emergency hun pawha thiah theih loh.                                  |
-| **Article 21A** | **Right to education** (Free and compulsory education for children aged 6 to 14 years).                   | Kum 6-14 inkar naupangten a thlawna lehkha zir an dikna a ni.                                          |
-| **Article 22**  | **Protection against arrest and detention** in certain cases.                                             | Chhan tha tawk awm loa man leh kharkhip laka himna (magistrate hmaah 24 hours chhunga hruai tur).      |
-| **Article 32**  | **Remedies for enforcement of rights** conferred by this Part (Right to move Supreme Court via Writs).    | Samari Titha—kan dikna chanvo te laksak kan nih uma Supreme Court-a zualko theihna ("Heart and Soul"). |
+| **Article.**    | **What it says (Exact Definition)**                                                                    | **Mizo Zirlai Kutchhuak (Core Concept)**                                                               |
+| --------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
+| **Article 14**  | \|\|Equality before law and equal protection of the laws.\|\|                                          | Dan hmaah mi zawng zawng kan intluktlân a ngai.                                                        |
+| **Article 19**  | \|\|Protection of certain rights regarding freedom of speech, expression, assembly, and movement.\|\|  | Zalenna bulpui—tlawmngai taka thurual khawm leh duh dana chet zalenna.                                 |
+| **Article 20**  | \|\|Protection in respect of conviction for offences. (Cannot be suspended in Emergency)\|\|           | **Thil tih sual a fair taka hma lak.** Emergency hun pawha thiah theih loh.                            |
+| **Article 21**  | \|\|Protection of life and personal liberty. (Cannot be suspended in Emergency)\|\|                    | Nung dama awm leh zalenna dikna. Emergency hun pawha thiah theih loh.                                  |
+| **Article 21A** | **Right to education** (Free and compulsory education for children aged 6 to 14 years).                | Kum 6-14 inkar naupangten a thlawna lehkha zir an dikna a ni.                                          |
+| **Article 22**  | **Protection against arrest and detention** in certain cases.                                          | Chhan tha tawk awm loa man leh kharkhip laka himna (magistrate hmaah 24 hours chhunga hruai tur).      |
+| **Article 32**  | **Remedies for enforcement of rights** conferred by this Part (Right to move Supreme Court via Writs). | Samari Titha—kan dikna chanvo te laksak kan nih uma Supreme Court-a zualko theihna ("Heart and Soul"). |
 
 |             |                                                                                                                                 |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------- |
