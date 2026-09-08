@@ -48,16 +48,16 @@
 
 ## State Legislative Assembly & Council Strength (selected)
 
-| State          | Assembly Seats | Council Seats (if any) |     |     |     |     |     |     |     |     |
-| -------------- | -------------- | ---------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Uttar Pradesh  | 403            | 100                    |     |     |     |     |     |     |     |     |
-| Maharashtra    | 288            | 78                     |     |     |     |     |     |     |     |     |
-| West Bengal    | 295            |                        |     |     |     | —   |     |     |     |     |
-| Bihar          | 243            | 75                     |     |     |     |     |     |     |     |     |
-| Tamil Nadu     | 235            |                        |     |     |     | —   |     |     |     |     |
-| Karnataka      | 224            | 75                     |     |     |     |     |     |     |     |     |
-| Andhra Pradesh | 175            | 58                     |     |     |     |     |     |     |     |     |
-| Telangana      | 119            | 40                     |     |     |     |     |     |     |     |     |
+| State          | Assembly Seats | Council Seats (if any) |
+| -------------- | -------------- | ---------------------- |
+| Uttar Pradesh  | 403            | 100                    |
+| Maharashtra    | 288            | 78                     |
+| West Bengal    | 295            |                        |
+| Bihar          | 243            | 75                     |
+| Tamil Nadu     | 235            |                        |
+| Karnataka      | 224            | 75                     |
+| Andhra Pradesh | 175            | 58                     |
+| Telangana      | 119            | 40                     |
 
 ## Exam Trap ⚠️
 - Number of bicameral states shifts over time (source lists 6: AP, Bihar, J&K, Karnataka, Maharashtra, UP) — verify current count as J&K's status changed post-2019 (now a UT, no longer has this legislature structure the same way).

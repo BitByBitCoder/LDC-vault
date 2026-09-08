@@ -4,56 +4,56 @@
 
 ## Supreme Court (Articles 124–147)
 
-| Question | Answer |
-|---|---|
-| Who appoints every Supreme Court Judge, after consulting whom? | ||President, after consulting the Chief Justice of the Supreme Court|| |
-| Which Article establishes the Supreme Court? | ||Article 124|| |
-| Current strength of Supreme Court per this source? | ||31 Judges (1 CJI + 30 Judges)|| |
-| Under Art 124(3), what are the 3 alternate qualification paths for an SC Judge? | ||10 years as HC Judge; OR 10 years as HC advocate; OR distinguished jurist in President's opinion|| |
-| Who administers the oath to an SC Judge? | ||The President (or appointed person)|| |
-| Retirement age for SC Judges? | ||65 years|| |
-| How can an SC Judge be removed, under which Article? | ||By President's order after an address by each House by special majority, Article 124(4); only for proved misbehaviour or incapacity|| |
-| Has any SC Judge ever been impeached? | ||No|| |
-| Who determines SC Judges' salaries/allowances, under which Article? | ||Parliament, Article 125|| |
-| Under which Article can President appoint an Acting CJI, and in what situations? | ||Article 126; when CJI's office is vacant, temporarily absent, or unable to perform duties|| |
-| Under which Article can CJI appoint an Ad hoc Judge (from a HC), and when? | ||Article 127; when there's no quorum of SC Judges|| |
-| What is a Constitutional Bench? | ||A bench of at least 5 judges, constituted by CJI, to hear a case involving a substantial question of law|| |
-| Under which Article does SC decide disputes between the Centre & States (Original Jurisdiction)? | ||Article 131|| |
-| What are the 4 heads of SC's Appellate Jurisdiction (Article 132)? | ||Constitutional matters; civil matters (Art 133); criminal matters (Art 134); special leave (Art 136)|| |
-| Under which Article can the President seek SC's advisory opinion, and is it binding? | ||Article 143; NOT binding on the President|| |
-| Under which Article does the SC have power of judicial review? | ||Article 137 (also generally Art 13)|| |
-| What does Article 141 establish? | ||Law declared by SC binding on all courts in India|| |
-| What does Article 144 establish? | ||All authorities (civil & judicial) must act in aid of the Supreme Court|| |
-| During whose tenure as CJI did PIL (Public Interest Litigation) start in India? | ||Chief Justice P.N. Bhagwati|| |
-| The SC's Article 32 writ jurisdiction is treated as what kind of jurisdiction (though called writ jurisdiction)? | ||'Original' jurisdiction|| |
-| Can SC hear appeals against a military tribunal's judgment under special leave? | ||No — exception under Article 136|| |
+| Question                                                                                                         | Answer                                                                                                                              |     |     |
+| ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --- | --- |
+| Who appoints every Supreme Court Judge, after consulting whom?                                                   | President, after consulting the Chief Justice of the Supreme Court                                                                  |     |     |
+| Which Article establishes the Supreme Court?                                                                     | Article 124                                                                                                                         |     |     |
+| Current strength of Supreme Court per this source?                                                               | 31 Judges (1 CJI + 30 Judges)                                                                                                       |     |     |
+| Under Art 124(3), what are the 3 alternate qualification paths for an SC Judge?                                  | 10 years as HC Judge; OR 10 years as HC advocate; OR distinguished jurist in President's opinion                                    |     |     |
+| Who administers the oath to an SC Judge?                                                                         | The President (or appointed person)                                                                                                 |     |     |
+| Retirement age for SC Judges?                                                                                    | 65 years                                                                                                                            |     |     |
+| How can an SC Judge be removed, under which Article?                                                             | By President's order after an address by each House by special majority, Article 124(4); only for proved misbehaviour or incapacity |     |     |
+| Has any SC Judge ever been impeached?                                                                            | No                                                                                                                                  |     |     |
+| Who determines SC Judges' salaries/allowances, under which Article?                                              | Parliament, Article 125                                                                                                             |     |     |
+| Under which Article can President appoint an Acting CJI, and in what situations?                                 | Article 126; when CJI's office is vacant, temporarily absent, or unable to perform duties                                           |     |     |
+| Under which Article can CJI appoint an Ad hoc Judge (from a HC), and when?                                       | Article 127; when there's no quorum of SC Judges                                                                                    |     |     |
+| What is a Constitutional Bench?                                                                                  | A bench of at least 5 judges, constituted by CJI, to hear a case involving a substantial question of law                            |     |     |
+| Under which Article does SC decide disputes between the Centre & States (Original Jurisdiction)?                 | Article 131                                                                                                                         |     |     |
+| What are the 4 heads of SC's Appellate Jurisdiction (Article 132)?                                               | Constitutional matters; civil matters (Art 133); criminal matters (Art 134); special leave (Art 136)                                |     |     |
+| Under which Article can the President seek SC's advisory opinion, and is it binding?                             | Article 143; NOT binding on the President                                                                                           |     |     |
+| Under which Article does the SC have power of judicial review?                                                   | Article 137 (also generally Art 13)                                                                                                 |     |     |
+| What does Article 141 establish?                                                                                 | Law declared by SC binding on all courts in India                                                                                   |     |     |
+| What does Article 144 establish?                                                                                 | All authorities (civil & judicial) must act in aid of the Supreme Court                                                             |     |     |
+| During whose tenure as CJI did PIL (Public Interest Litigation) start in India?                                  | Chief Justice P.N. Bhagwati                                                                                                         |     |     |
+| The SC's Article 32 writ jurisdiction is treated as what kind of jurisdiction (though called writ jurisdiction)? | 'Original' jurisdiction                                                                                                             |     |     |
+| Can SC hear appeals against a military tribunal's judgment under special leave?                                  | No — exception under Article 136                                                                                                    |     |     |
 
 ### Chief Justices of India (selected key names/dates)
 
-| # | Name | Period |
-|---|---|---|
-| 1 | Hiralal J. Kania | ||26 Jan 1950 – 6 Nov 1951 (first CJI)|| |
-| 14 | Ajit Nath Ray | ||1973–1977 (superseded 3 senior judges — controversial)|| |
-| 16 | Y.V. Chandrachud | ||1978–1985 (longest-serving CJI)|| |
-| 17 | P.N. Bhagwati | ||1985–1986 (PIL pioneer)|| |
-| 44 | J.S. Khehar | ||2017– (first Sikh CJI)|| |
-| 48 | N.V. Ramana | ||2021– Incumbent (per this source)|| |
+| #   | Name             | Period                                                 |
+| --- | ---------------- | ------------------------------------------------------ |
+| 1   | Hiralal J. Kania | 26 Jan 1950 – 6 Nov 1951 (first CJI)                   |
+| 14  | Ajit Nath Ray    | 1973–1977 (superseded 3 senior judges — controversial) |
+| 16  | Y.V. Chandrachud | 1978–1985 (longest-serving CJI)                        |
+| 17  | P.N. Bhagwati    | 1985–1986 (PIL pioneer)                                |
+| 44  | J.S. Khehar      | 2017– (first Sikh CJI)                                 |
+| 48  | N.V. Ramana      | 2021– Incumbent (per this source)                      |
 
 ## High Court (Articles 214–231)
 
-| Question | Answer |
-|---|---|
-| Who determines a High Court's strength, based on what? | ||The President, based on workload, from time to time|| |
-| Is a High Court's territorial jurisdiction co-terminus with a State? | ||Yes|| |
-| Under which Article are HC Judges appointed? | ||Article 217, by the President|| |
-| Who is consulted before appointing the Chief Justice of a High Court? | ||CJI of India and Governor of the concerned state|| |
-| Under which Article is the HC Judge's oath administered, by whom? | ||Article 219, by the Governor|| |
-| Retirement age for HC Judges? | ||65 years (raised from 62 by 15th Amendment)|| |
-| Note: source text also states 62 years elsewhere for HC Judge retirement — which is correct? | ||65 years is correct/current (Article 217, after 15th Amendment 1963); this PDF has an internal inconsistency — verify with latest source|| |
-| Ways an HC Judge can leave office? | ||Resignation to President; appointment/transfer to another HC or SC; removal by President|| |
-| Qualifications for HC Judgeship? | ||Citizen of India; held judicial office 10 years OR advocate of a HC for 10 years|| |
-| Who determines HC Judges' salaries? | ||Parliament, from time to time; charged on Consolidated Fund of the State|| |
-| Difference in writ jurisdiction: SC vs HC? | ||SC only for Fundamental Rights enforcement; HC for FR enforcement AND redress of any other legal right/illegality (Article 226)|| |
+| Question                                                                                     | Answer |     |                                                                                                                                          |     |     |
+| -------------------------------------------------------------------------------------------- | ------ | --- | ---------------------------------------------------------------------------------------------------------------------------------------- | --- | --- |
+| Who determines a High Court's strength, based on what?                                       |        |     | The President, based on workload, from time to time                                                                                      |     |     |
+| Is a High Court's territorial jurisdiction co-terminus with a State?                         |        |     | Yes                                                                                                                                      |     |     |
+| Under which Article are HC Judges appointed?                                                 |        |     | Article 217, by the President                                                                                                            |     |     |
+| Who is consulted before appointing the Chief Justice of a High Court?                        |        |     | CJI of India and Governor of the concerned state                                                                                         |     |     |
+| Under which Article is the HC Judge's oath administered, by whom?                            |        |     | Article 219, by the Governor                                                                                                             |     |     |
+| Retirement age for HC Judges?                                                                |        |     | 65 years (raised from 62 by 15th Amendment)                                                                                              |     |     |
+| Note: source text also states 62 years elsewhere for HC Judge retirement — which is correct? |        |     | 65 years is correct/current (Article 217, after 15th Amendment 1963); this PDF has an internal inconsistency — verify with latest source |     |     |
+| Ways an HC Judge can leave office?                                                           |        |     | Resignation to President; appointment/transfer to another HC or SC; removal by President                                                 |     |     |
+| Qualifications for HC Judgeship?                                                             |        |     | Citizen of India; held judicial office 10 years OR advocate of a HC for 10 years                                                         |     |     |
+| Who determines HC Judges' salaries?                                                          |        |     | Parliament, from time to time; charged on Consolidated Fund of the State                                                                 |     |     |
+| Difference in writ jurisdiction: SC vs HC?                                                   |        |     | SC only for Fundamental Rights enforcement; HC for FR enforcement AND redress of any other legal right/illegality (Article 226)          |     |     |
 
 ### Jurisdiction & Seats of High Courts (selected)
 
