@@ -17,10 +17,10 @@
 | **Money Bill certified by**       | \|\|Speaker of Lok Sabha\|\|                | **Article 110**       | Bill thehluh chu 'Money Bill' a ni ngei em tih nemnghettu.                            |
 | **Joint sitting presided by**     | \|\|Speaker of Lok Sabha\|\|                | **Article 118**       | Rajya Sabha leh Lok Sabha an inkhawm fin (Joint sitting) changa kaihruaitu.           |
 | **Who summons Parliament**        | \|\|President\|\|                           | **Article 85**        | Parliament inkhawm tur ko khawmtu (summon).                                           |
-| **Who prorogues Parliament**      | President                                   | **Article 85**        | Parliament session ti-tawptu (prorogue).                                              |
-| **Max gap between sessions**      | 6 months                                    | **Article 85**        | Parliament session vawi hnih inkarah thla 6 aia rei a awm tur a ni lo.                |
-| **Budget presented by**           | Finance Minister                            | **Article 112**       | Kum khat atana sorkar sum hman dan tur (Annual Financial Statement) pharhtu.          |
-| **Budget presented in**           | Lok Sabha                                   | _(Convention)_        | Budget hi Lok Sabha-ah pharh hmasak ber a ni thin                                     |
+| **Who prorogues Parliament**      | \|\|President\|\|                           | **Article 85**        | Parliament session ti-tawptu (prorogue).                                              |
+| **Max gap between sessions**      | \|\|6 months\|\|                            | **Article 85**        | Parliament session vawi hnih inkarah thla 6 aia rei a awm tur a ni lo.                |
+| **Budget presented by**           | \|\|Finance Minister\|\|                    | **Article 112**       | Kum khat atana sorkar sum hman dan tur (Annual Financial Statement) pharhtu.          |
+| **Budget presented in**           | \|\|Lok Sabha\|\|                           | _(Convention)_        | Budget hi Lok Sabha-ah pharh hmasak ber a ni thin                                     |
 
 ## Parliament — Full Structure
 
