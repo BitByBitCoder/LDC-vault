@@ -58,46 +58,46 @@
 
 ## Finance Commission (Articles 280–281)
 
-| Question                                           | Answer                                                                                                                                                                                     |     |     |
-| -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- | --- |
-| Who establishes the Finance Commission, how often? | President, every 5 years                                                                                                                                                                   |     |     |
-| Composition of the Finance Commission?             | A Chairman + 4 other members                                                                                                                                                               |     |     |
-| From what background is the Chairman selected?     | Persons with experience in public affairs                                                                                                                                                  |     |     |
-| Main functions of the Finance Commission?          | Recommend tax-proceeds distribution Centre-State; recommend grants-in-aid principles; advise President on sound finance; suggest export-duty compensation for Assam/Bihar/Odisha/WB (jute) |     |     |
-| Are the Commission's recommendations binding?      | No, but generally accepted by the Central Government                                                                                                                                       |     |     |
-| Recommendations apply for how long?                | 5 years                                                                                                                                                                                    |     |     |
+| Question                                           | Answer                                                                                                                                                                                     |
+| -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Who establishes the Finance Commission, how often? | President, every 5 years                                                                                                                                                                   |
+| Composition of the Finance Commission?             | A Chairman + 4 other members                                                                                                                                                               |
+| From what background is the Chairman selected?     | Persons with experience in public affairs                                                                                                                                                  |
+| Main functions of the Finance Commission?          | Recommend tax-proceeds distribution Centre-State; recommend grants-in-aid principles; advise President on sound finance; suggest export-duty compensation for Assam/Bihar/Odisha/WB (jute) |
+| Are the Commission's recommendations binding?      | No, but generally accepted by the Central Government                                                                                                                                       |
+| Recommendations apply for how long?                | 5 years                                                                                                                                                                                    |
 
 ### Finance Commissions Table (selected)
 
-| # | Year Established | Chairman | Implementation Period |
-|---|---|---|---|
-| First | ||1951|| | ||K.C. Neogi|| | ||1952–57|| |
-| Sixth | ||1972|| | ||K. Brahmananda Reddy|| | ||1974–79|| |
-| Ninth | ||1987|| | ||N.K.P. Salve|| | ||1989–95|| |
-| Twelfth | ||2002|| | ||C. Rangarajan|| | ||2005–2010|| |
-| Thirteenth | ||2007|| | ||Dr. Vijay L. Kelkar|| | ||2010–2015|| |
-| Fourteenth | ||2013|| | ||Dr. Y.V. Reddy|| | ||2015–2020|| |
-| Fifteenth | ||2017|| | ||N.K. Singh|| | ||2020–25|| |
+| #          | Year Established | Chairman             | Implementation Period |
+| ---------- | ---------------- | -------------------- | --------------------- |
+| First      | 1951             | K.C. Neogi           | 1952–57               |
+| Sixth      | 1972             | K. Brahmananda Reddy | 1974–79               |
+| Ninth      | 1987             | N.K.P. Salve         | 1989–95               |
+| Twelfth    | 2002             | C. Rangarajan        | 2005–2010             |
+| Thirteenth | 2007             | Dr. Vijay L. Kelkar  | 2010–2015             |
+| Fourteenth | 2013             | Dr. Y.V. Reddy       | 2015–2020             |
+| Fifteenth  | 2017             | N.K. Singh           | 2020–25               |
 
 ## National Development Council (NDC)
 
-| Question | Answer |
-|---|---|
-| When was NDC formed, and for what purpose? | ||1952, to associate States in formulation of the Plans|| |
-| Who are NDC members? | ||All Union Cabinet members, all State CMs, Administrators of UTs, Planning Commission members|| |
-| Is NDC a constitutional body? | ||No — extra-constitutional and extra-legal body|| |
+| Question                                   | Answer                                                                                       |
+| ------------------------------------------ | -------------------------------------------------------------------------------------------- |
+| When was NDC formed, and for what purpose? | 1952, to associate States in formulation of the Plans                                        |
+| Who are NDC members?                       | All Union Cabinet members, all State CMs, Administrators of UTs, Planning Commission members |
+| Is NDC a constitutional body?              | No — extra-constitutional and extra-legal body                                               |
 
 ## Inter-State Relations & Councils
 
-| Question | Answer |
-|---|---|
-| When was the Inter-State Council constituted, under which Article? | ||April 1990, Article 263|| |
-| Composition of Inter-State Council? | ||PM + 6 Union Cabinet Ministers + Chief Ministers of all States + Administrators of all UTs|| |
-| Who chairs the Inter-State Council, how often does it meet? | ||PM; meets thrice a year|| |
-| Under which Article was the Inter-State Water Disputes Tribunal constituted? | ||Article 262|| |
-| Are inter-State river water disputes under the jurisdiction of courts including SC? | ||No, excluded from all courts' jurisdiction|| |
-| How many Zonal Councils exist, and who chairs all of them? | ||6 Zonal Councils; Union Home Minister (common chairman)|| |
-| Who determines Centre-State water use/distribution disputes? | ||The Centre, under Article 262|| |
+| Question                                                                            | Answer |     |                                                                                            |     |     |
+| ----------------------------------------------------------------------------------- | ------ | --- | ------------------------------------------------------------------------------------------ | --- | --- |
+| When was the Inter-State Council constituted, under which Article?                  |        |     | April 1990, Article 263                                                                    |     |     |
+| Composition of Inter-State Council?                                                 |        |     | PM + 6 Union Cabinet Ministers + Chief Ministers of all States + Administrators of all UTs |     |     |
+| Who chairs the Inter-State Council, how often does it meet?                         |        |     | PM; meets thrice a year                                                                    |     |     |
+| Under which Article was the Inter-State Water Disputes Tribunal constituted?        |        |     | Article 262                                                                                |     |     |
+| Are inter-State river water disputes under the jurisdiction of courts including SC? |        |     | No, excluded from all courts' jurisdiction                                                 |     |     |
+| How many Zonal Councils exist, and who chairs all of them?                          |        |     | 6 Zonal Councils; Union Home Minister (common chairman)                                    |     |     |
+| Who determines Centre-State water use/distribution disputes?                        |        |     | The Centre, under Article 262                                                              |     |     |
 
 ## Legislative/Administrative/Financial Relations (Centre-State)
 
