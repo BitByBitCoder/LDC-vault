@@ -35,12 +35,12 @@
 
 ## State-wise Rajya Sabha Seats (Important)
 
-| State         | Rajya Sabha Seats |
-| ------------- | ----------------- |
-| Uttar Pradesh | 31 (highest)      |
-| Maharashtra   | 19                |
-| Tamil Nadu    | 18                |
-| Mizoram       | **1**             |
+| State         | Rajya Sabha Seats    |
+| ------------- | -------------------- |
+| Uttar Pradesh | \|\|31 (highest)\|\| |
+| Maharashtra   | \|\|19\|\|           |
+| Tamil Nadu    | \|\|18\|\|           |
+| Mizoram       | \|\|1\|\|            |
 
 ## Quorum
 
