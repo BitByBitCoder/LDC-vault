@@ -4,50 +4,50 @@
 
 ## The 12 Schedules
 
-| Schedule | Content |
-|---|---|
-| 1st | ||28 States and 8 Union Territories with territorial demarcations|| |
-| 2nd | ||Salary/emoluments — Part A: President & Governors; Part B: omitted; Part C: Speaker/Chairman etc.; Part D: SC/HC judges; Part E: CAG|| |
-| 3rd | ||Forms of oath and affirmations of legislature members, ministers, judges|| |
-| 4th | ||Allocation of seats to States/UTs in Rajya Sabha|| |
-| 5th | ||Administration and control of Scheduled Areas and STs|| |
-| 6th | ||Administration of Tribal Areas of North-Eastern States|| |
-| 7th | ||Distribution of power: Union List, State List, Concurrent List|| |
-| 8th | ||22 recognised languages|| |
-| 9th | ||Validation of certain Acts and Regulations (protected from judicial review)|| |
-| 10th | ||Anti-Defection Law (disqualification on grounds of defection)|| |
-| 11th | ||Powers/responsibilities of Panchayats, 29 subjects (73rd Amendment)|| |
-| 12th | ||Powers/responsibilities of Municipalities, 18 subjects (74th Amendment)|| |
+| Schedule | Content                                                                                                                              |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 1st      | 28 States and 8 Union Territories with territorial demarcations                                                                      |
+| 2nd      | Salary/emoluments — Part A: President & Governors; Part B: omitted; Part C: Speaker/Chairman etc.; Part D: SC/HC judges; Part E: CAG |
+| 3rd      | Forms of oath and affirmations of legislature members, ministers, judges                                                             |
+| 4th      | Allocation of seats to States/UTs in Rajya Sabha                                                                                     |
+| 5th      | Administration and control of Scheduled Areas and STs                                                                                |
+| 6th      | Administration of Tribal Areas of North-Eastern States                                                                               |
+| 7th      | Distribution of power: Union List, State List, Concurrent List                                                                       |
+| 8th      | 22 recognised languages                                                                                                              |
+| 9th      | Validation of certain Acts and Regulations (protected from judicial review)                                                          |
+| 10th     | Anti-Defection Law (disqualification on grounds of defection)                                                                        |
+| 11th     | Powers/responsibilities of Panchayats, 29 subjects (73rd Amendment)                                                                  |
+| 12th     | Powers/responsibilities of Municipalities, 18 subjects (74th Amendment)                                                              |
 
 ## Master Article Index (Part-wise)
 
-| Part | Articles | Subject |
-|---|---|---|
-| I | ||1–4|| | ||The Union and its territory|| |
-| II | ||5–11|| | ||Citizenship|| |
-| III | ||12–35|| | ||Fundamental Rights|| |
-| IV | ||36–51|| | ||Directive Principles of State Policy|| |
-| IVA | ||51A|| | ||Fundamental Duties|| |
-| V | ||52–151|| | ||The Union (Executive, Parliament, Judiciary, CAG)|| |
-| VI | ||152–237|| | ||The States (Executive, Legislature, HCs)|| |
-| VIII | ||239–242|| | ||The Union Territories|| |
-| IX | ||243–243O|| | ||The Panchayats|| |
-| IX A | ||243P–243ZG|| | ||The Municipalities|| |
-| IX B | ||243ZH–243ZT|| | ||The Co-operative Societies|| |
-| X | ||244–244A|| | ||The Scheduled and Tribal Areas|| |
-| XI | ||245–263|| | ||Relations between Union and States|| |
-| XII | ||264–300A|| | ||Finance, property, contracts, suits (incl. Right to Property)|| |
-| XIII | ||301–307|| | ||Trade, commerce & industry within India|| |
-| XIV | ||308–323|| | ||Services under Union and States|| |
-| XIVA | ||323A–323B|| | ||Tribunals|| |
-| XV | ||324–329|| | ||Elections|| |
-| XVI | ||330–342|| | ||Special provisions for certain classes|| |
-| XVII | ||343–351|| | ||Official Languages|| |
-| XVIII | ||352–360|| | ||Emergency Provisions|| |
-| XIX | ||361–367|| | ||Miscellaneous|| |
-| XX | ||368|| | ||Amendment of the Constitution|| |
-| XXI | ||369–392|| | ||Temporary, Transitional, Special provisions|| |
-| XXII | ||393–395|| | ||Short title, Commencement, Hindi text, Repeals|| |
+| Part  | Articles | Subject |     |     |     |     |     |                                                               |     |     |
+| ----- | -------- | ------- | --- | --- | --- | --- | --- | ------------------------------------------------------------- | --- | --- |
+| I     |          |         |     |     |     |     |     | The Union and its territory                                   |     |     |
+| II    |          |         |     |     |     |     |     | Citizenship                                                   |     |     |
+| III   |          |         |     |     |     |     |     | Fundamental Rights                                            |     |     |
+| IV    |          |         |     |     |     |     |     | Directive Principles of State Policy                          |     |     |
+| IVA   |          |         |     |     |     |     |     | Fundamental Duties                                            |     |     |
+| V     |          |         |     |     |     |     |     | The Union (Executive, Parliament, Judiciary, CAG)             |     |     |
+| VI    |          |         |     |     |     |     |     | The States (Executive, Legislature, HCs)                      |     |     |
+| VIII  |          |         |     |     |     |     |     | The Union Territories                                         |     |     |
+| IX    |          |         |     |     |     |     |     | The Panchayats                                                |     |     |
+| IX A  |          |         |     |     |     |     |     | The Municipalities                                            |     |     |
+| IX B  |          |         |     |     |     |     |     | The Co-operative Societies                                    |     |     |
+| X     |          |         |     |     |     |     |     | The Scheduled and Tribal Areas                                |     |     |
+| XI    |          |         |     |     |     |     |     | Relations between Union and States                            |     |     |
+| XII   |          |         |     |     |     |     |     | Finance, property, contracts, suits (incl. Right to Property) |     |     |
+| XIII  |          |         |     |     |     |     |     | Trade, commerce & industry within India                       |     |     |
+| XIV   |          |         |     |     |     |     |     | Services under Union and States                               |     |     |
+| XIVA  |          |         |     |     |     |     |     | Tribunals                                                     |     |     |
+| XV    |          |         |     |     |     |     |     | Elections                                                     |     |     |
+| XVI   |          |         |     |     |     |     |     | Special provisions for certain classes                        |     |     |
+| XVII  |          |         |     |     |     |     |     | Official Languages                                            |     |     |
+| XVIII |          |         |     |     |     |     |     | Emergency Provisions                                          |     |     |
+| XIX   |          |         |     |     |     |     |     | Miscellaneous                                                 |     |     |
+| XX    |          |         |     |     |     |     |     | Amendment of the Constitution                                 |     |     |
+| XXI   |          |         |     |     |     |     |     | Temporary, Transitional, Special provisions                   |     |     |
+| XXII  |          |         |     |     |     |     |     | Short title, Commencement, Hindi text, Repeals                |     |     |
 
 ## Individually-Tested Key Articles (byheart, ungrouped)
 
