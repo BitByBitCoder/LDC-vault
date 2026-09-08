@@ -1,0 +1,47 @@
+⬅ [[00-Index]]
+
+# Preamble & Salient Features of the Constitution
+
+| Question                                                                                | Answer |     |                                                                                                                                             |     |     |
+| --------------------------------------------------------------------------------------- | ------ | --- | ------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- |
+| The Preamble is based on which resolution, drafted/moved by whom?                       |        |     | Objective Resolution, drafted and moved by Pandit Nehru                                                                                     |     |     |
+| Who called the Preamble the "Identity" of the Constitution?                             |        |     | N.A. Palkivala                                                                                                                              |     |     |
+| Is the Preamble enforceable in a court of law?                                          |        |     | No                                                                                                                                          |     |     |
+| How many times has the Preamble been amended, and by which Act?                         |        |     | Once, by the 42nd Constitutional Amendment Act, 1976                                                                                        |     |     |
+| What three words were added to the Preamble by the 42nd Amendment?                      |        |     | Socialist, Secular, Integrity                                                                                                               |     |     |
+| In the Berubari Case, was the Preamble held to be part of the Constitution?             |        |     | No, held NOT part of the Constitution                                                                                                       |     |     |
+| In the Keshavananda Bharati case, was the Preamble held to be part of the Constitution? |        |     | Yes, held to be part of the Constitution                                                                                                    |     |     |
+| What ideals does the Preamble secure to all citizens?                                   |        |     | Justice (social, economic, political), Liberty (thought, expression, belief, faith, worship), Equality (status and opportunity), Fraternity |     |     |
+| The Indian Constitution is the lengthiest in the world — true or false?                 |        |     | True                                                                                                                                        |     |     |
+| What blend does the amendment procedure of the Indian Constitution have?                |        |     | Blend of rigidity and flexibility                                                                                                           |     |     |
+| India has what form/system of government both at Centre and states?                     |        |     | Parliamentary system of government                                                                                                          |     |     |
+| Does India have a federal or unitary system, or both?                                   |        |     | Federal system with unitary features                                                                                                        |     |     |
+| Who is the head of the Union / heads of the states?                                     |        |     | President is head of the Union; Governors are heads of states                                                                               |     |     |
+| Do the President and Governors have real or nominal powers?                             |        |     | Nominal — they act on advice of Council of Ministers                                                                                        |     |     |
+| What kind of judiciary does India have?                                                 |        |     | Single, integrated, independent judiciary                                                                                                   |     |     |
+| What is the highest court of the land?                                                  |        |     | Supreme Court                                                                                                                               |     |     |
+| Is India a secular state?                                                               |        |     | Yes                                                                                                                                         |     |     |
+| Under the Constitution, who is the ultimate sovereign?                                  |        |     | The people of India                                                                                                                         |     |     |
+| What unique feature makes citizens' duties part of the basic law?                       |        |     | Fundamental Duties                                                                                                                          |     |     |
+| What is the most remarkable federal-turns-unitary feature?                              |        |     | It acquires a unitary character during Emergency                                                                                            |     |     |
+| What is the minimum voting age under the Constitution?                                  |        |     | 18 years                                                                                                                                    |     |     |
+| Which outstanding feature relates to village-level self-government?                     |        |     | Panchayati Raj                                                                                                                              |     |     |
+| Is citizenship single or dual in India?                                                 |        |     | Single citizenship                                                                                                                          |     |     |
+
+## Federal vs Unitary Features Table
+
+| Federal Features | Unitary Features |                                               |                                                                       |     |     |     |                                         |     |     |
+| ---------------- | ---------------- | --------------------------------------------- | --------------------------------------------------------------------- | --- | --- | --- | --------------------------------------- | --- | --- |
+|                  |                  | Distribution of powers per 3 lists            |                                                                       |     |     |     | Single citizenship                      |     |     |
+|                  |                  | Union & State Govts function per Constitution |                                                                       |     |     |     | Centre can legislate on Concurrent List |     |     |
+|                  |                  | Written Constitution                          |                                                                       |     |     |     | Residuary powers belong to Centre       |     |     |
+|                  |                  | Independent judiciary                         |                                                                       |     |     |     | Single Constitutional Framework         |     |     |
+| —                |                  |                                               | National Emergency turns federal→unitary                              |     |     |     |                                         |     |     |
+| —                |                  |                                               | Rajya Sabha represented by population; President nominates 12 members |     |     |     |                                         |     |     |
+| —                |                  |                                               | Governors appointed by President, hold office during his pleasure     |     |     |     |                                         |     |     |
+| —                |                  |                                               | Single (integrated) judiciary                                         |     |     |     |                                         |     |     |
+| —                |                  |                                               | CAG & CEC authority prevails uniformly over Union and States          |     |     |     |                                         |     |     |
+
+## Exam Trap ⚠️
+- Preamble part-of-Constitution question: Berubari (1960) said NO; Keshavananda Bharati (1973) said YES — always note which case year is referenced.
+- India vs USA federation: unlike USA, Indian states have NO right to secede, and Indian federation was not formed by agreement among states.

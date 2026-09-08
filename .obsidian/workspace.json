@@ -161,12 +161,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Knowledge/02-Indian_Polity_Constitution/note/02 — Fundamental Rights.md",
-                "mode": "preview",
+                "file": "General Knowledge/02-Indian_Polity_Constitution/Polity-Vault/09-Languages-Defection-Parties.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 — Fundamental Rights"
+              "title": "09-Languages-Defection-Parties"
             }
           },
           {
@@ -184,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -357,35 +357,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c97be22f4005a311",
+  "active": "cba5554325bcc5da",
   "lastOpenFiles": [
+    "General Knowledge/02-Indian_Polity_Constitution/Polity-Vault/08-Parliament.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Polity-Vault/07-VP-PM-COM.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Polity-Vault/06-President.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Polity-Vault/05-DPSP-Fundamental-Duties.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Polity-Vault/04-Fundamental-Rights.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Polity-Vault/03-Preamble-Features.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Polity-Vault/02-Constituent-Assembly.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Polity-Vault/01-Historical-Evolution.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Polity-Vault/00-Index.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Polity-Vault/09-Languages-Defection-Parties.md",
     "General Knowledge/02-Indian_Polity_Constitution/note/03 — Parliament Structure.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Polity-Vault/21-Glossary.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Polity-Vault/20-National-Symbols.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Polity-Vault/19-Schedules-Articles.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Polity-Vault/18-Important-Cases.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Polity-Vault/17-Amendments.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Polity-Vault/16-Centre-State-Relations.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Polity-Vault/15-Emergency-Provisions.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Polity-Vault/14-Constitutional-Bodies.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Polity-Vault/13-Panchayati-Raj-Municipalities.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Polity-Vault/12-Judiciary.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Polity-Vault/11-State-Legislature.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Polity-Vault/10-Governor-CM.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Polity-Vault",
     "General Knowledge/02-Indian_Polity_Constitution/note/02 — Fundamental Rights.md",
-    "General Knowledge/02-Indian_Polity_Constitution/note/01 — Constitution Basics.md",
-    "General Knowledge/02-Indian_Polity_Constitution/note/🏛️ Indian Polity & Constitution — INDEX.md",
-    "maths brain/average/concept and question dharama.md",
-    "maths brain/average/average.md",
-    "Daily tracker.md",
+    "Computer_Knowledge/💻 Computer Knowledge — INDEX.md",
+    "English/02 — Prepositions.md",
     "General Knowledge/02-Indian_Polity_Constitution/note/Indian constitution Parts.png",
-    "General Knowledge/02-Indian_Polity_Constitution/note/00 - Important Dates Chronological order.md",
-    "english roadmap gemini.md",
-    "English/📝 English — INDEX.md",
-    "English/01 — Tenses.md",
-    "English/07 — Sentence Correction.md",
-    "English/04 — Direct & Indirect Speech.md",
-    "English/06 — Subject-Verb Agreement.md",
-    "English/03 — Active & Passive Voice.md",
-    "General Knowledge/01-Mizo/mizo gk study.md",
-    "General Knowledge/01-Mizo/Mizo History/02 — MNF & Insurgency.md",
-    "General Knowledge/01-Mizo/Mizo History/01 — British Contact & Colonial Period.md",
-    "General Knowledge/01-Mizo/Mizo History/12 — Mizoram Current Affairs & Administration.md",
-    "General Knowledge/01-Mizo/Mizo History/10 — Mizo Folklore, Literature & Language.md",
-    "General Knowledge/01-Mizo/Mizo History/09 — Traditional Mizo Society & Culture.md",
-    "General Knowledge/01-Mizo/Mizo History/08 — Origin & Migration.md",
-    "General Knowledge/01-Mizo/Mizo History/07 — Chieftainship.md",
-    "General Knowledge/01-Mizo/Mizo History/06 — Print & Socio-Cultural Orgs.md",
-    "General Knowledge/01-Mizo/Mizo History/05 — Mizo Union.md",
-    "General Knowledge/01-Mizo/Mizo History/04 — Christianity & Missionaries.md",
     "General Knowledge/01-Mizo/Mizo History",
     "General Knowledge/01-Mizo/Mizo Historymai2",
     "English/eng sub",
@@ -411,7 +412,6 @@
     "Physical_Geography_Mindmap.canvas",
     "first canvas.canvas",
     "Untitled.base",
-    "General Knowledge/04-India_Geography/brain",
-    "Dictionary"
+    "General Knowledge/04-India_Geography/brain"
   ]
 }

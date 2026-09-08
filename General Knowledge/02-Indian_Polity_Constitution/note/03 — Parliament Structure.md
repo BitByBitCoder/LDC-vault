@@ -26,7 +26,7 @@
 
 | House           | Elected     | Nominated  | Total       | Min Age          | Term            |
 | --------------- | ----------- | ---------- | ----------- | ---------------- | --------------- |
-| **Lok Sabha**   | \|\|543\|\| | \|\|2\|\|  | \|\|545\|\| | \|\|25 years\|\| | \|\|5 years\|\| |
+| **Lok Sabha**   | \|\|543\|\| | \|\|0\|\|  | \|\|543\|\| | \|\|25 years\|\| | \|\|5 years\|\| |
 | **Rajya Sabha** | \|\|238\|\| | \|\|12\|\| | \|\|250\|\| | \|\|30 years\|\| | \|\|6years\|\|  |
 
 > 💡 Rajya Sabha members retire every **2 years in 1/3 rotation**
