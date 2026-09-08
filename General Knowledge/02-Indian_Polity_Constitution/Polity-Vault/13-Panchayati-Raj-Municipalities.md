@@ -4,12 +4,12 @@
 
 ## Committee History
 
-| Committee | Year | Chairman | Key Recommendation |
-|---|---|---|---|
-| Balwant Rai Mehta Committee | ||1957 (report 1958)|| | ||Balwant Rai Mehta|| | ||Three-tier system: Zila Parishad, Panchayat Samiti (Block), Gram Panchayat; district collector as Zila Parishad chairperson; indirect election for ZP/PS, direct for Gram Panchayat|| |
-| Ashok Mehta Committee | ||1977|| | ||Ashok Mehta|| | ||Two-tier system: Zila Parishad & Mandal Panchayat; Nyaya Panchayat as separate body; recommendations NOT implemented|| |
-| G.V.K. Rao Committee | ||1985 (Planning Commission)|| | ||G.V.K. Rao|| | ||Zila Parishad pivotal role; create District Development Commissioner post; recommendations NOT accepted|| |
-| L.M. Singhvi Committee | ||1986|| | ||L.M. Singhvi|| | ||Appointed by Rajiv Gandhi Government|| |
+| Committee                   | Year | Chairman | Key Recommendation         |     |     |     |     |                   |     |     |     |     |                                                                                                                                                                                     |     |     |
+| --------------------------- | ---- | -------- | -------------------------- | --- | --- | --- | --- | ----------------- | --- | --- | --- | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- |
+| Balwant Rai Mehta Committee |      |          | 1957 (report 1958)         |     |     |     |     | Balwant Rai Mehta |     |     |     |     | Three-tier system: Zila Parishad, Panchayat Samiti (Block), Gram Panchayat; district collector as Zila Parishad chairperson; indirect election for ZP/PS, direct for Gram Panchayat |     |     |
+| Ashok Mehta Committee       |      |          | 1977                       |     |     |     |     | Ashok Mehta       |     |     |     |     | Two-tier system: Zila Parishad & Mandal Panchayat; Nyaya Panchayat as separate body; recommendations NOT implemented                                                                |     |     |
+| G.V.K. Rao Committee        |      |          | 1985 (Planning Commission) |     |     |     |     | G.V.K. Rao        |     |     |     |     | Zila Parishad pivotal role; create District Development Commissioner post; recommendations NOT accepted                                                                             |     |     |
+| L.M. Singhvi Committee      |      |          | 1986                       |     |     |     |     | L.M. Singhvi      |     |     |     |     | Appointed by Rajiv Gandhi Government                                                                                                                                                |     |     |
 
 | Question | Answer |
 |---|---|

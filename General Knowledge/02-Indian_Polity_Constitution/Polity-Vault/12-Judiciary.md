@@ -57,44 +57,44 @@
 
 ### Jurisdiction & Seats of High Courts (selected)
 
-| Court                        | Established | Principal Seat | Bench(es)                  |     |     |     |     |     |     |     |     |     |     |     |     |
-| ---------------------------- | ----------- | -------------- | -------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Calcutta HC                  | 1862        | Kolkata        | Port Blair, Jalpaiguri     |     |     |     |     |     |     |     |     |     |     |     |     |
-| Bombay HC                    | 1862        | Mumbai         | Aurangabad, Nagpur, Panaji |     |     |     |     |     |     |     |     |     |     |     |     |
-| Madras HC                    | 1862        | Chennai        | Madurai                    |     |     |     |     |     |     |     |     |     |     |     |     |
-| Allahabad HC                 | 1866        | Prayagraj      | Lucknow                    |     |     |     |     |     |     |     |     |     |     |     |     |
-| Gauhati HC                   | 1948        | Guwahati       | Aizawl, Itanagar, Kohima   |     |     |     |     |     |     |     |     |     |     |     |     |
-| Delhi HC                     | 1966        | New Delhi      |                            |     |     |     |     |     |     |     | —   |     |     |     |     |
-| Andhra Pradesh HC            | 2019        | Amaravati      |                            |     |     |     |     |     |     |     | —   |     |     |     |     |
-| Telangana HC                 | 2019        | Hyderabad      |                            |     |     |     |     |     |     |     | —   |     |     |     |     |
-| High Court of J&K and Ladakh | 1928        | Srinagar/Jammu |                            |     |     |     |     |     |     |     | —   |     |     |     |     |
+| Court                        | Established | Principal Seat | Bench(es)                  |
+| ---------------------------- | ----------- | -------------- | -------------------------- |
+| Calcutta HC                  | 1862        | Kolkata        | Port Blair, Jalpaiguri     |
+| Bombay HC                    | 1862        | Mumbai         | Aurangabad, Nagpur, Panaji |
+| Madras HC                    | 1862        | Chennai        | Madurai                    |
+| Allahabad HC                 | 1866        | Prayagraj      | Lucknow                    |
+| Gauhati HC                   | 1948        | Guwahati       | Aizawl, Itanagar, Kohima   |
+| Delhi HC                     | 1966        | New Delhi      |                            |
+| Andhra Pradesh HC            | 2019        | Amaravati      |                            |
+| Telangana HC                 | 2019        | Hyderabad      |                            |
+| High Court of J&K and Ladakh | 1928        | Srinagar/Jammu |                            |
 
 ## District Judges & Other Judges
 
-| Question | Answer |
-|---|---|
-| Under which Article, who appoints District Judges, in consultation with whom? | ||Article 233; Governor of the State, in consultation with the High Court|| |
-| Qualifications for District Judge? | ||Not already in Central/State service; advocate/pleader for 7 years; recommended by the High Court|| |
-| Who appoints judicial service officers OTHER than District Judges? | ||Governor, after consultation with State PSC and the High Court|| |
+| Question                                                                      | Answer                                                                                            |
+| ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| Under which Article, who appoints District Judges, in consultation with whom? | Article 233; Governor of the State, in consultation with the High Court                           |
+| Qualifications for District Judge?                                            | Not already in Central/State service; advocate/pleader for 7 years; recommended by the High Court |
+| Who appoints judicial service officers OTHER than District Judges?            | Governor, after consultation with State PSC and the High Court                                    |
 
 ## Lok Adalat
 
-| Question | Answer |
-|---|---|
-| Where and when was the first Lok Adalat held? | ||Chennai, 1986|| |
-| Who presides over a Lok Adalat? | ||A sitting/retired judicial officer as Chairman, with two other members (usually a lawyer and a social worker)|| |
-| Is a Lok Adalat award appealable? | ||No — final and binding, no appeal lies|| |
+| Question                                      | Answer                                                                                                        |
+| --------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Where and when was the first Lok Adalat held? | Chennai, 1986                                                                                                 |
+| Who presides over a Lok Adalat?               | A sitting/retired judicial officer as Chairman, with two other members (usually a lawyer and a social worker) |
+| Is a Lok Adalat award appealable?             | No — final and binding, no appeal lies                                                                        |
 
 ## Lokpal & Lokayukta
 
-| Question | Answer |
-|---|---|
-| Which body recommended setting up Lokpal & Lokayukta, when? | ||Administrative Reforms Commission (ARC) of India, 1966–1970|| |
-| What does the Lokpal deal with? | ||Complaints against ministers and secretaries at central and state level|| |
-| Who would appoint the Lokpal (per ARC recommendation)? | ||President, after consulting CJI, Speaker of Lok Sabha, and Chairman of Rajya Sabha|| |
-| When and by whom was the Lokpal bill first introduced in Parliament? | ||May 1968, by the Congress Government headed by Indira Gandhi|| |
-| What does the Lokayukta deal with? | ||Complaints against other specified higher officials not covered by Lokpal|| |
-| Which state established Lokayukta first, and when did it come into force? | ||Maharashtra, 1971 (Odisha passed the Act in 1970 but it came into force only in 1983)|| |
+| Question                                                                  | Answer                                                                                |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| Which body recommended setting up Lokpal & Lokayukta, when?               | Administrative Reforms Commission (ARC) of India, 1966–1970                           |
+| What does the Lokpal deal with?                                           | Complaints against ministers and secretaries at central and state level               |
+| Who would appoint the Lokpal (per ARC recommendation)?                    | President, after consulting CJI, Speaker of Lok Sabha, and Chairman of Rajya Sabha    |
+| When and by whom was the Lokpal bill first introduced in Parliament?      | May 1968, by the Congress Government headed by Indira Gandhi                          |
+| What does the Lokayukta deal with?                                        | Complaints against other specified higher officials not covered by Lokpal             |
+| Which state established Lokayukta first, and when did it come into force? | Maharashtra, 1971 (Odisha passed the Act in 1970 but it came into force only in 1983) |
 
 ## Exam Trap ⚠️
 - HC Judge retirement age: this source text has an internal contradiction (states 65 in one place, 62 in another) — the constitutionally correct figure is **65 years** (Article 217); treat any "62" reference here as the pre-15th-Amendment figure or a source error.
