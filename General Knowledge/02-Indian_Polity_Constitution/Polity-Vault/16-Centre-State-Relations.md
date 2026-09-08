@@ -6,21 +6,21 @@
 
 ## A. Legislative Relations
 
-| Question | Answer |
-|---|---|
-| Which Schedule and Article enumerate the three lists? | ||Seventh Schedule, Article 246|| |
-| Number of subjects in Union List / State List / Concurrent List? | ||99 / 66 / 47|| |
-| Who legislates on Union List subjects exclusively? | ||Parliament|| |
-| Who legislates on State List subjects exclusively? | ||State Legislatures|| |
-| Who can legislate on Concurrent List subjects? | ||Both Parliament and State Legislatures|| |
-| Where do residuary powers (not in any list) rest? | ||With the Union Government|| |
-| In case of conflict between Union and State law on Concurrent List, whose law prevails? | ||Union (Parliament's) law|| |
+| Question                                                                                | Answer                                 |
+| --------------------------------------------------------------------------------------- | -------------------------------------- |
+| Which Schedule and Article enumerate the three lists?                                   | Seventh Schedule, Article 246          |
+| Number of subjects in Union List / State List / Concurrent List?                        | 99 / 66 / 47                           |
+| Who legislates on Union List subjects exclusively?                                      | Parliament                             |
+| Who legislates on State List subjects exclusively?                                      | State Legislatures                     |
+| Who can legislate on Concurrent List subjects?                                          | Both Parliament and State Legislatures |
+| Where do residuary powers (not in any list) rest?                                       | With the Union Government              |
+| In case of conflict between Union and State law on Concurrent List, whose law prevails? | Union (Parliament's) law               |
 
 ## B. Administrative Relations
 
-| Question | Answer |
-|---|---|
-| Who decides water use/distribution/control disputes between States? | ||The Centre, under Article 262|| |
+| Question                                                            | Answer |     |                               |     |     |
+| ------------------------------------------------------------------- | ------ | --- | ----------------------------- | --- | --- |
+| Who decides water use/distribution/control disputes between States? |        |     | The Centre, under Article 262 |     |     |
 
 ## C. Financial Relations
 

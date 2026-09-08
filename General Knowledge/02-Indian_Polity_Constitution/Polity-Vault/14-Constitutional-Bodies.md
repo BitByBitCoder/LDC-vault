@@ -89,24 +89,24 @@
 
 ## Inter-State Relations & Councils
 
-| Question                                                                            | Answer |     |                                                                                            |     |     |
-| ----------------------------------------------------------------------------------- | ------ | --- | ------------------------------------------------------------------------------------------ | --- | --- |
-| When was the Inter-State Council constituted, under which Article?                  |        |     | April 1990, Article 263                                                                    |     |     |
-| Composition of Inter-State Council?                                                 |        |     | PM + 6 Union Cabinet Ministers + Chief Ministers of all States + Administrators of all UTs |     |     |
-| Who chairs the Inter-State Council, how often does it meet?                         |        |     | PM; meets thrice a year                                                                    |     |     |
-| Under which Article was the Inter-State Water Disputes Tribunal constituted?        |        |     | Article 262                                                                                |     |     |
-| Are inter-State river water disputes under the jurisdiction of courts including SC? |        |     | No, excluded from all courts' jurisdiction                                                 |     |     |
-| How many Zonal Councils exist, and who chairs all of them?                          |        |     | 6 Zonal Councils; Union Home Minister (common chairman)                                    |     |     |
-| Who determines Centre-State water use/distribution disputes?                        |        |     | The Centre, under Article 262                                                              |     |     |
+| Question                                                                            | Answer                                                                                     |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| When was the Inter-State Council constituted, under which Article?                  | April 1990, Article 263                                                                    |
+| Composition of Inter-State Council?                                                 | PM + 6 Union Cabinet Ministers + Chief Ministers of all States + Administrators of all UTs |
+| Who chairs the Inter-State Council, how often does it meet?                         | PM; meets thrice a year                                                                    |
+| Under which Article was the Inter-State Water Disputes Tribunal constituted?        | Article 262                                                                                |
+| Are inter-State river water disputes under the jurisdiction of courts including SC? | No, excluded from all courts' jurisdiction                                                 |
+| How many Zonal Councils exist, and who chairs all of them?                          | 6 Zonal Councils; Union Home Minister (common chairman)                                    |
+| Who determines Centre-State water use/distribution disputes?                        | The Centre, under Article 262                                                              |
 
 ## Legislative/Administrative/Financial Relations (Centre-State)
 
-| Question | Answer |
-|---|---|
-| Number of subjects: Union List / State List / Concurrent List? | ||Union: 99; State: 66; Concurrent: 47 (Seventh Schedule, Art 246)|| |
-| Who has exclusive power over Union List / State List / Concurrent List? | ||Parliament (Union List); State Legislatures (State List); Both (Concurrent List)|| |
-| Where do Residual Powers rest? | ||With the Union Government|| |
-| Can States borrow from outside India? | ||No — subject to limits laid down by Parliament, cannot borrow from outside India|| |
+| Question                                                                | Answer                                                                           |
+| ----------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| Number of subjects: Union List / State List / Concurrent List?          | Union: 99; State: 66; Concurrent: 47 (Seventh Schedule, Art 246)                 |
+| Who has exclusive power over Union List / State List / Concurrent List? | Parliament (Union List); State Legislatures (State List); Both (Concurrent List) |
+| Where do Residual Powers rest?                                          | With the Union Government                                                        |
+| Can States borrow from outside India?                                   | No — subject to limits laid down by Parliament, cannot borrow from outside India |
 
 ## Exam Trap ⚠️
 - CAG term = 6 years OR age 65 (whichever earlier) — same structure as CEC; frequently confused with the fixed 5-year Finance Commission term.
