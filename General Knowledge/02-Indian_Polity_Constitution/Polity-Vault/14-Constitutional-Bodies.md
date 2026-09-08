@@ -4,68 +4,68 @@
 
 ## Comptroller and Auditor General (CAG) of India
 
-| Question                                                            | Answer                                                  |     |     |
-| ------------------------------------------------------------------- | ------------------------------------------------------- | --- | --- |
-| Who appoints the CAG, under which Articles is he governed?          | President; Articles 148–151                             |     |     |
-| On what grounds can CAG be removed?                                 | Proved misbehaviour or incapacity                       |     |     |
-| CAG's term of office?                                               | 6 years from date of assuming office                    |     |     |
-| At what age does CAG vacate office even without completing 6 years? | 65 years                                                |     |     |
-| To whom does CAG resign, and how?                                   | President, by writing under his hand                    |     |     |
-| CAG's salary is equal to whose?                                     | A Judge of the Supreme Court                            |     |     |
-| Are CAG's salary and office expenses votable?                       | No — charged on Consolidated Fund of India, non-votable |     |     |
-| What is CAG's nickname regarding the Public Accounts Committee?     | "Ears and Eyes of the Public Accounts Committee"        |     |     |
-| What is CAG known as regarding public funds?                        | "Guardian of the public fund"                           |     |     |
-| Whose report is examined by the Public Accounts Committee?          | CAG's report                                            |     |     |
+| Question                                                            | Answer                                                  |
+| ------------------------------------------------------------------- | ------------------------------------------------------- |
+| Who appoints the CAG, under which Articles is he governed?          | President; Articles 148–151                             |
+| On what grounds can CAG be removed?                                 | Proved misbehaviour or incapacity                       |
+| CAG's term of office?                                               | 6 years from date of assuming office                    |
+| At what age does CAG vacate office even without completing 6 years? | 65 years                                                |
+| To whom does CAG resign, and how?                                   | President, by writing under his hand                    |
+| CAG's salary is equal to whose?                                     | A Judge of the Supreme Court                            |
+| Are CAG's salary and office expenses votable?                       | No — charged on Consolidated Fund of India, non-votable |
+| What is CAG's nickname regarding the Public Accounts Committee?     | "Ears and Eyes of the Public Accounts Committee"        |
+| What is CAG known as regarding public funds?                        | "Guardian of the public fund"                           |
+| Whose report is examined by the Public Accounts Committee?          | CAG's report                                            |
 
 ## Public Service Commissions (Articles 315–323)
 
-| Question | Answer |
-|---|---|
-| Who appoints UPSC members, versus State PSC members? | ||President (UPSC/Joint Commission); Governor of State (State PSC)|| |
-| What fraction of Commission members must have held govt office for ≥10 years? | ||Half (Article 316)|| |
-| Term of a PSC member? | ||6 years or until retirement age, whichever earlier|| |
-| Retirement age: UPSC member vs State/Joint PSC member? | ||65 years (UPSC) / 62 years (State or Joint Commission)|| |
-| Who can remove a State PSC member? | ||Only the President (Governor can only suspend via interim order)|| |
-| Is the UPSC Chairman eligible for further govt employment after tenure? | ||No|| |
-| Is a State PSC Chairman eligible for other appointments? | ||Eligible for Chairman/member of UPSC or Chairman of another State PSC, but no other employment|| |
-| Main functions of Public Service Commissions? | ||Conduct exams for appointments; advise on referred matters; other functions per Parliament/State Legislature Act|| |
-| Under which Article can the President/Governor refer matters to the Commission? | ||Article 320|| |
+| Question                                                                        | Answer                                                                                                           |
+| ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Who appoints UPSC members, versus State PSC members?                            | President (UPSC/Joint Commission); Governor of State (State PSC)                                                 |
+| What fraction of Commission members must have held govt office for ≥10 years?   | Half (Article 316)                                                                                               |
+| Term of a PSC member?                                                           | 6 years or until retirement age, whichever earlier                                                               |
+| Retirement age: UPSC member vs State/Joint PSC member?                          | 65 years (UPSC) / 62 years (State or Joint Commission)                                                           |
+| Who can remove a State PSC member?                                              | Only the President (Governor can only suspend via interim order)                                                 |
+| Is the UPSC Chairman eligible for further govt employment after tenure?         | No                                                                                                               |
+| Is a State PSC Chairman eligible for other appointments?                        | Eligible for Chairman/member of UPSC or Chairman of another State PSC, but no other employment                   |
+| Main functions of Public Service Commissions?                                   | Conduct exams for appointments; advise on referred matters; other functions per Parliament/State Legislature Act |
+| Under which Article can the President/Governor refer matters to the Commission? | Article 320                                                                                                      |
 
 ## Election Commission (Article 324)
 
-| Question | Answer |
-|---|---|
-| When was the Election Commission established? | ||25 January 1950|| |
-| What does the EC do? | ||Prepares/maintains electoral rolls, supervises candidate nominations, registers political parties, monitors campaigns, organises polling/counting/results|| |
-| Composition of the Election Commission? | ||Chief Election Commissioner + 2 other Election Commissioners|| |
-| Who determines the number of Election Commissioners? | ||The President|| |
-| CEC's tenure? | ||6 years, or up to age 65, whichever is earlier|| |
-| CEC's status/salary equivalent to? | ||A Judge of the Supreme Court|| |
-| How can the CEC be removed? | ||Same manner/grounds as a Supreme Court Judge|| |
-| How can other Election Commissioners be removed? | ||By the President, on recommendation of the CEC|| |
-| Does the Election Commission conduct elections to the President/VP offices too? | ||Yes — power of superintendence, direction, and conduct of elections to Parliament, State Legislatures, and offices of President & VP|| |
+| Question                                                                        | Answer                                                                                                                                                    |
+| ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| When was the Election Commission established?                                   | 25 January 1950                                                                                                                                           |
+| What does the EC do?                                                            | Prepares/maintains electoral rolls, supervises candidate nominations, registers political parties, monitors campaigns, organises polling/counting/results |
+| Composition of the Election Commission?                                         | Chief Election Commissioner + 2 other Election Commissioners                                                                                              |
+| Who determines the number of Election Commissioners?                            | The President                                                                                                                                             |
+| CEC's tenure?                                                                   | 6 years, or up to age 65, whichever is earlier                                                                                                            |
+| CEC's status/salary equivalent to?                                              | A Judge of the Supreme Court                                                                                                                              |
+| How can the CEC be removed?                                                     | Same manner/grounds as a Supreme Court Judge                                                                                                              |
+| How can other Election Commissioners be removed?                                | By the President, on recommendation of the CEC                                                                                                            |
+| Does the Election Commission conduct elections to the President/VP offices too? | Yes — power of superintendence, direction, and conduct of elections to Parliament, State Legislatures, and offices of President & VP                      |
 
 ## Delimitation Commission of India
 
-| Question | Answer |
-|---|---|
-| What is the Commission's main task? | ||Redraw boundaries of Assembly and Lok Sabha constituencies based on recent census|| |
-| Does State-wise LS seat representation change during delimitation? | ||No — only SC/ST seat numbers within a state change per census|| |
-| How many times has Delimitation been carried out in India? | ||4 times — 1952, 1963, 1973, 2002|| |
-| Who chaired the most recent (2002) Delimitation Commission? | ||Justice Kuldip Singh|| |
-| Which Amendment froze delimitation until after the first census after 2026? | ||84th Amendment Act, 2001 (amending Article 82)|| |
-| Who are members of the Delimitation Commission? | ||Election Commissioners of all States/UTs + the CEC|| |
+| Question                                                                    | Answer                                                                            |
+| --------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| What is the Commission's main task?                                         | Redraw boundaries of Assembly and Lok Sabha constituencies based on recent census |
+| Does State-wise LS seat representation change during delimitation?          | No — only SC/ST seat numbers within a state change per census                     |
+| How many times has Delimitation been carried out in India?                  | 4 times — 1952, 1963, 1973, 2002                                                  |
+| Who chaired the most recent (2002) Delimitation Commission?                 | Justice Kuldip Singh                                                              |
+| Which Amendment froze delimitation until after the first census after 2026? | 84th Amendment Act, 2001 (amending Article 82)                                    |
+| Who are members of the Delimitation Commission?                             | Election Commissioners of all States/UTs + the CEC                                |
 
 ## Finance Commission (Articles 280–281)
 
-| Question | Answer |
-|---|---|
-| Who establishes the Finance Commission, how often? | ||President, every 5 years|| |
-| Composition of the Finance Commission? | ||A Chairman + 4 other members|| |
-| From what background is the Chairman selected? | ||Persons with experience in public affairs|| |
-| Main functions of the Finance Commission? | ||Recommend tax-proceeds distribution Centre-State; recommend grants-in-aid principles; advise President on sound finance; suggest export-duty compensation for Assam/Bihar/Odisha/WB (jute)|| |
-| Are the Commission's recommendations binding? | ||No, but generally accepted by the Central Government|| |
-| Recommendations apply for how long? | ||5 years|| |
+| Question                                           | Answer                                                                                                                                                                                     |     |     |
+| -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- | --- |
+| Who establishes the Finance Commission, how often? | President, every 5 years                                                                                                                                                                   |     |     |
+| Composition of the Finance Commission?             | A Chairman + 4 other members                                                                                                                                                               |     |     |
+| From what background is the Chairman selected?     | Persons with experience in public affairs                                                                                                                                                  |     |     |
+| Main functions of the Finance Commission?          | Recommend tax-proceeds distribution Centre-State; recommend grants-in-aid principles; advise President on sound finance; suggest export-duty compensation for Assam/Bihar/Odisha/WB (jute) |     |     |
+| Are the Commission's recommendations binding?      | No, but generally accepted by the Central Government                                                                                                                                       |     |     |
+| Recommendations apply for how long?                | 5 years                                                                                                                                                                                    |     |     |
 
 ### Finance Commissions Table (selected)
 
