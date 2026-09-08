@@ -18,27 +18,27 @@
 
 ## B. Administrative Relations
 
-| Question                                                            | Answer |     |                               |     |     |
-| ------------------------------------------------------------------- | ------ | --- | ----------------------------- | --- | --- |
-| Who decides water use/distribution/control disputes between States? |        |     | The Centre, under Article 262 |     |     |
+| Question                                                            | Answer                        |
+| ------------------------------------------------------------------- | ----------------------------- |
+| Who decides water use/distribution/control disputes between States? | The Centre, under Article 262 |
 
 ## C. Financial Relations
 
-| Question | Answer |
-|---|---|
-| Can the Union Government borrow from outside India? | ||Yes, subject to Parliament's limits|| |
-| Can State Governments borrow from outside India? | ||No|| |
+| Question                                            | Answer                              |
+| --------------------------------------------------- | ----------------------------------- |
+| Can the Union Government borrow from outside India? | Yes, subject to Parliament's limits |
+| Can State Governments borrow from outside India?    | No                                  |
 
 ## Special Position of Jammu & Kashmir (Before 05-08-2019) — Quick Recap
 
-| Question | Answer |
-|---|---|
-| Which Article gave J&K special status? | ||Article 370|| |
-| Did National Emergency (internal disturbance ground) automatically apply to J&K? | ||No — needed State Government's concurrence|| |
-| Could the Union suspend J&K's Constitution / apply Art 356–357? | ||Originally no power to suspend; Arts 356–357 extended to J&K only via 1964 Amendment Order|| |
-| Could Financial Emergency (Art 360) apply to J&K? | ||No|| |
-| Did DPSPs apply to J&K? | ||No|| |
-| When was Article 370 abolished? | ||5 August 2019|| |
+| Question                                                                         | Answer                                                                                     |
+| -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| Which Article gave J&K special status?                                           | Article 370                                                                                |
+| Did National Emergency (internal disturbance ground) automatically apply to J&K? | No — needed State Government's concurrence                                                 |
+| Could the Union suspend J&K's Constitution / apply Art 356–357?                  | Originally no power to suspend; Arts 356–357 extended to J&K only via 1964 Amendment Order |
+| Could Financial Emergency (Art 360) apply to J&K?                                | No                                                                                         |
+| Did DPSPs apply to J&K?                                                          | No                                                                                         |
+| When was Article 370 abolished?                                                  | 5 August 2019                                                                              |
 
 ## Exam Trap ⚠️
 - Concurrent List conflict rule: Union law prevails over State law (this is the general rule under Art 254, though not explicitly quoted in the source text — a commonly assumed/tested extension).

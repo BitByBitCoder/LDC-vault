@@ -2,15 +2,15 @@
 
 # Constitutional Amendments
 
-| Question | Answer |
-|---|---|
-| Under which Article does Parliament have power to amend the Constitution? | ||Article 368|| |
-| What are the 3 methods of amendment? | ||(1) Simple majority (citizenship, 2nd chambers, new states, boundary changes); (2) Special majority in Parliament; (3) Special majority + ratification by half the State Legislatures (federal provisions)|| |
-| Can State Legislatures initiate a constitutional amendment Bill? | ||No|| |
-| Is President's prior sanction required to introduce an amendment Bill? | ||No|| |
-| Since which amendment is it obligatory for President to assent to an amendment Bill after Legislature passage? | ||24th Amendment, 1971 (amended Art 368)|| |
-| Per Keshavananda Bharati, can Parliament amend Fundamental Rights? | ||Yes, but cannot destroy the "basic structure" of the Constitution|| |
-| What are the 3 implications of the Keshavananda Bharati decision? | ||(1) Any part may be amended per Art 368 procedure; (2) No referendum/Constituent Assembly reference needed; (3) Basic features/structure cannot be amended|| |
+| Question                                                                                                       | Answer                                                                                                                                                                                                     |
+| -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Under which Article does Parliament have power to amend the Constitution?                                      | Article 368                                                                                                                                                                                                |
+| What are the 3 methods of amendment?                                                                           | (1) Simple majority (citizenship, 2nd chambers, new states, boundary changes); (2) Special majority in Parliament; (3) Special majority + ratification by half the State Legislatures (federal provisions) |
+| Can State Legislatures initiate a constitutional amendment Bill?                                               | No                                                                                                                                                                                                         |
+| Is President's prior sanction required to introduce an amendment Bill?                                         | No                                                                                                                                                                                                         |
+| Since which amendment is it obligatory for President to assent to an amendment Bill after Legislature passage? | 24th Amendment, 1971 (amended Art 368)                                                                                                                                                                     |
+| Per Keshavananda Bharati, can Parliament amend Fundamental Rights?                                             | Yes, but cannot destroy the "basic structure" of the Constitution                                                                                                                                          |
+| What are the 3 implications of the Keshavananda Bharati decision?                                              | (1) Any part may be amended per Art 368 procedure; (2) No referendum/Constituent Assembly reference needed; (3) Basic features/structure cannot be amended                                                 |
 
 ## Amendment-by-Amendment Table
 
