@@ -4,39 +4,39 @@
 
 ## Governor
 
-| Question | Answer |
-|---|---|
-| Who appoints the Governor, under which Article? | ||President, Article 155|| |
-| During whose pleasure does the Governor hold office, under which Article? | ||President's pleasure, Article 156|| |
-| Can the same Governor act for more than one State? | ||Yes (Articles 153 & 154)|| |
-| If a Legislature member is appointed Governor, what happens to his membership? | ||He ceases to be a Member immediately|| |
-| Under which Article are Governor's qualifications listed? | ||Article 158|| |
-| Minimum age to be Governor? | ||35 years|| |
-| Who administers the Governor's oath, under which Article? | ||Chief Justice of concerned State High Court (or seniormost judge), Article 159|| |
-| Governor's term, under which Article? | ||5 years, Article 156 (can be reappointed, no bar on repeats)|| |
-| What does the Sarkaria Commission recommend about who should be Governor? | ||Not belong to same State; eminent, detached from local politics; not recently active in politics; not a ruling-party politician if state ruled by another party; minority persons should get a chance; fortnightly reports to President must continue|| |
+| Question                                                                       | Answer                                                                                                                                                                                                                                                |
+| ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Who appoints the Governor, under which Article?                                | President, Article 155                                                                                                                                                                                                                                |
+| During whose pleasure does the Governor hold office, under which Article?      | President's pleasure, Article 156                                                                                                                                                                                                                     |
+| Can the same Governor act for more than one State?                             | Yes (Articles 153 & 154)                                                                                                                                                                                                                              |
+| If a Legislature member is appointed Governor, what happens to his membership? | He ceases to be a Member immediately                                                                                                                                                                                                                  |
+| Under which Article are Governor's qualifications listed?                      | Article 158                                                                                                                                                                                                                                           |
+| Minimum age to be Governor?                                                    | 35 years                                                                                                                                                                                                                                              |
+| Who administers the Governor's oath, under which Article?                      | Chief Justice of concerned State High Court (or seniormost judge), Article 159                                                                                                                                                                        |
+| Governor's term, under which Article?                                          | 5 years, Article 156 (can be reappointed, no bar on repeats)                                                                                                                                                                                          |
+| What does the Sarkaria Commission recommend about who should be Governor?      | Not belong to same State; eminent, detached from local politics; not recently active in politics; not a ruling-party politician if state ruled by another party; minority persons should get a chance; fortnightly reports to President must continue |
 
 ### Articles Related with Governor — Quick Table
 
-| Article | Subject |
-|---|---|
-| 153 | ||Provision for office of Governor|| |
-| 154 | ||Executive powers of Governor|| |
-| 155 | ||Appointment of Governor|| |
-| 156 | ||Term of office|| |
-| 157 | ||Qualifications for appointment|| |
-| 158 | ||Conditions for the office|| |
-| 159 | ||Oath of office|| |
-| 161 | ||Judicial powers (pardons)|| |
-| 164 | ||Appointment of Ministers by Governor|| |
-| 165 | ||Appointment of Advocate-General|| |
-| 166 | ||Executive actions taken in his name|| |
-| 168 | ||Integral part of state legislature|| |
-| 174 | ||Summoning, proroguing, dissolving|| |
-| 200 | ||Reservation of Bill for President's consideration|| |
-| 202 | ||Laying of state budget|| |
-| 213 | ||Power to promulgate Ordinances|| |
-| 233 | ||Appointment & posting of District Judges|| |
+| Article |                                                   |     |     |
+| ------- | ------------------------------------------------- | --- | --- |
+| 153     | Provision for office of Governor                  |     |     |
+| 154     | Executive powers of Governor                      |     |     |
+| 155     | Appointment of Governor                           |     |     |
+| 156     | Term of office                                    |     |     |
+| 157     | Qualifications for appointment                    |     |     |
+| 158     | Conditions for the office                         |     |     |
+| 159     | Oath of office                                    |     |     |
+| 161     | Judicial powers (pardons)                         |     |     |
+| 164     | Appointment of Ministers by Governor              |     |     |
+| 165     | Appointment of Advocate-General                   |     |     |
+| 166     | Executive actions taken in his name               |     |     |
+| 168     | Integral part of state legislature                |     |     |
+| 174     | Summoning, proroguing, dissolving                 |     |     |
+| 200     | Reservation of Bill for President's consideration |     |     |
+| 202     | Laying of state budget                            |     |     |
+| 213     | Power to promulgate Ordinances                    |     |     |
+| 233     | Appointment & posting of District Judges          |     |     |
 
 ### Governor's Powers
 
