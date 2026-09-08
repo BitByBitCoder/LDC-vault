@@ -66,32 +66,32 @@
 
 ## Chief Minister
 
-| Question                                                                | Answer |     |                                                                                                    |     |     |
-| ----------------------------------------------------------------------- | ------ | --- | -------------------------------------------------------------------------------------------------- | --- | --- |
-| Who appoints the Chief Minister, under which Article?                   |        |     | Governor, Article 164                                                                              |     |     |
-| If CM is not a Legislature member, within how long must he get elected? |        |     | 6 months, otherwise removed                                                                        |     |     |
-| Is CM's term fixed?                                                     |        |     | No — holds office during Governor's pleasure, but not dismissible while enjoying Assembly majority |     |     |
-| What happens to the Council of Ministers if CM resigns or dies?         |        |     | Automatically dissolves                                                                            |     |     |
-| What is CM's role vis-à-vis Governor?                                   |        |     | Principal channel of communication between Governor and Council of Ministers                       |     |     |
-| Can CM recommend Assembly dissolution to the Governor?                  |        |     | Yes, at any time                                                                                   |     |     |
+| Question                                                                | Answer                                                                                             |
+| ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| Who appoints the Chief Minister, under which Article?                   | Governor, Article 164                                                                              |
+| If CM is not a Legislature member, within how long must he get elected? | 6 months, otherwise removed                                                                        |
+| Is CM's term fixed?                                                     | No — holds office during Governor's pleasure, but not dismissible while enjoying Assembly majority |
+| What happens to the Council of Ministers if CM resigns or dies?         | Automatically dissolves                                                                            |
+| What is CM's role vis-à-vis Governor?                                   | Principal channel of communication between Governor and Council of Ministers                       |
+| Can CM recommend Assembly dissolution to the Governor?                  | Yes, at any time                                                                                   |
 
 ## Advocate General
 
-| Question | Answer |
-|---|---|
-| Who appoints the Advocate General, and during whose pleasure does he hold office? | ||Governor of the State; during Governor's pleasure|| |
-| Qualification needed to be Advocate General? | ||Qualified to be a Judge of a High Court|| |
-| Can the Advocate General vote in the State Legislature? | ||No right to vote, but right to speak and take part in proceedings (Art 177)|| |
+| Question                                                                          | Answer                                                                      |
+| --------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| Who appoints the Advocate General, and during whose pleasure does he hold office? | Governor of the State; during Governor's pleasure                           |
+| Qualification needed to be Advocate General?                                      | Qualified to be a Judge of a High Court                                     |
+| Can the Advocate General vote in the State Legislature?                           | No right to vote, but right to speak and take part in proceedings (Art 177) |
 
 ## Special Position of Jammu & Kashmir (Before 05-08-2019)
 
-| Question | Answer |
-|---|---|
-| Which Article gave J&K special status before 2019? | ||Article 370|| |
-| Did J&K have its own Constitution? Made when? | ||Yes, made by separate Constituent Assembly, promulgated 1957|| |
-| Did J&K have dual citizenship? | ||Yes|| |
-| Where did residuary powers for J&K rest? | ||With the State Government, not the Union|| |
-| What happened on 5 August 2019? | ||Govt of India abolished Article 370 and all special status provisions for J&K|| |
+| Question                                           | Answer                                                                        |
+| -------------------------------------------------- | ----------------------------------------------------------------------------- |
+| Which Article gave J&K special status before 2019? | Article 370                                                                   |
+| Did J&K have its own Constitution? Made when?      | Yes, made by separate Constituent Assembly, promulgated 1957                  |
+| Did J&K have dual citizenship?                     | Yes                                                                           |
+| Where did residuary powers for J&K rest?           | With the State Government, not the Union                                      |
+| What happened on 5 August 2019?                    | Govt of India abolished Article 370 and all special status provisions for J&K |
 
 ## Exam Trap ⚠️
 - Governor vs President pardoning power: BOTH can pardon/reprieve/respite/remit/commute for court-martial/other sentences, but ONLY the President can pardon a DEATH sentence — Governor cannot.
