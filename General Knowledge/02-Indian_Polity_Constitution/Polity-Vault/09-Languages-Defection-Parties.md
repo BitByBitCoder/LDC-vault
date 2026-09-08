@@ -4,35 +4,35 @@
 
 ## Official Languages (Articles 343–351)
 
-| Question                                                                                                               | Answer |     |                                                                                             |     |     |
-| ---------------------------------------------------------------------------------------------------------------------- | ------ | --- | ------------------------------------------------------------------------------------------- | --- | --- |
-| Which Part of the Constitution deals with Official Language?                                                           |        |     | Part XVII, Articles 343–351                                                                 |     |     |
-| What is the official language of the Union, and in which script?                                                       |        |     | Hindi, in Devanagari script                                                                 |     |     |
-| How many languages were originally in the 8th Schedule, and how many are there now?                                    |        |     | 14 originally; 22 now (8 added via amendments)                                              |     |     |
-| Who chaired the first Official Language Commission (1955)?                                                             |        |     | Shri B.G. Kher                                                                              |     |     |
-| Can a State Legislature adopt its own official language?                                                               |        |     | Yes, any language used in the State, or Hindi                                               |     |     |
-| Until Parliament decides otherwise, what is the authoritative language of SC/HC proceedings and Acts/Bills/Ordinances? |        |     | English                                                                                     |     |     |
-| What privileges do 8th Schedule languages get?                                                                         |        |     | A member in the Official Language Commission; considered for Hindi-development contribution |     |     |
-| Which 4 languages were added by the 92nd Amendment Act (2003)?                                                         |        |     | Bodo, Dogri, Maithili, Santhali                                                             |     |     |
+| Question                                                                                                               | Answer                                                                                      |     |     |
+| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | --- | --- |
+| Which Part of the Constitution deals with Official Language?                                                           | Part XVII, Articles 343–351                                                                 |     |     |
+| What is the official language of the Union, and in which script?                                                       | Hindi, in Devanagari script                                                                 |     |     |
+| How many languages were originally in the 8th Schedule, and how many are there now?                                    | 14 originally; 22 now (8 added via amendments)                                              |     |     |
+| Who chaired the first Official Language Commission (1955)?                                                             | Shri B.G. Kher                                                                              |     |     |
+| Can a State Legislature adopt its own official language?                                                               | Yes, any language used in the State, or Hindi                                               |     |     |
+| Until Parliament decides otherwise, what is the authoritative language of SC/HC proceedings and Acts/Bills/Ordinances? | English                                                                                     |     |     |
+| What privileges do 8th Schedule languages get?                                                                         | A member in the Official Language Commission; considered for Hindi-development contribution |     |     |
+| Which 4 languages were added by the 92nd Amendment Act (2003)?                                                         | Bodo, Dogri, Maithili, Santhali                                                             |     |     |
 
 ## Administrative Tribunals
 
-| Question | Answer |
-|---|---|
-| Which Amendment added Part XIVA (Tribunals) to the Constitution? | ||42nd Amendment Act, 1976|| |
-| What do Articles 323A and 323B deal with respectively? | ||323A: administrative tribunals; 323B: tribunals for other matters|| |
-| Name the Central Administrative Tribunal's abbreviation. | ||CAT|| |
+| Question                                                         | Answer                                                            |     |     |
+| ---------------------------------------------------------------- | ----------------------------------------------------------------- | --- | --- |
+| Which Amendment added Part XIVA (Tribunals) to the Constitution? | 42nd Amendment Act, 1976                                          |     |     |
+| What do Articles 323A and 323B deal with respectively?           | 323A: administrative tribunals; 323B: tribunals for other matters |     |     |
+| Name the Central Administrative Tribunal's abbreviation.         | CAT                                                               |     |     |
 
 ## Anti-Defection Law (10th Schedule)
 
-| Question | Answer |
-|---|---|
-| Which Amendment introduced the Anti-Defection Law, adding which Schedule? | ||52nd Amendment Act, 1985; Tenth Schedule|| |
-| Does disqualification for defection apply in case of a "split"? | ||No|| |
-| When does a party member become disqualified under this law? | ||If he voluntarily gives up party membership, OR votes/abstains against party whip without permission (and not condoned within 15 days)|| |
-| When does an Independent member become disqualified? | ||If he joins any political party after election|| |
-| When does a Nominated member become disqualified? | ||If he joins a party after 6 months from taking his seat|| |
-| On how many counts can an MP/MLA be disqualified for defying a whip? | ||Two — voting against govt, or not agreeing to govt policies/programmes|| |
+| Question                                                                  | Answer |     |                                                                                                                                        |     |     |
+| ------------------------------------------------------------------------- | ------ | --- | -------------------------------------------------------------------------------------------------------------------------------------- | --- | --- |
+| Which Amendment introduced the Anti-Defection Law, adding which Schedule? |        |     | 52nd Amendment Act, 1985; Tenth Schedule                                                                                               |     |     |
+| Does disqualification for defection apply in case of a "split"?           |        |     | No                                                                                                                                     |     |     |
+| When does a party member become disqualified under this law?              |        |     | If he voluntarily gives up party membership, OR votes/abstains against party whip without permission (and not condoned within 15 days) |     |     |
+| When does an Independent member become disqualified?                      |        |     | If he joins any political party after election                                                                                         |     |     |
+| When does a Nominated member become disqualified?                         |        |     | If he joins a party after 6 months from taking his seat                                                                                |     |     |
+| On how many counts can an MP/MLA be disqualified for defying a whip?      |        |     | Two — voting against govt, or not agreeing to govt policies/programmes                                                                 |     |     |
 
 ## Political Parties — Recognition Criteria
 
