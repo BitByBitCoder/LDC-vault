@@ -4,18 +4,18 @@
 
 ## Comptroller and Auditor General (CAG) of India
 
-| Question | Answer |
-|---|---|
-| Who appoints the CAG, under which Articles is he governed? | ||President; Articles 148–151|| |
-| On what grounds can CAG be removed? | ||Proved misbehaviour or incapacity|| |
-| CAG's term of office? | ||6 years from date of assuming office|| |
-| At what age does CAG vacate office even without completing 6 years? | ||65 years|| |
-| To whom does CAG resign, and how? | ||President, by writing under his hand|| |
-| CAG's salary is equal to whose? | ||A Judge of the Supreme Court|| |
-| Are CAG's salary and office expenses votable? | ||No — charged on Consolidated Fund of India, non-votable|| |
-| What is CAG's nickname regarding the Public Accounts Committee? | ||"Ears and Eyes of the Public Accounts Committee"|| |
-| What is CAG known as regarding public funds? | ||"Guardian of the public fund"|| |
-| Whose report is examined by the Public Accounts Committee? | ||CAG's report|| |
+| Question                                                            | Answer                                                  |     |     |
+| ------------------------------------------------------------------- | ------------------------------------------------------- | --- | --- |
+| Who appoints the CAG, under which Articles is he governed?          | President; Articles 148–151                             |     |     |
+| On what grounds can CAG be removed?                                 | Proved misbehaviour or incapacity                       |     |     |
+| CAG's term of office?                                               | 6 years from date of assuming office                    |     |     |
+| At what age does CAG vacate office even without completing 6 years? | 65 years                                                |     |     |
+| To whom does CAG resign, and how?                                   | President, by writing under his hand                    |     |     |
+| CAG's salary is equal to whose?                                     | A Judge of the Supreme Court                            |     |     |
+| Are CAG's salary and office expenses votable?                       | No — charged on Consolidated Fund of India, non-votable |     |     |
+| What is CAG's nickname regarding the Public Accounts Committee?     | "Ears and Eyes of the Public Accounts Committee"        |     |     |
+| What is CAG known as regarding public funds?                        | "Guardian of the public fund"                           |     |     |
+| Whose report is examined by the Public Accounts Committee?          | CAG's report                                            |     |     |
 
 ## Public Service Commissions (Articles 315–323)
 
