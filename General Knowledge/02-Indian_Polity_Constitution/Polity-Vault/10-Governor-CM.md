@@ -18,62 +18,62 @@
 
 ### Articles Related with Governor — Quick Table
 
-| Article |                                                   |     |     |
-| ------- | ------------------------------------------------- | --- | --- |
-| 153     | Provision for office of Governor                  |     |     |
-| 154     | Executive powers of Governor                      |     |     |
-| 155     | Appointment of Governor                           |     |     |
-| 156     | Term of office                                    |     |     |
-| 157     | Qualifications for appointment                    |     |     |
-| 158     | Conditions for the office                         |     |     |
-| 159     | Oath of office                                    |     |     |
-| 161     | Judicial powers (pardons)                         |     |     |
-| 164     | Appointment of Ministers by Governor              |     |     |
-| 165     | Appointment of Advocate-General                   |     |     |
-| 166     | Executive actions taken in his name               |     |     |
-| 168     | Integral part of state legislature                |     |     |
-| 174     | Summoning, proroguing, dissolving                 |     |     |
-| 200     | Reservation of Bill for President's consideration |     |     |
-| 202     | Laying of state budget                            |     |     |
-| 213     | Power to promulgate Ordinances                    |     |     |
-| 233     | Appointment & posting of District Judges          |     |     |
+| Article | Subject                                           |
+| ------- | ------------------------------------------------- |
+| 153     | Provision for office of Governor                  |
+| 154     | Executive powers of Governor                      |
+| 155     | Appointment of Governor                           |
+| 156     | Term of office                                    |
+| 157     | Qualifications for appointment                    |
+| 158     | Conditions for the office                         |
+| 159     | Oath of office                                    |
+| 161     | Judicial powers (pardons)                         |
+| 164     | Appointment of Ministers by Governor              |
+| 165     | Appointment of Advocate-General                   |
+| 166     | Executive actions taken in his name               |
+| 168     | Integral part of state legislature                |
+| 174     | Summoning, proroguing, dissolving                 |
+| 200     | Reservation of Bill for President's consideration |
+| 202     | Laying of state budget                            |
+| 213     | Power to promulgate Ordinances                    |
+| 233     | Appointment & posting of District Judges          |
 
 ### Governor's Powers
 
-| Question | Answer |
-|---|---|
-| Executive: who does Governor appoint? | ||Council of Ministers, Advocate General, State PSC members|| |
-| Does the Governor have power to appoint High Court Judges? | ||No, but is entitled to be consulted by President|| |
-| Legislative: what can Governor nominate to Legislative Council? | ||1/6th of members|| |
-| Financial: what does Governor lay before State Legislature? | ||State budget|| |
-| Judicial (Art 161): what can Governor grant? | ||Pardons, reprieves, respites, remissions, suspend/remit/commute sentences (NOT for death sentence)|| |
-| Emergency: to whom does Governor report if State Govt can't function constitutionally? | ||The President (recommending President's Rule under Art 356)|| |
-| Under what condition MUST a Governor reserve a Bill for President's consideration? | ||Where the law would derogate the powers of the High Court|| |
-| Can Governor promulgate ordinances only while legislature is in session? | ||No — only when NOT in session|| |
-| When must the ordinance be laid before the State Legislature, and when does it lapse? | ||When reassembled; lapses 6 weeks after reassembly unless disapproved earlier|| |
-| Can Governor withdraw an ordinance? | ||Yes, at any time|| |
-| When can Governor NOT promulgate ordinances without President's instructions? | ||If the Bill would need President's previous sanction, or must be reserved for President's consideration|| |
+| Question                                                                               | Answer                                                                                                  |     |     |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --- | --- |
+| Executive: who does Governor appoint?                                                  | Council of Ministers, Advocate General, State PSC members                                               |     |     |
+| Does the Governor have power to appoint High Court Judges?                             | No, but is entitled to be consulted by President                                                        |     |     |
+| Legislative: what can Governor nominate to Legislative Council?                        | 1/6th of members                                                                                        |     |     |
+| Financial: what does Governor lay before State Legislature?                            | State budget                                                                                            |     |     |
+| Judicial (Art 161): what can Governor grant?                                           | Pardons, reprieves, respites, remissions, suspend/remit/commute sentences (NOT for death sentence)      |     |     |
+| Emergency: to whom does Governor report if State Govt can't function constitutionally? | The President (recommending President's Rule under Art 356)                                             |     |     |
+| Under what condition MUST a Governor reserve a Bill for President's consideration?     | Where the law would derogate the powers of the High Court                                               |     |     |
+| Can Governor promulgate ordinances only while legislature is in session?               | No — only when NOT in session                                                                           |     |     |
+| When must the ordinance be laid before the State Legislature, and when does it lapse?  | When reassembled; lapses 6 weeks after reassembly unless disapproved earlier                            |     |     |
+| Can Governor withdraw an ordinance?                                                    | Yes, at any time                                                                                        |     |     |
+| When can Governor NOT promulgate ordinances without President's instructions?          | If the Bill would need President's previous sanction, or must be reserved for President's consideration |     |     |
 
 ### Discretionary Functions of Governor (examples)
 
-| Question | Answer |
-|---|---|
-| Which Governor determines royalty payable by Assam to District Council? | ||Governor of Assam|| |
-| Which Governors have special responsibility for Vidarbha/Saurashtra development? | ||Governors of Maharashtra / Gujarat|| |
-| Which Governor has special responsibility for law & order? | ||Governor of Nagaland|| |
-| Which Governor has power to dismiss an individual Minister at any time? | ||Governor of Sikkim|| |
-| When can a Governor dismiss the Council of Ministers/CM? | ||Only when CoM has lost Assembly confidence AND Governor doesn't think fit to dissolve the Assembly|| |
+| Question                                                                         | Answer                                                                                             |     |     |
+| -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | --- | --- |
+| Which Governor determines royalty payable by Assam to District Council?          | Governor of Assam                                                                                  |     |     |
+| Which Governors have special responsibility for Vidarbha/Saurashtra development? | Governors of Maharashtra / Gujarat                                                                 |     |     |
+| Which Governor has special responsibility for law & order?                       | Governor of Nagaland                                                                               |     |     |
+| Which Governor has power to dismiss an individual Minister at any time?          | Governor of Sikkim                                                                                 |     |     |
+| When can a Governor dismiss the Council of Ministers/CM?                         | Only when CoM has lost Assembly confidence AND Governor doesn't think fit to dissolve the Assembly |     |     |
 
 ## Chief Minister
 
-| Question | Answer |
-|---|---|
-| Who appoints the Chief Minister, under which Article? | ||Governor, Article 164|| |
-| If CM is not a Legislature member, within how long must he get elected? | ||6 months, otherwise removed|| |
-| Is CM's term fixed? | ||No — holds office during Governor's pleasure, but not dismissible while enjoying Assembly majority|| |
-| What happens to the Council of Ministers if CM resigns or dies? | ||Automatically dissolves|| |
-| What is CM's role vis-à-vis Governor? | ||Principal channel of communication between Governor and Council of Ministers|| |
-| Can CM recommend Assembly dissolution to the Governor? | ||Yes, at any time|| |
+| Question                                                                | Answer |     |                                                                                                    |     |     |
+| ----------------------------------------------------------------------- | ------ | --- | -------------------------------------------------------------------------------------------------- | --- | --- |
+| Who appoints the Chief Minister, under which Article?                   |        |     | Governor, Article 164                                                                              |     |     |
+| If CM is not a Legislature member, within how long must he get elected? |        |     | 6 months, otherwise removed                                                                        |     |     |
+| Is CM's term fixed?                                                     |        |     | No — holds office during Governor's pleasure, but not dismissible while enjoying Assembly majority |     |     |
+| What happens to the Council of Ministers if CM resigns or dies?         |        |     | Automatically dissolves                                                                            |     |     |
+| What is CM's role vis-à-vis Governor?                                   |        |     | Principal channel of communication between Governor and Council of Ministers                       |     |     |
+| Can CM recommend Assembly dissolution to the Governor?                  |        |     | Yes, at any time                                                                                   |     |     |
 
 ## Advocate General
 
