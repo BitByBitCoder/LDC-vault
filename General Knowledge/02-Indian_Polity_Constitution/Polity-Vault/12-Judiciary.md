@@ -41,33 +41,33 @@
 
 ## High Court (Articles 214–231)
 
-| Question                                                                                     | Answer |     |                                                                                                                                          |     |     |
-| -------------------------------------------------------------------------------------------- | ------ | --- | ---------------------------------------------------------------------------------------------------------------------------------------- | --- | --- |
-| Who determines a High Court's strength, based on what?                                       |        |     | The President, based on workload, from time to time                                                                                      |     |     |
-| Is a High Court's territorial jurisdiction co-terminus with a State?                         |        |     | Yes                                                                                                                                      |     |     |
-| Under which Article are HC Judges appointed?                                                 |        |     | Article 217, by the President                                                                                                            |     |     |
-| Who is consulted before appointing the Chief Justice of a High Court?                        |        |     | CJI of India and Governor of the concerned state                                                                                         |     |     |
-| Under which Article is the HC Judge's oath administered, by whom?                            |        |     | Article 219, by the Governor                                                                                                             |     |     |
-| Retirement age for HC Judges?                                                                |        |     | 65 years (raised from 62 by 15th Amendment)                                                                                              |     |     |
-| Note: source text also states 62 years elsewhere for HC Judge retirement — which is correct? |        |     | 65 years is correct/current (Article 217, after 15th Amendment 1963); this PDF has an internal inconsistency — verify with latest source |     |     |
-| Ways an HC Judge can leave office?                                                           |        |     | Resignation to President; appointment/transfer to another HC or SC; removal by President                                                 |     |     |
-| Qualifications for HC Judgeship?                                                             |        |     | Citizen of India; held judicial office 10 years OR advocate of a HC for 10 years                                                         |     |     |
-| Who determines HC Judges' salaries?                                                          |        |     | Parliament, from time to time; charged on Consolidated Fund of the State                                                                 |     |     |
-| Difference in writ jurisdiction: SC vs HC?                                                   |        |     | SC only for Fundamental Rights enforcement; HC for FR enforcement AND redress of any other legal right/illegality (Article 226)          |     |     |
+| Question                                                                                     | Answer                                                                                                                                   |
+| -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Who determines a High Court's strength, based on what?                                       | The President, based on workload, from time to time                                                                                      |
+| Is a High Court's territorial jurisdiction co-terminus with a State?                         | Yes                                                                                                                                      |
+| Under which Article are HC Judges appointed?                                                 | Article 217, by the President                                                                                                            |
+| Who is consulted before appointing the Chief Justice of a High Court?                        | CJI of India and Governor of the concerned state                                                                                         |
+| Under which Article is the HC Judge's oath administered, by whom?                            | Article 219, by the Governor                                                                                                             |
+| Retirement age for HC Judges?                                                                | 65 years (raised from 62 by 15th Amendment)                                                                                              |
+| Note: source text also states 62 years elsewhere for HC Judge retirement — which is correct? | 65 years is correct/current (Article 217, after 15th Amendment 1963); this PDF has an internal inconsistency — verify with latest source |
+| Ways an HC Judge can leave office?                                                           | Resignation to President; appointment/transfer to another HC or SC; removal by President                                                 |
+| Qualifications for HC Judgeship?                                                             | Citizen of India; held judicial office 10 years OR advocate of a HC for 10 years                                                         |
+| Who determines HC Judges' salaries?                                                          | Parliament, from time to time; charged on Consolidated Fund of the State                                                                 |
+| Difference in writ jurisdiction: SC vs HC?                                                   | SC only for Fundamental Rights enforcement; HC for FR enforcement AND redress of any other legal right/illegality (Article 226)          |
 
 ### Jurisdiction & Seats of High Courts (selected)
 
-| Court | Established | Principal Seat | Bench(es) |
-|---|---|---|---|
-| Calcutta HC | ||1862|| | ||Kolkata|| | ||Port Blair, Jalpaiguri|| |
-| Bombay HC | ||1862|| | ||Mumbai|| | ||Aurangabad, Nagpur, Panaji|| |
-| Madras HC | ||1862|| | ||Chennai|| | ||Madurai|| |
-| Allahabad HC | ||1866|| | ||Prayagraj|| | ||Lucknow|| |
-| Gauhati HC | ||1948|| | ||Guwahati|| | ||Aizawl, Itanagar, Kohima|| |
-| Delhi HC | ||1966|| | ||New Delhi|| | — |
-| Andhra Pradesh HC | ||2019|| | ||Amaravati|| | — |
-| Telangana HC | ||2019|| | ||Hyderabad|| | — |
-| High Court of J&K and Ladakh | ||1928|| | ||Srinagar/Jammu|| | — |
+| Court                        | Established | Principal Seat | Bench(es)                  |     |     |     |     |     |     |     |     |     |     |     |     |
+| ---------------------------- | ----------- | -------------- | -------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Calcutta HC                  | 1862        | Kolkata        | Port Blair, Jalpaiguri     |     |     |     |     |     |     |     |     |     |     |     |     |
+| Bombay HC                    | 1862        | Mumbai         | Aurangabad, Nagpur, Panaji |     |     |     |     |     |     |     |     |     |     |     |     |
+| Madras HC                    | 1862        | Chennai        | Madurai                    |     |     |     |     |     |     |     |     |     |     |     |     |
+| Allahabad HC                 | 1866        | Prayagraj      | Lucknow                    |     |     |     |     |     |     |     |     |     |     |     |     |
+| Gauhati HC                   | 1948        | Guwahati       | Aizawl, Itanagar, Kohima   |     |     |     |     |     |     |     |     |     |     |     |     |
+| Delhi HC                     | 1966        | New Delhi      |                            |     |     |     |     |     |     |     | —   |     |     |     |     |
+| Andhra Pradesh HC            | 2019        | Amaravati      |                            |     |     |     |     |     |     |     | —   |     |     |     |     |
+| Telangana HC                 | 2019        | Hyderabad      |                            |     |     |     |     |     |     |     | —   |     |     |     |     |
+| High Court of J&K and Ladakh | 1928        | Srinagar/Jammu |                            |     |     |     |     |     |     |     | —   |     |     |     |     |
 
 ## District Judges & Other Judges
 
