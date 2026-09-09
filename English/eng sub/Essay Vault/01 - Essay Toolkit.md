@@ -1,24 +1,22 @@
 # 01 — Essay Toolkit
 [[00 - Essay INDEX|← Back to Index]]
 
-> Use these in every essay, regardless of topic. Byhard this page first.
 
----
 
 ## A1. Connecting Words
 
-|**Function**|**Transition Words / Phrases**|**Mizo Hrilhfiahna (Explanation in Mizo)**|
-|---|---|---|
-|**Addition**|Furthermore, Moreover, In addition, Besides, Additionally, What is more|Thil sawi belhchahna leh chhunzawmna (_Bakah, Chu chang a la ni lo, Chu bakah chuan_).|
-|**Contrast**|However, Nevertheless, Nonetheless, On the other hand, Although, Whereas, In contrast, Conversely|Thil inpersan, inkiang, leh inkalhhna sawina (_Mahse, Chutih rual chuan, A lehlam zawngin_).|
-|**Cause**|Because, Since, As, Due to, Owing to|A chhan leh a bulbal phawrhchhuahna (_A chhan chu, ... avangin_).|
-|**Effect**|Therefore, Thus, Hence, As a result, Consequently|A rahchhuah leh a nghawng sawina (_Chuvangin, Chumi a hnuah chuan, A nghawng chu_).|
-|**Example**|For instance, For example, Such as, To illustrate, Namely|Entirna hmanga fiah zawka hrilhfiahna (_Entirnan, Entirna atan chuan_).|
-|**Emphasis**|Indeed, In fact, Notably, Above all, It is worth noting that|Thu pawimawh bik uar taka tihlanna (_Dik tak chuan, A bik takin, Hriat reng tur chu_).|
-|**Sequence**|To begin with, Subsequently, Meanwhile|Thil thlen dan indawttak leh a zawn sawina (_A tir berah chuan, Chumi hnuah, Chutih chhung chuan_).|
-|**Comparison**|Similarly, Likewise, In the same way|Thil inang leh inhmul tak khaikhawmna (_Chutiang bawkin, Kawng inang takin_).|
-|**Concession**|Admittedly, Granted, It is true that|Thu tling leh dikna chhen pawm chunga thu chhunzawmna (_Dik a ni, Pawm a nih angin_).|
-|**Conclusion**|In conclusion, To summarize, To conclude, All things considered, On the whole|Thu sawi tlipna leh khaikhawmna (_Khaikhawm ta ila, A tlipna atan chuan, Engkim ngaihtuahin_).|
+| **Function**   | **Transition Words / Phrases**                                                                            | **Mizo Hrilhfiahna (Explanation in Mizo)**                                                          |
+| -------------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| **Addition**   | \|\|Furthermore, Moreover, In addition, Besides, Additionally, What is more\|\|                           | Thil sawi belhchahna leh chhunzawmna (_Bakah, Chu chang a la ni lo, Chu bakah chuan_).              |
+| **Contrast**   | \|\|However, Nevertheless, Nonetheless, On the other hand, Although, Whereas, In contrast, Conversely\|\| | Thil inpersan, inkiang, leh inkalhhna sawina (_Mahse, Chutih rual chuan, A lehlam zawngin_).        |
+| **Cause**      | \|\|Because, Since, As, Due to, Owing to\|\|                                                              | A chhan leh a bulbal phawrhchhuahna (_A chhan chu, ... avangin_).                                   |
+| **Effect**     | \|\|Therefore, Thus, Hence, As a result, Consequently\|\|                                                 | A rahchhuah leh a nghawng sawina (_Chuvangin, Chumi a hnuah chuan, A nghawng chu_).                 |
+| **Example**    | For instance, For example, Such as, To illustrate, Namely                                                 | Entirna hmanga fiah zawka hrilhfiahna (_Entirnan, Entirna atan chuan_).                             |
+| **Emphasis**   | Indeed, In fact, Notably, Above all, It is worth noting that                                              | Thu pawimawh bik uar taka tihlanna (_Dik tak chuan, A bik takin, Hriat reng tur chu_).              |
+| **Sequence**   | To begin with, Subsequently, Meanwhile                                                                    | Thil thlen dan indawttak leh a zawn sawina (_A tir berah chuan, Chumi hnuah, Chutih chhung chuan_). |
+| **Comparison** | Similarly, Likewise, In the same way                                                                      | Thil inang leh inhmul tak khaikhawmna (_Chutiang bawkin, Kawng inang takin_).                       |
+| **Concession** | Admittedly, Granted, It is true that                                                                      | Thu tling leh dikna chhen pawm chunga thu chhunzawmna (_Dik a ni, Pawm a nih angin_).               |
+| **Conclusion** | In conclusion, To summarize, To conclude, All things considered, On the whole                             | Thu sawi tlipna leh khaikhawmna (_Khaikhawm ta ila, A tlipna atan chuan, Engkim ngaihtuahin_).      |
 
 ## A2. Overused Words → Advanced Alternatives
 
