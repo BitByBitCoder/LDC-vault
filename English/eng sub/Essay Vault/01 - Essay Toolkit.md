@@ -7,36 +7,36 @@
 
 ## A1. Connecting Words
 
-| Function | Words |
-|---|---|
-| **Addition** | Furthermore, Moreover, In addition, Besides, Additionally, What is more |
-| **Contrast** | However, Nevertheless, Nonetheless, On the other hand, Although, Whereas, In contrast, Conversely |
-| **Cause** | Because, Since, As, Due to, Owing to |
-| **Effect** | Therefore, Thus, Hence, As a result, Consequently |
-| **Example** | For instance, For example, Such as, To illustrate, Namely |
-| **Emphasis** | Indeed, In fact, Notably, Above all, It is worth noting that |
-| **Sequence** | To begin with, Subsequently, Meanwhile |
-| **Comparison** | Similarly, Likewise, In the same way |
-| **Concession** | Admittedly, Granted, It is true that |
-| **Conclusion** | In conclusion, To summarize, To conclude, All things considered, On the whole |
+|**Function**|**Transition Words / Phrases**|**Mizo Hrilhfiahna (Explanation in Mizo)**|
+|---|---|---|
+|**Addition**|Furthermore, Moreover, In addition, Besides, Additionally, What is more|Thil sawi belhchahna leh chhunzawmna (_Bakah, Chu chang a la ni lo, Chu bakah chuan_).|
+|**Contrast**|However, Nevertheless, Nonetheless, On the other hand, Although, Whereas, In contrast, Conversely|Thil inpersan, inkiang, leh inkalhhna sawina (_Mahse, Chutih rual chuan, A lehlam zawngin_).|
+|**Cause**|Because, Since, As, Due to, Owing to|A chhan leh a bulbal phawrhchhuahna (_A chhan chu, ... avangin_).|
+|**Effect**|Therefore, Thus, Hence, As a result, Consequently|A rahchhuah leh a nghawng sawina (_Chuvangin, Chumi a hnuah chuan, A nghawng chu_).|
+|**Example**|For instance, For example, Such as, To illustrate, Namely|Entirna hmanga fiah zawka hrilhfiahna (_Entirnan, Entirna atan chuan_).|
+|**Emphasis**|Indeed, In fact, Notably, Above all, It is worth noting that|Thu pawimawh bik uar taka tihlanna (_Dik tak chuan, A bik takin, Hriat reng tur chu_).|
+|**Sequence**|To begin with, Subsequently, Meanwhile|Thil thlen dan indawttak leh a zawn sawina (_A tir berah chuan, Chumi hnuah, Chutih chhung chuan_).|
+|**Comparison**|Similarly, Likewise, In the same way|Thil inang leh inhmul tak khaikhawmna (_Chutiang bawkin, Kawng inang takin_).|
+|**Concession**|Admittedly, Granted, It is true that|Thu tling leh dikna chhen pawm chunga thu chhunzawmna (_Dik a ni, Pawm a nih angin_).|
+|**Conclusion**|In conclusion, To summarize, To conclude, All things considered, On the whole|Thu sawi tlipna leh khaikhawmna (_Khaikhawm ta ila, A tlipna atan chuan, Engkim ngaihtuahin_).|
 
 ## A2. Overused Words → Advanced Alternatives
 
-| Instead of       | Use                                                            |
-| ---------------- | -------------------------------------------------------------- |
-| Important        | significant, crucial, vital, paramount, indispensable, pivotal |
-| Good             | beneficial, favorable, commendable, advantageous, constructive |
-| Bad              | detrimental, adverse, harmful, damaging, deleterious           |
-| Big/Large        | substantial, considerable, immense, extensive, vast            |
-| Small            | minimal, negligible, marginal, modest                          |
-| Show             | demonstrate, illustrate, reveal, indicate, highlight           |
-| Said             | stated, asserted, argued, emphasized, contended                |
-| Think/Believe    | contend, argue, maintain, hold the view that                   |
-| Problem          | issue, challenge, concern, obstacle, predicament               |
-| Help             | facilitate, foster, contribute to, enable                      |
-| Change           | transform, alter, reform, revolutionize                        |
-| Many             | numerous, countless, a multitude of, myriad                    |
-| Very + adjective | replace with one strong word (very important → paramount)      |
+| **Simple Word**      | **Formal Synonyms**                                            | **Mizo Hrilhfiahna (Explanation in Mizo)**                                              |
+| -------------------- | -------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| **Important**        | significant, crucial, vital, paramount, indispensable, pivotal | Pawimawh em em, thiltihtheihna leh awmzia nei thui tak sawina.                          |
+| **Good**             | beneficial, favorable, commendable, advantageous, constructive | A ṭha, ṭangkai, fakawm, hlawkna leh hmasawnna thlen thei.                               |
+| **Bad**              | detrimental, adverse, harmful, damaging, deleterious           | A chhia, hlauhawm, pawi leh chhiatna thlen thei.                                        |
+| **Big / Large**      | substantial, considerable, immense, extensive, vast            | A lian, zau, nasa, chhiar seng loh khawpa tam/zau.                                      |
+| **Small**            | minimal, negligible, marginal, modest                          | A te, tlem, thil te nau, ngaihnep theih khawpa tlem/te.                                 |
+| **Show**             | demonstrate, illustrate, reveal, indicate, highlight           | Lantir, entir, tichiang taka hrilhfiah leh phawrh lang.                                 |
+| **Said**             | stated, asserted, argued, emphasized, contended                | Sawi, uar taka sawi, ṭanna nei chunga thutlukna sawi.                                   |
+| **Think / Believe**  | contend, argue, maintain, hold the view that                   | Ngaihdan neih, rinhlelh loh thil a ni tia pawm/vawn.                                    |
+| **Problem**          | issue, challenge, concern, obstacle, predicament               | Harsatna, buaina, daltu leh chinfeh ngai thil.                                          |
+| **Help**             | facilitate, foster, contribute to, enable                      | Puih, awlsam zawka siam, ṭhanlen pui leh puihna hlan.                                   |
+| **Change**           | transform, alter, reform, revolutionize                        | Thlak, siam ṭhat, inthlakdanglam tir hlawk.                                             |
+| **Many**             | numerous, countless, a multitude of, myriad                    | Tam tak, chhiarsen loh, ṭhahnem tak.                                                    |
+| **Very + Adjective** | Strong single words (e.g., _very important_ → _paramount_)     | 'Very' hman uar mai lovin, a awmzia uar zawka sawina thumal pakhat (strong word) hmang. |
 
 ## A3. Argumentative Phrases
 
