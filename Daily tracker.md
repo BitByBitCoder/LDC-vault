@@ -155,4 +155,5 @@ night gk english and maths
 
 wed 9 
 morning english
-
+afternoon gk
+night maths
