@@ -171,10 +171,3 @@ Use a table format instead of the task-line format I gave you before, since tabl
 | 08:00-09:00 | english | 60               |
 | 15:00-16:00 | gk      | 60               |
 | 20:00-21:00 | maths   | 60               |
-
-#reflect: maths felt slow, redo divisibility rules tomorrow
-
-
-Then a single Dataview query file at the top of your vault sums minutes per subject across all daily notes — zero custom code, just the query language you'd use the same way you already query your vaults.
-
-**When a plugin would actually make sense:** if you wanted a live dashboard, auto-timers, or something UI-heavy. None of that moves your score. Build the plugin after November if you want a side project — right now, table.
