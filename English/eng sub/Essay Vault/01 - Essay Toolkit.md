@@ -22,21 +22,21 @@
 
 ## A2. Overused Words → Advanced Alternatives
 
-| Instead of | Use |
-|---|---|
-| Important | significant, crucial, vital, paramount, indispensable, pivotal |
-| Good | beneficial, favorable, commendable, advantageous, constructive |
-| Bad | detrimental, adverse, harmful, damaging, deleterious |
-| Big/Large | substantial, considerable, immense, extensive, vast |
-| Small | minimal, negligible, marginal, modest |
-| Show | demonstrate, illustrate, reveal, indicate, highlight |
-| Said | stated, asserted, argued, emphasized, contended |
-| Think/Believe | contend, argue, maintain, hold the view that |
-| Problem | issue, challenge, concern, obstacle, predicament |
-| Help | facilitate, foster, contribute to, enable |
-| Change | transform, alter, reform, revolutionize |
-| Many | numerous, countless, a multitude of, myriad |
-| Very + adjective | replace with one strong word (very important → paramount) |
+| Instead of       | Use                                                            |
+| ---------------- | -------------------------------------------------------------- |
+| Important        | significant, crucial, vital, paramount, indispensable, pivotal |
+| Good             | beneficial, favorable, commendable, advantageous, constructive |
+| Bad              | detrimental, adverse, harmful, damaging, deleterious           |
+| Big/Large        | substantial, considerable, immense, extensive, vast            |
+| Small            | minimal, negligible, marginal, modest                          |
+| Show             | demonstrate, illustrate, reveal, indicate, highlight           |
+| Said             | stated, asserted, argued, emphasized, contended                |
+| Think/Believe    | contend, argue, maintain, hold the view that                   |
+| Problem          | issue, challenge, concern, obstacle, predicament               |
+| Help             | facilitate, foster, contribute to, enable                      |
+| Change           | transform, alter, reform, revolutionize                        |
+| Many             | numerous, countless, a multitude of, myriad                    |
+| Very + adjective | replace with one strong word (very important → paramount)      |
 
 ## A3. Argumentative Phrases
 
