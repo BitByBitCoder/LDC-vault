@@ -148,3 +148,6 @@ mon 7 sept
  gk polity
  english
  constitution - me
+tue 8 sept
+morning gk after noon gk
+night gk english and maths
