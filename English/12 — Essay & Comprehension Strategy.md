@@ -16,7 +16,7 @@
 
 ---
 
-## Essay Writing — Strategy
+## Essay Writing — Strategy BH
 
 ### Structure (Always follow this)
 ```
