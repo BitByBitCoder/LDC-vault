@@ -40,14 +40,14 @@
 
 ## A3. Argumentative Phrases
 
-| Purpose | Phrase |
-|---|---|
-| State opinion | It is widely believed that / Many contend that |
-| Introduce stance | This essay argues that / It is my contention that |
-| Acknowledge opposing view | Critics argue that / Some may contend that |
-| Rebut opposing view | However, this view overlooks... |
-| Strengthen a claim | This is further evidenced by... |
-| Conclude | In light of the above discussion... / The way forward lies in... |
+| Purpose                   | Phrase                                                           |
+| ------------------------- | ---------------------------------------------------------------- |
+| State opinion             | It is widely believed that / Many contend that                   |
+| Introduce stance          | This essay argues that / It is my contention that                |
+| Acknowledge opposing view | Critics argue that / Some may contend that                       |
+| Rebut opposing view       | However, this view overlooks...                                  |
+| Strengthen a claim        | This is further evidenced by...                                  |
+| Conclude                  | In light of the above discussion... / The way forward lies in... |
 
 ## A4. Universal Essay Formula (300–400 words)
 
