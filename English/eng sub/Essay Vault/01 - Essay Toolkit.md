@@ -77,3 +77,14 @@ address, tackle, foster, cultivate, undermine, bolster, hinder, propel, mitigate
 - Don't overuse "very" + adjective — replace with one strong word
 - Don't repeat "important / good / bad / many" more than once per essay
 - Keep vocabulary natural — don't force an obscure word if a simpler one reads more clearly
+
+Extra opening line
+
+|**Missing Section**|**What to Add**|**Mizo Hrilhfiahna (Explanation in Mizo)**|
+|---|---|---|
+|**A7. Essay Openers (Hook / General Statement)**|"In recent years, the question of... has sparked intense debate." / "It is an indisputable fact that..."|Essay ṭan ṭhatna leh thupui luhchhuah hma a boruak siamna (_Tukina kan hmachhawn boruak ah chuan..._).|
+|**A8. Expressing Cause & Consequence**|"This stems from..." / "Consequently, this leads to..." / "As a direct result of..."|Thil intuha / a pawi sawina leh a chhan leh a rahchhuah tihlanna (_Hei hian... a thlen phah a ni_).|
+|**A9. Presenting Data / Trends**|"A growing body of research indicates..." / "Statistics reveal a sharp increase in..."|Data, number leh statistic hmanga thu sawi tichangtlung tur phawrhchhuahna (_Zirchhuahna hrang hrangin a tihlanna chuan..._).|
+|**A10. Conditional & Hypothetical Framing**|"Were this trend to continue,..." / "Had measures been implemented sooner,..."|Thil thleng thei tur (if/hypothetical) sawina fiah leh changtlung (_He thil hi chhunzawm zel a nih chuan..._).|
+|**A11. Collocations (Words that go together)**|_Profound impact_, _Pressing issue_, _Dire consequences_, _Pivotal role_|Thumal pahnih inkawp sa, mawi leh changtlung taka hman pawlh dan (_Impah / nghawng thui tak nei_).|
+|**A12. Punctuation for Band-9 Structures**|Semicolons (`;`), Colons (`:`), and Em-dashes (`—`) for complex flow.|Sentence fawm zut leh changtlung taka zawmkhawm dan (_Chhunzawmna leh sawifiahna chhinchhiahna_).|
