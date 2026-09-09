@@ -157,3 +157,24 @@ wed 9
 morning english
 afternoon gk
 night maths
+
+Table — no contest here.
+
+You don't need a plugin. Dataview (which you're likely already using for your Q&A tables and spoiler syntax) can already query and sum a plain Markdown table without any custom code. A plugin means writing, debugging, and maintaining JS/TS with an exam ~2 months out — that's time stolen straight from Maths and English for a problem a table already solves.
+
+Use a table format instead of the task-line format I gave you before, since tables are easier to scan and Dataview can query table rows just as well:
+
+
+## 2026-09-09
+| Time        | Subject | Duration (min) |
+| ----------- | ------- | --------------- |
+| 08:00-09:00 | english | 60               |
+| 15:00-16:00 | gk      | 60               |
+| 20:00-21:00 | maths   | 60               |
+
+#reflect: maths felt slow, redo divisibility rules tomorrow
+
+
+Then a single Dataview query file at the top of your vault sums minutes per subject across all daily notes — zero custom code, just the query language you'd use the same way you already query your vaults.
+
+**When a plugin would actually make sense:** if you wanted a live dashboard, auto-timers, or something UI-heavy. None of that moves your score. Build the plugin after November if you want a side project — right now, table.
