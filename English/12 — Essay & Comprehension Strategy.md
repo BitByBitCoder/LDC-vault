@@ -16,7 +16,7 @@
 
 ---
 
-## Essay Writing — Strategy BH
+## Essay Writing — Strategy BH [00 - Essay INDEX](eng%20sub/Essay%20Vault/00%20-%20Essay%20INDEX.md)
 
 ### Structure (Always follow this)
 ```
