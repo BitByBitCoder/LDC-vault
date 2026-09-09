@@ -1,4 +1,4 @@
-# 12 — Essay & Comprehension Strategy
+# 12 — Essay & Compre0hension Strategy
 [[📝 English — INDEX|← Back to Index]]
 
 > Part B of English paper = 50 marks (conventional type)
