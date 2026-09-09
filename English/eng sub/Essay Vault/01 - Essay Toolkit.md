@@ -40,14 +40,14 @@
 
 ## A3. Argumentative Phrases
 
-| Purpose                   | Phrase                                                           |
-| ------------------------- | ---------------------------------------------------------------- |
-| State opinion             | It is widely believed that / Many contend that                   |
-| Introduce stance          | This essay argues that / It is my contention that                |
-| Acknowledge opposing view | Critics argue that / Some may contend that                       |
-| Rebut opposing view       | However, this view overlooks...                                  |
-| Strengthen a claim        | This is further evidenced by...                                  |
-| Conclude                  | In light of the above discussion... / The way forward lies in... |
+| **Purpose**                   | **Academic Phrases & Expressions**                                          | **Mizo Hrilhfiahna (Explanation in Mizo)**                                                                                   |
+| ----------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **State opinion**             | It is widely believed that / Many contend that                              | Mi tam tak ngaihdan leh pawm dan phawrhchhuahna (_Mipi tam tak pawm dan chuan, Tam takin an ti a_).                          |
+| **Introduce stance**          | This essay argues that / It is my contention that                           | Mahni ṭanhmun leh ngaihdan tihlanna (_He essay-in a ṭan ber chu, Ka ngaihdan takah chuan_).                                  |
+| **Acknowledge opposing view** | Critics argue that / Some may contend that                                  | Ngaihdan inkalh leh kalh zawng thlirna tihlanna (_Sawisel tute ngaihdan chuan, Ṭhenkhat chuan... an ti a ni thei_).          |
+| **Rebut opposing view**       | However, this view overlooks... / This argument fails to consider...        | Ngaihdan inkalh chu a dik tawk lohna leh a htawm lohna phawrhchhuahna (_Chutih rualin, he ngaihdan hian... a haider thung_). |
+| **Strengthen a claim**        | This is further evidenced by... / This strongly supports the notion that... | Mahni thu sawi tihfehhualna leh finfiahna pawimawh belhchhahna (_Hei hi finfiahna tichuang lehzualitu a ni_).                |
+| **Conclude / Way Forward**    | In light of the above discussion... / The way forward lies in...            | Thu sawi khaikhawmna leh hma lam hun kawng inkawhhmuhna (_A chunga sawi tak atang khuan, Hma lam pan dan tur ber chu_).      |
 
 ## A4. Universal Essay Formula (300–400 words)
 
