@@ -7,11 +7,11 @@
 
 | **Question / Topic**             | **Answer**                | **Mizo Hrilhfiahna / Hriat tur pawimawh**                                                                                                                 |
 | -------------------------------- | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Supreme Court established**    | Article 124               | India ram Supreme Court dinna leh a Judge-te ruat dan (appointment) tarlanna.                                                                             |
-| **SC original jurisdiction**     | Article 131               | State leh State inkar buaina emaw, Central leh State inkar buaina thubuai direct-a Supreme Court-a thlen nghal theihna thuneihna.                         |
-| **SC writ jurisdiction**         | Article 32                | Mipui Fundamental Right bawhchhiat a nih laia Supreme Court-a zualko vana Writ chhuahna dan.                                                              |
-| **High Court writ jurisdiction** | Article 226               | High Court-in Writ a chhuah theihna thuneihna lian tak a ni.                                                                                              |
-| **CJI appointed by**             | President                 | Chief Justice of India leh Judge dangte hi President-in thla thlenga a ruat thin an ni.                                                                   |
+| **Supreme Court established**    | \|\|Article 124\|\|       | India ram Supreme Court dinna leh a Judge-te ruat dan (appointment) tarlanna.                                                                             |
+| **SC original jurisdiction**     | \|\|Article 131\|\|       | State leh State inkar buaina emaw, Central leh State inkar buaina thubuai direct-a Supreme Court-a thlen nghal theihna thuneihna.                         |
+| **SC writ jurisdiction**         | \|\|Article 32\|\|        | Mipui Fundamental Right bawhchhiat a nih laia Supreme Court-a zualko vana Writ chhuahna dan.                                                              |
+| **High Court writ jurisdiction** | \|\|Article 226\|\|       | High Court-in Writ a chhuah theihna thuneihna lian tak a ni.                                                                                              |
+| **CJI appointed by**             | \|\|President             | Chief Justice of India leh Judge dangte hi President-in thla thlenga a ruat thin an ni.                                                                   |
 | **SC judges retirement age**     | 65 years                  | Supreme Court Judge-te chawlh (retire) kum bituk a ni.                                                                                                    |
 | **HC judges retirement age**     | 62 years                  | High Court Judge-te chawlh kum bituk a ni (Exam-ah SC leh HC retirement age hi an thlei hrang thiam em tih an zawt fo).                                   |
 | **First CJI of India**           | H.J. Kania                | India ram Supreme Court hotu ber hmasa ber a ni.                                                                                                          |
