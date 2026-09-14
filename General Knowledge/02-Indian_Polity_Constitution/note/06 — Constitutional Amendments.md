@@ -61,7 +61,7 @@ extra
 
 | **Amendment** | **Year** | **What it did (English)**                                          | **Mizo Hrilhfiahna / Hriat tur pawimawh**                                                                                                         |
 | ------------- | -------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **21st**      | 1967     | Added **Sindhi** as the 15th language in the 8th Schedule.         | _8th Schedule_ (Tawng pawm hrang hrang)-ah Sindhi tawng a vawi khatna atan a belh luhna a ni.                                                     |
+| **21st**      | 1967     | \|\|Added Sindhi as the 15th language in the 8th Schedule.         | _8th Schedule_ (Tawng pawm hrang hrang)-ah Sindhi tawng a vawi khatna atan a belh luhna a ni.                                                     |
 | **36th**      | 1975     | Made **Sikkim** a full-fledged 22nd state of India.                | Sikkim kha India ram state puitling (State 22-na) anga pawm a nihna dan pawimawh tak a ni.                                                        |
 | **69th**      | 1991     | Designated Delhi as **National Capital Territory (NCT)**.          | Delhi kha _National Capital Territory_ (NCT) atan a siam a, Legislative Assembly leh Council of Ministers a pe bawk.                              |
 | **71st**      | 1992     | Added **Konkani, Manipuri, and Nepali** to the 8th Schedule.       | Tawng dang pathum 8th Schedule-ah a belh leh (A kutzungpui formula chu: **KMN**).                                                                 |
