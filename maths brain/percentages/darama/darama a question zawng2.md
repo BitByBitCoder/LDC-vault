@@ -9,7 +9,7 @@ decimal percentage to fraction 0.15% 0.25
 
 Formulas
 ## Percentage of a Fraction
- 1. **8 hours is what % of 3 days?** - Percentage of a Fraction
+ 1. **8 hours is what % of 3 days?** - Percentage of a Fraction- basic
  2. **35% of a number is 112. Find the number.** -basic
  3. 75% of a number when added to 75 is equal to that number. what is the number - basic
  4. if 16% of 40% of a number is 8 the number is  - basic
