@@ -34,7 +34,7 @@ Formulas
  22. In a  big garden 60% of the tree are coconut trees, 25% of the number  of a coconut trees and mango trees and 20% of the number  of mango trees are apple trees. If the number  of apple trees are 1500, then the number  of tree in. the garden is. - skipt
  23. When 35 is subtracted from  a number , it reduced to its 80%. What  is 4/5th of the number (find 1% of35 saptawng a har **The easiest mental rule:**  👉 **“to” = what remains**  👉 **“by” = what is removed**)
  24. Monthly Income of a person is 8000 If his income  is increase by 20% (Percentage increase formula - Percentage Increase =  Increase Value / Origin Value *100)
- 25. 30% of A = 50 % of K. If K is 72 what is the value of 15% of A - basic(of 15% of basi)
+ 25. 30% of A = 50 % of K. If K is 72 what is the value of 15% of A - basic(of 15% of basic a ni lo he lai te hi)
  26. A man got 10% increase in his salary if his new salary is 55000 find his previous salary- percentage increase
  27. What is the percentage change in the rent of the house if on the month of january it was rs 10000 and in the month of march it is rs 15,000 - (percentage change formula)
  28. In a state the number of village electrified in the first year was 13600 it rose to 17000 in the second year, Find the percentage increase in the number of village electrified in the second year.
