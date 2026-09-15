@@ -171,3 +171,6 @@ Use a table format instead of the task-line format I gave you before, since tabl
 | 08:00-09:00 | english | 60               |
 | 15:00-16:00 | gk      | 60               |
 | 20:00-21:00 | maths   | 60               |
+
+tue 15 sept 2026
+pi damloh neuh2 leh enge mo vangin ka zir thei lo chhunzawn leh don chuan
