@@ -34,5 +34,5 @@ finding 1%.  =      total
 different type of percentage
 42% of 1100 
 leh
-find 
+find the percentage top
 ​![](Screenshot%202026-09-15%20at%208.31.06%20PM.png)
