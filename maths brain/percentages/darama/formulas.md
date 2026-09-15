@@ -22,4 +22,4 @@ finding 1%.  =       total
 			 100
 	finding percentage of  462 
 					 -------- x 100
-					   1800
+					   percent 1800
