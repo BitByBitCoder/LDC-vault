@@ -3,7 +3,7 @@ of zawh chiah mi kha a hnuai lamah
 
  percentage increase/decrease -  x ( 100 -+ 40/100) = new - percentage a pek sa chuan hman tur
  
- percentage change
+ percentage increase decrease formula
  change hi initial - new phot a ngai
   
 	  Percentage change=  final - initial
