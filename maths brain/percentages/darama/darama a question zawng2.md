@@ -27,7 +27,7 @@ Formulas
  15. 96% population of the village is 23040. The total population of the village is? - basic
  16. After deducting a commission of 5% a TV. set cost Rs 9595. Its gross value is? - basic and percentage decrease for(gross value == original price)
  17. A fruit seller had some apples. He sells 40% and still has 420 apples. Originally he had?(percentage inc and dec  original cost zawng chhuah)
- 18. A person's salary has increased from  rs7200 to  rs 8100. What is the percentage increase in his salary? we use percentage increase formula = 
+ 18. A person's salary has increased from  rs7200 to  rs 8100. What is the percentage increase in his salary? we use percentage change formula = 
  19. A man spends rs 3500 per month and saves 12(1/2)% of his  income his monthly income is. 1 percent formulas  (full)
  20. 1100 boys and 700 girls are examined in a test; 42% of  the boys and 30% of the girls pass. The percentage of the total who failed is : percentage formula find 1%
  21. A batsman scored 110 runs which included 3 boundaries and 8 sixes. What percent of his total score did he made by running between the wickets - skipt
