@@ -37,6 +37,7 @@
 | Articles (a/an/the)       | 2         | 1.0%     | 🟢 Low    |
 | Essay Writing             | Part B    | 20 marks | 🔴 High   |
 | Comprehension             | Part B    | 20 marks | 🔴 High   |
+|                           |           |          |           |
 
 gemini in siam ve thung [[english roadmap gemini]]
 
