@@ -13,49 +13,50 @@ Formulas
  1. **8 hours is what % of 3 days?** - Percentage of a Fraction- basic
  2. 45%of800
  3. 11.1% of32000
- 4. **35% of a number is 112. Find the number.** -basic
- 5. 75% of a number when added to 75 is equal to that number. what is the number - basic
- 6. if 16% of 40% of a number is 8 the number is  - basic
- 7. A number exceeds 20% itself by 40. The number is - basic exceed = -
- 8. what  percentage of 2/7 is 1/35? of kha pawimawh percentage of fraction formula
- 9. 30% of 140 = x% of 840 ? -basic
- 10. solve x% of 250  + 25%  of 68 = 67 find the value of x - basic trick percent chhut phot tur
- 11. The number 0.5 is how many percent of 20? 
- 12. what percent is 3% of 5%? - percentage of a fraction of chu hnuaiah
- 13. If 37(1/2)% of a number is 900, then  62(1/2)% of a number is? basic 2 part Q
- 14. 96% population of the village is 23040. The total population of the village is? - basic
- 15. After deducting a commission of 5% a TV. set cost Rs 9595. Its gross value is? - basic and percentage decrease for(gross value == original price)
- 16. A fruit seller had some apples. He sells 40% and still has 420 apples. Originally he had?(percentage inc and dec  original cost zawng chhuah)
- 17. A person's salary has increased from  rs7200 to  rs 8100. What is the percentage increase in his salary? we use percentage change formula = 
- 18. A man spends rs 3500 per month and saves 12(1/2)% of his  income his monthly income is. 1 percent formulas  (full)
- 19. 1100 boys and 700 girls are examined in a test; 42% of  the boys and 30% of the girls pass. The percentage of the total who failed is : percentage formula find 1%
- 20. A batsman scored 110 runs which included 3 boundaries and 8 sixes. What percent of his total score did he made by running between the wickets - skipt
- 21. In a  big garden 60% of the tree are coconut trees, 25% of the number  of a coconut trees and mango trees and 20% of the number  of mango trees are apple trees. If the number  of apple trees are 1500, then the number  of tree in. the garden is. - skipt
- 22. When 35 is subtracted from  a number , it reduced to its 80%. What  is 4/5th of the number (find 1% of35)
- 23. Monthly Income of a person is 8000 If his income  is increase by 20% (Percentage increase formula - Percentage Increase =  Increase Value / Origin Value *100)
- 24. 30% of A = 50 % of K. If K is 72 what is the value of 15% of A - basic
- 25. A man got 10% increase in his salary if his new salary is 55000 find his previous salary- percentage increase
- 26. What is the percentage change in the rent of the house if on the month of january it was rs 10000 and in the month of march it is rs 15,000 - (percentage change formula)
- 27. In a state the number of village electrified in the first year was 13600 it rose to 17000 in the second year, Find the percentage increase in the number of village electrified in the second year.
- 28. A man got 10% increase in his salary if his new salary is 55000, find his previous salary.
- 29. On increasing the price of a bed - sheet by 20% it become 420 what is its original price
- 30. A fruit seller used to sell banana for rs 40 per dozen now he reduced the cost of a dozen bananas by 10% what is the price of a dozen bananas now?
- 31. The cost of a member card of a club was reduced by 20% and cost Rs. 440 now. What was the original price of membership card before its cost reduced?
- 32. If 10% of a bill is deducted still rs 27000 is left to be paid how much is th bill (27000 is a final result tur anih avangin x%/100 = 27000)
- 33. Ruatdiki buys good worth rs 6650 she get a rebate of 6% an it. After getting the rebate, she pays sales tax @ 10% find the amount she will have to pay for goods (sales tax chu a pay ngai zawk original price ah khan 10% kan add zawk tur ani minus loin)
- 34. Different type of question-- helai thleng hi chawk tawh
- 35. The population of a village is 25000. One fifth are females and  the rest are males. 5% of male and 40% of females are uneducated. What percentage on the whole are educated?(step by step harsalo)
- 36. Christy donated 10% of his income to an orphanage and deposit 20% of the remainder in his bank. If he has now Rs 7200 left what is his income:
- 37. A person gave 20% of his income to his elder son, 30% of the remaining to the younger son and 10% of the  balance, he donated to a trust. He is left with 10080. His income was:
- 38. In a school there are 1500 student, 44% of them are girls monthly fee of each boy is rs 540 and the fee of each girl is 25% less than that of a boy The sum of fees of boys and girls both is. - basic
- 39. ==The average monthly salary of all the employees in a factory is Rs. 8840. If the average salary of all the officers is Rs. 15000 and that of the remaining employees is Rs. 8000, then what is the percent- age of the officers among the employees?(1) 10% (2) 12% (3) 8 1/3 % (4) 11% - hard==
- 40. Seats for mathematics, Physics and Biology in a school are in the ratio 5:7:8. There is a proposal to increase these seats by 40%, 50% and 75% respectively. What will be the ratio of increased seats?
- 41. The average weight of first 11 persons among 12 persons is 95 kg. The weight of 12th person is 33 kg more than the average weight of all the 12 persons. The weight of the 12th person is- hard
- 42. If the value of  no is 1st increased by a % and later decreased by a % then the net  effect will be.
- 43. A number is decreased by 10% and then increased by 10%. Find the net increase or decrease per cent.
- 44. The salary of a worker is first increased by 5% and then it is decreased by 5%. What is the change in his salary?
- 45. The price of an article is first increased by 20% and later on decreased by 25% due to reduction in sales. Find the net percentage change in final price of the article?
- 46. Find the single equivalent discount which is equal to the successive discounts of 10%, 20% and 25%.
+ 4. 40 gram = x % of 4kg
+ 5. **35% of a number is 112. Find the number.** -basic
+ 6. 75% of a number when added to 75 is equal to that number. what is the number - basic
+ 7. if 16% of 40% of a number is 8 the number is  - basic
+ 8. A number exceeds 20% itself by 40. The number is - basic exceed = -
+ 9. what  percentage of 2/7 is 1/35? of kha pawimawh percentage of fraction formula
+ 10. 30% of 140 = x% of 840 ? -basic
+ 11. solve x% of 250  + 25%  of 68 = 67 find the value of x - basic trick percent chhut phot tur
+ 12. The number 0.5 is how many percent of 20? 
+ 13. what percent is 3% of 5%? - percentage of a fraction of chu hnuaiah
+ 14. If 37(1/2)% of a number is 900, then  62(1/2)% of a number is? basic 2 part Q
+ 15. 96% population of the village is 23040. The total population of the village is? - basic
+ 16. After deducting a commission of 5% a TV. set cost Rs 9595. Its gross value is? - basic and percentage decrease for(gross value == original price)
+ 17. A fruit seller had some apples. He sells 40% and still has 420 apples. Originally he had?(percentage inc and dec  original cost zawng chhuah)
+ 18. A person's salary has increased from  rs7200 to  rs 8100. What is the percentage increase in his salary? we use percentage change formula = 
+ 19. A man spends rs 3500 per month and saves 12(1/2)% of his  income his monthly income is. 1 percent formulas  (full)
+ 20. 1100 boys and 700 girls are examined in a test; 42% of  the boys and 30% of the girls pass. The percentage of the total who failed is : percentage formula find 1%
+ 21. A batsman scored 110 runs which included 3 boundaries and 8 sixes. What percent of his total score did he made by running between the wickets - skipt
+ 22. In a  big garden 60% of the tree are coconut trees, 25% of the number  of a coconut trees and mango trees and 20% of the number  of mango trees are apple trees. If the number  of apple trees are 1500, then the number  of tree in. the garden is. - skipt
+ 23. When 35 is subtracted from  a number , it reduced to its 80%. What  is 4/5th of the number (find 1% of35)
+ 24. Monthly Income of a person is 8000 If his income  is increase by 20% (Percentage increase formula - Percentage Increase =  Increase Value / Origin Value *100)
+ 25. 30% of A = 50 % of K. If K is 72 what is the value of 15% of A - basic
+ 26. A man got 10% increase in his salary if his new salary is 55000 find his previous salary- percentage increase
+ 27. What is the percentage change in the rent of the house if on the month of january it was rs 10000 and in the month of march it is rs 15,000 - (percentage change formula)
+ 28. In a state the number of village electrified in the first year was 13600 it rose to 17000 in the second year, Find the percentage increase in the number of village electrified in the second year.
+ 29. A man got 10% increase in his salary if his new salary is 55000, find his previous salary.
+ 30. On increasing the price of a bed - sheet by 20% it become 420 what is its original price
+ 31. A fruit seller used to sell banana for rs 40 per dozen now he reduced the cost of a dozen bananas by 10% what is the price of a dozen bananas now?
+ 32. The cost of a member card of a club was reduced by 20% and cost Rs. 440 now. What was the original price of membership card before its cost reduced?
+ 33. If 10% of a bill is deducted still rs 27000 is left to be paid how much is th bill (27000 is a final result tur anih avangin x%/100 = 27000)
+ 34. Ruatdiki buys good worth rs 6650 she get a rebate of 6% an it. After getting the rebate, she pays sales tax @ 10% find the amount she will have to pay for goods (sales tax chu a pay ngai zawk original price ah khan 10% kan add zawk tur ani minus loin)
+ 35. Different type of question-- helai thleng hi chawk tawh
+ 36. The population of a village is 25000. One fifth are females and  the rest are males. 5% of male and 40% of females are uneducated. What percentage on the whole are educated?(step by step harsalo)
+ 37. Christy donated 10% of his income to an orphanage and deposit 20% of the remainder in his bank. If he has now Rs 7200 left what is his income:
+ 38. A person gave 20% of his income to his elder son, 30% of the remaining to the younger son and 10% of the  balance, he donated to a trust. He is left with 10080. His income was:
+ 39. In a school there are 1500 student, 44% of them are girls monthly fee of each boy is rs 540 and the fee of each girl is 25% less than that of a boy The sum of fees of boys and girls both is. - basic
+ 40. ==The average monthly salary of all the employees in a factory is Rs. 8840. If the average salary of all the officers is Rs. 15000 and that of the remaining employees is Rs. 8000, then what is the percent- age of the officers among the employees?(1) 10% (2) 12% (3) 8 1/3 % (4) 11% - hard==
+ 41. Seats for mathematics, Physics and Biology in a school are in the ratio 5:7:8. There is a proposal to increase these seats by 40%, 50% and 75% respectively. What will be the ratio of increased seats?
+ 42. The average weight of first 11 persons among 12 persons is 95 kg. The weight of 12th person is 33 kg more than the average weight of all the 12 persons. The weight of the 12th person is- hard
+ 43. If the value of  no is 1st increased by a % and later decreased by a % then the net  effect will be.
+ 44. A number is decreased by 10% and then increased by 10%. Find the net increase or decrease per cent.
+ 45. The salary of a worker is first increased by 5% and then it is decreased by 5%. What is the change in his salary?
+ 46. The price of an article is first increased by 20% and later on decreased by 25% due to reduction in sales. Find the net percentage change in final price of the article?
+ 47. Find the single equivalent discount which is equal to the successive discounts of 10%, 20% and 25%.
 
 
 exceed = -
