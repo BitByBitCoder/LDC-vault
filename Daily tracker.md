@@ -175,4 +175,6 @@ Use a table format instead of the task-line format I gave you before, since tabl
 tue 15 sept 2026
 pi damloh neuh2 leh enge mo vangin ka zir thei lo chhunzawn leh don chuan
 tun thla ah imp hi ka conver zo tur ani
-vawiin chawhma maths chawhnu 
+vawiin chawhma Maths
+Chawhnu english 
+zan reasoning
