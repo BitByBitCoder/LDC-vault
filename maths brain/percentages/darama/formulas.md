@@ -19,10 +19,10 @@ percentage formula![[Screenshot 2026-07-01 at 9.38.44 PM.png]]
 
 finding 1%.  =      total
 			 -----
-			 100
+			 percent100
 			 
 				
 				finding total percent percentage of
-				     462 
+				      462 
 					 -------- x 100
 					   percent 1800
