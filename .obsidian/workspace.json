@@ -43,16 +43,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "maths brain/percentages/darama/formulas.md",
+                "file": "maths brain/percentages/darama/darama filter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "formulas"
+              "title": "darama filter"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,11 +225,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ef119630eb4e098",
+  "active": "2f2aadbb92057cad",
   "lastOpenFiles": [
     "maths brain/percentages/darama/formulas.md",
-    "maths brain/percentages/darama/darama filter.md",
     "maths brain/percentages/darama/darama a question zawng2.md",
+    "maths brain/percentages/darama/darama filter.md",
     "maths brain/percentages/dont know.md",
     "maths brain/percentages/A is a % of B.md",
     "maths brain/radmap/roadmap2.md",
