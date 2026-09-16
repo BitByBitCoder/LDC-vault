@@ -1,4 +1,4 @@
-1. If  cp = 1000, sp= 1200 find profit or loss = ?
+1. If  cp = 1000, sp= 1200 find profit or loss% = ?
 2. If CP = 1000, SP =1400, Find the Profit/Loss%
 3. A man sold an item at a loss of 30% . If the Selling price is 350/-. Find the cost price.
 4. A shopkeeper sold an item at a loss of 40% . If the Selling price is 6000/-. Find the cost price.
