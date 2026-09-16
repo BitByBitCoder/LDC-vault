@@ -51,8 +51,7 @@
               "title": "conversion shortcut"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,8 +224,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2f2aadbb92057cad",
+  "active": "1a7c88a82ca9f5a3",
   "lastOpenFiles": [
+    "maths brain/Profit and loss/conversion shortcut.md",
     "maths brain/Profit and loss/darama question.md",
     "maths brain/radmap/roadmap2.md",
     "maths brain/percentages/darama/formulas.md",
@@ -253,7 +253,6 @@
     "maths brain/radmap/new roadmap.md",
     "General Knowledge/02-Indian_Polity_Constitution/note/06 — Constitutional Amendments.md",
     "General Knowledge/02-Indian_Polity_Constitution/note/12 — Writs.md",
-    "General Knowledge/02-Indian_Polity_Constitution/note/11 — Schedules of Constitution.md",
     "computer/Computer_Awareness_Vault",
     "English/eng sub/Essay Vault",
     "Keimah",

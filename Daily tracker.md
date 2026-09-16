@@ -177,4 +177,6 @@ pi damloh neuh2 leh enge mo vangin ka zir thei lo chhunzawn leh don chuan
 tun thla ah imp hi ka conver zo tur ani
 vawiin chawhma Maths
 Chawhnu english 
-zan reasoning
+zan maths
+
+wed 16 sept
