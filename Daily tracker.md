@@ -179,4 +179,6 @@ vawiin chawhma Maths
 Chawhnu english 
 zan maths
 
-wed 16 sept
+wed 16 sept 2026
+early mor PL zawh hma 30 - 40
+percentage - new darama ti ila 
