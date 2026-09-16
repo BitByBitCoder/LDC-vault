@@ -8,7 +8,7 @@
 8.  if a book is sold at 20% profit ratio of cost price to the selling price will be - basic cp, profit, sp, cp:sp
 9. if a book is sold at 300% profit ratio of cost price and selling price will be - basic cp, profit, sp, cp:sp
 10. ==if an Umbrella is sold at 25% loss, ratio of cost price and selling price will be
-11. A person by selling an article for Rs. 450, loses 20%. In order to make a profit of 20% what is the price at which he must sell? SHORTcut formula
+11. A person by selling an article for Rs. 450, loses 20%. In order to make a profit of 20% what is the price at which he must sell? basic cp and sp
 12. An article is sold for Rs 810 at a loss of 10%. What should be the selling price if the loss is 20%?
 13. If an article is sold for Rs. 480 the loss is 16(2/3)%. At what price should the article be sold to make 8(1/3)% profit? shortcut formula
 14. When an article is sold for rs 1050, there is a loss of 12(1/2) %. For a profit of 25%, it should be sold for -  shortcut formula
