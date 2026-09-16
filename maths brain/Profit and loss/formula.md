@@ -1,3 +1,9 @@
+
+
+
+
+
+
 profit percentage formula
 ![[Screenshot 2026-07-02 at 1.29.09 PM.png]]
 
