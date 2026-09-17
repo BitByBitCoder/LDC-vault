@@ -66,6 +66,16 @@
             }
           },
           {
+            "id": "961f0bc10b9c1ad4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
             "id": "4bf86f69892d46ea",
             "type": "leaf",
             "state": {
@@ -80,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -253,13 +263,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2f2aadbb92057cad",
+  "active": "961f0bc10b9c1ad4",
   "lastOpenFiles": [
-    "maths brain/Screenshot 2026-09-17 at 10.50.43 AM.png",
-    "maths brain/Profit and loss/darama question.md",
+    "English/02 — Prepositions.md",
     "maths brain/00 rules.md",
     "maths brain/Profit and loss/formula.md",
-    "English/02 — Prepositions.md",
+    "maths brain/Screenshot 2026-09-17 at 10.50.43 AM.png",
+    "maths brain/Profit and loss/darama question.md",
     "English/eng sub/categorize preposition.md",
     "maths brain/Profit and loss/darama filter.md",
     "maths brain/Profit and loss/conversion shortcut.md",
@@ -303,7 +313,6 @@
     "English/Screenshot 2026-07-27 at 10.25.37 PM.png",
     "Physical geography canvas.canvas",
     "General Knowledge/02-Indian_Polity_Constitution/note/indian polity canvas/Fundamental Rights.canvas",
-    "Pasted image 20260721123640.png",
     "General Knowledge/04-India_Geography/gk canvas/State and superlative canvas.canvas",
     "General Knowledge/04-India_Geography/gk canvas/River India canvas.canvas",
     "maths brain/bbgun.canvas",
