@@ -10,7 +10,7 @@
 10. ==if an Umbrella is sold at 25% loss, ratio of cost price and selling price will be
 11. A person by selling an article for Rs. 450, loses 20%. In order to make a profit of 20% what is the price at which he must sell? basic cp and sp
 12. An article is sold for Rs 810 at a loss of 10%. What should be the selling price if the loss is 20%? cp - sp
-13. If an article is sold for Rs. 480 the loss is 16(2/3)%. At what price should the article be sold to make 8(1/3)% profit? shortcut formula
+13. If an article is sold for Rs. 480 the loss is 16(2/3)%. At what price should the article be sold to make 8(1/3)% profit? cp
 14. When an article is sold for rs 1050, there is a loss of 12(1/2) %. For a profit of 25%, it should be sold for -  shortcut formula
 15. Hriata brought a toy for Rs 12b00 and spent 200 on its repairing. He sold it for Rs 1680, then his profit/loss percentage is -profit formula
 16. A man bought a second-hand scooter for rs 8000. He spent rs 400 on repairing and rs 400 On re-painting. He then sold it for rs 11440. How much did he gain or lose? - basic
