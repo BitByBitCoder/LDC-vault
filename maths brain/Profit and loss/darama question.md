@@ -23,10 +23,10 @@
 23. By selling 33 metres of cloth one gains the cost price of 11 retres. Find the gain percent?normal percent
 24. By selling 40 metres of cloth one gains the cost price of 10 metres. Find the gain percent normal percent
 25. By selling 33 metres of cloth one gains the selling price of 11 metres. Find the gain percent normal percent
-26. By selling 72 articles, a loss equal to the selling price of 8 articles was incurred. What is the loss percentage? normal percent
+26. ==By selling 72 articles, a loss equal to the selling price of 8 articles was incurred. What is the loss percentage? normal percent
 27. By selling two articles for Rs. 800, a person gains the cost price of three articles. The profit percent is:
 28. After selling 25 articles, a shopkeeper earns profit equal to the cost price of 5 articles. If he bought articles of total 7800 then he will have sold it for.
-29. ==11 oranges are bought for Rs. 10 and 10 oranges are sold for Rs. 11. Find the gain (or) loss percentage.
+29. 11 oranges are bought for Rs. 10 and 10 oranges are sold for Rs. 11. Find the gain (or) loss percentage.
 30. A person bought some article at rate of 36 for Rs. 189 and sold them at the rate of 45 for Rs. 189. Find the profit or loss %.
 31. A trader brought some oranges at Rs.7 for 11. He sold all at 2 for Rs 3/-. Thereby he losses 30/-. Find the number of oranges he sold.
 32. A man bought three articles for Rs. 3,000 each. He sold the articles respectively at 15% profit, 10% profit and 15% loss. The total percentage profit/loss he earned is
