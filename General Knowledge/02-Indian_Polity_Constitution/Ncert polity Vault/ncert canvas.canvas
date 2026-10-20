@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"8efba45a1bec62cf","x":-58,"y":-56,"width":185,"height":400,"type":"file","file":"General Knowledge/02-Indian_Polity_Constitution/Ncert polity Vault/photo_2026-10-14 11.03.26.jpeg"},
+		{"id":"4da8e6403702c358","x":-61,"y":442,"width":185,"height":400,"type":"file","file":"General Knowledge/02-Indian_Polity_Constitution/Ncert polity Vault/photo_2026-10-14 11.03.28.jpeg"},
+		{"id":"6b3b2b855605dcdf","x":-53,"y":996,"width":185,"height":400,"type":"file","file":"General Knowledge/02-Indian_Polity_Constitution/Ncert polity Vault/photo_2026-10-14 11.03.29.jpeg"},
+		{"id":"d98c76ed69a590e4","x":-22,"y":1525,"width":185,"height":400,"type":"file","file":"General Knowledge/02-Indian_Polity_Constitution/Ncert polity Vault/photo_2026-10-14 11.03.31.jpeg"},
+		{"id":"a46814edb86c3327","x":346,"y":-191,"width":112,"height":400,"type":"file","file":"General Knowledge/02-Indian_Polity_Constitution/Ncert polity Vault/photo_2026-10-14 11.03.32.jpeg"},
+		{"id":"2290d67d0c592bf5","x":372,"y":347,"width":129,"height":400,"type":"file","file":"General Knowledge/02-Indian_Polity_Constitution/Ncert polity Vault/photo_2026-10-14 11.03.33.jpeg"},
+		{"id":"8eec2afe1e9caab8","x":767,"y":425,"width":346,"height":1949,"type":"file","file":"General Knowledge/02-Indian_Polity_Constitution/Ncert polity Vault/photo_2026-10-14 11.03.34.jpeg"},
+		{"id":"2532540c9b543c86","x":303,"y":850,"width":245,"height":1382,"type":"file","file":"General Knowledge/02-Indian_Polity_Constitution/Ncert polity Vault/photo_2026-10-14 11.03.35.jpeg"}
+	],
+	"edges":[
+		{"id":"227d51fdc3153391","fromNode":"8efba45a1bec62cf","fromSide":"bottom","toNode":"4da8e6403702c358","toSide":"left"},
+		{"id":"b753f3b9536ff951","fromNode":"4da8e6403702c358","fromSide":"bottom","toNode":"6b3b2b855605dcdf","toSide":"top"},
+		{"id":"bbb2095c0a371f53","fromNode":"6b3b2b855605dcdf","fromSide":"bottom","toNode":"d98c76ed69a590e4","toSide":"top"}
+	]
+}

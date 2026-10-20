@@ -1,0 +1,1450 @@
+<!doctype html>
+<html>
+    <head>
+        <title>02 — MS Word</title>
+        <meta charset='utf-8'/>
+        <style>
+ .ͼ1.cm-focused {outline: 1px dotted #212121;}
+.ͼ1 {position: relative !important; box-sizing: border-box; display: flex !important; flex-direction: column;}
+.ͼ1 .cm-scroller {display: flex !important; align-items: flex-start !important; font-family: monospace; line-height: 1.4; height: 100%; overflow-x: auto; position: relative; z-index: 0; overflow-anchor: none;}
+.ͼ1 .cm-content[contenteditable=true] {-webkit-user-modify: read-write-plaintext-only;}
+.ͼ1 .cm-content {margin: 0; flex-grow: 2; flex-shrink: 0; display: block; white-space: pre; word-wrap: normal; box-sizing: border-box; min-height: 100%; padding: 4px 0; outline: none;}
+.ͼ1 .cm-lineWrapping {white-space: pre-wrap; white-space: break-spaces; word-break: break-word; overflow-wrap: anywhere; flex-shrink: 1;}
+.ͼ2 .cm-content {caret-color: black;}
+.ͼ3 .cm-content {caret-color: white;}
+.ͼ1 .cm-line {display: block; padding: 0 2px 0 6px;}
+.ͼ1 .cm-layer > * {position: absolute;}
+.ͼ1 .cm-layer {user-select: none; position: absolute; left: 0; top: 0; contain: size style;}
+.ͼ2 .cm-selectionBackground {background: #d9d9d9;}
+.ͼ3 .cm-selectionBackground {background: #222;}
+.ͼ2.cm-focused > .cm-scroller > .cm-selectionLayer .cm-selectionBackground {background: #d7d4f0;}
+.ͼ3.cm-focused > .cm-scroller > .cm-selectionLayer .cm-selectionBackground {background: #233;}
+.ͼ1 .cm-cursorLayer {pointer-events: none;}
+.ͼ1.cm-focused > .cm-scroller > .cm-cursorLayer {animation: steps(1) cm-blink 1.2s infinite;}
+@keyframes cm-blink {50% {opacity: 0;}}
+@keyframes cm-blink2 {50% {opacity: 0;}}
+.ͼ1 .cm-cursor, .ͼ1 .cm-dropCursor {border-left: 1.2px solid black; margin-left: -0.6px; pointer-events: none;}
+.ͼ1 .cm-cursor {display: none;}
+.ͼ3 .cm-cursor {border-left-color: #ddd;}
+.ͼ1 .cm-selectionHandle {background-color: currentColor; width: 1.5px;}
+.ͼ1 .cm-selectionHandle-start::before, .ͼ1 .cm-selectionHandle-end::before {content: ""; background-color: inherit; border-radius: 50%; width: 8px; height: 8px; position: absolute; left: -3.25px;}
+.ͼ1 .cm-selectionHandle-start::before {top: -8px;}
+.ͼ1 .cm-selectionHandle-end::before {bottom: -8px;}
+.ͼ1 .cm-dropCursor {position: absolute;}
+.ͼ1.cm-focused > .cm-scroller > .cm-cursorLayer .cm-cursor {display: block;}
+.ͼ1 .cm-iso {unicode-bidi: isolate;}
+.ͼ1 .cm-announced {position: fixed; top: -10000px;}
+@media print {.ͼ1 .cm-announced {display: none;}}
+.ͼ2 .cm-activeLine {background-color: #cceeff44;}
+.ͼ3 .cm-activeLine {background-color: #99eeff33;}
+.ͼ2 .cm-specialChar {color: red;}
+.ͼ3 .cm-specialChar {color: #f78;}
+.ͼ1 .cm-gutters {flex-shrink: 0; display: flex; height: 100%; box-sizing: border-box; z-index: 200;}
+.ͼ1 .cm-gutters-before {inset-inline-start: 0;}
+.ͼ1 .cm-gutters-after {inset-inline-end: 0;}
+.ͼ2 .cm-gutters.cm-gutters-before {border-right-width: 1px;}
+.ͼ2 .cm-gutters.cm-gutters-after {border-left-width: 1px;}
+.ͼ2 .cm-gutters {background-color: #f5f5f5; color: #6c6c6c; border: 0px solid #ddd;}
+.ͼ3 .cm-gutters {background-color: #333338; color: #ccc;}
+.ͼ1 .cm-gutter {display: flex !important; flex-direction: column; flex-shrink: 0; box-sizing: border-box; min-height: 100%; overflow: hidden;}
+.ͼ1 .cm-gutterElement {box-sizing: border-box;}
+.ͼ1 .cm-lineNumbers .cm-gutterElement {padding: 0 3px 0 5px; min-width: 20px; text-align: right; white-space: nowrap;}
+.ͼ2 .cm-activeLineGutter {background-color: #e2f2ff;}
+.ͼ3 .cm-activeLineGutter {background-color: #222227;}
+.ͼ1 .cm-panels {box-sizing: border-box; position: sticky; left: 0; right: 0; z-index: 300;}
+.ͼ2 .cm-panels {background-color: #f5f5f5; color: black;}
+.ͼ1 .cm-panels-top {top: 0;}
+.ͼ1 .cm-panels-bottom {bottom: 0;}
+.ͼ2 .cm-panels-top {border-bottom: 1px solid #ddd;}
+.ͼ2 .cm-panels-bottom {border-top: 1px solid #ddd;}
+.ͼ3 .cm-panels {background-color: #333338; color: white;}
+.ͼ1 .cm-dialog label {font-size: 80%;}
+.ͼ1 .cm-dialog {padding: 2px 19px 4px 6px; position: relative;}
+.ͼ1 .cm-dialog-close {position: absolute; top: 3px; right: 4px; background-color: inherit; border: none; font: inherit; font-size: 14px; padding: 0;}
+.ͼ1 .cm-tab {display: inline-block; overflow: hidden; vertical-align: bottom;}
+.ͼ1 .cm-widgetBuffer {vertical-align: text-top; height: 1em; width: 0; display: inline;}
+.ͼ1 .cm-placeholder {color: #888; display: inline-block; vertical-align: top; user-select: none;}
+.ͼ1 .cm-highlightSpace {background: radial-gradient(circle at 50% 55%, #aaa 20%, transparent 0) no-repeat; background-size: .4em; background-position: calc(min(50%, 0px)) center;}
+.ͼ1 .cm-highlightTab {background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="200" height="20"><path stroke="%23888" stroke-width="1" fill="none" d="M1 10H196L190 5M190 15L196 10M197 4L197 16"/></svg>'); background-size: auto 100%; background-position: right 90%; background-repeat: no-repeat;}
+.ͼ1 .cm-trailingSpace {background-color: #ff332255;}
+.ͼ1 .cm-button {vertical-align: middle; color: inherit; font-size: 70%; padding: .2em 1em; border-radius: 1px;}
+.ͼ2 .cm-button:active {background-image: linear-gradient(#b4b4b4, #d0d3d6);}
+.ͼ2 .cm-button {background-image: linear-gradient(#eff1f5, #d9d9df); border: 1px solid #888;}
+.ͼ3 .cm-button:active {background-image: linear-gradient(#111, #333);}
+.ͼ3 .cm-button {background-image: linear-gradient(#393939, #111); border: 1px solid #888;}
+.ͼ1 .cm-textfield {vertical-align: middle; color: inherit; font-size: 70%; border: 1px solid silver; padding: .2em .5em;}
+.ͼ2 .cm-textfield {background-color: white;}
+.ͼ3 .cm-textfield {border: 1px solid #555; background-color: inherit;}
+.ͼ1 .cm-foldPlaceholder {background-color: #eee; border: 1px solid #ddd; color: #888; border-radius: .2em; margin: 0 1px; padding: 0 1px; cursor: pointer;}
+.ͼ1 .cm-foldGutter span {padding: 0 1px; cursor: pointer;}
+.ͼ1 .cm-tooltip {z-index: 500; box-sizing: border-box;}
+.ͼ2 .cm-tooltip {border: 1px solid #bbb; background-color: #f5f5f5;}
+.ͼ2 .cm-tooltip-section:not(:first-child) {border-top: 1px solid #bbb;}
+.ͼ3 .cm-tooltip {background-color: #333338; color: white;}
+.ͼ1 .cm-tooltip-arrow:before, .ͼ1 .cm-tooltip-arrow:after {content: ''; position: absolute; width: 0; height: 0; border-left: 7px solid transparent; border-right: 7px solid transparent;}
+.ͼ1 .cm-tooltip-above .cm-tooltip-arrow:before {border-top: 7px solid #bbb;}
+.ͼ1 .cm-tooltip-above .cm-tooltip-arrow:after {border-top: 7px solid #f5f5f5; bottom: 1px;}
+.ͼ1 .cm-tooltip-above .cm-tooltip-arrow {bottom: -7px;}
+.ͼ1 .cm-tooltip-below .cm-tooltip-arrow:before {border-bottom: 7px solid #bbb;}
+.ͼ1 .cm-tooltip-below .cm-tooltip-arrow:after {border-bottom: 7px solid #f5f5f5; top: 1px;}
+.ͼ1 .cm-tooltip-below .cm-tooltip-arrow {top: -7px;}
+.ͼ1 .cm-tooltip-arrow {height: 7px; width: 14px; position: absolute; z-index: -1; overflow: hidden;}
+.ͼ3 .cm-tooltip .cm-tooltip-arrow:before {border-top-color: #333338; border-bottom-color: #333338;}
+.ͼ3 .cm-tooltip .cm-tooltip-arrow:after {border-top-color: transparent; border-bottom-color: transparent;}
+ @keyframes loading {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.workspace-leaf-content[data-type="git-view"] .button-border {
+    border: 2px solid var(--interactive-accent);
+    border-radius: var(--radius-s);
+}
+
+.workspace-leaf-content[data-type="git-view"] .view-content {
+    padding-left: 0;
+    padding-top: 0;
+    padding-right: 0;
+}
+
+.workspace-leaf-content[data-type="git-history-view"] .view-content {
+    padding-left: 0;
+    padding-top: 0;
+    padding-right: 0;
+}
+
+.loading {
+    overflow: hidden;
+}
+
+.loading > svg {
+    animation: 2s linear infinite loading;
+    transform-origin: 50% 50%;
+    display: inline-block;
+}
+
+.obsidian-git-center {
+    margin: auto;
+    text-align: center;
+    width: 50%;
+}
+
+.obsidian-git-textarea {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.obsidian-git-disabled {
+    opacity: 0.5;
+}
+
+.obsidian-git-center-button {
+    display: block;
+    margin: 20px auto;
+}
+
+.tooltip.mod-left {
+    overflow-wrap: break-word;
+}
+
+.tooltip.mod-right {
+    overflow-wrap: break-word;
+}
+
+/* Limits the scrollbar to the view body */
+.git-view {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    height: 100%;
+}
+
+/* Re-enable wrapping of nav buttns to prevent overflow on smaller screens #*/
+.workspace-drawer .git-view .nav-buttons-container {
+    flex-wrap: wrap;
+}
+
+.git-tools {
+    display: flex;
+    margin-left: auto;
+}
+.git-tools .type {
+    padding-left: var(--size-2-1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 11px;
+}
+
+.git-tools .type[data-type="M"] {
+    color: orange;
+}
+.git-tools .type[data-type="D"] {
+    color: red;
+}
+.git-tools .buttons {
+    display: flex;
+}
+.git-tools .buttons > * {
+    padding: 0;
+    height: auto;
+}
+
+.workspace-leaf-content[data-type="git-view"] .tree-item-self,
+.workspace-leaf-content[data-type="git-history-view"] .tree-item-self {
+    align-items: center;
+}
+
+.workspace-leaf-content[data-type="git-view"]
+    .tree-item-self:hover
+    .clickable-icon,
+.workspace-leaf-content[data-type="git-history-view"]
+    .tree-item-self:hover
+    .clickable-icon {
+    color: var(--icon-color-hover);
+}
+
+/* Highlight an item as active if it's diff is currently opened */
+.is-active .git-tools .buttons > * {
+    color: var(--nav-item-color-active);
+}
+
+.git-author {
+    color: var(--text-accent);
+}
+
+.git-date {
+    color: var(--text-accent);
+}
+
+.git-ref {
+    color: var(--text-accent);
+}
+
+/* ====== diff2html ======
+The following styles are adapted from the obsidian-version-history plugin by
+@kometenstaub https://github.com/kometenstaub/obsidian-version-history-diff/blob/main/src/styles.scss
+which itself is adapted from the diff2html library with the following original license:
+
+   	https://github.com/rtfpessoa/diff2html/blob/master/LICENSE.md
+
+	Copyright 2014-2016 Rodrigo Fernandes https://rtfpessoa.github.io/
+
+	Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+	documentation files (the "Software"), to deal in the Software without restriction, including without limitation the
+	rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit
+	persons to whom the Software is furnished to do so, subject to the following conditions:
+
+	The above copyright notice and this permission notice shall be included in all copies or substantial portions of the
+	Software.
+
+	THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+	WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+	COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+	OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+*/
+
+.theme-dark,
+.theme-light {
+    --git-delete-bg: #ff475040;
+    --git-delete-hl: #96050a75;
+    --git-insert-bg: #68d36840;
+    --git-insert-hl: #23c02350;
+    --git-change-bg: #ffd55840;
+    --git-selected: #3572b0;
+
+    --git-delete: #cc3333;
+    --git-insert: #399839;
+    --git-change: #d0b44c;
+    --git-move: #3572b0;
+}
+
+.git-diff {
+    .d2h-d-none {
+        display: none;
+    }
+    .d2h-wrapper {
+        text-align: left;
+        border-radius: 0.25em;
+        overflow: auto;
+    }
+    .d2h-file-header.d2h-file-header {
+        background-color: var(--background-secondary);
+        border-bottom: 1px solid var(--background-modifier-border);
+        font-family:
+            Source Sans Pro,
+            Helvetica Neue,
+            Helvetica,
+            Arial,
+            sans-serif;
+        height: 35px;
+        padding: 5px 10px;
+    }
+    .d2h-file-header,
+    .d2h-file-stats {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+    }
+    .d2h-file-header {
+        display: none;
+    }
+    .d2h-file-stats {
+        font-size: 14px;
+        margin-left: auto;
+    }
+    .d2h-lines-added {
+        border: 1px solid var(--color-green);
+        border-radius: 5px 0 0 5px;
+        color: var(--color-green);
+        padding: 2px;
+        text-align: right;
+        vertical-align: middle;
+    }
+    .d2h-lines-deleted {
+        border: 1px solid var(--color-red);
+        border-radius: 0 5px 5px 0;
+        color: var(--color-red);
+        margin-left: 1px;
+        padding: 2px;
+        text-align: left;
+        vertical-align: middle;
+    }
+    .d2h-file-name-wrapper {
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        font-size: 15px;
+        width: 100%;
+    }
+    .d2h-file-name {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        color: var(--text-normal);
+        font-size: var(--h5-size);
+    }
+    .d2h-file-wrapper {
+        border: 1px solid var(--background-secondary-alt);
+        border-radius: 3px;
+        margin-bottom: 1em;
+        max-height: 100%;
+    }
+    .d2h-file-collapse {
+        -webkit-box-pack: end;
+        -ms-flex-pack: end;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        border: 1px solid var(--background-secondary-alt);
+        border-radius: 3px;
+        cursor: pointer;
+        display: none;
+        font-size: 12px;
+        justify-content: flex-end;
+        padding: 4px 8px;
+    }
+    .d2h-file-collapse.d2h-selected {
+        background-color: var(--git-selected);
+    }
+    .d2h-file-collapse-input {
+        margin: 0 4px 0 0;
+    }
+    .d2h-diff-table {
+        border-collapse: collapse;
+        font-family: var(--font-monospace);
+        font-size: var(--code-size);
+        width: 100%;
+    }
+    .d2h-files-diff {
+        width: 100%;
+    }
+    .d2h-file-diff {
+        /*
+		overflow-y: scroll;
+		*/
+        border-radius: 5px;
+        font-size: var(--font-text-size);
+        line-height: var(--line-height-normal);
+    }
+    .d2h-file-side-diff {
+        display: inline-block;
+        margin-bottom: -8px;
+        margin-right: -4px;
+        overflow-x: scroll;
+        overflow-y: hidden;
+        width: 50%;
+    }
+    .d2h-code-line {
+        padding-left: 6em;
+        padding-right: 1.5em;
+    }
+    .d2h-code-line,
+    .d2h-code-side-line {
+        display: inline-block;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+        white-space: nowrap;
+        width: 100%;
+    }
+    .d2h-code-side-line {
+        /* needed to be changed */
+        padding-left: 0.5em;
+        padding-right: 0.5em;
+    }
+    .d2h-code-line-ctn {
+        word-wrap: normal;
+        background: none;
+        display: inline-block;
+        padding: 0;
+        -webkit-user-select: text;
+        -moz-user-select: text;
+        -ms-user-select: text;
+        user-select: text;
+        vertical-align: middle;
+        width: 100%;
+        /* only works for line-by-line */
+        white-space: pre-wrap;
+    }
+    .d2h-code-line del,
+    .d2h-code-side-line del {
+        background-color: var(--git-delete-hl);
+        color: var(--text-normal);
+    }
+    .d2h-code-line del,
+    .d2h-code-line ins,
+    .d2h-code-side-line del,
+    .d2h-code-side-line ins {
+        border-radius: 0.2em;
+        display: inline-block;
+        margin-top: -1px;
+        text-decoration: none;
+        vertical-align: middle;
+    }
+    .d2h-code-line ins,
+    .d2h-code-side-line ins {
+        background-color: var(--git-insert-hl);
+        text-align: left;
+    }
+    .d2h-code-line-prefix {
+        word-wrap: normal;
+        background: none;
+        display: inline;
+        padding: 0;
+        white-space: pre;
+    }
+    .line-num1 {
+        float: left;
+    }
+    .line-num1,
+    .line-num2 {
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        overflow: hidden;
+        /*
+		padding: 0 0.5em;
+		*/
+        text-overflow: ellipsis;
+        width: 2.5em;
+        padding-left: 0;
+    }
+    .line-num2 {
+        float: right;
+    }
+    .d2h-code-linenumber {
+        background-color: var(--background-primary);
+        border: solid var(--background-modifier-border);
+        border-width: 0 1px;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        color: var(--text-faint);
+        cursor: pointer;
+        display: inline-block;
+        position: absolute;
+        text-align: right;
+        width: 5.5em;
+    }
+    .d2h-code-linenumber:after {
+        content: "\200b";
+    }
+    .d2h-code-side-linenumber {
+        background-color: var(--background-primary);
+        border: solid var(--background-modifier-border);
+        border-width: 0 1px;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        color: var(--text-faint);
+        cursor: pointer;
+        overflow: hidden;
+        padding: 0 0.5em;
+        text-align: right;
+        text-overflow: ellipsis;
+        width: 4em;
+        /* needed to be changed */
+        display: table-cell;
+        position: relative;
+    }
+    .d2h-code-side-linenumber:after {
+        content: "\200b";
+    }
+    .d2h-code-side-emptyplaceholder,
+    .d2h-emptyplaceholder {
+        background-color: var(--background-primary);
+        border-color: var(--background-modifier-border);
+    }
+    .d2h-code-line-prefix,
+    .d2h-code-linenumber,
+    .d2h-code-side-linenumber,
+    .d2h-emptyplaceholder {
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+    }
+    .d2h-code-linenumber,
+    .d2h-code-side-linenumber {
+        direction: rtl;
+    }
+    .d2h-del {
+        background-color: var(--git-delete-bg);
+        border-color: var(--git-delete-hl);
+    }
+    .d2h-ins {
+        background-color: var(--git-insert-bg);
+        border-color: var(--git-insert-hl);
+    }
+    .d2h-info {
+        background-color: var(--background-primary);
+        border-color: var(--background-modifier-border);
+        color: var(--text-faint);
+    }
+    .d2h-del,
+    .d2h-ins,
+    .d2h-file-diff .d2h-change {
+        color: var(--text-normal);
+    }
+    .d2h-file-diff .d2h-del.d2h-change {
+        background-color: var(--git-change-bg);
+    }
+    .d2h-file-diff .d2h-ins.d2h-change {
+        background-color: var(--git-insert-bg);
+    }
+    .d2h-file-list-wrapper {
+        a {
+            text-decoration: none;
+            cursor: default;
+            -webkit-user-drag: none;
+        }
+
+        svg {
+            display: none;
+        }
+    }
+    .d2h-file-list-header {
+        text-align: left;
+    }
+    .d2h-file-list-title {
+        display: none;
+    }
+    .d2h-file-list-line {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        text-align: left;
+    }
+    .d2h-file-list {
+    }
+    .d2h-file-list > li {
+        border-bottom: 1px solid var(--background-modifier-border);
+        margin: 0;
+        padding: 5px 10px;
+    }
+    .d2h-file-list > li:last-child {
+        border-bottom: none;
+    }
+    .d2h-file-switch {
+        cursor: pointer;
+        display: none;
+        font-size: 10px;
+    }
+    .d2h-icon {
+        fill: currentColor;
+        margin-right: 10px;
+        vertical-align: middle;
+    }
+    .d2h-deleted {
+        color: var(--git-delete);
+    }
+    .d2h-added {
+        color: var(--git-insert);
+    }
+    .d2h-changed {
+        color: var(--git-change);
+    }
+    .d2h-moved {
+        color: var(--git-move);
+    }
+    .d2h-tag {
+        background-color: var(--background-secondary);
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        font-size: 10px;
+        margin-left: 5px;
+        padding: 0 2px;
+    }
+    .d2h-deleted-tag {
+        border: 1px solid var(--git-delete);
+    }
+    .d2h-added-tag {
+        border: 1px solid var(--git-insert);
+    }
+    .d2h-changed-tag {
+        border: 1px solid var(--git-change);
+    }
+    .d2h-moved-tag {
+        border: 1px solid var(--git-move);
+    }
+
+    /* needed for line-by-line*/
+
+    .d2h-diff-tbody {
+        position: relative;
+    }
+
+    /* My additions */
+    .cm-merge-revert {
+        width: 4em;
+    }
+    /* Ensure that merge revert markers are positioned correctly */
+    .cm-merge-revert > * {
+        position: absolute;
+        background-color: var(--background-secondary);
+        display: flex;
+    }
+}
+
+/* ====================== Line Authoring Information ====================== */
+
+.cm-gutterElement.obs-git-blame-gutter {
+    /* Add background color to spacing inbetween and around the gutter for better aesthetics */
+    border-width: 0px 2px 0.2px;
+    border-style: solid;
+    border-color: var(--background-secondary);
+    background-color: var(--background-secondary);
+}
+
+.cm-gutterElement.obs-git-blame-gutter > div,
+.line-author-settings-preview {
+    /* delegate text color to settings */
+    color: var(--obs-git-gutter-text);
+    font-family: monospace;
+    height: 100%; /* ensure, that age-based background color occupies entire parent */
+    text-align: right;
+    padding: 0px 6px;
+    white-space: pre; /* Keep spaces and do not collapse them. */
+}
+
+@media (max-width: 800px) {
+    /* hide git blame gutter not to superpose text */
+    .cm-gutterElement.obs-git-blame-gutter {
+        display: none;
+    }
+}
+
+.git-unified-diff-view,
+.git-split-diff-view .cm-deletedLine .cm-changedText {
+    background-color: #ee443330;
+}
+
+.git-unified-diff-view,
+.git-split-diff-view .cm-insertedLine .cm-changedText {
+    background-color: #22bb2230;
+}
+
+.git-obscure-prompt[git-is-obscured="true"] #git-show-password:after {
+    -webkit-mask-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-eye"><path d="M2.062 12.348a1 1 0 0 1 0-.696 10.75 10.75 0 0 1 19.876 0 1 1 0 0 1 0 .696 10.75 10.75 0 0 1-19.876 0"></path><circle cx="12" cy="12" r="3"></circle></svg>');
+}
+
+.git-obscure-prompt[git-is-obscured="false"] #git-show-password:after {
+    -webkit-mask-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-eye-off"><path d="M10.733 5.076a10.744 10.744 0 0 1 11.205 6.575 1 1 0 0 1 0 .696 10.747 10.747 0 0 1-1.444 2.49"></path><path d="M14.084 14.158a3 3 0 0 1-4.242-4.242"></path><path d="M17.479 17.499a10.75 10.75 0 0 1-15.417-5.151 1 1 0 0 1 0-.696 10.75 10.75 0 0 1 4.446-5.143"></path><path d="m2 2 20 20"></path></svg>');
+}
+
+/* Override styling of Codemirror merge view "collapsed lines" indicator */
+.git-split-diff-view .ͼ2 .cm-collapsedLines {
+    background: var(--interactive-normal);
+    border-radius: var(--radius-m);
+    color: var(--text-accent);
+    font-size: var(--font-small);
+    padding: var(--size-4-1) var(--size-4-1);
+}
+.git-split-diff-view .ͼ2 .cm-collapsedLines:hover {
+    background: var(--interactive-hover);
+    color: var(--text-accent-hover);
+}
+
+.git-signs-gutter {
+    .cm-gutterElement {
+        display: grid;
+
+        /* Needed to align the sign properly for different line heigts. Such as
+         * when having a heading or list item.
+         */
+        padding-top: 0 !important;
+    }
+}
+
+.git-gutter-marker:hover {
+    border-radius: 2px;
+}
+
+.git-gutter-marker.git-add {
+    background-color: var(--color-green);
+    justify-self: center;
+    height: inherit;
+    width: 0.2rem;
+}
+
+.git-gutter-marker.git-change {
+    background-color: var(--color-yellow);
+    justify-self: center;
+    height: inherit;
+    width: 0.2rem;
+}
+
+.git-gutter-marker.git-changedelete {
+    color: var(--color-yellow);
+    font-weight: var(--font-bold);
+    font-size: 1rem;
+    justify-self: center;
+    height: inherit;
+}
+
+.git-gutter-marker.git-delete {
+    background-color: var(--color-red);
+    height: 0.2rem;
+    width: 0.8rem;
+    align-self: end;
+}
+
+.git-gutter-marker.git-topdelete {
+    background-color: var(--color-red);
+    height: 0.2rem;
+    width: 0.8rem;
+    align-self: start;
+}
+
+div:hover > .git-gutter-marker.git-change {
+    width: 0.6rem;
+}
+
+div:hover > .git-gutter-marker.git-add {
+    width: 0.6rem;
+}
+
+div:hover > .git-gutter-marker.git-delete {
+    height: 0.6rem;
+}
+
+div:hover > .git-gutter-marker.git-topdelete {
+    height: 0.6rem;
+}
+
+div:hover > .git-gutter-marker.git-changedelete {
+    font-weight: var(--font-bold);
+}
+
+.git-gutter-marker.staged {
+    opacity: 0.5;
+}
+
+/* Prevent shifting of the editor when git signs gutter is the only gutter present */
+.cm-gutters.cm-gutters-before:has(> .git-signs-gutter:only-child) {
+    margin-inline-end: 0;
+    .git-signs-gutter {
+        margin-inline-start: -1rem;
+    }
+}
+
+.git-changes-status-bar-colored {
+    .git-add {
+        color: var(--color-green);
+    }
+    .git-change {
+        color: var(--color-yellow);
+    }
+    .git-delete {
+        color: var(--color-red);
+    }
+}
+
+.git-changes-status-bar .git-add {
+    margin-right: 0.3em;
+}
+
+.git-changes-status-bar .git-change {
+    margin-right: 0.3em;
+}
+ /*!
+ * Inline Spoilers for Obsidian
+ * https://github.com/logonoff/obsidian-inline-spoilers
+ * SPDX-License-Identifier: GPL-3.0-or-later
+ */
+body {
+	--inline-spoilers-hidden-foreground: transparent;
+	--inline-spoilers-hidden-background: var(--interactive-accent);
+
+	--inline-spoilers-revealed-foreground: var(--text-accent);
+	--inline-spoilers-revealed-background: hsla(var(--color-accent-hsl), 0.075);
+
+	--inline-spoilers-spoiler-radius: var(--radius-s);
+}
+
+/**
+ * hidden spoilers
+ */
+/** used in reader mode */
+.inline_spoilers-spoiler,
+
+/** used in spoiler content in editor mode */
+.inline_spoilers-editor-spoiler,
+
+/** used in delimiter in editor mode */
+.inline_spoilers-editor-spoiler-delimiter {
+	/* obscured */
+	background-color: var(--inline-spoilers-hidden-background) !important;
+	color: var(--inline-spoilers-hidden-foreground) !important;
+}
+
+/**
+ * revealed spoilers
+ */
+/** used when a hidden spoiler is revealed by clicking in reader mode */
+.inline_spoilers-spoiler.inline_spoilers-revealed,
+
+/** used when a hidden spoiler is revealed in editor mode */
+.cm-active .inline_spoilers-editor-spoiler,
+.cm-active .inline_spoilers-editor-spoiler-delimiter,
+
+/** used when a hidden spoiler is revealed using "Reveal all spoilers" */
+.inline_spoilers-revealed .inline_spoilers-spoiler,
+.inline_spoilers-revealed .inline_spoilers-editor-spoiler,
+.inline_spoilers-revealed .inline_spoilers-editor-spoiler-delimiter {
+	background-color: var(--inline-spoilers-revealed-background) !important;
+	color: var(--inline-spoilers-revealed-foreground) !important;
+}
+
+/**
+ * spoiler border radius
+ */
+/* reader mode always shows one contiguous spoiler with rounded corners */
+.inline_spoilers-spoiler {
+	border-radius: var(--inline-spoilers-spoiler-radius);
+}
+
+/* editor mode, when a spoiler is hidden, does not display delimiters (||) */
+.is-live-preview .inline_spoilers-editor-spoiler {
+	border-radius: var(--inline-spoilers-spoiler-radius);
+}
+
+/* editor mode, when a spoiler is revealed, display delimiters */
+.is-live-preview .cm-active .inline_spoilers-editor-spoiler {
+	/* contiguous border radius with the delimiter */
+	border-radius: 0em;
+}
+
+/* editor mode, when a spoiler is revealed, display delimiters, which should have
+   contiguous border radius with the spoiler content */
+.cm-line .inline_spoilers-editor-spoiler-delimiter {
+	&:has(+ .inline_spoilers-editor-spoiler) {
+		border-radius: var(--inline-spoilers-spoiler-radius) 0 0 var(--inline-spoilers-spoiler-radius);
+	}
+	&:is(.inline_spoilers-editor-spoiler + .inline_spoilers-editor-spoiler-delimiter) {
+		border-radius: 0 var(--inline-spoilers-spoiler-radius) var(--inline-spoilers-spoiler-radius) 0;
+	}
+}
+
+/** hide spoiler delimiters in editor mode when spoilers are hidden */
+.is-live-preview .inline_spoilers-editor-spoiler-delimiter {
+	display: none;
+}
+
+/** reveal spoiler delimiters in editor mode when a spoiler is revealed */
+.is-live-preview .cm-active .inline_spoilers-editor-spoiler-delimiter {
+	display: unset;
+}
+ 
+.pandoc-plugin-error {
+    color: red;
+}
+  .commit-msg-input.svelte-5wq9p {width:100%;overflow:hidden;resize:none;padding:7px 5px;background-color:var(--background-modifier-form-field);}.git-commit-msg.svelte-5wq9p {position:relative;padding:0;width:calc(100% - var(--size-4-8));margin:4px auto;}main.svelte-5wq9p .git-tools:where(.svelte-5wq9p) .files-count:where(.svelte-5wq9p) {padding-left:var(--size-2-1);width:11px;display:flex;align-items:center;justify-content:center;}.nav-folder-title.svelte-5wq9p {align-items:center;}.git-commit-msg-clear-button.svelte-5wq9p {position:absolute;background:transparent;border-radius:50%;color:var(--search-clear-button-color);cursor:var(--cursor);top:-4px;right:2px;bottom:0px;line-height:0;height:var(--input-height);width:28px;margin:auto;padding:0 0;text-align:center;display:flex;justify-content:center;align-items:center;transition:color 0.15s ease-in-out;}.git-commit-msg-clear-button.svelte-5wq9p:after {content:"";height:var(--search-clear-button-size);width:var(--search-clear-button-size);display:block;background-color:currentColor;mask-image:url("data:image/svg+xml,<svg viewBox='0 0 12 12' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M6 12C9.31371 12 12 9.31371 12 6C12 2.68629 9.31371 0 6 0C2.68629 0 0 2.68629 0 6C0 9.31371 2.68629 12 6 12ZM3.8705 3.09766L6.00003 5.22718L8.12955 3.09766L8.9024 3.8705L6.77287 6.00003L8.9024 8.12955L8.12955 8.9024L6.00003 6.77287L3.8705 8.9024L3.09766 8.12955L5.22718 6.00003L3.09766 3.8705L3.8705 3.09766Z' fill='currentColor'/></svg>");mask-repeat:no-repeat;-webkit-mask-image:url("data:image/svg+xml,<svg viewBox='0 0 12 12' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M6 12C9.31371 12 12 9.31371 12 6C12 2.68629 9.31371 0 6 0C2.68629 0 0 2.68629 0 6C0 9.31371 2.68629 12 6 12ZM3.8705 3.09766L6.00003 5.22718L8.12955 3.09766L8.9024 3.8705L6.77287 6.00003L8.9024 8.12955L8.12955 8.9024L6.00003 6.77287L3.8705 8.9024L3.09766 8.12955L5.22718 6.00003L3.09766 3.8705L3.8705 3.09766Z' fill='currentColor'/></svg>");-webkit-mask-repeat:no-repeat;}undefined
+</style>
+    </head>
+    <body>
+<h1 data-heading="02 — MS Word" dir="auto">02 — MS Word</h1>
+<p dir="auto"><a data-tooltip-position="top" aria-label="💻 Computer Knowledge — INDEX" data-href="💻 Computer Knowledge — INDEX" href="/Users/hruaia/vault/LDC vault/LDC vault/Computer_Knowledge/%F0%9F%92%BB%20Computer%20Knowledge%20%E2%80%94%20INDEX.html" class="internal-link" target="_blank" rel="noopener nofollow">← Back to Index</a></p>
+<blockquote dir="auto">
+<p>94 questions — second biggest topic (17.8%). Menu paths and feature names matter most.</p>
+</blockquote>
+<hr>
+<h2 data-heading="Questions From Your Papers" dir="auto">Questions From Your Papers</h2>
+<table>
+<thead>
+<tr>
+<th>Question</th>
+<th>Answer</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Print a document</td>
+<td><strong>File → Print</strong></td>
+</tr>
+<tr>
+<td>Increase/decrease text size</td>
+<td><strong>Font Size Box</strong></td>
+</tr>
+<tr>
+<td>Font style options</td>
+<td><strong>Bold, Italic, Underline</strong></td>
+</tr>
+<tr>
+<td>AutoCorrect options found under</td>
+<td><strong>File → Options → Proofing</strong></td>
+</tr>
+<tr>
+<td>Readability statistics provides</td>
+<td><strong>How easy/difficult document is to read</strong></td>
+</tr>
+<tr>
+<td>Replace all option</td>
+<td><strong>Replaces every occurrence in document</strong></td>
+</tr>
+<tr>
+<td>Shading in document</td>
+<td><strong>Adds background color to selected text/paragraphs</strong></td>
+</tr>
+<tr>
+<td>Superscript used in</td>
+<td><strong>Mathematical powers (x³)</strong></td>
+</tr>
+<tr>
+<td>WordArt used to</td>
+<td><strong>Create decorative text with special effects</strong></td>
+</tr>
+<tr>
+<td>Table AutoFormat</td>
+<td><strong>Automatically applies predefined design to table</strong></td>
+</tr>
+<tr>
+<td>Mail merge master document contains</td>
+<td><strong>Fixed text that remains same in all copies</strong></td>
+</tr>
+<tr>
+<td>Close current worksheet but keep Excel running</td>
+<td><strong>File → Close</strong></td>
+</tr>
+<tr>
+<td>WordPad differs from Notepad because</td>
+<td><strong>WordPad supports basic text formatting</strong></td>
+</tr>
+<tr>
+<td>Save document first time</td>
+<td><strong>Assign file name and storage location</strong></td>
+</tr>
+<tr>
+<td>Changing font type affects</td>
+<td><strong>Appearance of characters</strong></td>
+</tr>
+<tr>
+<td>Justified alignment</td>
+<td><strong>Aligns evenly on both left and right margins</strong></td>
+</tr>
+<tr>
+<td>Paragraph spacing refers to</td>
+<td><strong>Space before and after a paragraph</strong></td>
+</tr>
+<tr>
+<td>AutoCorrect activated when</td>
+<td><strong>Press spacebar or Enter after typing a word</strong></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 data-heading="MS Word Interface" dir="auto">MS Word Interface</h2>
+<table>
+<thead>
+<tr>
+<th>Element</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Title Bar</strong></td>
+<td>Shows document name</td>
+</tr>
+<tr>
+<td><strong>Ribbon</strong></td>
+<td>Contains all commands in tabs</td>
+</tr>
+<tr>
+<td><strong>Quick Access Toolbar</strong></td>
+<td>Customizable — top left</td>
+</tr>
+<tr>
+<td><strong>Ruler</strong></td>
+<td>Shows margins and indents</td>
+</tr>
+<tr>
+<td><strong>Status Bar</strong></td>
+<td>Bottom — shows page, word count</td>
+</tr>
+<tr>
+<td><strong>View Buttons</strong></td>
+<td>Bottom right — change view</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 data-heading="File Operations" dir="auto">File Operations</h2>
+<table>
+<thead>
+<tr>
+<th>Action</th>
+<th>Shortcut</th>
+<th>Menu Path</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>New document</td>
+<td>Ctrl + N</td>
+<td>File → New</td>
+</tr>
+<tr>
+<td>Open</td>
+<td>Ctrl + O</td>
+<td>File → Open</td>
+</tr>
+<tr>
+<td>Save</td>
+<td>Ctrl + S</td>
+<td>File → Save</td>
+</tr>
+<tr>
+<td><strong>Save As</strong> (first save / new name)</td>
+<td>F12</td>
+<td><strong>File → Save As</strong></td>
+</tr>
+<tr>
+<td>Print</td>
+<td>Ctrl + P</td>
+<td><strong>File → Print</strong></td>
+</tr>
+<tr>
+<td>Close document</td>
+<td>Ctrl + W</td>
+<td>File → Close</td>
+</tr>
+<tr>
+<td>Exit Word</td>
+<td>Alt + F4</td>
+<td>File → Exit</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 data-heading="Formatting — Text" dir="auto">Formatting — Text</h2>
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>What it does</th>
+<th>Shortcut</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Bold</strong></td>
+<td>Makes text bold</td>
+<td>Ctrl + B</td>
+</tr>
+<tr>
+<td><strong>Italic</strong></td>
+<td>Makes text italic</td>
+<td>Ctrl + I</td>
+</tr>
+<tr>
+<td><strong>Underline</strong></td>
+<td>Underlines text</td>
+<td>Ctrl + U</td>
+</tr>
+<tr>
+<td><strong>Font Size</strong></td>
+<td>Changes size of text</td>
+<td>Font Size Box</td>
+</tr>
+<tr>
+<td><strong>Font Type</strong></td>
+<td>Changes appearance of characters</td>
+<td>Font Name Box</td>
+</tr>
+<tr>
+<td><strong>Superscript</strong></td>
+<td>Text above baseline (x²)</td>
+<td>Ctrl + Shift + =</td>
+</tr>
+<tr>
+<td><strong>Subscript</strong></td>
+<td>Text below baseline (H₂O)</td>
+<td>Ctrl + =</td>
+</tr>
+<tr>
+<td><strong>Strikethrough</strong></td>
+<td>Line through text</td>
+<td>Home → Font group</td>
+</tr>
+<tr>
+<td><strong>Change Case</strong></td>
+<td>UPPER/lower/Title Case</td>
+<td>Shift + F3</td>
+</tr>
+<tr>
+<td><strong>Clear Formatting</strong></td>
+<td>Remove all formatting</td>
+<td>Ctrl + Space</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 data-heading="Formatting — Paragraph" dir="auto">Formatting — Paragraph</h2>
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>What it does</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Alignment</strong></td>
+<td>Left / Center / Right / <strong>Justified</strong> (both sides even)</td>
+</tr>
+<tr>
+<td><strong>Paragraph Spacing</strong></td>
+<td>Space <strong>before and after</strong> a paragraph</td>
+</tr>
+<tr>
+<td><strong>Line Spacing</strong></td>
+<td>Space between lines within paragraph</td>
+</tr>
+<tr>
+<td><strong>Indent</strong></td>
+<td>Move paragraph left or right</td>
+</tr>
+<tr>
+<td><strong>Hanging Indent</strong></td>
+<td>All lines except first are indented</td>
+</tr>
+<tr>
+<td><strong>Drop Cap</strong></td>
+<td>Large first letter in paragraph</td>
+</tr>
+<tr>
+<td><strong>Shading</strong></td>
+<td><strong>Background color</strong> on text or paragraph</td>
+</tr>
+<tr>
+<td><strong>Borders</strong></td>
+<td>Line around paragraph or page</td>
+</tr>
+</tbody>
+</table>
+<h3 data-heading="Alignment — Quick Reference" dir="auto">Alignment — Quick Reference</h3>
+<table>
+<thead>
+<tr>
+<th>Alignment</th>
+<th>Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Left (Ctrl+L)</td>
+<td>Text aligns to left margin</td>
+</tr>
+<tr>
+<td>Center (Ctrl+E)</td>
+<td>Text centered</td>
+</tr>
+<tr>
+<td>Right (Ctrl+R)</td>
+<td>Text aligns to right margin</td>
+</tr>
+<tr>
+<td><strong>Justified (Ctrl+J)</strong></td>
+<td><strong>Text aligns both left AND right evenly</strong></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 data-heading="Editing Features" dir="auto">Editing Features</h2>
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>What it does</th>
+<th>How to access</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Find</strong></td>
+<td>Locate text</td>
+<td>Ctrl + F</td>
+</tr>
+<tr>
+<td><strong>Find &amp; Replace</strong></td>
+<td>Find text and replace</td>
+<td><strong>Ctrl + H</strong></td>
+</tr>
+<tr>
+<td><strong>Replace All</strong></td>
+<td><strong>Replaces every occurrence</strong></td>
+<td>In Replace dialog → Replace All</td>
+</tr>
+<tr>
+<td><strong>AutoCorrect</strong></td>
+<td>Auto-fixes typos</td>
+<td><strong>File → Options → Proofing</strong></td>
+</tr>
+<tr>
+<td><strong>Spell Check</strong></td>
+<td>Checks spelling</td>
+<td>F7 or Review tab</td>
+</tr>
+<tr>
+<td><strong>Thesaurus</strong></td>
+<td>Finds synonyms</td>
+<td>Review → Thesaurus</td>
+</tr>
+<tr>
+<td><strong>Word Count</strong></td>
+<td>Counts words</td>
+<td>Review → Word Count</td>
+</tr>
+<tr>
+<td><strong>Readability Statistics</strong></td>
+<td>Shows <strong>reading ease level</strong></td>
+<td>File → Options → Proofing</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 data-heading="Page Layout" dir="auto">Page Layout</h2>
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>What it does</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Margins</strong></td>
+<td>Space between content and page edge</td>
+</tr>
+<tr>
+<td><strong>Gutter</strong></td>
+<td>Extra margin for binding</td>
+</tr>
+<tr>
+<td><strong>Header</strong></td>
+<td>Text at top of every page</td>
+</tr>
+<tr>
+<td><strong>Footer</strong></td>
+<td>Text at bottom of every page</td>
+</tr>
+<tr>
+<td><strong>Page Break</strong></td>
+<td>Forces new page</td>
+</tr>
+<tr>
+<td><strong>Section Break</strong></td>
+<td>Divides document into sections</td>
+</tr>
+<tr>
+<td><strong>Page Numbers</strong></td>
+<td>Insert → Page Numbers</td>
+</tr>
+<tr>
+<td><strong>Watermark</strong></td>
+<td>Background image/text behind content</td>
+</tr>
+<tr>
+<td><strong>Columns</strong></td>
+<td>Divides text into newspaper-style columns</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 data-heading="Tables" dir="auto">Tables</h2>
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>What it does</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Insert Table</strong></td>
+<td>Insert → Table</td>
+</tr>
+<tr>
+<td><strong>Table AutoFormat</strong></td>
+<td><strong>Automatically applies predefined design</strong></td>
+</tr>
+<tr>
+<td><strong>Merge Cells</strong></td>
+<td>Combine multiple cells into one</td>
+</tr>
+<tr>
+<td><strong>Split Cells</strong></td>
+<td>Divide one cell into multiple</td>
+</tr>
+<tr>
+<td><strong>Sort Table</strong></td>
+<td>Arrange data alphabetically/numerically</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 data-heading="Mail Merge" dir="auto">Mail Merge</h2>
+<table>
+<thead>
+<tr>
+<th>Component</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Main/Master Document</strong></td>
+<td><strong>Contains fixed text same in all copies</strong></td>
+</tr>
+<tr>
+<td><strong>Data Source</strong></td>
+<td>Contains variable data (names, addresses)</td>
+</tr>
+<tr>
+<td><strong>Merged Document</strong></td>
+<td>Final personalized copies</td>
+</tr>
+<tr>
+<td>Use case</td>
+<td>Letters, labels, envelopes in bulk</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 data-heading="Views in MS Word" dir="auto">Views in MS Word</h2>
+<table>
+<thead>
+<tr>
+<th>View</th>
+<th>Use</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Print Layout</strong></td>
+<td>Default — shows how it will print</td>
+</tr>
+<tr>
+<td><strong>Read Mode</strong></td>
+<td>Reading only — no editing</td>
+</tr>
+<tr>
+<td><strong>Web Layout</strong></td>
+<td>Shows as webpage</td>
+</tr>
+<tr>
+<td><strong>Outline</strong></td>
+<td>Shows document structure</td>
+</tr>
+<tr>
+<td><strong>Draft</strong></td>
+<td>Simple editing — no headers/footers shown</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 data-heading="Special Features" dir="auto">Special Features</h2>
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>What it does</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>WordArt</strong></td>
+<td><strong>Creates decorative text with special effects</strong></td>
+</tr>
+<tr>
+<td><strong>Superscript</strong></td>
+<td>Used for <strong>mathematical powers x³</strong></td>
+</tr>
+<tr>
+<td><strong>Subscript</strong></td>
+<td>Used for chemical formulas H₂O</td>
+</tr>
+<tr>
+<td><strong>Drop Cap</strong></td>
+<td>Large decorative first letter</td>
+</tr>
+<tr>
+<td><strong>SmartArt</strong></td>
+<td>Diagrams and charts</td>
+</tr>
+<tr>
+<td><strong>Track Changes</strong></td>
+<td>Shows edits made by different people</td>
+</tr>
+<tr>
+<td><strong>Comments</strong></td>
+<td>Add notes without changing text</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 data-heading="Exam Traps ⚠️" dir="auto">Exam Traps ⚠️</h2>
+<blockquote dir="auto">
+<p>AutoCorrect found at <strong>File → Options → Proofing</strong> — NOT Review tab<br>
+Replace All = replaces <strong>every</strong> occurrence — NOT just first<br>
+Paragraph spacing = <strong>before and after paragraph</strong> — NOT between words or lines<br>
+Justified = aligns <strong>BOTH left and right</strong> — NOT just right<br>
+WordPad <strong>supports formatting</strong> — Notepad does NOT<br>
+Save first time = <strong>Save As</strong> (assign filename) — Save just updates existing<br>
+Shading = <strong>background color</strong> — NOT change spelling or insert page numbers<br>
+SuperScript for <strong>x³</strong> (powers) — Subscript for H₂O (chemical)<br>
+Mail merge master document = <strong>fixed text</strong> — NOT the variable names/addresses<br>
+Gutter margin = <strong>for binding</strong> — NOT normal margin</p>
+</blockquote>
+    </body>
+</html>

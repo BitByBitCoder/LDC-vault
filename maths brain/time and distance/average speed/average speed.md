@@ -11,7 +11,7 @@ Average Speed tells us:
 > "Overall speed for the entire journey."
 
 ### Formula
-![[Screenshot 2026-06-06 at 11.48.20 PM.png]]
+![[../../archieve/z/Screenshot 2026-06-06 at 11.48.20 PM.png]]
 Average Speed=Total TimeTotal Distance​
 ---
 
@@ -144,7 +144,7 @@ Average Speed:
 
 When two equal distances are covered at speeds **a** and **b**:
 
-![[Screenshot 2026-06-07 at 12.12.08 AM.png]]
+![[../../archieve/z/Screenshot 2026-06-07 at 12.12.08 AM.png]]
 
 ---
 

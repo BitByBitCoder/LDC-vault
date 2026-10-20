@@ -1,3 +1,3 @@
 ## By Hard
-[[prime numbers]]
-[1Time table](Times%20table/1Time%20table.md)
+[[archieve/Prime number/prime numbers]]
+[1Time table](archieve/Times%20table/1Time%20table.md)

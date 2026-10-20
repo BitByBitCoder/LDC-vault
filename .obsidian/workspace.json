@@ -43,58 +43,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "maths brain/00 rules.md",
+                "file": "Computer_Knowledge/02 — MS Word.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 rules"
-            }
-          },
-          {
-            "id": "5740951785091327",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "maths brain/Profit and loss/formula.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "formula"
-            }
-          },
-          {
-            "id": "961f0bc10b9c1ad4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "maths brain/radmap/roadmap2.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "roadmap2"
-            }
-          },
-          {
-            "id": "4bf86f69892d46ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/02 — Prepositions.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02 — Prepositions"
+              "title": "02 — MS Word"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -252,8 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,57 +224,58 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "961f0bc10b9c1ad4",
+  "active": "2f2aadbb92057cad",
   "lastOpenFiles": [
-    "English/📝 English — INDEX.md",
-    "English/02 — Prepositions.md",
-    "English/01 — Tenses.md",
-    "English/eng sub/Essay Vault/00 - Essay INDEX.md",
-    "maths brain/Profit and loss/darama question.md",
+    "Computer_Knowledge/02 — MS Word.html",
+    "Computer_Knowledge/03 — MS Excel.md",
+    "Computer_Knowledge/04 — MS PowerPoint.md",
+    "Computer_Knowledge/02 — MS Word.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Important Note/07 — Articles.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Important Note/13 — Emergency Provisions.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Important Note/12 — Writs.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Important Note/11 — Schedules of Constitution.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Important Note/10 — Governor & State Government.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Important Note/08 — Judiciary.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Important Note/06 — Constitutional Amendments.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Important Note/05 — Prime Minister & Council of Ministers.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Important Note/04 — President & Vice President.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Important Note/🏛️ Indian Polity & Constitution — INDEX.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Important Note/03 — Parliament Structure.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Important Note/02 — Fundamental Rights.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Important Note/01 — Constitution Basics.md",
     "maths brain/00 rules.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Important Note/00 - Important Dates Chronological order.md",
     "maths brain/Profit and loss/formula.md",
-    "maths brain/Screenshot 2026-09-17 at 7.44.15 PM.png",
-    "diff percent.md",
-    "maths brain/Profit and loss/darama filter.md",
-    "maths brain/Screenshot 2026-09-17 at 10.50.43 AM.png",
-    "English/eng sub/categorize preposition.md",
-    "maths brain/Profit and loss/conversion shortcut.md",
-    "maths brain/Profit and loss/for white.png",
-    "Daily tracker.md",
-    "maths brain/radmap/roadmap2.md",
-    "maths brain/percentages/darama/formulas.md",
-    "maths brain/percentages/darama/darama a question zawng2.md",
-    "maths brain/percentages/darama/Screenshot 2026-09-15 at 8.31.06 PM.png",
-    "**1. Simple Present**.md",
-    "maths brain/percentages/darama/darama filter.md",
-    "maths brain/percentages/dont know.md",
-    "maths brain/percentages/A is a % of B.md",
-    "maths brain/percentages/darama/Untitled.md",
-    "maths brain/percentages/darama/hriat ture flip.md",
-    "General Knowledge/Reasoning/🧠 Reasoning — INDEX.md",
-    "General Knowledge/Reasoning/05 — Analogy.md",
-    "General Knowledge/03-Modern_Indian_History/03 — Indian National Congress.md",
-    "General Knowledge/03-Modern_Indian_History/02 — Freedom Movement Timeline.md",
-    "General Knowledge/03-Modern_Indian_History/01 — British Governors & Viceroys.md",
+    "English/02 — Prepositions.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Ncert polity Vault/01-Historical-Evolution.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Ncert polity Vault/00-Index.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Ncert polity Vault/000- Timeline.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Ncert polity Vault/06-President.md",
+    "General Knowledge/02-Indian_Polity_Constitution/Ncert polity Vault/ncert canvas.canvas",
+    "General Knowledge/02-Indian_Polity_Constitution/Ncert polity Vault/photo_2026-10-14 11.03.35.jpeg",
+    "General Knowledge/02-Indian_Polity_Constitution/Ncert polity Vault/photo_2026-10-14 11.03.34.jpeg",
+    "General Knowledge/02-Indian_Polity_Constitution/Ncert polity Vault/photo_2026-10-14 11.03.33.jpeg",
+    "General Knowledge/02-Indian_Polity_Constitution/Ncert polity Vault/photo_2026-10-14 11.03.32.jpeg",
+    "General Knowledge/02-Indian_Polity_Constitution/Ncert polity Vault/photo_2026-10-14 11.03.31.jpeg",
+    "General Knowledge/02-Indian_Polity_Constitution/Ncert polity Vault/photo_2026-10-14 11.03.29.jpeg",
+    "General Knowledge/02-Indian_Polity_Constitution/Ncert polity Vault/photo_2026-10-14 11.03.28.jpeg",
+    "General Knowledge/02-Indian_Polity_Constitution/Ncert polity Vault/photo_2026-10-14 11.03.26.jpeg",
+    "General Knowledge/02-Indian_Polity_Constitution/Ncert polity Vault/Untitled.md",
+    "General Knowledge/01-Mizo/Dawnkawn/gk2-meta",
+    "General Knowledge/01-Mizo/Dawnkawn/Gk1-claude/Extras",
+    "General Knowledge/01-Mizo/Dawnkawn/Gk1-claude/Chapters",
+    "General Knowledge/01-Mizo/Dawnkawn/Gk1-claude",
+    "General Knowledge/01-Mizo/Dawnkawn",
+    "General Knowledge/02-Indian_Polity_Constitution/Important Note/indian polity canvas/Fundamental Rights.canvas",
+    "maths brain/Screenshot 2026-07-02 at 12.50.50 AM.png",
+    "maths brain/Screenshot 2026-07-02 at 12.12.16 AM.png",
+    "maths brain/archieve",
     "computer/Computer_Awareness_Vault",
     "English/eng sub/Essay Vault",
     "Keimah",
     "General Knowledge/01-Mizo/gemeni/Mizo_GK_Vault 1/06 - Practice & Syllabus",
-    "General Knowledge/01-Mizo/gemeni/Mizo_GK_Vault 1/05 - Governance & Economy",
-    "General Knowledge/01-Mizo/gemeni/Mizo_GK_Vault 1/04 - Culture, Society & Literature",
-    "General Knowledge/01-Mizo/gemeni/Mizo_GK_Vault 1/03 - Geography & Environment",
-    "General Knowledge/01-Mizo/gemeni/Mizo_GK_Vault 1/02 - History",
-    "General Knowledge/01-Mizo/gemeni/Mizo_GK_Vault 1/01 - Mizoram Overview",
-    "General Knowledge/01-Mizo/gemeni/Mizo_GK_Vault 1/00 - Dashboards",
-    "General Knowledge/02-Indian_Polity_Constitution/note/Indian constitution Parts.png",
-    "English/Screenshot 2026-08-27 at 1.47.24 PM.png",
-    "English/Screenshot 2026-08-27 at 1.27.17 PM.png",
-    "English/Screenshot 2026-08-27 at 1.18.53 PM.png",
     "Computer_Knowledge/Computer CPU.canvas",
-    "maths brain/Screenshot 2026-07-02 at 12.50.50 AM.png",
-    "English/Screenshot 2026-07-27 at 11.04.09 PM.png",
     "Physical geography canvas.canvas",
-    "General Knowledge/02-Indian_Polity_Constitution/note/indian polity canvas/Fundamental Rights.canvas",
     "General Knowledge/04-India_Geography/gk canvas/State and superlative canvas.canvas",
     "General Knowledge/04-India_Geography/gk canvas/River India canvas.canvas",
     "maths brain/bbgun.canvas",
