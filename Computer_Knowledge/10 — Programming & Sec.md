@@ -7,13 +7,13 @@
 
 ## Questions From Your Papers
 
-| Question | Answer |
-|----------|--------|
-| Spreadsheet program categorized as | **Application software** |
-| Operating system categorized as | **System software** |
-| Client-server: server typically | **Stores and manages shared resources** |
+| Question                                   | Answer                                                    |
+| ------------------------------------------ | --------------------------------------------------------- |
+| Spreadsheet program categorized as         | **Application software**                                  |
+| Operating system categorized as            | **System software**                                       |
+| Client-server: server typically            | **Stores and manages shared resources**                   |
 | Relationship between hardware and software | **Software instructs hardware to perform specific tasks** |
-| Inventory control computers used to | **Monitor stock levels and manage reordering** |
+| Inventory control computers used to        | **Monitor stock levels and manage reordering**            |
 
 ---
 
