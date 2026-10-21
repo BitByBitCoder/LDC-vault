@@ -40,11 +40,11 @@
 | **IMAP** | Internet Message Access Protocol | **Receiving** — stays on server |
 
 ### SMTP vs POP3 vs IMAP
-| SMTP | POP3 | IMAP |
-|------|------|------|
-| Sending | Receiving | Receiving |
+| SMTP             | POP3            | IMAP                  |
+| ---------------- | --------------- | --------------------- |
+| Sending          | Receiving       | Receiving             |
 | Server to server | Downloads email | Email stays on server |
-| Port 25/587 | Port 110 | Port 143 |
+| Port 25/587      | Port 110        | Port 143              |
 
 ---
 
