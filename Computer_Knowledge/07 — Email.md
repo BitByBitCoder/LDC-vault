@@ -50,12 +50,12 @@
 
 ## Email Security
 
-| Feature | Purpose |
-|---------|---------|
-| **Encryption** | **Protects message confidentiality** |
-| **Digital Signature** | Verifies sender's identity |
-| **Spam Filter** | Blocks unwanted emails |
-| **Antivirus** | Scans attachments for malware |
+| Feature               | Purpose                              |
+| --------------------- | ------------------------------------ |
+| **Encryption**        | **Protects message confidentiality** |
+| **Digital Signature** | Verifies sender's identity           |
+| **Spam Filter**       | Blocks unwanted emails               |
+| **Antivirus**         | Scans attachments for malware        |
 
 ---
 
