@@ -5,14 +5,14 @@
 
 ## Questions From Your Papers
 
-| Question | Answer |
-|----------|--------|
-| Email body contains | **Main message content** |
-| Email encryption ensures | **Protection of message confidentiality** |
-| During email routing messages | **Transferred through series of mail servers** |
-| Signature file in email | **Automatically adds contact details to every email** |
-| Unwelcome email called | **Spam** |
-| Spam is also called | **Junk mail** |
+| Question                      | Answer                                                |
+| ----------------------------- | ----------------------------------------------------- |
+| Email body contains           | **Main message content**                              |
+| Email encryption ensures      | **Protection of message confidentiality**             |
+| During email routing messages | **Transferred through series of mail servers**        |
+| Signature file in email       | **Automatically adds contact details to every email** |
+| Unwelcome email called        | **Spam**                                              |
+| Spam is also called           | **Junk mail**                                         |
 
 ---
 
