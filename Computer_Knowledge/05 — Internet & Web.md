@@ -203,20 +203,20 @@ Protocol  Domain      Path
 
 ## Web Technologies
 
-| Term | Meaning |
-|------|---------|
-| **HTML** | **HyperText Markup Language** — creates web pages |
-| **CSS** | Styles web pages (colors, fonts, layout) |
-| **JavaScript** | Makes web pages interactive |
-| **URL structure** | Protocol://domain/path (https://google.com/search) |
-| **Hyperlink** | Clickable link to another page/resource |
-| **Bookmark** | Saved website address in browser |
-| **Cookie** | Small file stored by browser — remembers preferences |
-| **Cache (browser)** | Stored web page data for faster loading |
-| **Download** | Transfer data from server to your device |
-| **Upload** | Transfer data from your device to server |
-| **Streaming** | Play media while downloading |
-| **Cloud storage** | Data stored on remote servers (Google Drive, OneDrive) |
+| Term                | Meaning                                                |
+| ------------------- | ------------------------------------------------------ |
+| **HTML**            | **HyperText Markup Language** — creates web pages      |
+| **CSS**             | Styles web pages (colors, fonts, layout)               |
+| **JavaScript**      | Makes web pages interactive                            |
+| **URL structure**   | Protocol://domain/path (https://google.com/search)     |
+| **Hyperlink**       | Clickable link to another page/resource                |
+| **Bookmark**        | Saved website address in browser                       |
+| **Cookie**          | Small file stored by browser — remembers preferences   |
+| **Cache (browser)** | Stored web page data for faster loading                |
+| **Download**        | Transfer data from server to your device               |
+| **Upload**          | Transfer data from your device to server               |
+| **Streaming**       | Play media while downloading                           |
+| **Cloud storage**   | Data stored on remote servers (Google Drive, OneDrive) |
 
 ---
 
