@@ -5,13 +5,13 @@
 
 ## Questions From Your Papers
 
-| Question | Answer |
-|----------|--------|
-| HUB is a | **Broadcast device** |
-| DSL (Digital Subscriber Line) is | **Broadband connection** |
-| Protocol is | **Set of rules governing communication between peers** |
-| Client-server — server does | **Stores and manages shared resources** |
-| In inventory control, computers mainly | **Monitor stock levels and manage reordering** |
+| Question                               | Answer                                                 |
+| -------------------------------------- | ------------------------------------------------------ |
+| HUB is a                               | **Broadcast device**                                   |
+| DSL (Digital Subscriber Line) is       | **Broadband connection**                               |
+| Protocol is                            | **Set of rules governing communication between peers** |
+| Client-server — server does            | **Stores and manages shared resources**                |
+| In inventory control, computers mainly | **Monitor stock levels and manage reordering**         |
 
 ---
 

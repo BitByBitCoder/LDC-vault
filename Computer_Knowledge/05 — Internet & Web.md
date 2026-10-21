@@ -222,14 +222,14 @@ Protocol  Domain      Path
 
 ## Network Security
 
-| Term | Meaning |
-|------|---------|
-| **Firewall** | Blocks unauthorized access to network |
-| **Encryption** | Converts data to unreadable form for security |
-| **HTTPS** | Web pages with SSL encryption |
-| **VPN** | Encrypts all internet traffic |
-| **Strong password** | Prevents **cyber crime** |
-| **Two-factor authentication** | Extra verification layer |
+| Term                          | Meaning                                       |
+| ----------------------------- | --------------------------------------------- |
+| **Firewall**                  | Blocks unauthorized access to network         |
+| **Encryption**                | Converts data to unreadable form for security |
+| **HTTPS**                     | Web pages with SSL encryption                 |
+| **VPN**                       | Encrypts all internet traffic                 |
+| **Strong password**           | Prevents **cyber crime**                      |
+| **Two-factor authentication** | Extra verification layer                      |
 
 ---
 
