@@ -61,20 +61,20 @@ gemini in siam ve thung [[english roadmap gemini]]
 
 ## 📁 Sub-Topics — Click to Open
 
-| # | File | Priority |
-|---|------|---------|
-| 1 | [[01 — Tenses]] | 🔴 High |
-| 2 | [[02 — Prepositions]] | 🔴 High |
-| 3 | [[03 — Active & Passive Voice]] | 🔴 High |
-| 4 | [[04 — Direct & Indirect Speech]] | 🔴 High |
-| 5 | [[05 — Articles (a an the)]] | 🔴 High |
-| 6 | [[06 — Subject-Verb Agreement]] | 🔴 High |
-| 7 | [[07 — Sentence Correction]] | 🔴 High |
-| 8 | [[08 — Synonyms & Antonyms]] | 🔴 High |
-| 9 | [[09 — One Word Substitution]] | 🟡 Medium |
-| 10 | [[10 — Idioms & Phrases]] | 🟡 Medium |
-| 11 | [[11 — Spelling]] | 🟡 Medium |
-| 12 | [[12 — Essay & Comprehension Strategy]] | 🔴 High |
+| #   | File                                    | Priority  |
+| --- | --------------------------------------- | --------- |
+| 1   | [[01 — Tenses]]                         | 🔴 High   |
+| 2   | [[02 — Prepositions]]                   | 🔴 High   |
+| 3   | [[03 — Active & Passive Voice]]         | 🔴 High   |
+| 4   | [[04 — Direct & Indirect Speech]]       | 🔴 High   |
+| 5   | [[05 — Articles (a an the)]]            | 🔴 High   |
+| 6   | [[06 — Subject-Verb Agreement]]         | 🔴 High   |
+| 7   | [[07 — Sentence Correction]]            | 🔴 High   |
+| 8   | [[08 — Synonyms & Antonyms]]            | 🔴 High   |
+| 9   | [[09 — One Word Substitution]]          | 🟡 Medium |
+| 10  | [[10 — Idioms & Phrases]]               | 🟡 Medium |
+| 11  | [[11 — Spelling]]                       | 🟡 Medium |
+| 12  | [[12 — Essay & Comprehension Strategy]] | 🔴 High   |
 
 ---
 
