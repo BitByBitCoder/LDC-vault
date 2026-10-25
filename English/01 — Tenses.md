@@ -19,73 +19,73 @@
 
 ## How to identify each tense
 
-[[**1. Simple Present**]] ||habits, facts, routines Signal words: every day, always, usually||
+[[tense/**1. Simple Present**]] ||habits, facts, routines Signal words: every day, always, usually||
 ||often never_ Structure base verb (+s/es for he/she/it)||
 
 > Q: She _____ to school every day. a) go b) goes c) going d) gone **Identify:** "every day" = habit → Simple Present. Subject "She" = 3rd person singular → add -s → **goes**
 
 ---
 
-**[[2. Present Continuous]]** — ||happening right now Signal words: now, right now, at the moment||  currently, look!, listen!_ Structure: am/is/are + verb-ing
+**[[tense/2. Present Continuous]]** — ||happening right now Signal words: now, right now, at the moment||  currently, look!, listen!_ Structure: am/is/are + verb-ing
 
 > Q: Look! The baby _____. a) cries b) cried c) is crying d) cry **Identify:** "Look!" = it's happening as we speak → **is crying**
 
 ---
 
-**[[3. Simple Past]]** — finished action, specific past time Signal words: _yesterday, last week, ago, in 2020, when I was a child_ Structure: verb + ed (or irregular past form)
+**[[tense/3. Simple Past]]** — finished action, specific past time Signal words: _yesterday, last week, ago, in 2020, when I was a child_ Structure: verb + ed (or irregular past form)
 
 > Q: She _____ to Delhi last year. a) go b) goes c) went d) has gone **Identify:** "last year" = a finished, specific point in the past → **went**
 
 ---
 
-**[[4. Past Continuous]]** — action in progress at a past moment, often interrupted Signal words: _while, when...(another past action interrupted it), at that time_ Structure: was/were + verb-ing
+**[[tense/4. Past Continuous]]** — action in progress at a past moment, often interrupted Signal words: _while, when...(another past action interrupted it), at that time_ Structure: was/were + verb-ing
 
 > Q: I _____ TV when the phone rang. a) watch b) watched c) was watching d) had watched **Identify:** Two past actions, one interrupts the other. The _longer, ongoing_ one takes Past Continuous → **was watching** (the ringing interrupted it)
 
 ---
 
-**[[5. Present Perfect]]** — past action with a result/relevance NOW; no exact time given Signal words: _already, yet, just, ever, never, since,before,this year, for. _ Structure: has/have + past participle
+**[[tense/5. Present Perfect]]** — past action with a result/relevance NOW; no exact time given Signal words: _already, yet, just, ever, never, since,before,this year, for. _ Structure: has/have + past participle
 
 > Q: I _____ my homework already. a) finish b) finished c) have finished d) am finishing **Identify:** "already" + no specific time stated → connects past to present → **have finished**
 
 ---
 
-**[[6. Past Perfect]]** — the earlier of two past actions Signal words: _by the time, before, after, already (in past context)_ Structure: had + past participle
+**[[tense/6. Past Perfect]]** — the earlier of two past actions Signal words: _by the time, before, after, already (in past context)_ Structure: had + past participle
 
 > Q: By the time we reached, the movie _____. a) started b) starts c) had started d) has started **Identify:** Two past events; "by the time" flags a sequence → the one that happened FIRST → **had started**
 
 ---
 
-**[[7. Future Simple]]** — prediction or decision made now Signal words: _tomorrow, next week, will_ Structure: will + base verb
+**[[tense/7. Future Simple]]** — prediction or decision made now Signal words: _tomorrow, next week, will_ Structure: will + base verb
 
 > Q: I think it _____ rain tomorrow. a) will b) is c) was d) has **Identify:** "tomorrow" + prediction → **will** (rain)
 
 
-**[[8. Present Perfect Continuous]]** — an action that started in the past and is still continuing now, with emphasis on the ongoing duration Signal words: _since, for, all day, lately, recently_ Structure: has/have + been + verb-ing
+**[[tense/8. Present Perfect Continuous]]** — an action that started in the past and is still continuing now, with emphasis on the ongoing duration Signal words: _since, for, all day, lately, recently_ Structure: has/have + been + verb-ing
 
 > Q: I _____ for two hours. a) study b) studied c) have been studying d) am studying **Identify:** "for two hours" = duration continuing up to now → Present Perfect Continuous → **have been studying**
 
 ---
 
-**[[9. Past Perfect Continuous]]** — an ongoing action that was happening before another past action/point, emphasiz  ing duration Signal words: _for, since (in a past context), before + past event_ Structure: had + been + verb-ing
+**[[tense/9. Past Perfect Continuous]]** — an ongoing action that was happening before another past action/point, emphasiz  ing duration Signal words: _for, since (in a past context), before + past event_ Structure: had + been + verb-ing
 
 > Q: She _____ for three hours before the rain stopped. a) had been running b) has been running c) was running d) ran **Identify:** Duration ("for three hours") happening _before_ another past event ("before the rain stopped") → Past Perfect Continuous → **had been running**
 
 ---
 
-**[[10. Future Continuous]]** — an action that will be in progress at a specific future time, Signal words: _at this time tomorrow, at 5 PM tomorrow, this time next week_ Structure: will + be + verb-ing
+**[[tense/10. Future Continuous]]** — an action that will be in progress at a specific future time, Signal words: _at this time tomorrow, at 5 PM tomorrow, this time next week_ Structure: will + be + verb-ing
 
 > Q: This time tomorrow, I _____ on a plane. a) will be b) am c) was d) will **Identify:** "This time tomorrow" = a specific point in the future when the action will be ongoing → Future Continuous → **will be** (flying)
 
 ---
 
-**[[11. Future Perfect]]** — an action that will be completed before a specific future time Signal words: _by tomorrow, by the time , by next week, (+ future event)_ Structure: will + have + past participle (V3)
+**[[tense/11. Future Perfect]]** — an action that will be completed before a specific future time Signal words: _by tomorrow, by the time , by next week, (+ future event)_ Structure: will + have + past participle (V3)
 
 > Q: By next year, I _____ my degree. a) will complete b) will have completed c) complete d) had completed **Identify:** "By next year" = a deadline in the future by which the action will be finished → Future Perfect → **will have completed**
 
 ---
 
-**[[12. Future Perfect Continuous]]** — an ongoing action that will continue up until a specific point in the future, emphasizing duration Signal words: _by next year...for, for the past __ years by the time_ Structure: will + have + been + verb-ing
+**[[tense/12. Future Perfect Continuous]]** — an ongoing action that will continue up until a specific point in the future, emphasizing duration Signal words: _by next year...for, for the past __ years by the time_ Structure: will + have + been + verb-ing
 
 > Q: By next month, I _____ here for five years. a) will work b) will have worked c) will have been working d) worked **Identify:** "By next month...for five years" = duration continuing right up to a future deadline → Future Perfect Continuous → **will have been working**
 
