@@ -158,13 +158,13 @@ Your friend/Yours lovingly,
 
 ## Grammar Rules for Writing
 
-| Rule | Correct |
-|------|---------|
-| Paragraph indent | First line of each paragraph slightly inward |
-| No abbreviations | Write "cannot" not "can't" in formal |
-| Subject-verb agreement | Check every sentence |
-| Tense consistency | Don't switch tense mid-essay |
-| Punctuation | Full stop, comma, question mark — use correctly |
+| Rule                   | Correct                                         |
+| ---------------------- | ----------------------------------------------- |
+| Paragraph indent       | First line of each paragraph slightly inward    |
+| No abbreviations       | Write "cannot" not "can't" in formal            |
+| Subject-verb agreement | Check every sentence                            |
+| Tense consistency      | Don't switch tense mid-essay                    |
+| Punctuation            | Full stop, comma, question mark — use correctly |
 
 ---
 
