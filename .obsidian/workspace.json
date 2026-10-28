@@ -41,14 +41,12 @@
             "id": "2f2aadbb92057cad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "English/📝 English — INDEX.md",
-                "mode": "source",
-                "source": false
+                "file": "General Knowledge/imp people.png"
               },
-              "icon": "lucide-file",
-              "title": "📝 English — INDEX"
+              "icon": "lucide-image",
+              "title": "imp people"
             }
           }
         ],
@@ -224,13 +222,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2f2aadbb92057cad",
+  "active": "fae9520d72428e28",
   "lastOpenFiles": [
-    "General Knowledge/df918d5bf83eff2d14fbc0ec531b8e55a949569f5dd6616bf3ce7b3734d0d5ca.png",
+    "General Knowledge/09 — National Symbols & Firsts.md",
+    "General Knowledge/Roadmap.md",
+    "General Knowledge/Screenshot 2026-07-02 at 1.29.09 PM.png",
+    "General Knowledge/Untitled.md",
+    "General Knowledge/Untitled.base",
+    "English/📝 English — INDEX.md",
+    "General Knowledge/imp people.png",
     "English/12 — Essay & Comprehension Strategy.md",
     "English/Screenshot 2026-08-27 at 1.47.24 PM.png",
     "English/01 — Tenses.md",
-    "English/📝 English — INDEX.md",
     "English/eng sub/Essay Vault/13 - examiner.md",
     "English/eng sub/Essay Vault/12 - Grammar rules.md",
     "English/eng sub/Essay Vault/01 - Essay Toolkit.md",
@@ -251,8 +254,6 @@
     "English/02 — Prepositions.md",
     "English/tense/2. Present Continuous.md",
     "English/tense/12. Future Perfect Continuous.md",
-    "English/tense/11. Future Perfect.md",
-    "English/tense/10. Future Continuous.md",
     "English/tense",
     "Computer_Knowledge/Computer-Storage-Vault",
     "Computer_Knowledge/Computer CPU.canvas",
@@ -265,16 +266,13 @@
     "General Knowledge/02-Indian_Polity_Constitution/Ncert polity Vault/photo_2026-10-14 11.03.31.jpeg",
     "General Knowledge/02-Indian_Polity_Constitution/Ncert polity Vault/photo_2026-10-14 11.03.29.jpeg",
     "General Knowledge/02-Indian_Polity_Constitution/Ncert polity Vault/photo_2026-10-14 11.03.28.jpeg",
-    "General Knowledge/02-Indian_Polity_Constitution/Ncert polity Vault/photo_2026-10-14 11.03.26.jpeg",
     "General Knowledge/01-Mizo/Dawnkawn/gk2-meta",
     "General Knowledge/01-Mizo/Dawnkawn/Gk1-claude/Extras",
     "General Knowledge/01-Mizo/Dawnkawn/Gk1-claude/Chapters",
     "General Knowledge/01-Mizo/Dawnkawn/Gk1-claude",
     "General Knowledge/01-Mizo/Dawnkawn",
     "General Knowledge/02-Indian_Polity_Constitution/Important Note/indian polity canvas/Fundamental Rights.canvas",
-    "maths brain/Screenshot 2026-07-02 at 12.50.50 AM.png",
     "maths brain/archieve",
-    "computer/Computer_Awareness_Vault",
     "Physical geography canvas.canvas",
     "General Knowledge/04-India_Geography/gk canvas/State and superlative canvas.canvas",
     "General Knowledge/04-India_Geography/gk canvas/River India canvas.canvas",
