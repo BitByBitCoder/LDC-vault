@@ -24,7 +24,7 @@
 | ------------------------- | --------- | -------- | --------- |
 | Prepositions              | 17        | 8.3%     | 🔴 High   |
 | Tenses                    | 16        | 7.8%     | 🔴 High   |
-| Parts of Speech           | 15        | 7.4%     | 🔴 High   |
+| Parts of Speech+          | 15        | 7.4%     | 🔴 High   |
 | Sentence Correction       | 14        | 6.9%     | 🔴 High   |
 | Active & Passive Voice    | 8         | 3.9%     | 🔴 High   |
 | Antonyms                  | 8         | 3.9%     | 🔴 High   |
