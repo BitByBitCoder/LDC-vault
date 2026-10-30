@@ -41,12 +41,14 @@
             "id": "2f2aadbb92057cad",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "General Knowledge/imp people.png"
+                "file": "English/eng sub/Essay Vault/00 - Essay INDEX.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "imp people"
+              "icon": "lucide-file",
+              "title": "00 - Essay INDEX"
             }
           }
         ],
@@ -222,15 +224,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fae9520d72428e28",
+  "active": "2f2aadbb92057cad",
   "lastOpenFiles": [
+    "General Knowledge/imp people.png",
     "General Knowledge/09 — National Symbols & Firsts.md",
     "General Knowledge/Roadmap.md",
     "General Knowledge/Screenshot 2026-07-02 at 1.29.09 PM.png",
     "General Knowledge/Untitled.md",
     "General Knowledge/Untitled.base",
     "English/📝 English — INDEX.md",
-    "General Knowledge/imp people.png",
     "English/12 — Essay & Comprehension Strategy.md",
     "English/Screenshot 2026-08-27 at 1.47.24 PM.png",
     "English/01 — Tenses.md",
@@ -253,7 +255,6 @@
     "English/05 — Articles (a an the).md",
     "English/02 — Prepositions.md",
     "English/tense/2. Present Continuous.md",
-    "English/tense/12. Future Perfect Continuous.md",
     "English/tense",
     "Computer_Knowledge/Computer-Storage-Vault",
     "Computer_Knowledge/Computer CPU.canvas",
