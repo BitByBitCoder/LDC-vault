@@ -201,17 +201,16 @@ https://www.youtube.com/watch?v=BFW6hQ2Y0dU
 
 ## Movement Prepositions
 
-| Preposition | Meaning                              | Example                   |
-| ----------- | ------------------------------------ | ------------------------- |
-| **across**  | \|\|From one side to the other\|\|   | a bridge across the river |
-| **through** | \|\|Inside from one end to other\|\| | through the tunnel        |
-| **into**    | \|\|Movement to inside\|\|           | walked into the room      |
-| **onto**    | \|\|Movement to surface\|\|          | jumped onto the bus       |
-| **towards** | \|\|In the direction of\|\|          | walked towards the door   |
-| **along**   | \|\|Following the length of\|\|      | walked along the river    |
-| **past**    | \|\|Going beyond a point\|\|         | walked past the school    |
-| **over**         | \|Movement above/across an obstacle\| | jumped over the fence                    |
+| Preposition      | Meaning                               | Example                                  |
 | ---------------- | ------------------------------------- | ---------------------------------------- |
+| **across**       | \|\|From one side to the other\|\|    | a bridge across the river                |
+| **through**      | \|\|Inside from one end to other\|\|  | through the tunnel                       |
+| **into**         | \|\|Movement to inside\|\|            | walked into the room                     |
+| **onto**         | \|\|Movement to surface\|\|           | jumped onto the bus                      |
+| **towards**      | \|\|In the direction of\|\|           | walked towards the door                  |
+| **along**        | \|\|Following the length of\|\|       | walked along the river                   |
+| **past**         | \|\|Going beyond a point\|\|          | walked past the school                   |
+| **over**         | \|Movement above/across an obstacle\| | jumped over the fence                    |
 | **under**        | \|Movement beneath something\|        | crawled under the table                  |
 | **out of**       | \|Movement from inside to outside\|   | ran out of the house                     |
 | **off**          | \|Movement away from a surface\|      | jumped off the wall                      |
