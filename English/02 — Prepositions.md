@@ -261,3 +261,5 @@ https://www.youtube.com/watch?v=BFW6hQ2Y0dU
 
 - **As** = in the role/function of something (He works **as** a manager)
 - **Like** = similar to, but not actually that thing (He works **like** a machine — meaning he resembles one, isn't one)
+  
+[[question pre]]
