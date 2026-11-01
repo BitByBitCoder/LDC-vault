@@ -110,20 +110,6 @@ Examples:
 
 ### C. WHO and WHOM Exception
 
-When WHO is the subject of an active sentence, it can become BY WHOM in passive voice.
-
-Example:
-
-- Active: Who wrote this letter?
-    
-- Passive: By whom was this letter written?
-    
-
-When WHOM is the object:
-
-- Active: Whom did he invite?
-    
-- Passive: Who was invited by him?
     
 
 ---
