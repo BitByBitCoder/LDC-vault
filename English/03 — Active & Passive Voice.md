@@ -64,6 +64,7 @@ Passive voice lives and dies on knowing which form of "be" matches which tense:
 | Is/Am/Are                  | Is/Am/Are<br><br>  <br>  <br><br>Depending on the subject |
 
 ## 3. Imperative Sentences
+An interrogative sentence asks a question and ends with a question mark (?).
 
 |Order|With Object|Without Object|
 |---|---|---|
@@ -75,7 +76,7 @@ Passive voice lives and dies on knowing which form of "be" matches which tense:
 |Negative (Active)|Do not touch the painting.|—|
 |Negative (Passive)|Let the painting not be touched.|—|
 
-Obsidian tip: Copy the table directly into your Obsidian note.
+
 ## Passive Formula by Tense
 
 | Tense              | Active                       | Passive                                   |
