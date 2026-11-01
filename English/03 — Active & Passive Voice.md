@@ -76,7 +76,71 @@ An interrogative sentence asks a question and ends with a question mark (?).
 |Negative (Active)|Do not touch the painting.|—|
 |Negative (Passive)|Let the painting not be touched.|—|
 
+### B. WH-Questions
 
+WH words include:
+
+|WH Word|Meaning|
+|---|---|
+|What|Thing|
+|Why|Reason|
+|When|Time|
+|Where|Place|
+|Who|Person|
+|Whom|Person (object)|
+|Which|Choice|
+|How|Manner|
+
+**Rule:** Keep the WH word at the beginning and change the remaining sentence into passive structure.
+
+Examples:
+
+- Active: Why did he punish you?
+    
+- Passive: Why were you punished by him?
+    
+- Active: When did he write the letter?
+    
+- Passive: When was the letter written by him?
+    
+- Active: What are you doing?
+    
+- Passive: What is being done by you?
+    
+
+### C. WHO and WHOM Exception
+
+When WHO is the subject of an active sentence, it can become BY WHOM in passive voice.
+
+Example:
+
+- Active: Who wrote this letter?
+    
+- Passive: By whom was this letter written?
+    
+
+When WHOM is the object:
+
+- Active: Whom did he invite?
+    
+- Passive: Who was invited by him?
+    
+
+---
+
+## 6. Imperative Sentences (Orders, Requests and Advice)
+
+Imperative sentences express:
+
+- Order
+    
+- Request
+    
+- Advice
+    
+- Command
+    
+- Instruction
 ## Passive Formula by Tense
 
 | Tense              | Active                       | Passive                                   |
