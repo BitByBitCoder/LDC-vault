@@ -62,6 +62,20 @@ Passive voice lives and dies on knowing which form of "be" matches which tense:
 | Had                        | Had                                                       |
 | Modal Verb                 | Modal Verb                                                |
 | Is/Am/Are                  | Is/Am/Are<br><br>  <br>  <br><br>Depending on the subject |
+
+## 3. Imperative Sentences
+
+|Order|With Object|Without Object|
+|---|---|---|
+|Active|V1 + Object|V1|
+|Passive - 1|Let + Object + be + V3|You are ordered to + V1|
+|Passive - 2|You are ordered to + V1|—|
+|Example (Active)|Close the door.|Stop talking.|
+|Example (Passive)|Let the door be closed.|You are ordered to stop talking.|
+|Negative (Active)|Do not touch the painting.|—|
+|Negative (Passive)|Let the painting not be touched.|—|
+
+Obsidian tip: Copy the table directly into your Obsidian note.
 ## Passive Formula by Tense
 
 | Tense              | Active                       | Passive                                   |
