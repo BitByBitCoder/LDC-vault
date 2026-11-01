@@ -52,7 +52,7 @@ Passive voice lives and dies on knowing which form of "be" matches which tense:
 | Past Continuous       | Was / were + being    |
 | Present Perfect Tense | Been                  |
 | Modal                 | Modal + be            |
-**2 Interrogative Sentences table
+## Interrogative Sentences table
 
 | **Active (Question Word)** | **Passive (Question Word)**                               |
 | -------------------------- | --------------------------------------------------------- |
