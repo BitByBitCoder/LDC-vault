@@ -62,7 +62,7 @@ Passive voice lives and dies on knowing which form of "be" matches which tense:
 | Had                        | Had                                                       |
 | Modal Verb                 | Modal Verb                                                |
 | Is/Am/Are                  | Is/Am/Are<br><br>  <br>  <br><br>Depending on the subject |
-Passive Formula by Tense
+## Passive Formula by Tense
 
 | Tense              | Active                       | Passive                                   |
 | ------------------ | ---------------------------- | ----------------------------------------- |
