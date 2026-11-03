@@ -126,6 +126,43 @@ https://www.youtube.com/watch?v=BFW6hQ2Y0dU
 > Arrive **in** city / arrive **at** station — different for size of place
 > Confident **of** NOT confident **about** (in formal/exam English)
 
+
+
+## Extra
+### What to Add (The "Exam Favorites" Extension):
+
+1. **More Fixed Adjective/Noun Pairs:**
+    
+    - **Senior / Junior + to** (e.g., _I am senior **to** him_)
+        
+    - **Preferable + to** (e.g., _Death is preferable **to** dishonor_)
+        
+    - **Averse + to** (e.g., _He is averse **to** hard work_)
+        
+    - **Blind + to / Blind + of** (_Blind to_ faults vs. _blind of_ an eye)
+        
+    - **Zeal + for** / **Taste + for**
+        
+2. **More Critical Verb Pairs:**
+    
+    - **Accuse + of** (e.g., _Accused **of** theft_)
+        
+    - **Congratulate + on** (e.g., _Congratulated him **on** his success_)
+        
+    - **Prevent / Prohibit + from** (e.g., _Prevented him **from** going_)
+        
+    - **Provide + with** (e.g., _Provided him **with** food_)
+        
+    - **Succeed + in** (e.g., _Succeeded **in** the exam_)
+        
+3. **A Few More Essential Phrasal Verbs (with "Put" and "Look"):**
+    
+    - **Put up with** = To tolerate (_I can't put up with this noise_)
+        
+    - **Put off** = To postpone (_The meeting was put off_)
+        
+    - **Look down upon** = To treat with contempt / disrespect
+
 |Preposition|Use|Example|
 |---|---|---|
 |**Without**|\|Absence of something\||He left without water|
@@ -150,7 +187,7 @@ https://www.youtube.com/watch?v=BFW6hQ2Y0dU
 
 
 
-# Prepositions — Full Concept (LDC English Vault)
+
 [[categorize preposition]]
 
 | Preposition               | Use                                                            | Example                                                            |
