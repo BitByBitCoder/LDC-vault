@@ -43,17 +43,24 @@ INDIRECT: He said that he was happy.
 
 ## Changes in Time & Place Words
 
-| Direct    | Indirect                          |
-| --------- | --------------------------------- |
-| now       | then                              |
-| today     | that day                          |
-| yesterday | the day before / the previous day |
-| tomorrow  | the next day / the following day  |
-| here      | there                             |
-| this      | that                              |
-| these     | those                             |
-| ago       | before                            |
-| last week | the previous week                 |
+| Direct           | Indirect                          |
+| ---------------- | --------------------------------- |
+| now              | then                              |
+| today            | that day                          |
+| yesterday        | the day before / the previous day |
+| tomorrow         | the next day / the following day  |
+| here             | there                             |
+| this             | that                              |
+| these            | those                             |
+| ago              | before                            |
+| last week        | the previous week                 |
+| **Tonight**      | **That night**                    |
+| **Next month**   | **The following month**           |
+| **Last month**   | **The previous month**            |
+| **Two days ago** | **Two days before**               |
+| **Six days ago** | **Six days prior**                |
+
+
 1605 ad specific point past generally remain the same
 
 
