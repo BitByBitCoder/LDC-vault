@@ -43,19 +43,19 @@ INDIRECT: He said that he was happy.
 
 ## Changes in Time & Place Words
 
-| Direct | Indirect |
-|--------|---------|
-| now | then |
-| today | that day |
+| Direct    | Indirect                          |
+| --------- | --------------------------------- |
+| now       | then                              |
+| today     | that day                          |
 | yesterday | the day before / the previous day |
-| tomorrow | the next day / the following day |
-| here | there |
-| this | that |
-| these | those |
-| ago | before |
-| last week | the previous week |
-1605 ad specific point past generally remain same
----
+| tomorrow  | the next day / the following day  |
+| here      | there                             |
+| this      | that                              |
+| these     | those                             |
+| ago       | before                            |
+| last week | the previous week                 |
+1605 ad specific point past generally remain the same
+
 
 ## Types of Indirect Speech
 
