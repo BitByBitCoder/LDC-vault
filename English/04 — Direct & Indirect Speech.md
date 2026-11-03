@@ -113,3 +113,31 @@ If the reported speech contains:
 > "Will" → **would**; "Can" → **could**; "May" → **might** in indirect
 > Commands → **to + V1** (positive) / **not to + V1** (negative)
 > Universal truths → tense does NOT backshift
+
+
+## Extra
+#### **1. Modal Verbs that DO NOT Change**
+
+- _Could, would, should, might, ought to_ **do not change** when converting to indirect speech.
+    
+- _Example:_
+    
+    - Direct: He said, "I could swim."
+        
+    - Indirect: He said that he **could** swim.
+        
+
+#### **2. Reporting Verb in Present or Future Tense**
+
+- If the reporting verb is in the present tense (_says_) or future tense (_will say_), **the tense inside does not backshift at all**.
+    
+- _Example:_
+    
+    - Direct: She **says**, "I am tired."
+        
+    - Indirect: She **says** that she **is** tired. _(Tense stays present!)_
+        
+
+#### **3. Universal/Habitual Fact Exception Clarification**
+
+- Your note mentions this, but remember the rule of thumb: If it's a timeless scientific fact (_"The sun rises in the east"_), the tense **never** changes. For habitual facts, exams sometimes accept both, but keeping the present tense is standard grammatically.
