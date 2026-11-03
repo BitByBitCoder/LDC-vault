@@ -54,7 +54,7 @@ INDIRECT: He said that he was happy.
 | these | those |
 | ago | before |
 | last week | the previous week |
-
+1605 ad specific point past generally remain same
 ---
 
 ## Types of Indirect Speech
