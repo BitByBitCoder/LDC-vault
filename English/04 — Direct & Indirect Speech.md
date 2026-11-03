@@ -28,16 +28,16 @@ INDIRECT: He said that he was happy.
 
 ## Tense Backshift Table
 
-| Direct (inside quotes) | Indirect |
-|-----------------------|---------|
-| Simple Present (am/is/are) | Simple Past (was/were) |
+| Direct (inside quotes)        | Indirect                    |
+| ----------------------------- | --------------------------- |
+| Simple Present (am/is/are)    | Simple Past (was/were)      |
 | Present Continuous (is going) | Past Continuous (was going) |
-| Present Perfect (has gone) | Past Perfect (had gone) |
-| Simple Past (went) | Past Perfect (had gone) |
-| Will | Would |
-| Can | Could |
-| May | Might |
-| Must | Had to |
+| Present Perfect (has gone)    | Past Perfect (had gone)     |
+| Simple Past (went)            | Past Perfect (had gone)     |
+| Will                          | Would                       |
+| Can                           | Could                       |
+| May                           | Might                       |
+| Must                          | Had to                      |
 
 ---
 
