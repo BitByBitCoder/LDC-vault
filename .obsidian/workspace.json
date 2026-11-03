@@ -57,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/02 — Prepositions.md",
+                "file": "preposition preparation question.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 — Prepositions"
+              "title": "preposition preparation question"
             }
           }
         ],
@@ -240,8 +240,9 @@
   },
   "active": "a0232c762afd387a",
   "lastOpenFiles": [
-    "English/eng sub/categorize preposition.md",
     "English/02 — Prepositions.md",
+    "preposition preparation question.md",
+    "English/eng sub/categorize preposition.md",
     "English/01 — Tenses.md",
     "English/📝 English — INDEX.md",
     "14 - Network Topologies.md",
@@ -266,7 +267,6 @@
     "Computer_Knowledge/Computer Questions Vault 3/04 DOS & Windows OS.md",
     "Computer_Knowledge/Computer Questions Vault 3/02 CPU, Registers & Buses.md",
     "Computer_Knowledge/Computer Questions Vault 3",
-    "computer/Computer Questions Vault 2/02 CPU, Registers & Buses.md",
     "computer/Computer Questions Vault 2",
     "computer/Computer Questions Vault 2/Computer Questions Vault",
     "computer/old question/LDC_Computer_Vault/Computer Questions Vault",

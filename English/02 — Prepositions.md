@@ -126,6 +126,7 @@ https://www.youtube.com/watch?v=BFW6hQ2Y0dU
 > Arrive **in** city / arrive **at** station — different for size of place
 > Confident **of** NOT confident **about** (in formal/exam English)
 
+[[preposition preparation question]]
 
 
 ## Extra
