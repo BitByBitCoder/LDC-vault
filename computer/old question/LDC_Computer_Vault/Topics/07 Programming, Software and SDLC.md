@@ -4,9 +4,9 @@ aliases: ['Programming, Software and SDLC']
 ---
 # Programming, Software and SDLC
 
-*Software types, languages, OOP, SDLC, C basics* · 19 questions · [[Home]]
+*Software types, languages, OOP, SDLC, C basics* · 19 questions · [[../Home]]
 
-**Study notes:** [[SDLC]]
+**Study notes:** [[../../../SDLC]]
 
 `⚠` = answer is my best guess, please verify. `🔁` = repeat of an earlier question.
 

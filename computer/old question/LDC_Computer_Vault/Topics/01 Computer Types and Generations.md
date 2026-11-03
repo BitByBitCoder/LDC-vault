@@ -4,9 +4,9 @@ aliases: ['Computer Types and Generations']
 ---
 # Computer Types and Generations
 
-*Analog, digital, hybrid, generations, super computers, history* · 14 questions · [[Home]]
+*Analog, digital, hybrid, generations, super computers, history* · 14 questions · [[../Home]]
 
-**Study notes:** [[Analog_Digital_Hybrid_Computers]]
+**Study notes:** [[../Study Notes/Analog_Digital_Hybrid_Computers]]
 
 `⚠` = answer is my best guess, please verify. `🔁` = repeat of an earlier question.
 

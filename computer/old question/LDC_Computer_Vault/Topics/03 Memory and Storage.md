@@ -4,9 +4,9 @@ aliases: ['Memory and Storage']
 ---
 # Memory and Storage
 
-*RAM, ROM, cache, disks, optical, flash* · 20 questions · [[Home]]
+*RAM, ROM, cache, disks, optical, flash* · 20 questions · [[../Home]]
 
-**Study notes:** [[Cache_Memory]], [[Cache_Mapping_Calculations]], [[DRAM_vs_SRAM]]
+**Study notes:** [[../Study Notes/Cache_Memory]], [[../Study Notes/Cache_Mapping_Calculations]], [[../Study Notes/DRAM_vs_SRAM]]
 
 `⚠` = answer is my best guess, please verify. `🔁` = repeat of an earlier question.
 

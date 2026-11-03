@@ -4,9 +4,9 @@ aliases: ['Multimedia and Graphics']
 ---
 # Multimedia and Graphics
 
-*Audio, images, pixels, morphing, speech* · 6 questions · [[Home]]
+*Audio, images, pixels, morphing, speech* · 6 questions · [[../Home]]
 
-**Study notes:** [[Digital_Audio_and_Multimedia]]
+**Study notes:** [[../Study Notes/Digital_Audio_and_Multimedia]]
 
 `⚠` = answer is my best guess, please verify. `🔁` = repeat of an earlier question.
 

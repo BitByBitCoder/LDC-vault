@@ -4,9 +4,9 @@ aliases: ['Networking and Internet']
 ---
 # Networking and Internet
 
-*Network types, media, protocols, web, email* · 40 questions · [[Home]]
+*Network types, media, protocols, web, email* · 40 questions · [[../Home]]
 
-**Study notes:** [[Acronyms_Extended]]
+**Study notes:** [[../Study Notes/Acronyms_Extended]]
 
 `⚠` = answer is my best guess, please verify. `🔁` = repeat of an earlier question.
 

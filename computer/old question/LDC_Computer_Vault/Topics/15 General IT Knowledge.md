@@ -4,9 +4,9 @@ aliases: ['General IT Knowledge']
 ---
 # General IT Knowledge
 
-*Inventors, companies, firsts, abbreviations* · 9 questions · [[Home]]
+*Inventors, companies, firsts, abbreviations* · 9 questions · [[../Home]]
 
-**Study notes:** [[Acronyms_Extended]]
+**Study notes:** [[../Study Notes/Acronyms_Extended]]
 
 `⚠` = answer is my best guess, please verify. `🔁` = repeat of an earlier question.
 

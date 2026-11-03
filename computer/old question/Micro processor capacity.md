@@ -98,4 +98,4 @@
 
 "Maximum addressing capacity" → look only at the **address bits**. Ignore the data bus. 32 bits → **4 GB**; 16 bits → 64 KB; 20 bits → 1 MB.
 
-Related: [[System_Buses]], [[Memory_Addressing_and_Hex]]
+Related: [[LDC_Computer_Vault/Study Notes/System_Buses]], [[LDC_Computer_Vault/Study Notes/Memory_Addressing_and_Hex]]

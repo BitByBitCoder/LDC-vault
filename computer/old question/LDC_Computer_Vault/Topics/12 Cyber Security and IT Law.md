@@ -4,7 +4,7 @@ aliases: ['Cyber Security and IT Law']
 ---
 # Cyber Security and IT Law
 
-*Viruses, phishing, IT Act, biometrics, IPR* · 7 questions · [[Home]]
+*Viruses, phishing, IT Act, biometrics, IPR* · 7 questions · [[../Home]]
 
 `⚠` = answer is my best guess, please verify. `🔁` = repeat of an earlier question.
 

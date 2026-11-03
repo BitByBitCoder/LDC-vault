@@ -4,7 +4,7 @@ aliases: ['DOS and Operating Systems']
 ---
 # DOS and Operating Systems
 
-*DOS commands, Windows, boot, file systems, shortcuts* · 31 questions · [[Home]]
+*DOS commands, Windows, boot, file systems, shortcuts* · 31 questions · [[../Home]]
 
 `⚠` = answer is my best guess, please verify. `🔁` = repeat of an earlier question.
 

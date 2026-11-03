@@ -4,7 +4,7 @@ aliases: ['Emerging Technology']
 ---
 # Emerging Technology
 
-*VR, cloud* · 2 questions · [[Home]]
+*VR, cloud* · 2 questions · [[../Home]]
 
 `⚠` = answer is my best guess, please verify. `🔁` = repeat of an earlier question.
 
