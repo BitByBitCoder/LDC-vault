@@ -41,14 +41,17 @@
             "id": "2f2aadbb92057cad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Computer_Knowledge/11 - Aronym - full form.md",
-                "mode": "source",
-                "source": false
+                "file": "Computer_Knowledge/Computer CPU.canvas",
+                "viewState": {
+                  "x": 570.1654320312084,
+                  "y": 740.386541693927,
+                  "zoom": -1.4201084738264425
+                }
               },
-              "icon": "lucide-file",
-              "title": "11 - Aronym - full form"
+              "icon": "lucide-layout-dashboard",
+              "title": "Computer CPU"
             }
           }
         ],
@@ -226,8 +229,9 @@
   },
   "active": "2f2aadbb92057cad",
   "lastOpenFiles": [
-    "Computer_Knowledge/Computer-Storage-Vault/00 Storage Index.md",
     "Computer_Knowledge/11 - Aronym - full form.md",
+    "Computer_Knowledge/Computer CPU.canvas",
+    "Computer_Knowledge/Computer-Storage-Vault/00 Storage Index.md",
     "English/03 — Active & Passive Voice.md",
     "English/02 — Prepositions.md",
     "English/01 — Tenses.md",
@@ -253,12 +257,10 @@
     "General Knowledge/09 — National Symbols & Firsts.md",
     "General Knowledge/Roadmap.md",
     "General Knowledge/Screenshot 2026-07-02 at 1.29.09 PM.png",
-    "General Knowledge/Untitled.md",
     "General Knowledge/Untitled.base",
     "English/Screenshot 2026-08-27 at 1.47.24 PM.png",
     "English/tense",
     "Computer_Knowledge/Computer-Storage-Vault",
-    "Computer_Knowledge/Computer CPU.canvas",
     "Computer_Knowledge/02 — MS Word.html",
     "General Knowledge/02-Indian_Polity_Constitution/Ncert polity Vault/ncert canvas.canvas",
     "General Knowledge/02-Indian_Polity_Constitution/Ncert polity Vault/photo_2026-10-14 11.03.35.jpeg",
