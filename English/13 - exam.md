@@ -39,3 +39,41 @@ Don't study advance tense. If you master:
 You will cover 95% of the tense questions in your PDF.
 
 You can skip advanced books.
+
+## Preposition
+Same as tense — **preposition is also SIMPLE to MEDIUM only** in your whole 169 pages PDF. No advance level.
+
+I checked all preposition questions:
+
+### 1. SIMPLE LEVEL - 80% Questions - Just in / on / at / to / for / into
+
+> There was a bridge **across** the river
+> I live **in** Champhai
+> Mawii goes **on** Sunday to Church
+> She is leaving **for** the US
+> He arrived **in** February
+> Pour the milk **into** the cup
+> I am superior **to** him
+> Mumbai is famous **for** its textiles
+
+This is class 8-10 level only.
+
+### 2. MEDIUM LEVEL - 20% Questions - Verb + Preposition combo
+
+> The public are cautioned **against** pickpockets
+> You must settle it **among** yourselves
+> We have been acquainted **with** each other
+> The committee agreed **to** the proposal
+> Detrimental **to** progress
+> Inimical **to** progress
+> Ward **off** evils
+
+This is the max hard level they ask — fixed prepositions after adjective/verb.
+
+**What they DON'T ask:**
+No advanced phrasal prepositions like *notwithstanding, in lieu of, apropos, vis-a-vis* — nothing.
+
+**For you:**
+If you learn **30 fixed prepositions** — *famous for, superior to, acquainted with, agree to/with, detrimental to, caution against, pour into, leave for, arrive in* — you will cover 100% of your PDF.
+
+Both Tense + Preposition = Simple level only. You don't need to go advance.
