@@ -128,3 +128,47 @@ If you practice only:
 `is being / was being / will be / will have been / let + be + V3`
 
 You will cover 95% voice questions from your whole 169-page PDF.
+
+## Direct Indirect Speech
+For **Direct-Indirect (Narration)** — same as other 3, **SIMPLE + MEDIUM only**. No advance.
+
+Here is what comes in your full 169 pages:
+
+### 80% = SIMPLE LEVEL
+
+> Rami said, 'Most people have breakfast daily' → **Rami said that** most people have breakfast daily
+> He said, "The Earth **appears** round" → He said that the Earth **appears** round (universal truth = no tense change)
+> He said to us, "You are all fools" → He **told** us that we **were** all fools
+> They said that train was late → They said, "**The train was late**"
+
+Just `said to → told`, `that` adding, simple past change.
+
+### 20% = MEDIUM LEVEL
+
+> The traveller said, "I **shall leave tomorrow**" → He **would leave the next day** (shall→would, tomorrow→next day)
+> "Are you same person I met yesterday?" I asked → I asked the stranger **if he was** same person I **had met** the previous day (yes/no → if, past → had met)
+> "I have been working for months" → She said she **had been working** for months
+> He asked if I liked coffee → "**Do you like coffee?**" he asked
+> He said, "Good-Bye friends" → He **bade** his friends goodbye
+> Old lady said, "Thief! Thief! Catch him" → Old lady **shouted for the thief to be caught**
+
+This is the max hard level — tomorrow/next day, yesterday/previous day, bade, shouted.
+
+**What they DON'T ask:**
+No advanced like:
+- Let’s → proposed/suggested
+- Complex exclamatory with what a / how
+- Mixed imperative + interrogative in one sentence
+
+**If you learn 5 rules, you cover 100% of your PDF:**
+
+1.  Universal truth = no change (Earth appears)
+2.  Habitual truth = no change (have breakfast daily)
+3.  said to → told, tomorrow→next day, yesterday→previous day
+4.  Yes/No question → if/whether
+5.  Goodbye → bade, Thief! → shouted
+
+So for all 4 topics you asked:
+**Tense = Simple, Preposition = Simple, Voice = Simple-Medium, Narration = Simple-Medium**
+
+You don't need advance books at all.
