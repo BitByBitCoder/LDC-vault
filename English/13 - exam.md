@@ -1,3 +1,4 @@
+## Tense
 No need to go advance. In your **all_combine PDF - 169 pages**, tense level is **ONLY Simple + Medium**.
 
 Here is the real breakdown from all papers:
@@ -77,3 +78,53 @@ No advanced phrasal prepositions like *notwithstanding, in lieu of, apropos, vis
 If you learn **30 fixed prepositions** — *famous for, superior to, acquainted with, agree to/with, detrimental to, caution against, pour into, leave for, arrive in* — you will cover 100% of your PDF.
 
 Both Tense + Preposition = Simple level only. You don't need to go advance.
+
+
+
+## Active Passive
+For **Active-Passive Voice**, level is also **Simple + Medium only** — same as tense and preposition in your PDF. No advance.
+
+Here is what actually comes:
+
+### 60% = SIMPLE LEVEL
+
+> They **are painting** the house → The house **is being painted** by them
+> The teacher will teach a new lesson → A new lesson **will be taught** by the teacher
+> Call him in → **Let him be called** in
+> My dress **was being stitched** by the tailor → The tailor **was stitching** my dress
+> You ___ if you disobey → **will be punished**
+
+Just is/am/are + being + V3, will be + V3.
+
+### 35% = MEDIUM LEVEL
+
+> The firemen **rescued** the old woman → The old woman **was rescued**
+> The book **had been read** by the time bell rang
+> The doctor will have operated → The patient **will have been operated on**
+> While I was playing, my mobile was stolen → **Somebody stole** my mobile
+> Are the poor not being helped by rich? → **Are the rich not helping** the poor?
+
+Past perfect passive and will have been — still LDC standard.
+
+### Only 5% = Slight Tricky - LDC style
+
+> Sugar sells by the kilogram → Sugar **is sold** by the kilogram
+> He is not liked by anyone → **None likes** him
+> What are you thinking of? → What **is being thought** of by you?
+> It surprised me → I **was surprised at** it
+> I remember them taking me to zoo → I remember **being taken** to zoo
+
+These are quasi-passive / gerund passive — this is the max hard they ask.
+
+**So total 3 topics you asked:**
+
+- **Tense = 70% simple, 30% medium**
+- **Preposition = 80% simple, 20% medium** 
+- **Voice = 60% simple, 35% medium, 5% tricky**
+
+**You DON'T need advance English.**
+
+If you practice only:
+`is being / was being / will be / will have been / let + be + V3`
+
+You will cover 95% voice questions from your whole 169-page PDF.
