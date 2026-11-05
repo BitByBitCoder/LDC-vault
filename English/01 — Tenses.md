@@ -49,6 +49,16 @@
 > Q: I _____ my homework already. a) finish b) finished c) have finished d) am finishing **Identify:** "already" + no specific time stated → connects past to present → **have finished
 > 
 > The **Present Perfect Tense** connects an action from the past to the present moment. It bridges what happened earlier with why it matters right now.**
+> 
+> - **Already, yet, just, recently, lately**
+    
+- **Ever, never**
+    
+- **Since** (for a starting point: _since 2020_)
+    
+- **For** (for a duration: _for three years_)
+    
+- **So far, up to now**
 
 ---
 
