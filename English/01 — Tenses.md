@@ -44,7 +44,7 @@
 
 ---
 
-**[[tense/5. Present Perfect]]** — past action with a result/relevance NOW; no exact time given Signal words: _already, yet, just, ever, never, since,before,this year, for. _ Structure: has/have + past participle
+**[[tense/5. Present Perfect]]** — past action with a result/relevance NOW; no exact time given Signal words: _already, yet, just, ever, never, since,before, this year, for. _ Structure: has/have + past participle
 
 > Q: I _____ my homework already. a) finish b) finished c) have finished d) am finishing **Identify:** "already" + no specific time stated → connects past to present → **have finished
 > 
