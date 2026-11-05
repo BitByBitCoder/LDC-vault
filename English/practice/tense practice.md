@@ -154,5 +154,95 @@ Here are 50 mixed tense questions (all 12 tenses, randomized order) — answer k
 48. c) will have been driving
 49. b) saw
 50. c) will have been learning
+# Past Continuous Tense – LDC Practice
 
-Want a scored version where you attempt it first and I check your answers, or should we move to a topic you haven't covered yet — like Conditionals or Subjunctive mood, which the LDC papers also test?
+20 questions divided into three categories: Positive, Negative and Interrogative.
+
+Basic rule:
+
+- Positive: Subject + was/were + V-ing
+    
+- Negative: Subject + was/were + not + V-ing
+    
+- Interrogative: Was/Were + subject + V-ing?
+    
+
+## Part 1: Positive Sentences
+
+Choose the correct answer.
+
+1. She _____ cooking when I arrived.  
+(a) was  (b) were  (c) is  (d) are
+
+2. They _____ playing football yesterday evening.  
+(a) was  (b) were  (c) is  (d) am
+
+3. I _____ studying at 8 PM last night.  
+(a) were  (b) am  (c) was  (d) are
+
+4. He _____ sleeping when the phone rang.  
+(a) were  (b) was  (c) is  (d) be
+
+5. We _____ watching television yesterday evening.  
+(a) was  (b) is  (c) were  (d) am
+
+6. The children _____ making noise in the classroom.  
+(a) was  (b) were  (c) is  (d) has
+
+7. My mother _____ preparing dinner.  
+(a) were  (b) are  (c) was  (d) have
+
+## Part 2: Negative Sentences
+
+8. She _____ not listening to the teacher.  
+(a) were  (b) was  (c) are  (d) have
+
+9. They were not _____ cricket.  
+(a) played  (b) plays  (c) playing  (d) play
+
+10. He was not _____ when I called him.  
+(a) sleep  (b) slept  (c) sleeping  (d) sleeps
+
+11. I _____ not working yesterday evening.  
+(a) were  (b) was  (c) are  (d) be
+
+12. We were not _____ TV at that time.  
+(a) watched  (b) watch  (c) watching  (d) watches
+
+13. The baby was not _____.  
+(a) cried  (b) cry  (c) crying  (d) cries
+
+14. You _____ not paying attention.  
+(a) was  (b) were  (c) is  (d) am
+
+## Part 3: Interrogative Sentences
+
+15. _____ she studying when you arrived?  
+(a) Were  (b) Was  (c) Is  (d) Did
+
+16. _____ they playing football?  
+(a) Was  (b) Is  (c) Were  (d) Did
+
+17. Was he _____ a book?  
+(a) read  (b) reads  (c) reading  (d) readed
+
+18. _____ you sleeping when I called?  
+(a) Was  (b) Were  (c) Did  (d) Are
+
+19. What _____ she doing yesterday evening?  
+(a) were  (b) did  (c) was  (d) is
+
+20. Were they _____ dinner when you arrived?  
+(a) ate  (b) eat  (c) eating  (d) eats
+
+## Answer Key
+
+Positive:
+
+1. (a) was  2. (b) were  3. (c) was  4. (b) was  5. (c) were  6. (b) were  7. (c) was
+
+Negative:  
+8. (b) was  9. (c) playing  10. (c) sleeping  11. (b) was  12. (c) watching  13. (c) crying  14. (b) were
+
+Interrogative:  
+15. (b) Was  16. (c) Were  17. (c) reading  18. (b) Were  19. (c) was  20. (c) eating
