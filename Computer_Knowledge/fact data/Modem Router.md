@@ -38,3 +38,15 @@ As fiber-to-the-home (FTTH) infrastructure becomes the global standard, traditio
 | **Security**      | Minimal                        | High (Firewall, NAT)                  |
 
 In essence, the **modem** acts as the gateway to the internet, while the **router** acts as the traffic controller that distributes that connectivity throughout your home.
+
+Modems are typically categorized by the type of technology they use to connect to your Internet Service Provider (ISP). Two of the most common types are:
+
+*   **Cable Modems:** These connect to your ISP using coaxial cables, the same type of wiring often used for cable television. They are widely used for high-speed home internet.
+*   **DSL (Digital Subscriber Line) Modems:** These connect to the internet through your existing copper telephone lines. While generally slower than cable, they are a common option where cable or fiber infrastructure may not be available.
+
+Other variations exist, such as **Fiber Optic modems** (which use light signals for high-speed connectivity) and **Satellite modems** (used in remote areas where wired connections aren't possible).
+
+It is important to note the difference between a modem and a router:
+
+*   The **modem** acts as the "translator," bringing the internet signal from your provider into your home and converting it into a format your devices can understand.
+*   The **router** then takes that signal and "routes" it, creating a local network so that multiple devices (like phones, laptops, and tablets) can share that single internet connection wirelessly or via Ethernet cables.
