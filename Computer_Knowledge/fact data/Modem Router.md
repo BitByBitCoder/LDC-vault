@@ -26,3 +26,15 @@ As fiber-to-the-home (FTTH) infrastructure becomes the global standard, traditio
       
     
 - **The Modern Stack:** Fiber line $\rightarrow$ **ONT** (Light-to-Electric conversion) $\rightarrow$ **Ethernet Cable** $\rightarrow$ **Wi-Fi Router** (Broadcasts local network).
+  
+  Here is a comparison table formatted for *Obsidian* (Markdown) that summarizes the differences between a **modem** and a **router** based on the concepts discussed in the video:
+
+| Feature           | Modem                          | Router                                |
+| :---------------- | :----------------------------- | :------------------------------------ |
+| **Primary Role**  | Connects your home to the ISP  | Creates and manages your home network |
+| **Input Source**  | ISP signal (Cable, Fiber, DSL) | Data from the modem                   |
+| **Output**        | Digital signal for the router  | Wi-Fi/Ethernet for local devices      |
+| **Main Function** | Translates signals             | Routes traffic & assigns IP addresses |
+| **Security**      | Minimal                        | High (Firewall, NAT)                  |
+
+In essence, the **modem** acts as the gateway to the internet, while the **router** acts as the traffic controller that distributes that connectivity throughout your home.
