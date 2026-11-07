@@ -3,8 +3,6 @@ tags:
 ---
 
 
-Priority: 🔴 asked very often · 🟡 asked fairly often
-
 | Year     | Invention                   | Inventor                          | Remember this                                                                                       |
 | -------- | --------------------------- | --------------------------------- | --------------------------------------------------------------------------------------------------- |
 | 2400 BCE | Abacus                      | Tim Cranmer                       | First calculating device                                                                            |
