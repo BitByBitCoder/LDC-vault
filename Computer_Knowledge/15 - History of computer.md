@@ -8,7 +8,7 @@ Priority: 🔴 asked very often · 🟡 asked fairly often
 
 |     | Year        | Invention                   | Inventor                          | Remember this                                                                                       |
 | --- | ----------- | --------------------------- | --------------------------------- | --------------------------------------------------------------------------------------------------- |
-| 🔴  | c. 2400 BCE | Abacus                      | Babylon (see check below)         | First calculating device                                                                            |
+| 🔴  | c. 2400 BCE | Abacus                      | Tim Cranmer                       | First calculating device                                                                            |
 | 🟡  | 1617        | Napier's Bones              | John Napier                       | Multiplication and division; first device to use the decimal point                                  |
 | 🔴  | 1642        | Pascaline                   | Blaise Pascal                     | Mechanical calculator; adds and subtracts using gears; "adding machine"                             |
 | 🔴  | 1673        | Leibniz's Calculator        | Gottfried Wilhelm Leibniz         | Also multiplies and divides; "Stepped Reckoner"                                                     |
