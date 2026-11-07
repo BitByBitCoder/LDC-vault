@@ -1,0 +1,75 @@
+---
+tags: [computer-firsts, timeline]
+---
+# 16 Timeline
+
+Back to [[00 Index]]
+
+- **c. 2400 BC** - Abacus (Mesopotamia)
+- **c. 100 BC** - Antikythera mechanism (oldest known analog computer)
+- **1614-17** - Logarithms and Napier's Bones (John Napier)
+- **1622** - Slide rule (William Oughtred)
+- **1642** - Pascaline (Blaise Pascal)
+- **1673** - Stepped Reckoner (Leibniz)
+- **1801** - Jacquard loom - punched cards
+- **1822** - Difference Engine (Babbage)
+- **1837** - Analytical Engine designed (Babbage)
+- **1843** - Ada Lovelace's algorithm - first program
+- **1854** - Boolean algebra (George Boole)
+- **1890** - Hollerith tabulator used in the US census
+- **1936** - Turing machine (Alan Turing)
+- **1937-42** - Atanasoff-Berry Computer - first electronic digital computer
+- **1941** - Zuse Z3 - first programmable fully automatic digital computer
+- **1943-44** - Colossus - first programmable electronic computer
+- **1944** - Harvard Mark I - electromechanical computer
+- **1945** - von Neumann's EDVAC report - stored-program concept
+- **1945-46** - ENIAC - first general-purpose electronic computer
+- **1947** - Transistor invented (Bell Labs); first 'bug' (Grace Hopper)
+- **1948** - Manchester Baby runs the first stored program (21 June)
+- **1949** - EDSAC - first practical stored-program computer
+- **1950** - Turing Test
+- **1951** - UNIVAC I, LEO I, Ferranti Mark 1, Whirlwind
+- **1952** - A-0 compiler (Grace Hopper); IBM 701
+- **1956** - IBM RAMAC hard disk; Dartmouth conference coins AI; GM-NAA I/O
+- **1957** - FORTRAN
+- **1958** - Integrated circuit (Kilby); LISP
+- **1959** - COBOL; Noyce's planar IC
+- **1964** - IBM System/360, CDC 6600, BASIC, Engelbart's mouse
+- **1965** - Moore's Law; PDP-8
+- **1966** - ELIZA chatbot
+- **1969** - ARPANET first message; Unix
+- **1970** - Pascal; relational model (Codd)
+- **1971** - Intel 4004 microprocessor; floppy disk; email (@); Kenbak-1; Creeper
+- **1972** - C language; Pong
+- **1973** - First mobile call; Ethernet; Xerox Alto
+- **1974** - CP/M; TCP/IP paper (Cerf and Kahn)
+- **1975** - Altair 8800; Microsoft founded
+- **1976** - Apple founded; Cray-1
+- **1979** - VisiCalc
+- **1981** - IBM PC; MS-DOS; Osborne 1
+- **1982** - CD launched; Elk Cloner
+- **1983** - ARPANET switches to TCP/IP (1 Jan); Apple Lisa; C++ named
+- **1984** - Apple Macintosh
+- **1985** - Windows 1.0; first .com domain
+- **1986** - Brain virus; ERNET (India)
+- **1988** - Morris worm; C-DAC (India)
+- **1989** - WWW proposal (Berners-Lee)
+- **1990** - Archie search engine; first browser
+- **1991** - Linux; Python; first website public; PARAM 8000
+- **1992** - First SMS
+- **1993** - Mosaic browser; PDF; WWW public domain
+- **1994** - Yahoo; Netscape; Bluetooth
+- **1995** - Java; JavaScript; Internet Explorer; VSNL Internet in India; first mobile call in India
+- **1996** - Hotmail; USB 1.0
+- **1997** - Deep Blue beats Kasparov; SixDegrees
+- **1998** - Google
+- **2000** - IT Act, 2000 (India)
+- **2001** - Wikipedia; Windows XP
+- **2004** - Facebook; Gmail; Orkut; Firefox
+- **2005** - YouTube
+- **2006** - Twitter
+- **2007** - iPhone
+- **2008** - Android; Chrome; Bitcoin white paper
+- **2015** - Digital India; Windows 10
+- **2016** - UPI; AlphaGo beats Lee Sedol
+- **2022** - ChatGPT launched
