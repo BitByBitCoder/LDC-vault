@@ -10,7 +10,7 @@ Priority: 🔴 asked very often · 🟡 asked fairly often
 | -------- | --------------------------- | --------------------------------- | --------------------------------------------------------------------------------------------------- |
 | 2400 BCE | Abacus                      | Tim Cranmer                       | First calculating device                                                                            |
 | 1617     | Napier's Bones              | John Napier                       | Multiplication and division; first device to use the decimal point                                  |
-| 1642     | Pascaline                   | Blaise Pascal                     | Mechanical calculator; adds and subtracts using gears; "adding machine"                             |
+| 1642     | Pascaline                   | Blaise Pascal                     | Mechanical calculator; adds and subtracts using gears dials; "adding machine"                       |
 | 1673     | Leibniz's Calculator        | Gottfried Wilhelm Leibniz         | Also multiplies and divides; "Stepped Reckoner"                                                     |
 | 1822     | Difference Engine           | Charles Babbage                   | Hand-cranked; computes and prints mathematical tables                                               |
 | 1837     | Analytical Engine           | Charles Babbage                   | First general-purpose mechanical computer (ALU, control flow, memory); Babbage = Father of Computer |
