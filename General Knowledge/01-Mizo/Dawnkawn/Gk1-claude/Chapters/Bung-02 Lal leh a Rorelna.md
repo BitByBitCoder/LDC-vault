@@ -5,7 +5,7 @@ pages: "32-57"
 status: not-started
 accuracy: 
 ---
-[[00 INDEX]] › Chapter 2
+[[../../../../../Computer_Knowledge/fact data/Computer-Firsts-Vault/00 Index]] › Chapter 2
 
 # Bung 2 — Lal leh a Rorelna
 **Book pages:** 32-57  |  **Priority:** ⭐ (set 1-5)  |  **Prev:** [[Bung-01 Mizo Ṭobul]]  |  **Next:** [[Bung-03 Zawlbuk]]

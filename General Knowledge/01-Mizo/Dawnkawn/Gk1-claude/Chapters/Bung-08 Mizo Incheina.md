@@ -5,7 +5,7 @@ pages: "99"
 status: not-started
 accuracy: 
 ---
-[[00 INDEX]] › Chapter 8
+[[../../../../../Computer_Knowledge/fact data/Computer-Firsts-Vault/00 Index]] › Chapter 8
 
 # Bung 8 — Mizo Incheina
 **Book pages:** 99  |  **Priority:** ⭐ (set 1-5)  |  **Prev:** [[Bung-07 Mizo Rimawi Hmanrua]]  |  **Next:** [[Bung-09 Mizo Infiamna Hrang Hrangte]]

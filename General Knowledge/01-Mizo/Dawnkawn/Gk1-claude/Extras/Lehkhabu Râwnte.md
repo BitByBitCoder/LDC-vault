@@ -2,7 +2,7 @@
 tags: [mizo-gk, extras]
 pages: "407-410"
 ---
-[[00 INDEX]] › Lehkhabu Râwnte
+[[../../../../../Computer_Knowledge/fact data/Computer-Firsts-Vault/00 Index]] › Lehkhabu Râwnte
 
 # Lehkhabu Râwnte
 **Book pages:** 407-410

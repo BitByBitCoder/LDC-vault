@@ -2,7 +2,7 @@
 tags: [mizo-gk, extras]
 pages: "375-406"
 ---
-[[00 INDEX]] › Mizo Question Paper Aug 2024 - Jul 2025
+[[../../../../../Computer_Knowledge/fact data/Computer-Firsts-Vault/00 Index]] › Mizo Question Paper Aug 2024 - Jul 2025
 
 # Mizo Question Paper Aug 2024 - Jul 2025
 **Book pages:** 375-406

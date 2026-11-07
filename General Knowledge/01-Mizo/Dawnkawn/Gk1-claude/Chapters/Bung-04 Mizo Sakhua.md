@@ -5,7 +5,7 @@ pages: "68-80"
 status: not-started
 accuracy: 
 ---
-[[00 INDEX]] › Chapter 4
+[[../../../../../Computer_Knowledge/fact data/Computer-Firsts-Vault/00 Index]] › Chapter 4
 
 # Bung 4 — Mizo Sakhua
 **Book pages:** 68-80  |  **Priority:** ⭐ (set 1-5)  |  **Prev:** [[Bung-03 Zawlbuk]]  |  **Next:** [[Bung-05 Mizote Kût]]

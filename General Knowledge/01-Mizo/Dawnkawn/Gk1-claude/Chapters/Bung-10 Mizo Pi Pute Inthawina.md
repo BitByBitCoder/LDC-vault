@@ -5,7 +5,7 @@ pages: "102-110"
 status: not-started
 accuracy: 
 ---
-[[00 INDEX]] › Chapter 10
+[[../../../../../Computer_Knowledge/fact data/Computer-Firsts-Vault/00 Index]] › Chapter 10
 
 # Bung 10 — Mizo Pi Pute Inthawina
 **Book pages:** 102-110  |  **Priority:** ⭐ (set 1-5)  |  **Prev:** [[Bung-09 Mizo Infiamna Hrang Hrangte]]  |  **Next:** [[Bung-11 Thihna leh a Sawngbawl Dan]]

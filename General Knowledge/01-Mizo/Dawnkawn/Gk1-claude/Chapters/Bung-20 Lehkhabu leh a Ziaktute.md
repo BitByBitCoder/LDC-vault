@@ -5,7 +5,7 @@ pages: "235-237"
 status: not-started
 accuracy: 
 ---
-[[00 INDEX]] › Chapter 20
+[[../../../../../Computer_Knowledge/fact data/Computer-Firsts-Vault/00 Index]] › Chapter 20
 
 # Bung 20 — Lehkhabu leh a Ziaktute
 **Book pages:** 235-237  |  **Priority:** ⭐ (set 1-5)  |  **Prev:** [[Bung-19 British Dotu Mizo Lal Langsar Zualte]]  |  **Next:** [[Bung-21 Mizo Thu leh Hla Ṭobul]]

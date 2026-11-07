@@ -5,7 +5,7 @@ pages: "344-346"
 status: not-started
 accuracy: 
 ---
-[[00 INDEX]] › Chapter 32
+[[../../../../../Computer_Knowledge/fact data/Computer-Firsts-Vault/00 Index]] › Chapter 32
 
 # Bung 32 — Mi Hmasate
 **Book pages:** 344-346  |  **Priority:** ⭐ (set 1-5)  |  **Prev:** [[Bung-31 Pi Pute Arsi Hriat Dan]]  |  **Next:** [[Question Bank]]

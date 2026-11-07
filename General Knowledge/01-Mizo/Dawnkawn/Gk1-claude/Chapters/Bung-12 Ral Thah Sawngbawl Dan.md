@@ -5,7 +5,7 @@ pages: "124-131"
 status: not-started
 accuracy: 
 ---
-[[00 INDEX]] › Chapter 12
+[[../../../../../Computer_Knowledge/fact data/Computer-Firsts-Vault/00 Index]] › Chapter 12
 
 # Bung 12 — Ral Thah Sawngbawl Dan
 **Book pages:** 124-131  |  **Priority:** ⭐ (set 1-5)  |  **Prev:** [[Bung-11 Thihna leh a Sawngbawl Dan]]  |  **Next:** [[Bung-13 Mizo Inneih leh Inṭhen Dan]]

@@ -5,7 +5,7 @@ pages: "92-98"
 status: not-started
 accuracy: 
 ---
-[[00 INDEX]] › Chapter 7
+[[../../../../../Computer_Knowledge/fact data/Computer-Firsts-Vault/00 Index]] › Chapter 7
 
 # Bung 7 — Mizo Rimawi Hmanrua
 **Book pages:** 92-98  |  **Priority:** ⭐ (set 1-5)  |  **Prev:** [[Bung-06 Mizo Lam Hrang Hrangte]]  |  **Next:** [[Bung-08 Mizo Incheina]]

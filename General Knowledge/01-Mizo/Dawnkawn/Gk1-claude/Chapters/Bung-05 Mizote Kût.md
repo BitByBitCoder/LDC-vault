@@ -5,7 +5,7 @@ pages: "81-88"
 status: not-started
 accuracy: 
 ---
-[[00 INDEX]] › Chapter 5
+[[../../../../../Computer_Knowledge/fact data/Computer-Firsts-Vault/00 Index]] › Chapter 5
 
 # Bung 5 — Mizote Kût
 **Book pages:** 81-88  |  **Priority:** ⭐ (set 1-5)  |  **Prev:** [[Bung-04 Mizo Sakhua]]  |  **Next:** [[Bung-06 Mizo Lam Hrang Hrangte]]

@@ -5,7 +5,7 @@ pages: "171-199"
 status: not-started
 accuracy: 
 ---
-[[00 INDEX]] › Chapter 18
+[[../../../../../Computer_Knowledge/fact data/Computer-Firsts-Vault/00 Index]] › Chapter 18
 
 # Bung 18 — British leh Mizote
 **Book pages:** 171-199  |  **Priority:** ⭐ (set 1-5)  |  **Prev:** [[Bung-17 Mizo Bungrua-Hmanrua Ṭhenkhat]]  |  **Next:** [[Bung-19 British Dotu Mizo Lal Langsar Zualte]]

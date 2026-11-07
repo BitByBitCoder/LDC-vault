@@ -5,7 +5,7 @@ pages: "342-343"
 status: not-started
 accuracy: 
 ---
-[[00 INDEX]] › Chapter 31
+[[../../../../../Computer_Knowledge/fact data/Computer-Firsts-Vault/00 Index]] › Chapter 31
 
 # Bung 31 — Pi Pute Arsi Hriat Dan
 **Book pages:** 342-343  |  **Priority:** ⭐ (set 1-5)  |  **Prev:** [[Bung-30 Mizo Zu Chi Hrang Hrangte]]  |  **Next:** [[Bung-32 Mi Hmasate]]

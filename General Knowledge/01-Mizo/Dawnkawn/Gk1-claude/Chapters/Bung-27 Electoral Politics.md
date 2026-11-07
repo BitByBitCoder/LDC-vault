@@ -5,7 +5,7 @@ pages: "300-320"
 status: not-started
 accuracy: 
 ---
-[[00 INDEX]] › Chapter 27
+[[../../../../../Computer_Knowledge/fact data/Computer-Firsts-Vault/00 Index]] › Chapter 27
 
 # Bung 27 — Electoral Politics
 **Book pages:** 300-320  |  **Priority:** ⭐ (set 1-5)  |  **Prev:** [[Bung-26 Political History of Mizoram]]  |  **Next:** [[Bung-28 Mizo Thawnthu]]

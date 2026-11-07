@@ -5,7 +5,7 @@ pages: "268-276"
 status: not-started
 accuracy: 
 ---
-[[00 INDEX]] › Chapter 23
+[[../../../../../Computer_Knowledge/fact data/Computer-Firsts-Vault/00 Index]] › Chapter 23
 
 # Bung 23 — Kum leh Thil Thleng Pawimawhte
 **Book pages:** 268-276  |  **Priority:** ⭐ (set 1-5)  |  **Prev:** [[Bung-22 Kristianna leh Mizote]]  |  **Next:** [[Bung-24 Mizote leh Indopui]]

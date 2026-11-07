@@ -5,7 +5,7 @@ pages: "261-267"
 status: not-started
 accuracy: 
 ---
-[[00 INDEX]] › Chapter 22
+[[../../../../../Computer_Knowledge/fact data/Computer-Firsts-Vault/00 Index]] › Chapter 22
 
 # Bung 22 — Kristianna leh Mizote
 **Book pages:** 261-267  |  **Priority:** ⭐ (set 1-5)  |  **Prev:** [[Bung-21 Mizo Thu leh Hla Ṭobul]]  |  **Next:** [[Bung-23 Kum leh Thil Thleng Pawimawhte]]

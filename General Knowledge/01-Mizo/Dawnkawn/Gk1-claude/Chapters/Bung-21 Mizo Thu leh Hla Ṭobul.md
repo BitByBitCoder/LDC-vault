@@ -5,7 +5,7 @@ pages: "238-260"
 status: not-started
 accuracy: 
 ---
-[[00 INDEX]] › Chapter 21
+[[../../../../../Computer_Knowledge/fact data/Computer-Firsts-Vault/00 Index]] › Chapter 21
 
 # Bung 21 — Mizo Thu leh Hla Ṭobul
 **Book pages:** 238-260  |  **Priority:** ⭐ (set 1-5)  |  **Prev:** [[Bung-20 Lehkhabu leh a Ziaktute]]  |  **Next:** [[Bung-22 Kristianna leh Mizote]]

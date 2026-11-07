@@ -5,7 +5,7 @@ pages: "89-91"
 status: not-started
 accuracy: 
 ---
-[[00 INDEX]] › Chapter 6
+[[../../../../../Computer_Knowledge/fact data/Computer-Firsts-Vault/00 Index]] › Chapter 6
 
 # Bung 6 — Mizo Lam Hrang Hrangte
 **Book pages:** 89-91  |  **Priority:** ⭐ (set 1-5)  |  **Prev:** [[Bung-05 Mizote Kût]]  |  **Next:** [[Bung-07 Mizo Rimawi Hmanrua]]

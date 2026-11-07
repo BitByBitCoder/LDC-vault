@@ -5,7 +5,7 @@ pages: "167-170"
 status: not-started
 accuracy: 
 ---
-[[00 INDEX]] › Chapter 17
+[[../../../../../Computer_Knowledge/fact data/Computer-Firsts-Vault/00 Index]] › Chapter 17
 
 # Bung 17 — Mizo Bungrua-Hmanrua Ṭhenkhat
 **Book pages:** 167-170  |  **Priority:** ⭐ (set 1-5)  |  **Prev:** [[Bung-16 Indo leh Inrun Hmingthang Zualte]]  |  **Next:** [[Bung-18 British leh Mizote]]

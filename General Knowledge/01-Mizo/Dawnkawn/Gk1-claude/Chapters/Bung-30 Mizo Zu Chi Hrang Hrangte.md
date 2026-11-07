@@ -5,7 +5,7 @@ pages: "340-341"
 status: not-started
 accuracy: 
 ---
-[[00 INDEX]] › Chapter 30
+[[../../../../../Computer_Knowledge/fact data/Computer-Firsts-Vault/00 Index]] › Chapter 30
 
 # Bung 30 — Mizo Zu Chi Hrang Hrangte
 **Book pages:** 340-341  |  **Priority:** ⭐ (set 1-5)  |  **Prev:** [[Bung-29 Mizo Thil Hmingthangte Awmna]]  |  **Next:** [[Bung-31 Pi Pute Arsi Hriat Dan]]

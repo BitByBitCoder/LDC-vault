@@ -5,7 +5,7 @@ pages: "281-284"
 status: not-started
 accuracy: 
 ---
-[[00 INDEX]] › Chapter 25
+[[../../../../../Computer_Knowledge/fact data/Computer-Firsts-Vault/00 Index]] › Chapter 25
 
 # Bung 25 — Mizorama Pawl Hrang Hrang Din
 **Book pages:** 281-284  |  **Priority:** ⭐ (set 1-5)  |  **Prev:** [[Bung-24 Mizote leh Indopui]]  |  **Next:** [[Bung-26 Political History of Mizoram]]

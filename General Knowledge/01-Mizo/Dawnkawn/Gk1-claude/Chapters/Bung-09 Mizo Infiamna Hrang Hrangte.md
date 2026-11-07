@@ -5,7 +5,7 @@ pages: "100-101"
 status: not-started
 accuracy: 
 ---
-[[00 INDEX]] › Chapter 9
+[[../../../../../Computer_Knowledge/fact data/Computer-Firsts-Vault/00 Index]] › Chapter 9
 
 # Bung 9 — Mizo Infiamna Hrang Hrangte
 **Book pages:** 100-101  |  **Priority:** ⭐ (set 1-5)  |  **Prev:** [[Bung-08 Mizo Incheina]]  |  **Next:** [[Bung-10 Mizo Pi Pute Inthawina]]

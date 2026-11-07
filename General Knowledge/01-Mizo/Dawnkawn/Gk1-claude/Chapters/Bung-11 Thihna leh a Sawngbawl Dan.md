@@ -5,7 +5,7 @@ pages: "111-123"
 status: not-started
 accuracy: 
 ---
-[[00 INDEX]] › Chapter 11
+[[../../../../../Computer_Knowledge/fact data/Computer-Firsts-Vault/00 Index]] › Chapter 11
 
 # Bung 11 — Thihna leh a Sawngbawl Dan
 **Book pages:** 111-123  |  **Priority:** ⭐ (set 1-5)  |  **Prev:** [[Bung-10 Mizo Pi Pute Inthawina]]  |  **Next:** [[Bung-12 Ral Thah Sawngbawl Dan]]

@@ -5,7 +5,7 @@ pages: "277-280"
 status: not-started
 accuracy: 
 ---
-[[00 INDEX]] › Chapter 24
+[[../../../../../Computer_Knowledge/fact data/Computer-Firsts-Vault/00 Index]] › Chapter 24
 
 # Bung 24 — Mizote leh Indopui
 **Book pages:** 277-280  |  **Priority:** ⭐ (set 1-5)  |  **Prev:** [[Bung-23 Kum leh Thil Thleng Pawimawhte]]  |  **Next:** [[Bung-25 Mizorama Pawl Hrang Hrang Din]]

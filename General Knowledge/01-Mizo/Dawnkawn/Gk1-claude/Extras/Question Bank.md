@@ -2,7 +2,7 @@
 tags: [mizo-gk, extras]
 pages: "347-369"
 ---
-[[00 INDEX]] › Question Bank
+[[../../../../../Computer_Knowledge/fact data/Computer-Firsts-Vault/00 Index]] › Question Bank
 
 # Question Bank
 **Book pages:** 347-369

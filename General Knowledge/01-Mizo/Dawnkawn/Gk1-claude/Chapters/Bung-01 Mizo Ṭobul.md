@@ -5,7 +5,7 @@ pages: "11-31"
 status: not-started
 accuracy: 
 ---
-[[00 INDEX]] › Chapter 1
+[[../../../../../Computer_Knowledge/fact data/Computer-Firsts-Vault/00 Index]] › Chapter 1
 
 # Bung 1 — Mizo Ṭobul
 **Book pages:** 11-31  |  **Priority:** ⭐ (set 1-5)  |  **Prev:** —  |  **Next:** [[Bung-02 Lal leh a Rorelna]]

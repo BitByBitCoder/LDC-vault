@@ -5,7 +5,7 @@ pages: "161-166"
 status: not-started
 accuracy: 
 ---
-[[00 INDEX]] › Chapter 16
+[[../../../../../Computer_Knowledge/fact data/Computer-Firsts-Vault/00 Index]] › Chapter 16
 
 # Bung 16 — Indo leh Inrun Hmingthang Zualte
 **Book pages:** 161-166  |  **Priority:** ⭐ (set 1-5)  |  **Prev:** [[Bung-15 Mizote Ramhuai Hriat Dan]]  |  **Next:** [[Bung-17 Mizo Bungrua-Hmanrua Ṭhenkhat]]

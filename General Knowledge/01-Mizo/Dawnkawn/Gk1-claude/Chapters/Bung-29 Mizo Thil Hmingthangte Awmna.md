@@ -5,7 +5,7 @@ pages: "337-339"
 status: not-started
 accuracy: 
 ---
-[[00 INDEX]] › Chapter 29
+[[../../../../../Computer_Knowledge/fact data/Computer-Firsts-Vault/00 Index]] › Chapter 29
 
 # Bung 29 — Mizo Thil Hmingthangte Awmna
 **Book pages:** 337-339  |  **Priority:** ⭐ (set 1-5)  |  **Prev:** [[Bung-28 Mizo Thawnthu]]  |  **Next:** [[Bung-30 Mizo Zu Chi Hrang Hrangte]]

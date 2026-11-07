@@ -5,7 +5,7 @@ pages: "132-149"
 status: not-started
 accuracy: 
 ---
-[[00 INDEX]] › Chapter 13
+[[../../../../../Computer_Knowledge/fact data/Computer-Firsts-Vault/00 Index]] › Chapter 13
 
 # Bung 13 — Mizo Inneih leh Inṭhen Dan
 **Book pages:** 132-149  |  **Priority:** ⭐ (set 1-5)  |  **Prev:** [[Bung-12 Ral Thah Sawngbawl Dan]]  |  **Next:** [[Bung-14 Mizo Lo Neih Dan]]

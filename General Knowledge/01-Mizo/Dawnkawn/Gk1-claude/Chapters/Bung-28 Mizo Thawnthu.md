@@ -5,7 +5,7 @@ pages: "321-336"
 status: not-started
 accuracy: 
 ---
-[[00 INDEX]] › Chapter 28
+[[../../../../../Computer_Knowledge/fact data/Computer-Firsts-Vault/00 Index]] › Chapter 28
 
 # Bung 28 — Mizo Thawnthu
 **Book pages:** 321-336  |  **Priority:** ⭐ (set 1-5)  |  **Prev:** [[Bung-27 Electoral Politics]]  |  **Next:** [[Bung-29 Mizo Thil Hmingthangte Awmna]]

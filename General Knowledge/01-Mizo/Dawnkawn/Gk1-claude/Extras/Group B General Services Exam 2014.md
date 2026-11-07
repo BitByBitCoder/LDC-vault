@@ -2,7 +2,7 @@
 tags: [mizo-gk, extras]
 pages: "369-374"
 ---
-[[00 INDEX]] › Group B General Services Exam 2014
+[[../../../../../Computer_Knowledge/fact data/Computer-Firsts-Vault/00 Index]] › Group B General Services Exam 2014
 
 # Group B General Services Exam 2014
 **Book pages:** 369-374

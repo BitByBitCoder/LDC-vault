@@ -5,7 +5,7 @@ pages: "150-156"
 status: not-started
 accuracy: 
 ---
-[[00 INDEX]] › Chapter 14
+[[../../../../../Computer_Knowledge/fact data/Computer-Firsts-Vault/00 Index]] › Chapter 14
 
 # Bung 14 — Mizo Lo Neih Dan
 **Book pages:** 150-156  |  **Priority:** ⭐ (set 1-5)  |  **Prev:** [[Bung-13 Mizo Inneih leh Inṭhen Dan]]  |  **Next:** [[Bung-15 Mizote Ramhuai Hriat Dan]]

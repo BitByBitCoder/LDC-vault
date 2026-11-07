@@ -5,7 +5,7 @@ pages: "58-67"
 status: not-started
 accuracy: 
 ---
-[[00 INDEX]] › Chapter 3
+[[../../../../../Computer_Knowledge/fact data/Computer-Firsts-Vault/00 Index]] › Chapter 3
 
 # Bung 3 — Zawlbuk
 **Book pages:** 58-67  |  **Priority:** ⭐ (set 1-5)  |  **Prev:** [[Bung-02 Lal leh a Rorelna]]  |  **Next:** [[Bung-04 Mizo Sakhua]]

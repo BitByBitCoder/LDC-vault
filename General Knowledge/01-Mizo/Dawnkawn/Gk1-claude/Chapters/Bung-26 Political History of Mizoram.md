@@ -5,7 +5,7 @@ pages: "285-299"
 status: not-started
 accuracy: 
 ---
-[[00 INDEX]] › Chapter 26
+[[../../../../../Computer_Knowledge/fact data/Computer-Firsts-Vault/00 Index]] › Chapter 26
 
 # Bung 26 — Political History of Mizoram
 **Book pages:** 285-299  |  **Priority:** ⭐ (set 1-5)  |  **Prev:** [[Bung-25 Mizorama Pawl Hrang Hrang Din]]  |  **Next:** [[Bung-27 Electoral Politics]]

@@ -5,7 +5,7 @@ pages: "157-160"
 status: not-started
 accuracy: 
 ---
-[[00 INDEX]] › Chapter 15
+[[../../../../../Computer_Knowledge/fact data/Computer-Firsts-Vault/00 Index]] › Chapter 15
 
 # Bung 15 — Mizote Ramhuai Hriat Dan
 **Book pages:** 157-160  |  **Priority:** ⭐ (set 1-5)  |  **Prev:** [[Bung-14 Mizo Lo Neih Dan]]  |  **Next:** [[Bung-16 Indo leh Inrun Hmingthang Zualte]]
