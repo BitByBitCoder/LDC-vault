@@ -74,11 +74,12 @@
 
 **Units of performance**
 
-|Measure|Meaning|
-|---|---|
-|Clock speed (Hz, MHz, GHz)|Cycles per second of the CPU clock|
-|MIPS|Millions of instructions per second|
-|FLOPS|Floating-point operations per second (mega, giga, tera, peta, exa)|
+| Measure                    | Meaning                                                            |
+| -------------------------- | ------------------------------------------------------------------ |
+| Clock speed (Hz, MHz, GHz) | Cycles per second of the CPU clock                                 |
+| MIPS                       | Millions of instructions per second                                |
+| FLOPS                      | Floating-point operations per second (mega, giga, tera, peta, exa) |
+|                            |                                                                    |
 
 > [!warning] Textbooks differ Many Indian textbooks and MCQ keys give the fourth generation as picoseconds; others say nanoseconds. If only one of the two appears in the options, pick it. The order is always milliseconds → microseconds → nanoseconds → picoseconds as speed rises.
 
