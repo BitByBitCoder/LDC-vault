@@ -4,13 +4,13 @@
 
 ## 1. Overview
 
-|Generation|Period|Key technology|Main memory|Software / languages|Examples|
-|---|---|---|---|---|---|
-|**First**|1940-1956|Vacuum tubes|Magnetic drum, delay line, Williams tube|Machine language (binary)|ENIAC, EDVAC, EDSAC, UNIVAC I, IBM 650, IBM 701|
-|**Second**|1956-1963|Transistors|Magnetic core|Assembly language, early FORTRAN and COBOL|IBM 1401, IBM 7090/7094, CDC 1604|
-|**Third**|1964-1971|Integrated circuits (IC)|Semiconductor memory|Operating systems, high-level languages (BASIC, Pascal, C came later)|IBM System/360, PDP-8, PDP-11|
-|**Fourth**|1971-present|Microprocessors (LSI / VLSI)|Semiconductor RAM, then flash and optical|C, C++, Java, GUI software|Altair 8800, Apple II, IBM PC, Cray-1|
-|**Fifth**|Present and beyond|ULSI, AI, parallel processing, quantum|Very large RAM, SSD, cloud|AI and natural-language programming|Expert systems, robots, AI assistants|
+| Generation | Period             | Key technology                         | Main memory                               | Software / languages                                                  | Examples                                        |
+| ---------- | ------------------ | -------------------------------------- | ----------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------------- |
+| **First**  | 1940-1956          | Vacuum tubes                           | Magnetic drum, delay line, Williams tube  | Machine language (binary)                                             | ENIAC, EDVAC, EDSAC, UNIVAC I, IBM 650, IBM 701 |
+| **Second** | 1956-1963          | Transistors                            | Magnetic core                             | Assembly language, early FORTRAN and COBOL                            | IBM 1401, IBM 7090/7094, CDC 1604               |
+| **Third**  | 1964-1971          | Integrated circuits (IC)               | Semiconductor memory                      | Operating systems, high-level languages (BASIC, Pascal, C came later) | IBM System/360, PDP-8, PDP-11                   |
+| **Fourth** | 1971-present       | Microprocessors (LSI / VLSI)           | Semiconductor RAM, then flash and optical | C, C++, Java, GUI software                                            | Altair 8800, Apple II, IBM PC, Cray-1           |
+| **Fifth**  | Present and beyond | ULSI, AI, parallel processing, quantum | Very large RAM, SSD, cloud                | AI and natural-language programming                                   | Expert systems, robots, AI assistants           |
 
 ## 2. Characteristics
 
