@@ -74,3 +74,37 @@ These questions have no correct option or are underdetermined in the PDF, so the
 
 - Answers use your usual `||spoiler||` syntax, written as `\|\|` inside tables so the table does not break.
 - Visual diagrams are plain-text blocks, so they render in any theme.
+
+
+
+//
+Vault files are built (14 topic notes, 283 questions). I'm now doing a last check on the formatting and cleaning up one confusing line in the index before I hand it over.
+
+Your Maths vault is built in the same format as your other vaults: a main index linking to topic notes, ranked High / Medium / Low, with an exam trap callout at the end of each note. Unzip `Maths_Vault.zip` into your Obsidian vault.
+
+It has 17 notes and 283 questions, all taken from the Simple Arithmetic sections of your combined past-paper PDF. I checked every answer myself, and the vault's index lists the questions I left out because the options or the answer key are wrong.
+
+**Priority order**
+
+- **🔴 High (01–09):** Profit/Loss/Discount, Percentages, Averages, Ratio & Partnership, Time & Work, Speed & Distance, Interest, Number System, Mensuration. These come up in almost every paper, so close each at 90% first.
+- **🟡 Medium (10–13):** Simplification/Surds, Ages/Equations, Permutation/Probability/Sets, Data Interpretation. Close each at 85%. The probability and sets questions show up in the 2026 papers, so don't skip them.
+- **🟢 Low (14):** Series, Calendar, Trigonometry, Mean/Median/Mode. Do these last.
+
+**What's in each note**
+
+- A formula table with a worked shortcut for each formula.
+- A text diagram for the topic (e.g. the tank and pipes, the train and platform, the 200 factor tree).
+- A question table sorted easy to hard, with the ⭐ difficulty visible before the answer. The Answer and Method columns are hidden with `||spoiler||`, written as `\|\|` inside the tables so they don't break.
+- An Exam Trap ⚠️ callout, for example the x/(100+x) percentage trap and the equal-SP loss.
+
+**Extra notes**
+
+- `15 Master Formula Sheet`: every formula on one page.
+- `16 Accuracy Tracker`: a table to log attempts and accuracy per topic, plus a Day-1 cold mock.
+
+**Things to check**
+
+- The "≈ share of questions" percentages are my own estimates from reading the 11 papers, not an exact count. Use them for ordering only.
+- Some PDF questions have no correct option. For example, 7²⁷ ÷ 340 gives 303, which isn't listed, and KHAWBEL gives 5040, which isn't listed. The index lists these questions.
+- Three Simplification questions have "None of the above" as the true answer, so check for that option.
+- I couldn't tell whether your spoiler plugin renders `\|\|` inside tables. If it doesn't, tell me which plugin you use and I'll rewrite the tables for it.
