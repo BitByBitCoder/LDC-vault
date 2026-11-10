@@ -24,15 +24,15 @@ priority: High
 | 10 | Thlado lerah ___ a par. (Dingdi / Chhawkhlei / Chawnpui / Senhri) | — | SWTA23 | ❓ |
 
 ## Mizo idioms & phrases (questions only — fill answers from a trusted source)
-| # | Question (options) | Answer | Src | Conf |
-|---|---|---|---|---|
-| 1 | 'Arpui mei ang' awmzia chu… | — | COOP24 | ❓ |
-| 2 | 'A sarhulai' awmzia… | — | COOP24 | ❓ |
-| 3 | 'Uipui tuilian thlir' means… | — | SPORTS26 | ❓ |
-| 4 | 'kut chi lo hawi' means… | — | HFW23-1 | ❓ |
-| 5 | 'zam zal' means… | — | HFW23-2 | ❓ |
-| 6 | 'Meialh en' means… | — | LJB | ❓ |
-| 7 | Star names: which is NOT a Mizo star? (Sikawikap / Siar / Sisil / Sirawkuai) | — | HFW23-1 | ❓ |
+| #   | Question (options)                                                           | Answer | Src      | Conf |
+| --- | ---------------------------------------------------------------------------- | ------ | -------- | ---- |
+| 1   | 'Arpui mei ang' awmzia chu…                                                  | —      | COOP24   | ❓    |
+| 2   | 'A sarhulai' awmzia…                                                         | —      | COOP24   | ❓    |
+| 3   | 'Uipui tuilian thlir' means…                                                 | —      | SPORTS26 | ❓    |
+| 4   | 'kut chi lo hawi' means…                                                     | —      | HFW23-1  | ❓    |
+| 5   | 'zam zal' means…                                                             | —      | HFW23-2  | ❓    |
+| 6   | 'Meialh en' means…                                                           | —      | LJB      | ❓    |
+| 7   | Star names: which is NOT a Mizo star? (Sikawikap / Siar / Sisil / Sirawkuai) | —      | HFW23-1  | ❓    |
 
 
 > [!warning] Exam Trap ⚠️
