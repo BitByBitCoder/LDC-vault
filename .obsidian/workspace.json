@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note prompt/d.md",
+                "file": "Maths Vault/00 Maths Vault Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "d"
+              "title": "00 Maths Vault Index"
             }
           },
           {
@@ -241,8 +241,9 @@
   },
   "active": "8ef119630eb4e098",
   "lastOpenFiles": [
-    "Maths Vault/02 Percentages.md",
+    "Maths Vault/04 Ratio Proportion and Partnership.md",
     "note prompt/d.md",
+    "Maths Vault/02 Percentages.md",
     "note prompt",
     "Maths Vault/00 Maths Vault Index.md",
     "maths brain/percentages/percentage.md",
@@ -255,7 +256,6 @@
     "maths brain/average/average.md",
     "maths brain/Profit and loss/darama question.md",
     "maths brain/Profit and loss/darama filter.md",
-    "Maths Vault/04 Ratio Proportion and Partnership.md",
     "Maths Vault/03 Averages.md",
     "Maths Vault/01 Profit Loss and Discount.md",
     "Maths Vault/07 Simple and Compound Interest.md",
