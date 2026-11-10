@@ -28,6 +28,7 @@
 | 21    | [[Mizoram Assembly Constituency]]   |
 | 22    | [[Ministers]]                       |
 
+
 ## Mizo History, Culture & General Knowledge Study Outline
 
 | **#**  | **Topic / Subject**                       | **Category**        | **Key Focus Areas & Content**                                                                                                     |
