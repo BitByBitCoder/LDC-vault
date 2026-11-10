@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Knowledge/01-Mizo/Basic State Gk.md",
+                "file": "General Knowledge/01-Mizo/Mizo History/01 — British Contact & Colonial Period.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic State Gk"
+              "title": "01 — British Contact & Colonial Period"
             }
           },
           {
@@ -241,11 +241,12 @@
   },
   "active": "8ef119630eb4e098",
   "lastOpenFiles": [
+    "General Knowledge/01-Mizo/Mizo History/00 — Mizo History Index.md",
+    "General Knowledge/01-Mizo/Basic State Gk.md",
     "General Knowledge/01-Mizo/Mizo index.md",
     "General Knowledge/01-Mizo/Mizo Historymai2/00 — Mizo History Index.md",
     "General Knowledge/01-Mizo/Mizo History/02 — MNF & Insurgency.md",
     "General Knowledge/01-Mizo/Mizo History/01 — British Contact & Colonial Period.md",
-    "General Knowledge/01-Mizo/Mizo History/00 — Mizo History Index.md",
     "General Knowledge/GK_Missing_Topics/01 — Science & Physics.md",
     "General Knowledge/GK_Missing_Topics/02 — Mizoram Deep History.md",
     "General Knowledge/01-Mizo/Dawnkawn/gk2-meta/Bung 04 - Mizo Sakhua.md",
@@ -267,7 +268,6 @@
     "maths brain/percentages/darama/formulas.md",
     "maths brain/percentages/darama/darama filter.md",
     "maths brain/percentages/darama/darama a question zawng2.md",
-    "maths brain/percentages/A is a % of B.md",
     "Maths Vault",
     "maths brain/percentages/darama/Screenshot 2026-09-15 at 8.31.06 PM.png",
     "Computer_Knowledge/fact data/Computer-Firsts-Vault",
