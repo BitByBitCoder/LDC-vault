@@ -68,12 +68,12 @@
 
 ## Light — Optics
 
-| Phenomenon | Meaning | Example |
-|-----------|---------|---------|
-| **Reflection** | Light bounces off surface | Mirror |
-| **Refraction** | Light bends when entering different medium | **Twinkling of stars** |
-| **Dispersion** | White light splits into colors | Rainbow |
-| **Total Internal Reflection** | Light trapped inside medium | Optical fiber |
+| Phenomenon                    | Meaning                                    | Example                |
+| ----------------------------- | ------------------------------------------ | ---------------------- |
+| **Reflection**                | Light bounces off surface                  | Mirror                 |
+| **Refraction**                | Light bends when entering different medium | **Twinkling of stars** |
+| **Dispersion**                | White light splits into colors             | Rainbow                |
+| **Total Internal Reflection** | Light trapped inside medium                | Optical fiber          |
 
 ### Eye Defects and Lenses
 
