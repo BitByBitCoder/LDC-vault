@@ -3,7 +3,7 @@
 | Which was the first novel written in Mizo?  | Hawilopari (option d) by L. Biakliana (written 1936, published 1983) ✅ |
 | First Mizo short story?                     | Lali by L. Biakliana (1937) ✅                                          |
 | Who wrote Mizo Chanchin?                    | Rev. Liangkhaia ✅                                                      |
-| Who is the author of Pangparhnima?          | Amangaihi Khiangte (novel; MAL Book of the Year 2023) ✅                |
+| Who is the author of Pangparhnima?          | Lalhriata                                                              |
 | Famous novel by Kaphleia?                   | Chhingpuii (1939, historical fiction) ✅                                |
 | Author of Thlahleinga Zan?                  | James Dokhuma ✅                                                        |
 | Who wrote Hmangaihzuali and Anita?          | C. Laizawna (both MAL Books of the Year) ✅                             |
