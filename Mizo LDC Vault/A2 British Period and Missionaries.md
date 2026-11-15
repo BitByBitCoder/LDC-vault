@@ -17,5 +17,5 @@
 | First Mizo-language book?                                               | Mizo Zir Tir Bu (primer), 22 October 1896 ✅                                           |
 | Welsh Presbyterian missionary who arrived in 1897?                      | Rev. D.E. Jones ☑                                                                     |
 | First Mizo converts baptised in 1899?                                   | Khuma and Thangphunga ☑                                                               |
-| Lushai Hills declared a Backward Tract?                                 | 1921 ☑                                                                                |
+| Lushai Hills declared a Backward Tract?                                 | \|**1919**\|                                                                          |
 | When was the Lushai Hills declared an Excluded Area under British rule? | 1935 (option c) ✅                                                                     |
