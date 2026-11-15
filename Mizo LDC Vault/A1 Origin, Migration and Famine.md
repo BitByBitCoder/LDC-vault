@@ -11,3 +11,4 @@
 | Which famine front was formed during the 1959 famine and became the MNF?                     | Mizo National Famine Front (1960) -> MNF (1961) ✅                                     |
 | Who is a traditional Mizo chief called?                                                      | Lal ☑                                                                                 |
 | What was the tree or pole on which an enemy's head was fixed called?                         | Seluphan (option b) ❓                                                                 |
+|                                                                                              |                                                                                       |
