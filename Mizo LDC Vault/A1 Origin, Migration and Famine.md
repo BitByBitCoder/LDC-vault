@@ -2,7 +2,7 @@
 | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | Where do the Mizo traditionally believe their ancestors came from?                           | Chhinlung (Sinlung) ☑                                                                 |
 | Traditional Mizo migration route?                                                            | Chhinlung -> Burma (Kabaw valley / Khampat) -> Chin Hills -> Lushai Hills (Mizoram) ☑ |
-| Selesih (Seven Thousand Houses) was one of the first large Mizo villages. It existed around: | 1670-1700 AD (option b) ❓ unconfirmed, check your textbook                            |
+| Selesih (Seven Thousand Houses) was one of the first large Mizo villages. It existed around: | **`1740–1750 AD`**                                                                    |
 | Who is the author of Mizo Chanchin (history of the Mizo)?                                    | Rev. Liangkhaia ✅                                                                     |
 | The great famine in Mizo history, the 'Mautam Famine', occurred in:                          | 1959 ✅                                                                                |
 | The last known Mautam occurred between:                                                      | 2006-2008 ✅                                                                           |
