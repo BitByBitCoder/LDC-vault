@@ -8,4 +8,4 @@
 | Traditional Mizo dances are performed during:                 | Festivals and community celebrations (option c) ✅                              |
 | Famous dances                                                 | Cheraw (bamboo), Khuallam, Chheih lam, Sarlamkai, Chai, Chawnglaizawn ☑        |
 | Traditional Mizo drum?                                        | Khuang ☑                                                                       |
-| Anthurium Festival is held in:                                | November ☑                                                                     |
+| Anthurium Festival is held in:                                | September ☑                                                                    |
