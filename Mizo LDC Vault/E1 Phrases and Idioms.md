@@ -4,4 +4,4 @@
 | What does 'zam zal' mean?             | To be unenergetic (option b) ❓ unconfirmed                   |
 | What does 'Uipui tuilian thlir' mean? | Tihngaihna tak hre lova thlir (option b) ❓ unconfirmed       |
 | What does 'Meialh en' mean?           | Chaw chhum tur tlachham a awm - nothing to cook (option b) ☑ |
-| Thlado lerah _____ a par.             | Senhri (option d) ❓                                          |
+| Thlado lerah _____ a par.             | **Chawnpui**.                                                |
