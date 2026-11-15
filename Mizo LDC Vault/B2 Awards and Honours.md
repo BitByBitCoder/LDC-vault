@@ -1,0 +1,19 @@
+| Question | Answer |
+|---|---|
+| MAL Book of the Year award started in? | 1989 (first: Ka Lungkham by B. Lalthangliana) ✅ |
+| Which is MAL Book of the Year 2021? | Hnam Ropuite Tho R'u Le (Lalhruaitluanga Chawngte) ✅ |
+| MAL Book of the Year 2022? | Daidanna Bang Phena Thuruk (Dr. Zohmangaihi) ✅ |
+| MAL Book of the Year 2023? | Pangparhnima (Amangaihi Khiangte) ✅ |
+| MAL Book of the Year 2025? | Kham leh Suar ✅ |
+| MAL Book of the Year 2016? | Aizawlah Aizawler (Lalhruaitluanga Chawngte) ✅ |
+| MAL Book of the Year 2012? | Sihlipui (Romuanpuii Zadeng) ✅ |
+| MAL Book of the Year 1999? | Tlawm ve lo Lalnu Ropuiliani (Lalsangzuali Sailo) ✅ |
+| Which is NOT an author of an MAL Book of the Year: Zohmangaihi, Lalsangzuali Sailo, Romuanpuii Zadeng, Nuchhungi? | Nuchhungi (option d) ✅ checked |
+| Highest literary award of Mizo Academy of Letters? | Pu Buanga Award (first given 2000; named after J.H. Lorrain) ✅ |
+| First Pu Buanga Award recipient? | Lalsangzuali Sailo (2000) ✅ |
+| Who was the first recipient of the Mizo Award (Vanglaini)? | Brig. T. Sailo, 2011 (option b) ✅ |
+| Later Mizo Award recipients? | Sangthankima (2014), Joy L. Pachuau (2017), Dr Tawnenga, B. Lalthangliana (2025) ✅ |
+| Only recipient of Padma Bhushan from Mizoram? | Capt. L.Z. Sailo (2007) ✅ - first Mizo Padma Bhushan |
+| Padma Shri recipients from Mizoram | Nuchhungi Renthlei (1986), Lalthangfala Sailo (2009), Lalzuia Colney (2010), Lalbiakthanga Pachuau (2021), Sangthankima (2024) ✅ |
+| Esther Hnamte of Lunglei received which national award in December 2025? | PM Rashtriya Bal Puraskar (option a) ☑ |
+| Who won gold at the 2022 Commonwealth Games from Mizoram? | Jeremy Lalrinnunga (weightlifting) ☑ |

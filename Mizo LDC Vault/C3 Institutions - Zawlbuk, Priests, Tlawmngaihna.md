@@ -1,0 +1,10 @@
+| Question | Answer |
+|---|---|
+| What was Zawlbuk? | Bachelors' dormitory of a village, also a hub for defence, education, socialisation and information ✅ |
+| Which is NOT a function of Zawlbuk: education, community and defence hub, morality, place of worship? | A place of worship (option d) ✅ |
+| Zawlbuk served not only as a dormitory but also as a: | Centre of information (option d) ✅ |
+| Priest who performed sacrificial rites to cure the sick? | Sadawt (option a) ❓ |
+| Other traditional priests/healers | Puithiam (priest), Bawlpu (healer-priest), Sadawt (sacrificial priest) ☑ |
+| What is Tlawmngaihna? | Mizo code of selfless service, hospitality and self-sacrifice ✅ |
+| Traditional village crier? | Tlangau ☑ |
+| Who took charge of defence and labour in the village, as a youth institution? | Zawlbuk youths (Tlangval) ☑ |
