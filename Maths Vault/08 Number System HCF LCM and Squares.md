@@ -12,17 +12,17 @@ priority: 🔴 HIGH
 
 ## Core formulas
 
-| Concept | Formula | Quick example / shortcut |
-|---|---|---|
-| Add to be divisible by d | d − remainder | 1057 ÷ 23 → rem 22 → add 1 |
-| Subtract to be divisible | remainder |  |
-| Add to make perfect square | (next square) − n | 1290 → 36² = 1296 → 6 |
-| Divide to make perfect square | Product of **unpaired** primes | 2925 = 3²·5²·13 → 13 |
-| No. of factors | Π (power + 1) | 72 = 2³·3² → 4×3 = 12 |
-| Sum of factors | Π (1 + p + … + pᵏ) | 200 → 15 × 31 = 465 |
-| HCF with same remainder r | HCF of (a − r), (b − r) | 98, 126, r=2 → HCF(96,124) = 4 |
-| Two numbers with HCF h, ratio a:b | ha and hb | 15:11, HCF 13 → 195, 143 |
-| Largest n-digit divisible by m | n-digit max − (max mod LCM) | 99999 − 639 = 99360 |
+| Concept                           | Formula                        | Quick example / shortcut       |
+| --------------------------------- | ------------------------------ | ------------------------------ |
+| Add to be divisible by d          | d − remainder                  | 1057 ÷ 23 → rem 22 → add 1     |
+| Subtract to be divisible          | remainder                      |                                |
+| Add to make perfect square        | (next square) − n              | 1290 → 36² = 1296 → 6          |
+| Divide to make perfect square     | Product of **unpaired** primes | 2925 = 3²·5²·13 → 13           |
+| No. of factors                    | Π (power + 1)                  | 72 = 2³·3² → 4×3 = 12          |
+| Sum of factors                    | Π (1 + p + … + pᵏ)             | 200 → 15 × 31 = 465            |
+| HCF with same remainder r         | HCF of (a − r), (b − r)        | 98, 126, r=2 → HCF(96,124) = 4 |
+| Two numbers with HCF h, ratio a:b | ha and hb                      | 15:11, HCF 13 → 195, 143       |
+| Largest n-digit divisible by m    | n-digit max − (max mod LCM)    | 99999 − 639 = 99360            |
 
 ## Visual
 
