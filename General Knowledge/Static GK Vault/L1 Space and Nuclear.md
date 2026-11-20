@@ -1,8 +1,5 @@
-[[00 Static GK Index|← Static GK Index]]
 
 # L1 Space and Nuclear
-
-**Priority:** LOW · **Book:** Ch 14 (pp. 63–67) + Ch 13 (pp. 60–62) · ★ = appeared in past papers
 
 ## Space
 

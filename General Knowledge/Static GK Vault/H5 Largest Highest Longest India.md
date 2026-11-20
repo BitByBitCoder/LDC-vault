@@ -1,8 +1,3 @@
-[[00 Static GK Index|← Static GK Index]]
-
-# H5 Largest, Highest and Longest in India
-
-**Priority:** HIGH · **Book:** Ch 2 (pp. 9–10) · ★ = appeared in past papers
 
 ## Land and water
 

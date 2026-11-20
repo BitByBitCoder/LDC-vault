@@ -1,8 +1,4 @@
-[[00 Static GK Index|← Static GK Index]]
 
-# M1 Countries, Capitals and Currencies
-
-**Priority:** MEDIUM · **Book:** Ch 8 (pp. 27–29) + Ch 7 · ★ = appeared in past papers
 
 ## Past-paper items
 
