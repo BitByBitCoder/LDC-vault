@@ -1,8 +1,3 @@
-[[00 Static GK Index|← Static GK Index]]
-
-# M2 First in India
-
-**Priority:** MEDIUM · **Book:** Ch 1 (pp. 1–8) · ★ = appeared in past papers
 
 ## Past-paper items
 

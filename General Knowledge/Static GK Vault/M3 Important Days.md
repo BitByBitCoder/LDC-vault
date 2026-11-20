@@ -1,9 +1,3 @@
-[[00 Static GK Index|← Static GK Index]]
-
-# M3 Important Days
-
-**Priority:** MEDIUM · **Book:** Ch 20 (pp. 105–107) · ★ = appeared in past papers
-
 ## Past-paper items
 
 | Question | Answer |

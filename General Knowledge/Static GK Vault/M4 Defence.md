@@ -1,5 +1,3 @@
-[[00 Static GK Index|← Static GK Index]]
-
 # M4 Defence and Security
 
 **Priority:** MEDIUM · **Book:** Ch 12 (pp. 52–59) · ★ = appeared in past papers

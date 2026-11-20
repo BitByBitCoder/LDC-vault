@@ -1,9 +1,3 @@
-[[00 Static GK Index|← Static GK Index]]
-
-# M5 Authors, Books and Nicknames
-
-**Priority:** MEDIUM · **Book:** Ch 9 (pp. 30–34) + Ch 6 (p. 17) · ★ = appeared in past papers
-
 ## Authors and books
 
 | Question | Answer |
