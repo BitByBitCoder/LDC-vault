@@ -6,14 +6,14 @@
 
 ## Past-paper items
 
-| Question | Answer |
-|---|---|
-| ★ First woman IPS officer | \|\|Kiran Bedi (1972)\|\| |
-| ★ First Indian selected for ICS (1863) | \|\|Satyendranath Tagore\|\| |
-| ★ First Governor of RBI (first Indian: C.D. Deshmukh) | \|\|Sir Osborne Smith\|\| |
-| ★ First modern cotton textile mill in India | \|\|1854 (Bombay)\|\| |
-| ★ First to abolish Sati (1829) | \|\|Lord William Bentinck\|\| |
-| ★ First Governor of Mizoram after statehood | \|\|Hiteswar Saikia\|\| |
+| Question                                                     | Answer                                                   |
+| ------------------------------------------------------------ | -------------------------------------------------------- |
+| ★ First woman IPS officer                                    | \|\|Kiran Bedi (1972)\|\|                                |
+| ★ First Indian selected for ICS (1863)                       | \|\|Satyendranath Tagore\|\|                             |
+| ★ First Governor of RBI (first Indian: C.D. Deshmukh)        | \|\|Sir Osborne Smith\|\|                                |
+| ★ First modern cotton textile mill in India                  | \|\|1854 (Bombay)\|\|                                    |
+| ★ First to abolish Sati (1829)                               | \|\|Lord William Bentinck\|\|                            |
+| ★ First Governor of Mizoram after statehood                  | \|\|Hiteswar Saikia\|\|                                  |
 | ★ First woman to graduate from IMA Dehradun (news, Dec 2025) | \|\|Sai Jadhav (verify spelling/details before exam)\|\| |
 
 ## Standard firsts
