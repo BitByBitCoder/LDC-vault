@@ -1,3 +1,32 @@
+Only about 10–12% of the GK questions in these papers come from this book. Of roughly 1,190 GK-type questions I sorted, about 100–150 map to these 20 chapters. The rest are History, Polity, Geography, Economy, Science, Mizoram GK and 2024–26 current affairs, so this book alone won't cover the paper. The counts are approximate, from keyword sorting plus a manual check.
+
+**Tier 1: study first (most repeated)**
+
+1. **Ch 15 International Organizations (pp. 68–73)**: about 10–12 questions. They cover headquarters (WHO), G20 and BRICS presidency, SCO, Quad, and the Paris Club.
+2. **Ch 10 Awards (pp. 35–42)**: about 10. Examples are the Nobel Prizes (2022 Literature, 2025 Peace), Sakharov Prize, Pulitzer, and "Nobel Prize of Asia".
+3. **Ch 11 Sports (pp. 43–51)**: about 8–10. Examples are the FIFA World Cup, Olympic hockey, Golden Slam, and Grand Slams.
+4. **Ch 18 Art & Culture (pp. 86–101)**: about 10. This covers festivals, dance forms (Kathakali), and monuments (Ellora, Golden Temple). Mizo festivals like Chapchar Kut, Pawl Kut and Mim Kut appear often, but those come from Mizoram GK, not this book.
+5. **Ch 2 Largest, Highest and Longest in India (pp. 9–10)**: about 15–20 questions, the biggest yield per page. Examples are the longest river, largest forest-cover state, smallest UT, highest motorable pass, and largest brackish lake.
+6. **Ch 16 Computer (pp. 74–83) and Ch 19 Abbreviation (pp. 102–104)**: Paper II is heavy on computers, and nearly all the "full form" questions are computer terms (DMA, NTFS, RTOS, W3C, DHCP, NIC, C-DAC).
+
+**Tier 2: study next**
+
+- **Ch 8 Capitals, Currencies and Languages (pp. 27–29)**: about 8–10 (capital of Australia, Ngultrum, landmark-to-country).
+- **Ch 1 First in India (pp. 1–8)**: about 6 (first woman IPS, first RBI Governor, first Indian in the ICS).
+- **Ch 20 Important Days (pp. 105–107)**: about 4–5 (World Health Day, Earth Day, Disability Day). It's only 3 pages, so it's cheap to learn.
+- **Ch 12 Defence (pp. 52–59)**: about 5 (Assam Rifles HQ, joint exercises like Indra, Supreme Commander).
+- **Ch 9 Authors and Books (pp. 30–34)**: about 3–4 from this book, though Mizo literature questions are frequent.
+- **Ch 6 Nicknames (p. 17)**: about 4 ("Scotland of the East", "Mecca of Indian football").
+
+**Tier 3: low priority**
+
+- **Ch 14 Space (pp. 63–67)**: only about 1–2 questions (Chandrayaan-5). Read it only as part of current affairs.
+- **Ch 17 UNESCO (pp. 84–85)**: about 1–2 (Hampi). It's 2 pages, so skim it.
+- **Ch 13 Nuclear, Ch 3–4 World records, Ch 5 Places related to Prominent People, Ch 7 Facts about Countries**: about 0–3 questions each. Skip them unless you have time left.
+
+Many of the award, sports, summit and G20/BRICS questions are asked as current affairs (2024–26 events). For Chapters 10, 11 and 15, learn the 2024–26 updates as well as what the book gives.
+
+I can pull out every question on one chapter, such as Computer or Awards, with its answer, if you want.
 
 | Part              | Approximate time | Example                         |
 | ----------------- | ---------------- | ------------------------------- |
