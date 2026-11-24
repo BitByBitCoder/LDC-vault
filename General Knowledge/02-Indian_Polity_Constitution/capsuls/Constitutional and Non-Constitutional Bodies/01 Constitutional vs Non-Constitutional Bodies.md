@@ -2,6 +2,8 @@
 
 # 01 Constitutional vs Non-Constitutional Bodies
 
+**Constitutional Bodies** are institutions and offices **created directly by the Constitution of India** under specific articles. Because their existence, powers, and safeguards come straight from the Constitution rather than an ordinary law passed by Parliament, they enjoy higher constitutional protection and cannot be abolished simply by an ordinary act of Parliament.
+
 | Question                                                 | Answer                                                                                  |
 | -------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | What are Constitutional Bodies?                          | \|\|Bodies whose establishment is mentioned in various Articles of the Constitution\|\| |
