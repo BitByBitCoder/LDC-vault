@@ -2,12 +2,13 @@
 
 # 12 Major Parliamentary Motions
 
+**Parliamentary Motions** chu MP-ten mipui tana thil pawimawh sawiho tur emaw, sorkar chetdan enfiah tur emawa House-a rawtna an thlen thin hi a ni.
 ## 1. Original Motion
 
-| Question | Answer |
-|---|---|
-| What is an Original Motion? | \|\|Completely independent (not dependent on anyone)\|\| |
-| Examples? | \|\|Adjournment Motion, Motion of Thanks (as per textbook)\|\| |
+| Question                    | Answer                                                         |
+| --------------------------- | -------------------------------------------------------------- |
+| What is an Original Motion? | \|\|Completely independent (not dependent on anyone)\|\|       |
+| Examples?                   | \|\|Adjournment Motion, Motion of Thanks (as per textbook)\|\| |
 
 ## 2. No-Confidence Motion
 
