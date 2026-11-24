@@ -28,12 +28,12 @@
 
 ## Money Bill
 
-| Question                               | Answer                                                       |
-| -------------------------------------- | ------------------------------------------------------------ |
-| Where can a Money Bill be introduced?  | \|\|In LS only, with prior consent of President\|\|          |
-| Who decides if a Bill is a Money Bill? | \|\|LS Speaker\|\|                                           |
-| Rajya Sabha's power on a Money Bill?   | \|\|(a timuang) Withhold for 14 days; no amendment power\|\| |
-| Joint sitting on Money Bill?           | \|\|No provision for joint sitting\|\|                       |
+| Question                               | Answer                                                      |
+| -------------------------------------- | ----------------------------------------------------------- |
+| Where can a Money Bill be introduced?  | \|\|In LS only, with prior consent of President\|\|         |
+| Who decides if a Bill is a Money Bill? | \|\|LS Speaker\|\|                                          |
+| Rajya Sabha's power on a Money Bill?   | \|\|(a titlai) Withhold for 14 days; no amendment power\|\| |
+| Joint sitting on Money Bill?           | \|\|No provision for joint sitting\|\|                      |
 
 ## Constitution Amendment Bill
 
