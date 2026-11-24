@@ -17,17 +17,17 @@ tags: [maths, ldc, index]
 
 ## 🔴 HIGH PRIORITY — study first
 
-| Order | Note | ≈Share | Target | Budget | Questions |
-|---|---|---|---|---|---|
-| 01 | [[01 Profit Loss and Discount]] | ≈14% | 90%+ | 2 days | 25 |
-| 02 | [[02 Percentages]] | ≈10% | 90%+ | 1.5 days | 27 |
-| 03 | [[03 Averages]] | ≈9% | 90%+ | 1 day | 22 |
-| 04 | [[04 Ratio Proportion and Partnership]] | ≈10% | 90%+ | 2 days | 28 |
-| 05 | [[05 Time and Work and Pipes]] | ≈8% | 90%+ | 1.5 days | 21 |
-| 06 | [[06 Time Speed and Distance]] | ≈8% | 90%+ | 1.5 days | 20 |
-| 07 | [[07 Simple and Compound Interest]] | ≈8% | 90%+ | 1.5 days | 21 |
-| 08 | [[08 Number System HCF LCM and Squares]] | ≈11% | 90%+ | 2 days | 30 |
-| 09 | [[09 Mensuration]] | ≈9% | 90%+ | 1.5 days | 24 |
+| Order | Note                                     | ≈Share | Target | Budget   | Questions |
+| ----- | ---------------------------------------- | ------ | ------ | -------- | --------- |
+| 01    | [[01 Profit Loss and Discount]]          | ≈14%   | 90%+   | 2 days   | 25        |
+| 02    | [[02 Percentages]]                       | ≈10%   | 90%+   | 1.5 days | 27        |
+| 03    | [[03 Averages]]                          | ≈9%    | 90%+   | 1 day    | 22        |
+| 04    | [[04 Ratio Proportion and Partnership]]  | ≈10%   | 90%+   | 2 days   | 28        |
+| 05    | [[05 Time and Work and Pipes]]           | ≈8%    | 90%+   | 1.5 days | 21        |
+| 06    | [[06 Time Speed and Distance]]           | ≈8%    | 90%+   | 1.5 days | 20        |
+| 07    | [[07 Simple and Compound Interest]]      | ≈8%    | 90%+   | 1.5 days | 21        |
+| 08    | [[08 Number System HCF LCM and Squares]] | ≈11%   | 90%+   | 2 days   | 30        |
+| 09    | [[09 Mensuration]]                       | ≈9%    | 90%+   | 1.5 days | 24        |
 
 ## 🟡 MEDIUM PRIORITY
 
