@@ -18,13 +18,13 @@
 
 ## Ordinary Bills
 
-| Question | Answer |
-|---|---|
-| Public Bill - where introduced? | \|\|Any House\|\| |
-| Public Bill - notice period? | \|\|7 days prior notice\|\| |
-| Public Bill - joint sitting? | \|\|Joint sitting possible\|\| |
-| Private Member Bill - who introduces? | \|\|Non-minister\|\| |
-| Private Member Bill - notice period? | \|\|30 days notice\|\| |
+| Question                              | Answer                         |
+| ------------------------------------- | ------------------------------ |
+| Public Bill - where introduced?       | \|\|Any House\|\|              |
+| Public Bill - notice period?          | \|\|7 days prior notice\|\|    |
+| Public Bill - joint sitting?          | \|\|Joint sitting possible\|\| |
+| Private Member Bill - who introduces? | \|\|Non-minister\|\|           |
+| Private Member Bill - notice period?  | \|\|30 days notice\|\|         |
 
 ## Money Bill
 
