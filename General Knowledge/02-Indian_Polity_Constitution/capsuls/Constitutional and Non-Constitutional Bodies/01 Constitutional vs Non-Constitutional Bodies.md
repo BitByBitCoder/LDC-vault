@@ -2,13 +2,13 @@
 
 # 01 Constitutional vs Non-Constitutional Bodies
 
-| Question | Answer |
-|---|---|
-| What are Constitutional Bodies? | \|\|Bodies whose establishment is mentioned in various Articles of the Constitution\|\| |
-| Where do Constitutional Bodies derive their powers from? | \|\|Directly from the Constitution\|\| |
-| What are Non-Constitutional Bodies? | \|\|Bodies not mentioned in the Constitution\|\| |
-| Who proposes a Non-Constitutional Body? | \|\|Cabinet\|\| |
-| How are they constituted? | \|\|By an Act of Parliament / State Legislation\|\| |
+| Question                                                 | Answer                                                                                  |
+| -------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| What are Constitutional Bodies?                          | \|\|Bodies whose establishment is mentioned in various Articles of the Constitution\|\| |
+| Where do Constitutional Bodies derive their powers from? | \|\|Directly from the Constitution\|\|                                                  |
+| What are Non-Constitutional Bodies?                      | \|\|Bodies not mentioned in the Constitution\|\|                                        |
+| Who proposes a Non-Constitutional Body?                  | \|\|Cabinet\|\|                                                                         |
+| How are they constituted?                                | \|\|By an Act of Parliament / State Legislation\|\|                                     |
 
 | Feature | Constitutional Body | Non-Constitutional Body |
 |---|---|---|
