@@ -4,7 +4,7 @@
 
 | Question bill hnawl theih na                           | Answer                                                        |
 | ------------------------------------------------------ | ------------------------------------------------------------- |
-| Veto power of the Indian President is of which nature? | \|\|Negative\|\|                                              |
+| Veto power of the Indian President is of which nature? | \|\|Negative(Latin-I forbid)\|\|                              |
 | Absolute veto?                                         | \|\|Withhold assent\|\|                                       |
 | Suspensive veto?                                       | \|\|Sends back for reconsideration\|\|                        |
 | Pocket veto?                                           | \|\|No action immediately (indefinitely)\|\|                  |
