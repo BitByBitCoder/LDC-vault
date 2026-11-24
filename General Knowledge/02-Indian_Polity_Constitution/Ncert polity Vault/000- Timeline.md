@@ -8,15 +8,15 @@
 
 **Week 1: Foundations + Fundamental Rights**
 
-|Day|Date|Topic|Difficulty|
-|---|---|---|---|
-|1|Oct 14|01 Historical Evolution + 02 Constituent Assembly|Easy|
-|2|Oct 15|03 Preamble & Features|Easy|
-|3|Oct 16|04 Fundamental Rights (part 1)|Medium|
-|4|Oct 17|04 Fundamental Rights (part 2)|Medium|
-|5|Oct 18|05 DPSP & Fundamental Duties|Medium|
-|6|Oct 19|06 President|Medium|
-|7|Oct 20|**Review:** recall days 1-6 only, no new material||
+| Day | Date   | Topic                                             | Difficulty |
+| --- | ------ | ------------------------------------------------- | ---------- |
+| 1   | Oct 14 | 01 Historical Evolution + 02 Constituent Assembly | Easy       |
+| 2   | Oct 15 | 03 Preamble & Features                            | Easy       |
+| 3   | Oct 16 | 04 Fundamental Rights (part 1)                    | Medium     |
+| 4   | Oct 17 | 04 Fundamental Rights (part 2)                    | Medium     |
+| 5   | Oct 18 | 05 DPSP & Fundamental Duties                      | Medium     |
+| 6   | Oct 19 | 06 President                                      | Medium     |
+| 7   | Oct 20 | **Review:** recall days 1-6 only, no new material |            |
 
 **Week 2: Union and State Executive/Legislature**
 
