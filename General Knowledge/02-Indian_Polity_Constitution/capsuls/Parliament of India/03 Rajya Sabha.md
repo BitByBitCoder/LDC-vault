@@ -42,19 +42,19 @@
 
 ## Lok Sabha vs Rajya Sabha
 
-| Feature | Lok Sabha | Rajya Sabha |
-|---|---|---|
-| Other name | House of the People / Lower House | Council of States / Upper House |
-| Article of composition | 81 | 80 |
-| Max strength | 550 | 250 |
-| Current strength | 543 | 245 |
-| Election | Direct | Indirect (STV) |
-| Min age | 25 | 30 |
-| Term | 5 years (dissolvable) | 6 years (permanent house) |
-| Retirement | Whole house dissolves | 1/3 retire every 2 years |
-| Presiding officer | Speaker | Chairman (Vice President) |
-| Budget | Votes on budget | Only discusses |
-| No-confidence motion | Yes | No |
+| Feature                | Lok Sabha                         | Rajya Sabha                     |
+| ---------------------- | --------------------------------- | ------------------------------- |
+| Other name             | House of the People / Lower House | Council of States / Upper House |
+| Article of composition | 81                                | 80                              |
+| Max strength           | 550                               | 250                             |
+| Current strength       | 543                               | 245                             |
+| Election               | Direct                            | Indirect (STV)                  |
+| Min age                | 25                                | 30                              |
+| Term                   | 5 years (dissolvable)             | 6 years (permanent house)       |
+| Retirement             | Whole house dissolves             | 1/3 retire every 2 years        |
+| Presiding officer      | Speaker                           | Chairman (Vice President)       |
+| Budget                 | Votes on budget                   | Only discusses                  |
+| No-confidence motion   | Yes                               | No                              |
 
 > [!warning] Exam Trap ⚠️
 > - **250 = 238 + 12**; **245 current = 233 (225 States + 8 UTs) + 12 nominated**.
