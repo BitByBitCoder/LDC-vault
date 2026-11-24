@@ -24,19 +24,19 @@
 
 ## Appointment, Tenure, Removal
 
-| Question | Answer |
-|---|---|
-| Who appoints the CEC & ECs? | \|\|President\|\| |
-| Based on recommendation of? | \|\|Committee headed by Prime Minister\|\| |
-| Two other members of the committee (textbook)? | \|\|Leader of Opposition in Lok Sabha and Chief Justice of India\|\| |
-| Source of this rule? | \|\|Supreme Court judgement in Anoop Baranwal vs Union of India, 2023\|\| |
-| Tenure of CEC? | \|\|6 years or until age 65, whichever is earlier\|\| |
-| Tenure of other ECs? | \|\|6 years or until age 65, whichever is earlier\|\| |
-| Resignation to? | \|\|President\|\| |
-| Grounds of removal? | \|\|Misconduct or incapacity\|\| |
-| Removal of CEC? | \|\|Like a Supreme Court Judge\|\| |
-| Removal of other ECs? | \|\|On CEC's recommendation\|\| |
-| Post-tenure appointment (textbook)? | \|\|Eligible for further appointment by the Union government\|\| |
+| Question                                       | Answer                                                                    |
+| ---------------------------------------------- | ------------------------------------------------------------------------- |
+| Who appoints the CEC & ECs?                    | \|\|President\|\|                                                         |
+| Based on recommendation of?                    | \|\|Committee headed by Prime Minister\|\|                                |
+| Two other members of the committee (textbook)? | \|\|Leader of Opposition in Lok Sabha and Chief Justice of India\|\|      |
+| Source of this rule?                           | \|\|Supreme Court judgement in Anoop Baranwal vs Union of India, 2023\|\| |
+| Tenure of CEC?                                 | \|\|6 years or until age 65, whichever is earlier\|\|                     |
+| Tenure of other ECs?                           | \|\|6 years or until age 65, whichever is earlier\|\|                     |
+| Resignation to?                                | \|\|President\|\|                                                         |
+| Grounds of removal?                            | \|\|Misconduct or incapacity\|\|                                          |
+| Removal of CEC?                                | \|\|Like a Supreme Court Judge\|\|                                        |
+| Removal of other ECs?                          | \|\|On CEC's recommendation\|\|                                           |
+| Post-tenure appointment (textbook)?            | \|\|Eligible for further appointment by the Union government\|\|          |
 
 ## Functions
 
