@@ -36,13 +36,13 @@
 
 ## Functions & Post-tenure
 
-| Question | Answer |
-|---|---|
-| Art. 320? | \|\|Conduct recruitment examinations for Union Services\|\| |
-| Art. 321? | \|\|Power of expansion of work area - Parliament\|\| |
-| Art. 322? | \|\|All expenses charged from Consolidated Fund of India\|\| |
-| Annual Report submitted to? | \|\|President\|\| |
-| Post-tenure - Chairman? | \|\|Not eligible for any further employment\|\| |
+| Question                     | Answer                                                                         |
+| ---------------------------- | ------------------------------------------------------------------------------ |
+| Art. 320?                    | \|\|Conduct recruitment examinations for Union Services\|\|                    |
+| Art. 321?                    | \|\|Power of expansion of work area - Parliament\|\|                           |
+| Art. 322?                    | \|\|All expenses charged from Consolidated Fund of India\|\|                   |
+| Annual Report submitted to?  | \|\|President\|\|                                                              |
+| Post-tenure - Chairman?      | \|\|Not eligible for any further employment\|\|                                |
 | Post-tenure - other members? | \|\|Eligible as chairman of UPSC or a State Public Service Commission only\|\| |
 
 > [!warning] Exam Trap ⚠️
