@@ -18,20 +18,20 @@
 
 ## Types of Funds
 
-| Question | Answer |
-|---|---|
-| Consolidated Fund of India - Article? | \|\|Art. 266(1)\|\| |
-| Consolidated Fund - what? | \|\|All receipts are credited and all payments are debited\|\| |
-| Contingency Fund of India - Article? | \|\|Art. 267\|\| |
-| Contingency Fund - what? | \|\|Reserve for emergency expenditures\|\| |
-| Public Accounts of India - Article? | \|\|Art. 266(2)\|\| |
-| Public Accounts - what? | \|\|Savings accounts of various ministries, Disaster Management Fund, Provident Fund, Defence Fund\|\| |
+| Question                              | Answer                                                                                                 |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Consolidated Fund of India - Article? | \|\|Art. 266(1)\|\|                                                                                    |
+| Consolidated Fund - what?             | \|\|All receipts are credited and all payments are debited\|\|                                         |
+| Contingency Fund of India - Article?  | \|\|Art. 267\|\|                                                                                       |
+| Contingency Fund - what?              | \|\|Reserve for emergency expenditures\|\|                                                             |
+| Public Accounts of India - Article?   | \|\|Art. 266(2)\|\|                                                                                    |
+| Public Accounts - what?               | \|\|Savings accounts of various ministries, Disaster Management Fund, Provident Fund, Defence Fund\|\| |
 
-| Fund | Article | Purpose |
-|---|---|---|
-| Consolidated Fund of India | 266(1) | All receipts credited, all payments debited |
-| Contingency Fund of India | 267 | Reserve for emergency expenditures |
-| Public Accounts of India | 266(2) | Savings accounts of ministries, Disaster Management Fund, Provident Fund, Defence Fund |
+| Fund                       | Article | Purpose                                                                                |
+| -------------------------- | ------- | -------------------------------------------------------------------------------------- |
+| Consolidated Fund of India | 266(1)  | All receipts credited, all payments debited                                            |
+| Contingency Fund of India  | 267     | Reserve for emergency expenditures                                                     |
+| Public Accounts of India   | 266(2)  | Savings accounts of ministries, Disaster Management Fund, Provident Fund, Defence Fund |
 
 > [!warning] Exam Trap ⚠️
 > - **Art. 112 = Budget (Annual Financial Statement)** - but the word "Budget" never appears in the Constitution.
