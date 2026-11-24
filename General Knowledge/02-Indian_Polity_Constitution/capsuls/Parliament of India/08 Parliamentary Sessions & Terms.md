@@ -18,7 +18,7 @@
 | Winter Session months?                          | \|\|Nov - Dec\|\|                   |
 | Smallest session?                               | \|\|Winter Session\|\|              |
 | Who summons a session / prorogues it?           | \|\|President\|\|                   |
-| Who adjourns a sitting?                         | \|\|Speaker of LS\|\|               |
+| Who adjourns a sitting?(pause hour/day/week)    | \|\|Speaker of LS\|\|               |
 | Article for sessions, prorogation, dissolution? | \|\|Art. 85\|\|                     |
 
 ## Hours & Terms
