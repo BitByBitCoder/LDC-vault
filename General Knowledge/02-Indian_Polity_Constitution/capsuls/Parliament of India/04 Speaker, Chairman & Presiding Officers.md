@@ -4,20 +4,20 @@
 
 ## Speaker of Lok Sabha
 
-| Question | Answer |
-|---|---|
-| How many Speakers and Deputy Speakers in LS? | \|\|1 Speaker and 1 Deputy Speaker, elected among Lok Sabha members\|\| |
-| Who chairs the Joint Sitting of both Houses? | \|\|Speaker of LS\|\| |
-| Article for Joint Sitting? | \|\|Art. 108\|\| |
-| Who calls the Joint Sitting? | \|\|President\|\| |
-| If Speaker is absent at Joint Sitting? | \|\|Chaired by Deputy Speaker\|\| |
-| If Deputy Speaker is also absent? | \|\|Deputy Chairman of Rajya Sabha\|\| |
-| Who appoints members to Parliamentary Committees? | \|\|Speaker\|\| |
-| Who gives the casting vote in case of a tie? | \|\|Speaker\|\| |
-| Who decides adjournment of meetings? | \|\|Speaker\|\| |
-| To whom does the Speaker resign? | \|\|Deputy Speaker (and vice versa)\|\| |
-| How is the Speaker removed? | \|\|By a majority of the then members (14 days' prior notice)\|\| |
-| Article for vacancy of LS Speaker? | \|\|Art. 94\|\| |
+| Question                                          | Answer                                                                  |
+| ------------------------------------------------- | ----------------------------------------------------------------------- |
+| How many Speakers and Deputy Speakers in LS?      | \|\|1 Speaker and 1 Deputy Speaker, elected among Lok Sabha members\|\| |
+| Who chairs the Joint Sitting of both Houses?      | \|\|Speaker of LS\|\|                                                   |
+| Article for Joint Sitting?                        | \|\|Art. 108\|\|                                                        |
+| Who calls the Joint Sitting?                      | \|\|President\|\|                                                       |
+| If Speaker is absent at Joint Sitting?            | \|\|Chaired by Deputy Speaker\|\|                                       |
+| If Deputy Speaker is also absent?                 | \|\|Deputy Chairman of Rajya Sabha\|\|                                  |
+| Who appoints members to Parliamentary Committees? | \|\|Speaker\|\|                                                         |
+| Who gives the casting vote in case of a tie?      | \|\|Speaker\|\|                                                         |
+| Who decides adjournment of meetings?              | \|\|Speaker\|\|                                                         |
+| To whom does the Speaker resign?                  | \|\|Deputy Speaker (and vice versa)\|\|                                 |
+| How is the Speaker removed?                       | \|\|By a majority of the then members (14 days' prior notice)\|\|       |
+| Article for vacancy of LS Speaker?                | \|\|Art. 94 ban theih dan\|\|                                           |
 
 ## First / Current Speaker
 
