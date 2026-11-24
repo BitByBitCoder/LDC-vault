@@ -38,12 +38,12 @@
 
 ## Comparison
 
-| Feature | Money Bill | Finance Bill | Appropriation Bill |
-|---|---|---|---|
-| Article | 110 | 117(3) | 114 |
-| Route | LS -> RS (limited power) -> President | President & Lok Sabha | Withdraws funds from CFI |
-| Treated like | Special | Ordinary Bill | - |
-| Extra note | All Money Bills are Financial Bills | Presidential Ordinance (Art. 123) | Cut Motions during voting |
+| Feature      | Money Bill                            | Finance Bill                      | Appropriation Bill        |
+| ------------ | ------------------------------------- | --------------------------------- | ------------------------- |
+| Article      | 110                                   | 117(3)                            | 114                       |
+| Route        | LS -> RS (limited power) -> President | President & Lok Sabha             | Withdraws funds from CFI  |
+| Treated like | Special                               | Ordinary Bill                     | -                         |
+| Extra note   | All Money Bills are Financial Bills   | Presidential Ordinance (Art. 123) | Cut Motions during voting |
 
 ## Cut Motions Comparison
 
