@@ -37,16 +37,16 @@
 
 ## Chairman & Deputy Chairman of Rajya Sabha
 
-| Question | Answer |
-|---|---|
-| Who is the Chairman of RS? | \|\|Vice President of India\|\| |
-| Article? | \|\|Art. 89(1)\|\| |
-| Is the Vice President a member of any House? | \|\|No - not a member of any House\|\| |
-| Who took charge as the 15th Vice President? | \|\|C.P. Radhakrishnan\|\| |
-| To whom does the Deputy Chairman resign? | \|\|Chairman\|\| |
-| How is the Deputy Chairman removed? | \|\|By majority of Rajya Sabha\|\| |
-| If Chairman & Deputy Chairman are absent? | \|\|One person from a committee of 10 people is appointed as Chairman by President (textbook version)\|\| |
-| During a pending removal motion? | \|\|Chairman or Vice Chairman will not preside\|\| |
+| Question                                     | Answer                                                                                                    |
+| -------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| Who is the Chairman of RS?                   | \|\|Vice President of India\|\|                                                                           |
+| Article?                                     | \|\|Art. 89(1)\|\|                                                                                        |
+| Is the Vice President a member of any House? | \|\|No - not a member of any House\|\|                                                                    |
+| Who took charge as the 15th Vice President?  | \|\|C.P. Radhakrishnan\|\|                                                                                |
+| To whom does the Deputy Chairman resign?     | \|\|Chairman\|\|                                                                                          |
+| How is the Deputy Chairman removed?          | \|\|By majority of Rajya Sabha\|\|                                                                        |
+| If Chairman & Deputy Chairman are absent?    | \|\|One person from a committee of 10 people is appointed as Chairman by President (textbook version)\|\| |
+| During a pending removal motion?             | \|\|Chairman or Vice Chairman will not preside\|\|                                                        |
 
 ## Comparison
 
