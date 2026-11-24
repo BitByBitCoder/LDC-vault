@@ -10,16 +10,16 @@
 | Monsoon Session | July - Sept | - |
 | Winter Session | Nov - Dec | Smallest |
 
-| Question | Answer |
-|---|---|
-| How many Parliamentary sessions are there? | \|\|3 - Budget, Monsoon, Winter\|\| |
-| Budget Session months? | \|\|Feb - May\|\| |
-| Monsoon Session months? | \|\|July - Sept\|\| |
-| Winter Session months? | \|\|Nov - Dec\|\| |
-| Smallest session? | \|\|Winter Session\|\| |
-| Who summons a session / prorogues it? | \|\|President\|\| |
-| Who adjourns a sitting? | \|\|Speaker of LS\|\| |
-| Article for sessions, prorogation, dissolution? | \|\|Art. 85\|\| |
+| Question                                        | Answer                              |
+| ----------------------------------------------- | ----------------------------------- |
+| How many Parliamentary sessions are there?      | \|\|3 - Budget, Monsoon, Winter\|\| |
+| Budget Session months?                          | \|\|Feb - May\|\|                   |
+| Monsoon Session months?                         | \|\|July - Sept\|\|                 |
+| Winter Session months?                          | \|\|Nov - Dec\|\|                   |
+| Smallest session?                               | \|\|Winter Session\|\|              |
+| Who summons a session / prorogues it?           | \|\|President\|\|                   |
+| Who adjourns a sitting?                         | \|\|Speaker of LS\|\|               |
+| Article for sessions, prorogation, dissolution? | \|\|Art. 85\|\|                     |
 
 ## Hours & Terms
 
