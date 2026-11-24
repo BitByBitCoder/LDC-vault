@@ -13,17 +13,17 @@
 
 ## Grounds of Disqualification (Art. 102)
 
-| Question | Answer |
-|---|---|
-| Article for grounds of disqualification? | \|\|Art. 102\|\| |
-| Mental ground? | \|\|Unsound mind\|\| |
-| Financial ground? | \|\|Insolvent\|\| |
-| Imprisonment ground (textbook)? | \|\|Imprisonment of 2 years (textbook: "not more than 2 years")\|\| |
-| Absence ground? | \|\|Absent for 60+ days without permission\|\| |
-| Which Amendment added defection ground? | \|\|52nd Amendment (1985)\|\| |
-| Defection is in which Schedule? | \|\|10th Schedule\|\| |
-| Who disqualifies members under Art. 103? | \|\|President, on the advice of Election Commission\|\| |
-| Who decides on defection? | \|\|Presiding Officer - Speaker (LS) / Chairman (RS)\|\| |
+| Question                                 | Answer                                                              |
+| ---------------------------------------- | ------------------------------------------------------------------- |
+| Article for grounds of disqualification? | \|\|Art. 102\|\|                                                    |
+| Mental ground?                           | \|\|Unsound mind\|\|                                                |
+| Financial ground?                        | \|\|Insolvent (BA)\|\|                                              |
+| Imprisonment ground (textbook)?          | \|\|Imprisonment of 2 years (textbook: "not more than 2 years")\|\| |
+| Absence ground?                          | \|\|Absent for 60+ days without permission\|\|                      |
+| Which Amendment added defection ground?  | \|\|52nd Amendment (1985)\|\|                                       |
+| Defection is in which Schedule?          | \|\|10th Schedule\|\|                                               |
+| Who disqualifies members under Art. 103? | \|\|President, on the advice of Election Commission\|\|             |
+| Who decides on defection?                | \|\|Presiding Officer - Speaker (LS) / Chairman (RS)\|\|            |
 
 ## Disqualification at a Glance
 
