@@ -15,12 +15,12 @@
 
 ## Composition
 
-| Question | Answer |
-|---|---|
-| ECI was originally a? | \|\|Single-member body until 16 October 1989\|\| |
-| Became multi-member from? | \|\|1 October 1993\|\| |
-| Present composition? | \|\|1 Chief Election Commissioner (CEC) + 2 other Election Commissioners\|\| |
-| Who changes the composition? | \|\|President\|\| |
+| Question                     | Answer                                                                       |
+| ---------------------------- | ---------------------------------------------------------------------------- |
+| ECI was originally a?        | \|\|Single-member body until 16 October 1989\|\|                             |
+| Became multi-member from?    | \|\|1 October 1993\|\|                                                       |
+| Present composition?         | \|\|1 Chief Election Commissioner (CEC) + 2 other Election Commissioners\|\| |
+| Who changes the composition? | \|\|President\|\|                                                            |
 
 ## Appointment, Tenure, Removal
 
