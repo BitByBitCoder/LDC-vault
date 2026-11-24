@@ -4,16 +4,16 @@
 
 ## National Commission for Scheduled Castes (NCSC)
 
-| Question | Answer |
-|---|---|
-| Original body (before bifurcation)? | \|\|National Commission for Scheduled Castes & Scheduled Tribes (NCSC & NCST)\|\| |
-| Created by? | \|\|65th Constitutional Amendment Act, 1990\|\| |
-| Formed under? | \|\|Article 338\|\| |
-| Composition? | \|\|Chairperson + Vice Chairperson + other 3 Members\|\| |
-| Appointment? | \|\|By President\|\| |
-| Tenure? | \|\|3 years\|\| |
-| Function? | \|\|To protect the interests of Scheduled Castes\|\| |
-| Which Amendment relieved NCSC of monitoring OBCs? | \|\|102nd CAA, 2018\|\| |
+| Question                                          | Answer                                                                            |
+| ------------------------------------------------- | --------------------------------------------------------------------------------- |
+| Original body (before bifurcation)?               | \|\|National Commission for Scheduled Castes & Scheduled Tribes (NCSC & NCST)\|\| |
+| Created by?                                       | \|\|65th Constitutional Amendment Act, 1990\|\|                                   |
+| Formed under?                                     | \|\|Article 338\|\|                                                               |
+| Composition?                                      | \|\|Chairperson + Vice Chairperson + other 3 Members\|\|                          |
+| Appointment?                                      | \|\|By President\|\|                                                              |
+| Tenure?                                           | \|\|3 years\|\|                                                                   |
+| Function?                                         | \|\|To protect the interests of Scheduled Castes\|\|                              |
+| Which Amendment relieved NCSC of monitoring OBCs? | \|\|102nd CAA, 2018\|\|                                                           |
 
 ## National Commission for Scheduled Tribes (NCST)
 

@@ -4,22 +4,22 @@
 
 ## Lokpal & Lokayuktas
 
-| Question | Answer |
-|---|---|
-| Lokpal operates at which level? | \|\|Central level\|\| |
-| Created in? | \|\|2013 under the Lokpal and Lokayuktas Act, 2013\|\| |
-| Structure? | \|\|Chairperson + up to 8 members\|\| |
-| Reservation among members? | \|\|At least 50% from SC/ST/OBC/Minority/Women\|\| |
-| Judicial members? | \|\|50% from Judicial background\|\| |
-| Appointed by? | \|\|President\|\| |
-| Tenure? | \|\|5 years or till 70 years of age\|\| |
-| Lokayuktas operate at? | \|\|State level (appointed by Governors)\|\| |
-| First Lokayukta office established in? | \|\|Maharashtra (1971)\|\| |
-| Motto? | \|\|"Empower citizens, Expose corruption"\|\| |
-| 1st Lokpal in world? | \|\|1809 in Sweden by the name of Ombudsmen\|\| |
-| 1st Lokpal of India? | \|\|Pinaki Chandra Ghose (2019)\|\| |
-| Current Lokpal (textbook)? | \|\|Ajay Manikrao Khanwilkar\|\| |
-| Lokpal's investigation includes? | \|\|Prime Minister; officers of Group A, B, C, D\|\| |
+| Question                               | Answer                                                 |
+| -------------------------------------- | ------------------------------------------------------ |
+| Lokpal operates at which level?        | \|\|Central level\|\|                                  |
+| Created in?                            | \|\|2013 under the Lokpal and Lokayuktas Act, 2013\|\| |
+| Structure?                             | \|\|Chairperson + up to 8 members\|\|                  |
+| Reservation among members?             | \|\|At least 50% from SC/ST/OBC/Minority/Women\|\|     |
+| Judicial members?                      | \|\|50% from Judicial background\|\|                   |
+| Appointed by?                          | \|\|President\|\|                                      |
+| Tenure?                                | \|\|5 years or till 70 years of age\|\|                |
+| Lokayuktas operate at?                 | \|\|State level (appointed by Governors)\|\|           |
+| First Lokayukta office established in? | \|\|Maharashtra (1971)\|\|                             |
+| Motto?                                 | \|\|"Empower citizens, Expose corruption"\|\|          |
+| 1st Lokpal in world?                   | \|\|1809 in Sweden by the name of Ombudsmen\|\|        |
+| 1st Lokpal of India?                   | \|\|Pinaki Chandra Ghose (2019)\|\|                    |
+| Current Lokpal (textbook)?             | \|\|Ajay Manikrao Khanwilkar\|\|                       |
+| Lokpal's investigation includes?       | \|\|Prime Minister; officers of Group A, B, C, D\|\|   |
 
 ## NITI Aayog
 
