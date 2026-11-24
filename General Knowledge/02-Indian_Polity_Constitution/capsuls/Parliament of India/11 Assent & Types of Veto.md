@@ -2,7 +2,7 @@
 
 # 11 Assent & Types of Veto
 
-| Question                                               | Answer                                                        |
+| Question bill hnawl theih na                           | Answer                                                        |
 | ------------------------------------------------------ | ------------------------------------------------------------- |
 | Veto power of the Indian President is of which nature? | \|\|Negative\|\|                                              |
 | Absolute veto?                                         | \|\|Withhold assent\|\|                                       |
