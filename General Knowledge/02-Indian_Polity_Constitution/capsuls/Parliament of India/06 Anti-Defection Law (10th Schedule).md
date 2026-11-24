@@ -19,12 +19,12 @@
 
 ## Conditions Table
 
-| Condition | Meaning | Exception |
-|---|---|---|
-| (a) | Independent member joins a political party | - |
-| (b) | Nominated member joins a party (after 6 months) | - |
-| (c) | Not obeying whip | - |
-| (d) | Member joins another party | 2/3rd members joining or party merger |
+| Condition | Meaning                                         | Exception                             |
+| --------- | ----------------------------------------------- | ------------------------------------- |
+| (a)       | Independent member joins a political party      | -                                     |
+| (b)       | Nominated member joins a party (after 6 months) | -                                     |
+| (c)       | Not obeying whip                                | -                                     |
+| (d)       | Member joins another party                      | 2/3rd members joining or party merger |
 
 > [!warning] Exam Trap ⚠️
 > - **Nominated member** may join a party within **6 months** safely; after 6 months -> disqualified.
