@@ -2,12 +2,12 @@
 
 # 07 Privileges of Members
 
-| Question                                              | Answer                                                          |
-| ----------------------------------------------------- | --------------------------------------------------------------- |
-| Is there criminal liability for speech in Parliament? | \|\|No criminal liability for speech in Parliament\|\|          |
-| Is arrest allowed in civil cases?                     | \|\|No arrest in civil cases 40 days before & after session\|\| |
-| Is arrest allowed in criminal cases?                  | \|\|Yes - arrest in criminal cases is allowed\|\|               |
-| Which committee examines breach of privileges?        | \|\|Privileges Committee (15: 10 LS + 5 RS)\|\|                 |
+| Question                                              | Answer                                                                              |
+| ----------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| Is there criminal liability for speech in Parliament? | \|\|No criminal liability for speech in Parliament (complete freedom of speech)\|\| |
+| Is arrest allowed in civil cases?                     | \|\|No arrest in civil cases 40 days before & after session\|\|                     |
+| Is arrest allowed in criminal cases?                  | \|\|Yes - arrest in criminal cases is allowed\|\|                                   |
+| Which committee examines breach of privileges?        | \|\|Privileges Committee (15: 10 LS + 5 RS)\|\|                                     |
 
 | Privilege | Rule |
 |---|---|
