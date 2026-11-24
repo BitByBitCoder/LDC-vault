@@ -4,14 +4,14 @@
 
 ## Basics
 
-| Question | Answer |
-|---|---|
-| Which Part of the Constitution covers ECI? | \|\|Part XV\|\| |
-| Articles for ECI? | \|\|Articles 324-329\|\| |
-| Nature of the body? | \|\|Quasi-judicial body\|\| |
-| Date of establishment of ECI? | \|\|25 January 1950\|\| |
-| National Voters' Day is on? | \|\|25 January every year, since 2011\|\| |
-| 1st Chief Election Commissioner? | \|\|Sukumar Sen\|\| |
+| Question                                   | Answer                                    |
+| ------------------------------------------ | ----------------------------------------- |
+| Which Part of the Constitution covers ECI? | \|\|Part XV\|\|                           |
+| Articles for ECI?                          | \|\|Articles 324-329\|\|                  |
+| Nature of the body?                        | \|\|Quasi-judicial body\|\|               |
+| Date of establishment of ECI?              | \|\|25 January 1950\|\|                   |
+| National Voters' Day is on?                | \|\|25 January every year, since 2011\|\| |
+| 1st Chief Election Commissioner?           | \|\|Sukumar Sen\|\|                       |
 
 ## Composition
 
