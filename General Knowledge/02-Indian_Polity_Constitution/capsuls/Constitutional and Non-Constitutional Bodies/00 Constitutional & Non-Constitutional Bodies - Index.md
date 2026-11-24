@@ -4,19 +4,19 @@ Source: Textbook Ch. 22 - Constitutional and Non-Constitutional Bodies (pp. 59-6
 
 ## Study Order
 
-| Order | Note | Covers |
-|---|---|---|
-| 1 | [[01 Constitutional vs Non-Constitutional Bodies]] | Definitions |
-| 2 | [[02 Election Commission of India]] | Part XV, composition, functions, reform committees |
-| 3 | [[03 Major National Political Parties of India]] | INC, CPI(M), BJP, BSP, NPP, AAP |
-| 4 | [[04 UPSC]] | Art. 315-323, 316, 320-322, civil services |
-| 5 | [[05 SPSC & JPSC & Tribunals]] | SPSC, JPSC, Art. 323A/B |
-| 6 | [[06 CAG & Attorney General]] | Art. 148, Art. 76 |
-| 7 | [[07 GST Council]] | Art. 279A, voting weights |
-| 8 | [[08 SC, ST & Backward Classes Commissions]] | Art. 338/338A/338B, 350B |
-| 9 | [[09 NHRC, CIC & CVC]] | Statutory bodies, tenure comparison |
-| 10 | [[10 CBI, NCW & Minorities Commission]] | CBI, NCW, NCM |
-| 11 | [[11 Lokpal, Lokayuktas & NITI Aayog]] | Lokpal, NITI Aayog |
+| Order | Note                                               | Covers                                             |
+| ----- | -------------------------------------------------- | -------------------------------------------------- |
+| 1     | [[01 Constitutional vs Non-Constitutional Bodies]] | Definitions                                        |
+| 2     | [[02 Election Commission of India]]                | Part XV, composition, functions, reform committees |
+| 3     | [[03 Major National Political Parties of India]]   | INC, CPI(M), BJP, BSP, NPP, AAP                    |
+| 4     | [[04 UPSC]]                                        | Art. 315-323, 316, 320-322, civil services         |
+| 5     | [[05 SPSC & JPSC & Tribunals]]                     | SPSC, JPSC, Art. 323A/B                            |
+| 6     | [[06 CAG & Attorney General]]                      | Art. 148, Art. 76                                  |
+| 7     | [[07 GST Council]]                                 | Art. 279A, voting weights                          |
+| 8     | [[08 SC, ST & Backward Classes Commissions]]       | Art. 338/338A/338B, 350B                           |
+| 9     | [[09 NHRC, CIC & CVC]]                             | Statutory bodies, tenure comparison                |
+| 10    | [[10 CBI, NCW & Minorities Commission]]            | CBI, NCW, NCM                                      |
+| 11    | [[11 Lokpal, Lokayuktas & NITI Aayog]]             | Lokpal, NITI Aayog                                 |
 
 ## Highest-Yield Numbers
 
