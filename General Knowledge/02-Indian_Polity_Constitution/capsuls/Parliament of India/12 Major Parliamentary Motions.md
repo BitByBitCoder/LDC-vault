@@ -12,30 +12,30 @@
 
 ## 2. No-Confidence Motion
 
-| Question | Answer |
-|---|---|
-| In which House is it moved? | \|\|Only in Lok Sabha\|\| |
-| Minimum proposers? | \|\|50 members\|\| |
-| Need to give reasons? | \|\|No\|\| |
-| If passed? | \|\|Government resigns\|\| |
-| First No-Confidence Motion? | \|\|1963 by J.B. Kripalani against J.L. Nehru (not passed)\|\| |
-| Total no-confidence motions till now? | \|\|27 (15 against Indira Gandhi)\|\| |
+| Question                              | Answer                                                         |
+| ------------------------------------- | -------------------------------------------------------------- |
+| In which House is it moved?           | \|\|Only in Lok Sabha\|\|                                      |
+| Minimum proposers?                    | \|\|50 members\|\|                                             |
+| Need to give reasons?                 | \|\|No\|\|                                                     |
+| If passed?                            | \|\|Government resigns\|\|                                     |
+| First No-Confidence Motion?           | \|\|1963 by J.B. Kripalani against J.L. Nehru (not passed)\|\| |
+| Total no-confidence motions till now? | \|\|27 (15 against Indira Gandhi)\|\|                          |
 
 ## 3. Confidence Motion
 
-| Question | Answer |
-|---|---|
+| Question      | Answer                                          |
+| ------------- | ----------------------------------------------- |
 | Who moves it? | \|\|Ruling party, on direction of President\|\| |
-| Purpose? | \|\|To prove majority in Lok Sabha\|\| |
+| Purpose?      | \|\|To prove majority in Lok Sabha\|\|          |
 
 ## 4. Censure Motion
 
-| Question | Answer |
-|---|---|
-| Permission of House required? | \|\|No\|\| |
-| Need to tell reason? | \|\|No (no need to tell reason for motion)\|\| |
-| Against whom? | \|\|One minister or Council of Ministers\|\| |
-| Is government bound to resign? | \|\|Not bound to resign, but humiliating\|\| |
+| Question                       | Answer                                         |
+| ------------------------------ | ---------------------------------------------- |
+| Permission of House required?  | \|\|No\|\|                                     |
+| Need to tell reason?           | \|\|No (no need to tell reason for motion)\|\| |
+| Against whom?                  | \|\|One minister or Council of Ministers\|\|   |
+| Is government bound to resign? | \|\|Not bound to resign, but humiliating\|\|   |
 
 ## 5. Adjournment Motion (Work Stoppage Motion)
 
