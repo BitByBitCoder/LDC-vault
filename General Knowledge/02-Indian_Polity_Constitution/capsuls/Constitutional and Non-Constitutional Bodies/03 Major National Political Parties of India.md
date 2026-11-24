@@ -2,27 +2,27 @@
 
 # 03 Major National Political Parties of India
 
-| Question | Answer |
-|---|---|
-| INC established in? | \|\|1885\|\| |
-| INC dominant during which era? | \|\|Nehru Era\|\| |
-| What caused decline of Congress dominance after 1989? | \|\|Spread of regional parties\|\| |
-| INC status in Lok Sabha (2025)? | \|\|Main opposition party\|\| |
-| CPI(M) formed in? | \|\|1964, after a split from the Communist Party of India\|\| |
-| CPI(M) - view of capitalism? | \|\|Capitalism seen as opposition to Communism\|\| |
-| CPI(M) major presence in? | \|\|Kerala & West Bengal\|\| |
-| BJP established in? | \|\|1980 (Bharatiya Jan Sangh revived & established)\|\| |
-| BJP ideology? | \|\|Advocates Hindutva ideology\|\| |
-| BJP in Centre since? | \|\|2014 (ruling party)\|\| |
-| BSP formed in? | \|\|1984 by Kanshi Ram\|\| |
-| BSP focus? | \|\|Representation of Dalits and Backward classes\|\| |
-| BSP major support in? | \|\|North India\|\| |
-| NPP formed in? | \|\|2013 by P.A. Sangma\|\| |
-| NPP recognized as a National Party in? | \|\|2019\|\| |
-| NPP strong support in? | \|\|Eastern Region\|\| |
-| AAP formed in? | \|\|2012 by Arvind Kejriwal\|\| |
-| AAP established after? | \|\|2011 Anti-Corruption movement\|\| |
-| AAP currently in power in? | \|\|State of Punjab\|\| |
+| Question                                              | Answer                                                        |
+| ----------------------------------------------------- | ------------------------------------------------------------- |
+| INC established in?                                   | \|\|1885\|\|                                                  |
+| INC dominant during which era?                        | \|\|Nehru Era\|\|                                             |
+| What caused decline of Congress dominance after 1989? | \|\|Spread of regional parties\|\|                            |
+| INC status in Lok Sabha (2025)?                       | \|\|Main opposition party\|\|                                 |
+| CPI(M) formed in?                                     | \|\|1964, after a split from the Communist Party of India\|\| |
+| CPI(M) - view of capitalism?                          | \|\|Capitalism seen as opposition to Communism\|\|            |
+| CPI(M) major presence in?                             | \|\|Kerala & West Bengal\|\|                                  |
+| BJP established in?                                   | \|\|1980 (Bharatiya Jan Sangh revived & established)\|\|      |
+| BJP ideology?                                         | \|\|Advocates Hindutva ideology\|\|                           |
+| BJP in Centre since?                                  | \|\|2014 (ruling party)\|\|                                   |
+| BSP formed in?                                        | \|\|1984 by Kanshi Ram\|\|                                    |
+| BSP focus?                                            | \|\|Representation of Dalits and Backward classes\|\|         |
+| BSP major support in?                                 | \|\|North India\|\|                                           |
+| NPP formed in?                                        | \|\|2013 by P.A. Sangma\|\|                                   |
+| NPP recognized as a National Party in?                | \|\|2019\|\|                                                  |
+| NPP strong support in?                                | \|\|Eastern Region\|\|                                        |
+| AAP formed in?                                        | \|\|2012 by Arvind Kejriwal\|\|                               |
+| AAP established after?                                | \|\|2011 Anti-Corruption movement\|\|                         |
+| AAP currently in power in?                            | \|\|State of Punjab\|\|                                       |
 
 | Party | Year | Founder / Origin | Key Fact |
 |---|---|---|---|
