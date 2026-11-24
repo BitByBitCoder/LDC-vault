@@ -43,12 +43,12 @@
 
 ## Joint Sittings (Art. 108)
 
-| Question | Answer |
-|---|---|
-| How many joint sittings till now? | \|\|3\|\| |
-| Joint sitting 1? | \|\|Dowry Prohibition Bill, 1961\|\| |
-| Joint sitting 2? | \|\|Banking Service Commission (Repeal) Bill, 1977\|\| |
-| Joint sitting 3? | \|\|Prevention of Terrorism Bill, 2002\|\| |
+| Question                          | Answer                                                 |
+| --------------------------------- | ------------------------------------------------------ |
+| How many joint sittings till now? | \|\|3\|\|                                              |
+| Joint sitting 1?                  | \|\|Dowry Prohibition Bill, 1961\|\|                   |
+| Joint sitting 2?                  | \|\|Banking Service Commission (Repeal) Bill, 1977\|\| |
+| Joint sitting 3?                  | \|\|Prevention of Terrorism Bill, 2002\|\|             |
 
 ## Comparison
 
