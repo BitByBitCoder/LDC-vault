@@ -40,19 +40,19 @@
 
 ## Functions
 
-| Question | Answer |
-|---|---|
+| Question    | Answer                                                                                                                |
+| ----------- | --------------------------------------------------------------------------------------------------------------------- |
 | Function 1? | \|\|Conducting or supervising elections to Parliament, State Legislatures & offices of President & Vice-President\|\| |
-| Function 2? | \|\|Preparing the Electoral Rolls\|\| |
-| Function 3? | \|\|Allotment of election symbols to political parties\|\| |
-| Function 4? | \|\|Delimitation of constituencies (as listed in textbook)\|\| |
-| Function 5? | \|\|Granting recognition to national and state parties\|\| |
+| Function 2? | \|\|Preparing the Electoral Rolls\|\|                                                                                 |
+| Function 3? | \|\|Allotment of election symbols to political parties\|\|                                                            |
+| Function 4? | \|\|Delimitation of constituencies (as listed in textbook)\|\|                                                        |
+| Function 5? | \|\|Granting recognition to national and state parties\|\|                                                            |
 
 ## Committees on Electoral Reforms
 
-| Committee | Year |
-|---|---|
-| Tarkunde Committee | \|\|1974\|\| |
+| Committee                | Year         |
+| ------------------------ | ------------ |
+| Tarkunde Committee       | \|\|1974\|\| |
 | Dinesh Goswami Committee | \|\|1990\|\| |
 | Indrajit Gupta Committee | \|\|1998\|\| |
 
