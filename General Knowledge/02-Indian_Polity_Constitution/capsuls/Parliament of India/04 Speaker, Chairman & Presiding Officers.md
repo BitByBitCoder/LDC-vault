@@ -29,11 +29,11 @@
 
 ## Pro-tem Speaker
 
-| Question | Answer |
-|---|---|
-| Who is the Pro-tem Speaker? | \|\|Senior-most MP after LS election\|\| |
-| Who appoints the Pro-tem Speaker? | \|\|President\|\| |
-| Function of Pro-tem Speaker? | \|\|Administer oath to newly elected LS members & conduct election of Speaker\|\| |
+| Question                          | Answer                                                                            |
+| --------------------------------- | --------------------------------------------------------------------------------- |
+| Who is the Pro-tem Speaker?       | \|\|Senior-most MP after LS election\|\|                                          |
+| Who appoints the Pro-tem Speaker? | \|\|President\|\|                                                                 |
+| Function of Pro-tem Speaker?      | \|\|Administer oath to newly elected LS members & conduct election of Speaker\|\| |
 
 ## Chairman & Deputy Chairman of Rajya Sabha
 
