@@ -4,19 +4,19 @@
 
 ## Basic Facts
 
-| Question | Answer |
-|---|---|
-| Date of the first session of Lok Sabha? | \|\|13 May 1952\|\| |
-| Maximum strength of Lok Sabha? | \|\|550\|\| |
-| Maximum strength split? | \|\|530 from States + 20 from Union Territories\|\| |
-| Current strength of Lok Sabha? | \|\|543 (directly elected members)\|\| |
-| Which Amendment removed Anglo-Indian reservation? | \|\|104th Amendment\|\| |
-| First General Election? | \|\|1951-52\|\| |
-| Minimum age to become an LS member? | \|\|25 years or more\|\| |
-| Citizenship needed? | \|\|Indian citizen\|\| |
-| Term of Lok Sabha? | \|\|5 years (subject to early dissolution)\|\| |
-| Can the term be extended during Emergency? | \|\|Yes - by 1 year (at a time)\|\| |
-| Limit after the Emergency ends? | \|\|Cannot exceed 6 months post-emergency\|\| |
+| Question                                          | Answer                                              |
+| ------------------------------------------------- | --------------------------------------------------- |
+| Date of the first session of Lok Sabha?           | \|\|13 May 1952\|\|                                 |
+| Maximum strength of Lok Sabha?                    | \|\|550\|\|                                         |
+| Maximum strength split?                           | \|\|530 from States + 20 from Union Territories\|\| |
+| Current strength of Lok Sabha?                    | \|\|543 (directly elected members)\|\|              |
+| Which Amendment removed Anglo-Indian reservation? | \|\|104th Amendment\|\|                             |
+| First General Election?                           | \|\|1951-52\|\|                                     |
+| Minimum age to become an LS member?               | \|\|25 years or more\|\|                            |
+| Citizenship needed?                               | \|\|Indian citizen\|\|                              |
+| Term of Lok Sabha?                                | \|\|5 years (subject to early dissolution)\|\|      |
+| Can the term be extended during Emergency?        | \|\|Yes - by 1 year (at a time)\|\|                 |
+| Limit after the Emergency ends?                   | \|\|Cannot exceed 6 months post-emergency\|\|       |
 
 ## Delimitation
 
