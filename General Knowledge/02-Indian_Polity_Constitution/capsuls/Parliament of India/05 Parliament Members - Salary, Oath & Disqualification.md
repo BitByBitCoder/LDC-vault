@@ -27,14 +27,14 @@
 
 ## Disqualification at a Glance
 
-| Ground | Detail |
-|---|---|
-| Mind | Unsound mind |
-| Money | Insolvent |
-| Jail | Imprisonment (2 years) |
-| Absence | 60+ days without permission |
-| Defection | 52nd Amendment (1985), 10th Schedule |
-| Who disqualifies | President (Art. 103) on EC advice |
+| Ground           | Detail                               |
+| ---------------- | ------------------------------------ |
+| Mind             | Unsound mind                         |
+| Money            | Insolvent                            |
+| Jail             | Imprisonment (2 years)               |
+| Absence          | 60+ days without permission          |
+| Defection        | 52nd Amendment (1985), 10th Schedule |
+| Who disqualifies | President (Art. 103) on EC advice    |
 
 > [!warning] Exam Trap ⚠️
 > - **Art. 102 = grounds**; **Art. 103 = who decides** (President on EC advice).
