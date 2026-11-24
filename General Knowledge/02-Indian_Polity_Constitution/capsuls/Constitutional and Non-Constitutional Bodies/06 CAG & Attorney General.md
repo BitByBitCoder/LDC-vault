@@ -20,17 +20,17 @@
 
 ## Attorney General of India
 
-| Question | Answer |
-|---|---|
-| Constitutional provision? | \|\|Part V; Article 76\|\| |
-| Role? | \|\|1st Law Officer / Chief Legal Advisor\|\| |
-| Rights in Parliament? | \|\|Speaks in Parliament but no voting\|\| |
-| Private legal practice? | \|\|Not barred from private legal practice\|\| |
-| Who appoints? | \|\|President under Art. 76(1)\|\| |
-| 1st Attorney General? | \|\|M.C. Setalvad\|\| |
-| Current Attorney General (textbook)? | \|\|R. Venkataramani\|\| |
-| Salary & allowances determined by? | \|\|President\|\| |
-| Qualification? | \|\|Eligible to be appointed as Judge of Supreme Court\|\| |
+| Question                             | Answer                                                     |
+| ------------------------------------ | ---------------------------------------------------------- |
+| Constitutional provision?            | \|\|Part V; Article 76\|\|                                 |
+| Role?                                | \|\|1st Law Officer / Chief Legal Advisor\|\|              |
+| Rights in Parliament?                | \|\|Speaks in Parliament but no voting\|\|                 |
+| Private legal practice?              | \|\|Not barred from private legal practice\|\|             |
+| Who appoints?                        | \|\|President under Art. 76(1)\|\|                         |
+| 1st Attorney General?                | \|\|M.C. Setalvad\|\|                                      |
+| Current Attorney General (textbook)? | \|\|R. Venkataramani\|\|                                   |
+| Salary & allowances determined by?   | \|\|President\|\|                                          |
+| Qualification?                       | \|\|Eligible to be appointed as Judge of Supreme Court\|\| |
 
 | Feature | CAG | Attorney General |
 |---|---|---|
