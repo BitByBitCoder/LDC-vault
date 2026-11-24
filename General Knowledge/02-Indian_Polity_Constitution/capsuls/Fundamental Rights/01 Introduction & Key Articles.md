@@ -4,18 +4,18 @@
 
 ## General Introduction
 
-| Question | Answer |
-|---|---|
-| Fundamental Rights are in which Part & Articles? | \|\|Part III; Articles 12-35\|\| |
-| Are Fundamental Rights enforceable in court? | \|\|Yes - justiciable (enforceable)\|\| |
-| Fundamental Rights are considered the? | \|\|Charter of Rights of India (like Magna Carta)\|\| |
-| Who prepared the Draft on Fundamental Rights at the Karachi session (1931)? | \|\|Jawaharlal Nehru\|\| |
-| Source of Fundamental Rights? | \|\|U.S. Constitution\|\| |
-| Number of Fundamental Rights currently? | \|\|6 (initially 7)\|\| |
-| Which right was removed? | \|\|Right to Property\|\| |
-| Right to Property is now? | \|\|A Legal right (Article 300A, via 44th Amendment, 1978)\|\| |
-| Who removed Right to Property from FRs (textbook)? | \|\|PM Morarji Desai\|\| |
-| Are Fundamental Rights amendable? | \|\|Yes (Keshavananda Bharati case + 24th Amendment)\|\| |
+| Question                                                                    | Answer                                                         |
+| --------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| Fundamental Rights are in which Part & Articles?                            | \|\|Part III; Articles 12-35\|\|                               |
+| Are Fundamental Rights enforceable in court?                                | \|\|Yes - justiciable (enforceable)\|\|                        |
+| Fundamental Rights are considered the?                                      | \|\|Charter of Rights of India (like Magna Carta)\|\|          |
+| Who prepared the Draft on Fundamental Rights at the Karachi session (1931)? | \|\|Jawaharlal Nehru\|\|                                       |
+| Source of Fundamental Rights?                                               | \|\|U.S. Constitution\|\|                                      |
+| Number of Fundamental Rights currently?                                     | \|\|6 (initially 7)\|\|                                        |
+| Which right was removed?                                                    | \|\|Right to Property\|\|                                      |
+| Right to Property is now?                                                   | \|\|A Legal right (Article 300A, via 44th Amendment, 1978)\|\| |
+| Who removed Right to Property from FRs (textbook)?                          | \|\|PM Morarji Desai\|\|                                       |
+| Are Fundamental Rights amendable?                                           | \|\|Yes (Keshavananda Bharati case + 24th Amendment)\|\|       |
 
 ## 6 Fundamental Rights
 
