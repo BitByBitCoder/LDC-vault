@@ -27,15 +27,15 @@
 
 ## Comparison
 
-| Federal Features | Unitary Features |
-|---|---|
-| Division of powers between Centre & States | Strong Centre |
-| Written Constitution | President's Rule (Art. 356) |
-| Bicameral Legislature | Single Citizenship |
-| Rajya Sabha (Upper House) | All-India Services |
+| Federal Features                                | Unitary Features                         |
+| ----------------------------------------------- | ---------------------------------------- |
+| Division of powers between Centre & States      | Strong Centre                            |
+| Written Constitution                            | President's Rule (Art. 356)              |
+| Bicameral Legislature                           | Single Citizenship                       |
+| Rajya Sabha (Upper House)                       | All-India Services                       |
 | Separate Governments at Centre and State levels | Appointment of Governor by the President |
-| Complex procedure of Constitutional Amendment | Centre more powerful during emergencies |
-| Independent Judiciary | - |
+| Complex procedure of Constitutional Amendment   | Centre more powerful during emergencies  |
+| Independent Judiciary                           | -                                        |
 
 > [!warning] Exam Trap ⚠️
 > - **President's Rule = Art. 356** (unitary).
