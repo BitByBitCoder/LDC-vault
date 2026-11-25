@@ -14,13 +14,13 @@ Source: Textbook Ch. 07 - Fundamental Rights (pp. 16-17). Every topic from the p
 
 ## Highest-Yield Facts
 
-| Question | Answer |
-|---|---|
-| Mnemonic for the 6 rights? | \|\|Every Fool Eats Ripe Custard Regularly\|\| |
-| Articles of Fundamental Rights? | \|\|12-35 (Part III)\|\| |
-| Right to Property is under? | \|\|Art. 300A (44th Amendment, 1978)\|\| |
-| Education right age & Act? | \|\|6-14; 86th Amendment 2002; RTE Act 2009\|\| |
-| EWS reservation? | \|\|103rd CAA 2019; 10%; Art. 15(6) & 16(6)\|\| |
-| Heart & Soul of the Constitution? | \|\|Art. 32\|\| |
-| Time before magistrate after arrest? | \|\|24 hours\|\| |
-| Max preventive detention without Advisory Board? | \|\|3 months\|\| |
+| Question                                         | Answer                                          |
+| ------------------------------------------------ | ----------------------------------------------- |
+| Mnemonic for the 6 rights?                       | \|\|Every Fool Eats Ripe Custard Regularly\|\|  |
+| Articles of Fundamental Rights?                  | \|\|12-35 (Part III)\|\|                        |
+| Right to Property is under?                      | \|\|Art. 300A (44th Amendment, 1978)\|\|        |
+| Education right age & Act?                       | \|\|6-14; 86th Amendment 2002; RTE Act 2009\|\| |
+| EWS reservation?                                 | \|\|103rd CAA 2019; 10%; Art. 15(6) & 16(6)\|\| |
+| Heart & Soul of the Constitution?                | \|\|Art. 32\|\|                                 |
+| Time before magistrate after arrest?             | \|\|24 hours\|\|                                |
+| Max preventive detention without Advisory Board? | \|\|3 months\|\|                                |
