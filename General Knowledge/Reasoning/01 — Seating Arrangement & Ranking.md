@@ -1,3 +1,4 @@
+
 # 01 — Seating Arrangement & Ranking
 [[🧠 Reasoning — INDEX|← Back to Index]]
 
