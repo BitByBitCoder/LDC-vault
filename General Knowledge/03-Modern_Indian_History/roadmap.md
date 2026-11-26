@@ -2,6 +2,57 @@ Looking at your textbook's contents and the old Mizoram LDC questions, I recomme
 
 You do not need to memorise every page with equal effort.
 
+
+
+## capsuls roadmap
+I'll go through the history questions in your old papers and match them to the 35 chapters in your book's content list.
+
+The counts in that last check aren't backed by the papers, because I haven't opened them yet. I'm discarding those numbers and reading the files now.
+
+I've now read the history questions from your papers. I'm assigning each to a book chapter and recounting.
+
+I matched **66 Indian history questions** from your three files to the chapters in your book. Study them in this order.
+
+## 🔴 High (5–9 questions): study first
+
+|Ch|Chapter|Pages|Qs|Asked about|
+|---|---|---|---|---|
+|27|Socio-Religious Reform Movement|89–92|9|Arya Samaj, Dayanand, Vivekananda, Sati abolition|
+|35|Governor, Governor-General and Viceroy|121–124|8|Ripon, Canning, Cornwallis, Jallianwala Viceroy|
+|31|Gandhian Era: First Phase|104–107|5|Rowlatt Act, Non-Cooperation, Ahmedabad strike|
+|33|Gandhian Era: Second Phase|111–115|5|Dandi March, Round Table Conference, 1935 Act|
+|34|Towards Independence|116–120|5|Cripps Mission, INA, Direct Action Day|
+
+## 🟡 Medium (2–4 questions): study next
+
+|Ch|Chapter|Pages|Qs|
+|---|---|---|---|
+|18|Mughal Empire|60–70|4|
+|28|Press and Education|93–94|4|
+|15|Delhi Sultanate|48–52|3|
+|24|British Expansion|82–84|3|
+|30|Indian National Movement|99–103|3|
+|12|History of South India|35–43|2|
+|19|Provincial Dynasties|71–72|2|
+|23|European Companies|80–81|2|
+|29|Indian National Congress|95–98|2|
+|25|Revolt of 1857|85–86|1*|
+
+*I moved this up because two "Viceroy/Governor-General in 1857" questions, counted under Ch 35, also test it.
+
+## 🟢 Low (0–1 question): study last
+
+- **1 question each:** Ch 3 Harappan, 7 Magadha, 8 Mauryan, 10 Gupta, 14 Arab and Turk Invasions, 16 Vijayanagara, 20 Later Mughals, 32 National Politics 1922–29
+- **None found:** Ch 1, 2, 4, 5, 6, 9, 11, 13, 17, 21, 22, 26
+
+## What this means for you
+
+- **Start with Modern India.** It has 48 of the 66 questions, compared with 12 for Medieval and 6 for Ancient.
+- **The five High chapters are only 22 pages** but account for 32 questions, almost half.
+- **Don't drop the "none found" chapters.** Give Vedic Age, Jainism, Buddhism and Bhakti–Sufi a quick read if you have time.
+
+These counts cover only the Indian history in this book. Mizo history, polity, geography and other GK aren't included. I found the questions by keyword search and sorted them by hand, so a few may be missed, and some could fit more than one chapter.
+
 # **1. Priority 1 — Study thoroughly**
 
 Highest priority
